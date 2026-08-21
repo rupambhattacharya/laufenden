@@ -1,0 +1,195 @@
+# laufenden — Multilingual German News Platform
+
+Design spec. Status: approved by user 2026-08-21.
+
+## Purpose
+
+A news website covering Germany — global headlines, German-national news, and
+regional news for all 16 Bundesländer — published in 9 languages. Sourced
+entirely from freely available RSS feeds (summaries + attribution links, not
+full-text scraping), translated with a free translation API, and published as
+a static Next.js site on Vercel.
+
+## Goals
+
+- ~20 new articles/day, aggregated from public RSS feeds.
+- Coverage across three tiers: Global, Germany-national, and each of the 16
+  Bundesländer (Bayern, NRW, Berlin, etc.), prioritized in that order so
+  quiet regions don't force filler content.
+- Every article available in 9 languages: English, German, Turkish,
+  Ukrainian, Hindi, Bengali, Polish, Spanish, French.
+- Fully automated pipeline — no manual review/approval step.
+- Runs on free-tier infrastructure end to end (GitHub Actions, MyMemory
+  translation API, Vercel hosting).
+
+## Non-goals
+
+- No full-text article scraping or republishing — only the title + summary a
+  publisher already exposes via RSS, plus a visible attribution link back to
+  the original source.
+- No user accounts, comments, or personalization.
+- No manual moderation/approval queue.
+- No paid translation or hosting tiers at launch.
+
+## Content sourcing
+
+RSS feeds only, configured per category/region:
+
+- **Global**: wire-style/international outlets with public RSS (e.g.
+  Reuters, AP, BBC world feeds).
+- **Germany-national**: public broadcaster and major outlet feeds (e.g.
+  Tagesschau).
+- **Per-Bundesland (16)**: each state's public broadcaster or major regional
+  outlet feed (e.g. BR for Bayern, WDR for NRW, rbb for Berlin/Brandenburg).
+
+Feed URLs live in a single config file (e.g. `content-pipeline/feeds.json`)
+mapping `category/region → [feed URLs]`, so adding/adjusting sources doesn't
+require touching pipeline logic.
+
+Only the summary/snippet the feed itself provides is stored and translated —
+never fetched full-page content — keeping this squarely within how RSS is
+intended to be consumed and redistributed.
+
+## Article volume & allocation
+
+- Hard cap: **20 new articles/day total**, counted in Europe/Berlin time
+  (reset at Berlin midnight).
+- Priority order when selecting from newly-seen feed items: Global →
+  Germany-national → Bundesländer (round-robin or most-recent-first among
+  states with new items). This means on a quiet regional day, more slots
+  naturally go to global/national; on a day with major regional stories,
+  states are still represented.
+- Dedup by feed item GUID/link against a manifest of already-published
+  articles, so re-running the pipeline never double-publishes.
+
+## Translation
+
+- **MyMemory API** (free, no signup required for low volume; registered
+  email raises the cap to 50,000 words/day).
+- Translate `title` and `summary` fields only, into all 9 target languages,
+  per selected article.
+- Estimated load: 20 articles × 9 languages × ~2 short fields ≈ well under
+  the 50,000 words/day cap at this article volume.
+- If translation fails for a given language after retries, the article still
+  publishes; that language's field is simply omitted and the frontend falls
+  back to showing the original-language text with a "translation
+  unavailable" note. This never blocks the rest of the batch.
+
+## Architecture
+
+```
+GitHub Actions (cron)          Vercel
+─────────────────────         ─────────────────────
+1. Fetch RSS feeds
+2. Dedup + select (≤20/day)
+3. Translate (9 languages)
+4. Write JSON to content/
+5. git commit + push    ───▶  auto-deploy triggered
+                               Next.js builds static
+                               pages from committed JSON
+```
+
+The content pipeline and the website are decoupled: the pipeline's only
+interface with the frontend is the JSON files it commits into the repo.
+Vercel's existing GitHub integration handles deployment automatically on
+push — no Vercel Cron, no server-side database, no runtime API calls to
+translation services from the deployed site.
+
+### Why GitHub Actions instead of Vercel Cron
+
+Content is git-backed by design (gives a free full history of everything
+published, and keeps the frontend a pure static build). A Vercel Cron
+function would need its own GitHub write credentials to commit back to the
+repo, which is more moving parts than just running the whole pipeline as a
+GitHub Actions workflow that already has repo write access natively.
+
+## Content storage layout
+
+```
+content/
+  feeds.json                          # category/region → RSS feed URLs
+  manifest.json                       # published article IDs (dedup) + daily counter state
+  articles/
+    2026-08-21/
+      <slug>.json
+      <slug>.json
+    2026-08-22/
+      ...
+```
+
+### Article JSON schema
+
+```json
+{
+  "id": "sha1-of-feed-guid",
+  "slug": "kebab-case-title-en",
+  "category": "global | germany | bayern | nrw | ... (16 states)",
+  "sourceName": "Tagesschau",
+  "sourceUrl": "https://...",
+  "publishedAt": "2026-08-21T09:00:00+02:00",
+  "originalLanguage": "de",
+  "translations": {
+    "en": { "title": "...", "summary": "..." },
+    "de": { "title": "...", "summary": "..." },
+    "tr": { "title": "...", "summary": "..." },
+    "uk": { "title": "...", "summary": "..." },
+    "hi": { "title": "...", "summary": "..." },
+    "bn": { "title": "...", "summary": "..." },
+    "pl": { "title": "...", "summary": "..." },
+    "es": { "title": "...", "summary": "..." },
+    "fr": { "title": "...", "summary": "..." }
+  }
+}
+```
+
+A language key is simply absent if translation failed for that article/language.
+
+## Frontend (Next.js on Vercel)
+
+- App Router, TypeScript, static generation — pages are built from the
+  committed JSON at deploy time.
+- **Routing**: language-prefixed, e.g. `/en`, `/de`, `/tr`, `/uk`, `/hi`,
+  `/bn`, `/pl`, `/es`, `/fr`. A language switcher persists the selected
+  language across navigation.
+- **Category/region pages**: `/[lang]/global`, `/[lang]/germany`,
+  `/[lang]/bayern`, `/[lang]/nrw`, etc. — one page per tier/state.
+- **Home page**: mixes recent articles across tiers (global + national +
+  regional highlights).
+- **Article page**: shows the translated title/summary for the active
+  language, publish date, and a clearly visible "Source: <outlet>" link to
+  the original article.
+- **UI chrome strings** (nav labels, buttons, "Source:" label, etc.) live in
+  a small hand-maintained per-language dictionary — not a full i18n
+  framework, since the chrome vocabulary is tiny. Article content
+  translation is entirely handled by the pipeline, not at render time.
+
+## Error handling
+
+- A single unreachable/malformed RSS feed is skipped and logged; the run
+  continues with all other feeds (one bad feed never fails the whole
+  pipeline run).
+- Translation failures degrade per-language per-article (see Translation
+  section) rather than blocking publication.
+- The daily article cap counter is timezone-aware (Europe/Berlin) so a
+  workflow run near midnight doesn't double- or under-count.
+- Git push conflicts are not expected (single serialized workflow) but the
+  workflow retries the push once on failure.
+
+## Testing
+
+- Unit tests for feed selection/dedup/cap/priority logic against fixture RSS
+  data.
+- Unit tests for the translation wrapper against a mocked MyMemory client.
+- The GitHub Actions workflow supports `workflow_dispatch` for on-demand
+  manual runs, used to verify the end-to-end pipeline before relying on the
+  schedule.
+- Basic rendering tests for article and category pages against fixture JSON.
+
+## Open questions / explicitly deferred
+
+- Search across articles — not in scope at launch; JSON files are
+  date-partitioned but there's no search index.
+- Images — RSS feeds vary in whether they include usable images; decide
+  during implementation whether to display feed-provided images or ship
+  text-only at launch.
+- Analytics/monetization — out of scope for this spec.
