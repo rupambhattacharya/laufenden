@@ -63,7 +63,13 @@ describe('runPipeline', () => {
 
     const manifest = JSON.parse(await readFile(path.join(dir, 'manifest.json'), 'utf-8'));
     expect(manifest.publishedIds).toHaveLength(1);
-    expect(manifest.dailyCounter).toEqual({ date: '2026-08-21', count: 1 });
+    // byTier round-trips through writeManifest so the next run of the day can
+    // charge its tier quotas against what this run already published.
+    expect(manifest.dailyCounter).toEqual({
+      date: '2026-08-21',
+      count: 1,
+      byTier: { global: 1, germany: 0, states: 0 },
+    });
   });
 
   it('suffixes a slug that collides with an article written by an earlier run today', async () => {

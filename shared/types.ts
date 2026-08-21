@@ -42,6 +42,14 @@ export interface Article {
 export interface DailyCounter {
   date: string;
   count: number;
+  /**
+   * How many articles of each tier have been selected so far on `date`.
+   *
+   * Optional for backward compatibility with manifests written before per-day
+   * tier tracking existed; a missing value is read as all-zero. `selectArticles`
+   * always writes it back, so it self-heals on the first run of any day.
+   */
+  byTier?: { global: number; germany: number; states: number };
 }
 
 export interface Manifest {
