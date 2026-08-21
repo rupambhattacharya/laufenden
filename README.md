@@ -35,12 +35,47 @@ text-news RSS feed for it was found. Add one to `content/feeds.json` with
 `"region": "saarland"` whenever a suitable feed is identified; no code
 changes are needed.
 
+## Frontend
+
+Next.js (App Router) reads `content/articles/**/*.json` directly at build
+time — no database, no API route. Routes: `/[lang]` (home), `/[lang]/[region]`
+(category listing), `/[lang]/[region]/[slug]` (article). `lang` is one of the
+9 supported language codes; `region` is `global`, `germany`, or one of the 16
+Bundesländer slugs. Visual system: "Classic Editorial" (Playfair Display
+headlines, Lora deck text, Inter body/UI, masthead red `#b3121b` as the sole
+accent), built as Tailwind CSS v4 `@theme` tokens in `app/globals.css`.
+
+The UI chrome (nav labels, region names, a handful of fixed strings) lives in
+`shared/dictionaries/{lang}.json`, generated from `shared/dictionaries/en.json`
+via `npm run generate-dictionaries` (reuses the content pipeline's MyMemory
+wrapper). Re-run it whenever `en.json` changes; the 8 generated files are
+committed to the repo, not regenerated automatically.
+
+**Known gap:** the 8 non-English dictionary files are currently byte-identical
+to `en.json` (not real translations) — the first generation run exhausted
+MyMemory's daily quota (from earlier same-day testing) before any translation
+succeeded. Re-run `npm run generate-dictionaries` once the quota resets and
+commit the result; nothing else needs to change. This only affects UI chrome
+strings (nav labels, region names) — article content translation is unrelated
+and already working (see the content pipeline section above).
+
+### Deploying to Vercel
+
+1. In the Vercel dashboard, "Add New Project" and import this GitHub repo.
+2. Vercel auto-detects Next.js — no build configuration is needed.
+3. Every push to `master` (including the automated `content:` commits from
+   `.github/workflows/fetch-news.yml`) triggers a new deploy, so the site's
+   static pages stay in sync with newly fetched articles.
+
 ## Local development
 
 ```bash
 npm install
-npm test          # run the pipeline's unit + integration tests
-npm run fetch-news # run the pipeline once against the real feeds
+npm test                      # run all unit + integration tests
+npm run fetch-news             # run the content pipeline once against the real feeds
+npm run generate-dictionaries  # regenerate the UI chrome dictionary (only needed after editing en.json)
+npm run dev                    # start the Next.js dev server at localhost:3000
+npm run build                  # production build (also used by Vercel)
 ```
 
 ## Automated fetching
