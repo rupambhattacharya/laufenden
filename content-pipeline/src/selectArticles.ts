@@ -1,4 +1,5 @@
-import type { FeedItem, Manifest, Region } from '../../shared/types';
+import type { FeedItem, Manifest } from '../../shared/types';
+import type { Region } from '../../shared/regions';
 import { REGION_PRIORITY } from '../../shared/regions';
 
 const DAILY_CAP = 20;
