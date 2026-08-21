@@ -20,3 +20,11 @@ export const REGION_PRIORITY = [
 ] as const;
 
 export type Region = (typeof REGION_PRIORITY)[number];
+
+export const STATE_REGIONS: Region[] = REGION_PRIORITY.filter(
+  (region) => region !== 'global' && region !== 'germany'
+);
+
+export function isRegion(value: string): value is Region {
+  return (REGION_PRIORITY as readonly string[]).includes(value);
+}
