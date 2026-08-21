@@ -11,13 +11,19 @@ for the full design.
 selects up to 20 new articles/day, translates each into 9 languages via the
 free MyMemory API, and writes them to `content/articles/YYYY-MM-DD/`.
 
-Selection uses fixed per-tier quotas rather than strict priority: ≤4 slots to
-Global, ≤6 to Germany-national, and the remaining ≥10 round-robined across
-the 16 Bundesländer (most-recent-first within each). Unused quota spills
-downward only, so a quiet global day gives national/regional more room while
-a heavy global day never crowds them out. Articles are dedup'd against
-`content/manifest.json` and within each run's own batch, so two feeds serving
-the same story (rbb covers both Berlin and Brandenburg) publish it once.
+Selection uses fixed per-tier quotas rather than strict priority, tracked
+**across the whole Berlin calendar day** (not just within one run — the
+pipeline runs every 2 hours, so this holds even across several runs):
+≤4 articles/day to Global from its own quota, ≤6/day to Germany-national
+from its own quota, and the remaining ≥10/day round-robined across the 16
+Bundesländer, with the round-robin's starting state rotating daily so the
+same states aren't always last in line. Unused quota spills downward only
+(Global → Germany-national → states, never upward), so Germany-national or
+the states tier can exceed their own quota on a quiet Global day — the
+Global↔rest split is a hard ceiling, the Germany-national/states split
+absorbs spillover. Articles are dedup'd against `content/manifest.json`
+across runs and within each run's own batch, so two feeds serving the same
+story (rbb covers both Berlin and Brandenburg) publish it once.
 
 Optional environment variable: `MYMEMORY_EMAIL` — registering an email with
 MyMemory raises its free daily quota from 5,000 to 50,000 words. Set it as a
@@ -40,5 +46,5 @@ npm run fetch-news # run the pipeline once against the real feeds
 ## Automated fetching
 
 `.github/workflows/fetch-news.yml` runs the pipeline every 2 hours and
-commits any new articles directly to `main`, which triggers a Vercel deploy
-(once Vercel is connected to this repo).
+commits any new articles directly to `master` (this repo's default branch),
+which triggers a Vercel deploy (once Vercel is connected to this repo).
