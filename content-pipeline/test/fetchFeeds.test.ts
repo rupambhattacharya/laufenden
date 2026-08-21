@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { fetchFeed, fetchAllFeeds } from '../src/fetchFeeds';
+import { fetchFeed, fetchAllFeeds, stripHtml } from '../src/fetchFeeds';
 
 const SAMPLE_RSS = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
@@ -71,6 +71,40 @@ describe('fetchFeed', () => {
       async () => 'not xml at all'
     );
     expect(items).toEqual([]);
+  });
+});
+
+describe('summary HTML stripping', () => {
+  it('strips tags from raw HTML content, leaving readable text', () => {
+    // rss-parser only ever populates `content` (the summary fallback) with raw,
+    // unstripped markup, so exercise that shape directly.
+    expect(stripHtml('<p>Hello <b>world</b></p>')).toBe('Hello world');
+    expect(stripHtml('<img src="x.jpg" />Text after')).toBe('Text after');
+    expect(stripHtml('  plain text  ')).toBe('plain text');
+    expect(stripHtml('')).toBe('');
+  });
+
+  it('strips markup that survives into contentSnippet from a double-escaped feed', async () => {
+    // Feeds that escape their HTML twice defeat rss-parser's own stripping: it
+    // strips before decoding entities, so live tags land in contentSnippet.
+    const doubleEscaped = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Test Wire</title>
+    <item>
+      <title>Escaped Headline</title>
+      <link>https://example.com/c</link>
+      <guid>https://example.com/c</guid>
+      <description>&amp;lt;p&amp;gt;Double &amp;lt;b&amp;gt;escaped&amp;lt;/b&amp;gt; summary&amp;lt;/p&amp;gt;</description>
+    </item>
+  </channel>
+</rss>`;
+    const items = await fetchFeed(
+      { region: 'global', language: 'en', url: 'https://example.com/escaped.xml' },
+      async () => doubleEscaped
+    );
+    expect(items[0].summary).toBe('Double escaped summary');
+    expect(items[0].summary).not.toMatch(/[<>]/);
   });
 });
 

@@ -2,12 +2,53 @@ export interface TranslateOptions {
   email?: string;
   fetchFn?: typeof fetch;
   maxRetries?: number;
+  /** Injectable so tests don't have to actually wait out the backoff. */
+  delayFn?: (ms: number) => Promise<void>;
 }
 
 interface MyMemoryResponse {
   responseData?: { translatedText?: string };
   responseStatus?: number | string;
   responseDetails?: string;
+}
+
+/** Cap on a single MyMemory request, so a hung call can't stall the run. */
+const REQUEST_TIMEOUT_MS = 15_000;
+
+/** MyMemory documents a ~500-byte limit on `q`; stay under it with headroom. */
+const MAX_QUERY_BYTES = 450;
+
+const BASE_BACKOFF_MS = 1000;
+const MAX_BACKOFF_MS = 4000;
+
+const sleep = (ms: number) => new Promise<void>((resolve) => setTimeout(resolve, ms));
+
+/** Exponential backoff with jitter, so retries don't hammer a struggling API. */
+export function backoffDelayMs(attempt: number): number {
+  return Math.min(BASE_BACKOFF_MS * 2 ** attempt, MAX_BACKOFF_MS) + Math.random() * 250;
+}
+
+/**
+ * Truncate `text` to at most `maxBytes` UTF-8 bytes, cutting at the last word
+ * boundary at or before the limit rather than mid-word.
+ */
+export function truncateToByteLimit(text: string, maxBytes: number = MAX_QUERY_BYTES): string {
+  const encoder = new TextEncoder();
+  if (encoder.encode(text).length <= maxBytes) return text;
+
+  // Walk code points (not UTF-16 units) so surrogate pairs are never split.
+  let bytes = 0;
+  let cut = '';
+  for (const char of text) {
+    const size = encoder.encode(char).length;
+    if (bytes + size > maxBytes) break;
+    bytes += size;
+    cut += char;
+  }
+
+  const atWordBoundary = /^([\s\S]*)\s[\S]*$/.exec(cut);
+  if (atWordBoundary && atWordBoundary[1].trim()) return atWordBoundary[1].trimEnd();
+  return cut;
 }
 
 export async function translateText(
@@ -17,15 +58,16 @@ export async function translateText(
   options: TranslateOptions = {}
 ): Promise<string | null> {
   if (!text.trim()) return text;
-  const { email, fetchFn = fetch, maxRetries = 2 } = options;
+  const { email, fetchFn = fetch, maxRetries = 2, delayFn = sleep } = options;
 
-  const params = new URLSearchParams({ q: text, langpair: `${sourceLang}|${targetLang}` });
+  const query = truncateToByteLimit(text);
+  const params = new URLSearchParams({ q: query, langpair: `${sourceLang}|${targetLang}` });
   if (email) params.set('de', email);
   const url = `https://api.mymemory.translated.net/get?${params.toString()}`;
 
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
     try {
-      const res = await fetchFn(url);
+      const res = await fetchFn(url, { signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS) });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = (await res.json()) as MyMemoryResponse;
       const status = Number(data.responseStatus);
@@ -39,6 +81,7 @@ export async function translateText(
         console.error(`[translateText] giving up on ${sourceLang}->${targetLang}: ${(err as Error).message}`);
         return null;
       }
+      await delayFn(backoffDelayMs(attempt));
     }
   }
   return null;
