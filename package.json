@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "vitest run"
+    "test": "vitest run",
+    "fetch-news": "tsx content-pipeline/src/run.ts"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"

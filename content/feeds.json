@@ -1,0 +1,19 @@
+[
+  { "region": "global", "language": "en", "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
+  { "region": "germany", "language": "de", "url": "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml" },
+  { "region": "bayern", "language": "de", "url": "https://www.br.de/nachrichten/meldungen/nachrichten-bayerischer-rundfunk100~newsRss.xml" },
+  { "region": "nrw", "language": "de", "url": "https://www1.wdr.de/uebersicht-100.feed" },
+  { "region": "berlin", "language": "de", "url": "https://www.rbb24.de/index.xml/feed=rss.xml" },
+  { "region": "brandenburg", "language": "de", "url": "https://www.rbb24.de/index.xml/feed=rss.xml" },
+  { "region": "baden-wuerttemberg", "language": "de", "url": "https://www.swr.de/~rss/swraktuell/baden-wuerttemberg/index.xml" },
+  { "region": "rheinland-pfalz", "language": "de", "url": "https://www.swr.de/~rss/swraktuell/rheinland-pfalz/index.xml" },
+  { "region": "hessen", "language": "de", "url": "https://www.hessenschau.de/index.rss" },
+  { "region": "sachsen", "language": "de", "url": "https://www.mdr.de/nachrichten/sachsen/index-rss.xml" },
+  { "region": "sachsen-anhalt", "language": "de", "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/index-rss.xml" },
+  { "region": "thueringen", "language": "de", "url": "https://www.mdr.de/nachrichten/thueringen/index-rss.xml" },
+  { "region": "hamburg", "language": "de", "url": "https://www.ndr.de/nachrichten/hamburg/index-rss.xml" },
+  { "region": "mecklenburg-vorpommern", "language": "de", "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/index-rss.xml" },
+  { "region": "niedersachsen", "language": "de", "url": "https://www.ndr.de/nachrichten/niedersachsen/index-rss.xml" },
+  { "region": "schleswig-holstein", "language": "de", "url": "https://www.ndr.de/nachrichten/schleswig-holstein/index-rss.xml" },
+  { "region": "bremen", "language": "de", "url": "https://www.butenunbinnen.de/feed/rss/nachrichten/neuste-nachrichten100.xml" }
+]
