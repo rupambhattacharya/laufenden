@@ -1,12 +1,9 @@
 import { backoffDelayMs, sleep } from './retryBackoff';
-import { translateTextGoogle } from './googleTranslate';
 
 export { backoffDelayMs };
 
 export interface TranslateOptions {
   email?: string;
-  /** Google Cloud Translation API key, used only as a fallback when MyMemory fails. */
-  googleApiKey?: string;
   fetchFn?: typeof fetch;
   maxRetries?: number;
   /** Injectable so tests don't have to actually wait out the backoff. */
@@ -84,22 +81,6 @@ export async function translateText(
   return null;
 }
 
-/**
- * Translates via MyMemory first; if MyMemory fails, falls back to Google
- * Cloud Translate (only if a `googleApiKey` is configured — otherwise this
- * is a no-op and behaves exactly like `translateText` alone).
- */
-export async function translateTextViaProviders(
-  text: string,
-  sourceLang: string,
-  targetLang: string,
-  options: TranslateOptions = {}
-): Promise<string | null> {
-  const primary = await translateText(text, sourceLang, targetLang, options);
-  if (primary !== null) return primary;
-  return translateTextGoogle(text, sourceLang, targetLang, options);
-}
-
 export async function translateFields(
   fields: { title: string; summary: string },
   sourceLang: string,
@@ -113,8 +94,8 @@ export async function translateFields(
       continue;
     }
     const [title, summary] = await Promise.all([
-      translateTextViaProviders(fields.title, sourceLang, lang, options),
-      translateTextViaProviders(fields.summary, sourceLang, lang, options),
+      translateText(fields.title, sourceLang, lang, options),
+      translateText(fields.summary, sourceLang, lang, options),
     ]);
     if (title !== null && summary !== null) {
       result[lang] = { title, summary };

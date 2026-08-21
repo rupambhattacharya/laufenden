@@ -1,11 +1,5 @@
 import { describe, it, expect, vi } from 'vitest';
-import {
-  translateText,
-  translateTextViaProviders,
-  translateFields,
-  truncateToByteLimit,
-  backoffDelayMs,
-} from '../src/translate';
+import { translateText, translateFields, truncateToByteLimit, backoffDelayMs } from '../src/translate';
 
 function mockResponse(body: unknown, ok = true): Response {
   return { ok, status: ok ? 200 : 500, json: async () => body } as Response;
@@ -140,50 +134,6 @@ describe('query length guard', () => {
   });
 });
 
-describe('translateTextViaProviders', () => {
-  it('returns the MyMemory result when it succeeds, without trying Google', async () => {
-    const fetchFn = vi
-      .fn()
-      .mockResolvedValue(mockResponse({ responseData: { translatedText: 'Hallo' }, responseStatus: 200 }));
-    const result = await translateTextViaProviders('Hello', 'en', 'de', { fetchFn, googleApiKey: 'test-key' });
-    expect(result).toBe('Hallo');
-    expect(fetchFn).toHaveBeenCalledTimes(1);
-  });
-
-  it('falls back to Google when MyMemory fails', async () => {
-    const fetchFn = vi
-      .fn()
-      .mockResolvedValueOnce(mockResponse({}, false))
-      .mockResolvedValueOnce(mockResponse({ data: { translations: [{ translatedText: 'Hallo (Google)' }] } }));
-    const result = await translateTextViaProviders('Hello', 'en', 'de', {
-      fetchFn,
-      googleApiKey: 'test-key',
-      maxRetries: 0,
-      delayFn: noDelay,
-    });
-    expect(result).toBe('Hallo (Google)');
-    expect(fetchFn).toHaveBeenCalledTimes(2);
-  });
-
-  it('returns null when both providers fail', async () => {
-    const fetchFn = vi.fn().mockResolvedValue(mockResponse({}, false));
-    const result = await translateTextViaProviders('Hello', 'en', 'de', {
-      fetchFn,
-      googleApiKey: 'test-key',
-      maxRetries: 0,
-      delayFn: noDelay,
-    });
-    expect(result).toBeNull();
-  });
-
-  it('returns null without attempting Google when no googleApiKey is configured', async () => {
-    const fetchFn = vi.fn().mockResolvedValue(mockResponse({}, false));
-    const result = await translateTextViaProviders('Hello', 'en', 'de', { fetchFn, maxRetries: 0, delayFn: noDelay });
-    expect(result).toBeNull();
-    expect(fetchFn).toHaveBeenCalledTimes(1);
-  });
-});
-
 describe('translateFields', () => {
   it('copies fields directly for the source language and translates the rest', async () => {
     const fetchFn = vi
@@ -194,7 +144,7 @@ describe('translateFields', () => {
     expect(result.de).toEqual({ title: 'Hallo', summary: 'Hallo' });
   });
 
-  it('omits a language entirely if either field fails to translate on both providers', async () => {
+  it('omits a language entirely if either field fails to translate', async () => {
     const fetchFn = vi
       .fn()
       .mockResolvedValueOnce(mockResponse({ responseData: { translatedText: 'Hallo' }, responseStatus: 200 }))
@@ -204,23 +154,5 @@ describe('translateFields', () => {
       maxRetries: 0,
     });
     expect(result.de).toBeUndefined();
-  });
-
-  it('falls back to Google for a language when MyMemory fails for it', async () => {
-    const fetchFn = vi
-      .fn()
-      .mockResolvedValueOnce(mockResponse({}, false))
-      .mockResolvedValueOnce(mockResponse({}, false))
-      .mockResolvedValueOnce(mockResponse({ data: { translations: [{ translatedText: 'Titel (Google)' }] } }))
-      .mockResolvedValueOnce(
-        mockResponse({ data: { translations: [{ translatedText: 'Zusammenfassung (Google)' }] } })
-      );
-    const result = await translateFields({ title: 'Hello', summary: 'World' }, 'en', ['de'], {
-      fetchFn,
-      googleApiKey: 'test-key',
-      maxRetries: 0,
-      delayFn: noDelay,
-    });
-    expect(result.de).toEqual({ title: 'Titel (Google)', summary: 'Zusammenfassung (Google)' });
   });
 });

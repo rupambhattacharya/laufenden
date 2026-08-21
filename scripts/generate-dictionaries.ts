@@ -1,7 +1,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
-import { translateTextViaProviders } from '../content-pipeline/src/translate';
+import { translateText } from '../content-pipeline/src/translate';
 import type { TranslateOptions } from '../content-pipeline/src/translate';
 import { LANGUAGES } from '../shared/languages';
 
@@ -22,7 +22,7 @@ export async function generateDictionary(
   for (const [key, value] of Object.entries(base)) {
     if (!first) await delay(requestDelayMs);
     first = false;
-    const translated = await translateTextViaProviders(value, 'en', targetLang, options);
+    const translated = await translateText(value, 'en', targetLang, options);
     result[key] = translated ?? value;
   }
   return result;
@@ -32,14 +32,13 @@ export async function generateAllDictionaries(dictionariesDir: string = DEFAULT_
   const baseRaw = await readFile(path.join(dictionariesDir, 'en.json'), 'utf-8');
   const base = JSON.parse(baseRaw) as Record<string, string>;
   const email = process.env.MYMEMORY_EMAIL;
-  const googleApiKey = process.env.GOOGLE_TRANSLATE_API_KEY;
   const targets = LANGUAGES.filter((lang) => lang !== 'en');
 
   let first = true;
   for (const lang of targets) {
     if (!first) await delay(1500);
     first = false;
-    const dict = await generateDictionary(base, lang, { email, googleApiKey });
+    const dict = await generateDictionary(base, lang, { email });
     await writeFile(path.join(dictionariesDir, `${lang}.json`), `${JSON.stringify(dict, null, 2)}\n`, 'utf-8');
     console.log(`Wrote ${lang}.json`);
   }

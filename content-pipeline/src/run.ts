@@ -84,7 +84,6 @@ export async function runPipeline({
   const dateStr = berlinDateString(now);
   const existingSlugs = await readExistingSlugs(path.join(contentDir, 'articles', dateStr));
   const email = process.env.MYMEMORY_EMAIL;
-  const googleApiKey = process.env.GOOGLE_TRANSLATE_API_KEY;
 
   const translationsOk: Record<string, number> = Object.fromEntries(LANGUAGES.map((lang) => [lang, 0]));
 
@@ -93,7 +92,7 @@ export async function runPipeline({
       { title: item.title, summary: item.summary },
       item.language,
       LANGUAGES,
-      { email, googleApiKey, delayFn }
+      { email, delayFn }
     );
     for (const lang of LANGUAGES) {
       if (translations[lang]) translationsOk[lang] += 1;
