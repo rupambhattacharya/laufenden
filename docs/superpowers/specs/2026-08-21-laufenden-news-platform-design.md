@@ -5,7 +5,7 @@ Design spec. Status: approved by user 2026-08-21.
 ## Purpose
 
 A news website covering Germany — global headlines, German-national news, and
-regional news for all 16 Bundesländer — published in 9 languages. Sourced
+regional news for all 16 Bundesländer — published in 5 languages. Sourced
 entirely from freely available RSS feeds (summaries + attribution links, not
 full-text scraping), translated with a free translation API, and published as
 a static Next.js site on Vercel.
@@ -16,8 +16,10 @@ a static Next.js site on Vercel.
 - Coverage across three tiers: Global, Germany-national, and each of the 16
   Bundesländer (Bayern, NRW, Berlin, etc.), prioritized in that order so
   quiet regions don't force filler content.
-- Every article available in 9 languages: English, German, Turkish,
-  Ukrainian, Hindi, Bengali, Polish, Spanish, French.
+- Every article available in 5 languages: English, German, Hindi, Bengali,
+  French. (Reduced from an original 9 — Turkish, Ukrainian, Polish, and
+  Spanish were dropped to cut MyMemory translation volume roughly in half,
+  reducing how often its free-tier rate limit is hit.)
 - Fully automated pipeline — no manual review/approval step.
 - Runs on free-tier infrastructure end to end (GitHub Actions, MyMemory
   translation API, Vercel hosting).
@@ -78,16 +80,26 @@ intended to be consumed and redistributed.
 
 ## Translation
 
-- **MyMemory API** (free, no signup required for low volume; registered
-  email raises the cap to 50,000 words/day).
-- Translate `title` and `summary` fields only, into all 9 target languages,
+- **MyMemory API only** (free, no signup required for low volume; registered
+  email raises the cap to 50,000 words/day). A Google Cloud Translate
+  fallback (used only when MyMemory failed a request) was implemented and
+  then deliberately removed — reducing from 9 to 5 target languages cuts
+  MyMemory traffic per article roughly in half instead, avoiding a second
+  provider's setup/billing complexity. Do not re-add a second provider
+  without discussing it first; this was a considered choice, not an
+  oversight.
+- Translate `title` and `summary` fields only, into all 5 target languages,
   per selected article.
-- Estimated load: 20 articles × 9 languages × ~2 short fields ≈ well under
+- Estimated load: 20 articles × 5 languages × ~2 short fields — well under
   the 50,000 words/day cap at this article volume.
 - If translation fails for a given language after retries, the article still
-  publishes; that language's field is simply omitted and the frontend falls
-  back to showing the original-language text with a "translation
-  unavailable" note. This never blocks the rest of the batch.
+  publishes; that language's field is simply omitted. **Listings** (home
+  page sections, region pages) only show articles that have a real
+  translation for the language being viewed — an article missing a
+  translation simply doesn't appear there, rather than appearing with
+  fallback text. A **direct link** to that article's own page still works,
+  showing the original-language text with a "translation unavailable" note
+  rather than 404ing. Neither case blocks the rest of the batch.
 
 ## Architecture
 
@@ -96,7 +108,7 @@ GitHub Actions (cron)          Vercel
 ─────────────────────         ─────────────────────
 1. Fetch RSS feeds
 2. Dedup + select (≤20/day)
-3. Translate (9 languages)
+3. Translate (5 languages)
 4. Write JSON to content/
 5. git commit + push    ───▶  auto-deploy triggered
                                Next.js builds static
@@ -169,23 +181,28 @@ A language key is simply absent if translation failed for that article/language.
   unchanged.
 - **Routing**: language-prefixed — `/[lang]` (home), `/[lang]/[region]`
   (category/state listing, `region` ∈ `global | germany | <16 states>`),
-  `/[lang]/[region]/[slug]` (article). `lang` ∈ `en | de | tr | uk | hi |
-  bn | pl | es | fr`. Root `/` redirects to `/en`. An invalid `lang` or
-  `region` segment 404s. A language switcher swaps only the `lang` segment,
-  preserving the rest of the current path.
+  `/[lang]/[region]/[slug]` (article). `lang` ∈ `en | de | hi | bn | fr`.
+  Root `/` redirects to `/en`. An invalid `lang` or `region` segment 404s.
+  A language switcher swaps only the `lang` segment, preserving the rest
+  of the current path.
 - **Home page**: three labeled sections — Global, Germany, Regional
   highlights (most recent regional articles across all states mixed
   together, not one slot per state) — each showing its most recent
-  articles for the active language.
+  articles for the active language, **only counting articles that have a
+  real translation for that language** (see the listings-vs-direct-link
+  rule under Translation, above).
 - **Category/region page**: most-recent-first listing for that
-  region+language. No pagination in v1 (article volume doesn't warrant it
-  yet; add it later if it does) — cap the listing at the 100 most recent
-  articles for that region+language.
+  region+language, filtered to articles with a real translation for that
+  language (same rule). No pagination in v1 (article volume doesn't
+  warrant it yet; add it later if it does) — cap the listing at the 100
+  most recent (translated) articles for that region+language.
 - **Article page**: translated title/summary for the active language,
   publish date, and a clearly visible "Source: <outlet>" link to the
   original article. If the active language's translation is missing, fall
   back to the original-language text with a visible "translation
-  unavailable" note, rather than a blank field.
+  unavailable" note, rather than a blank field — reachable via a direct
+  link even though the article won't appear in any listing for that
+  language.
 - **Empty states**: the site may have zero articles for a given
   region/language at any point (a quiet day, or before the first pipeline
   run lands) — every listing renders a real "no articles yet" state rather
@@ -196,9 +213,9 @@ A language key is simply absent if translation failed for that article/language.
   `getArticleBySlug(region, slug)`, `getRegions()`.
 - **UI chrome strings** (nav labels, "Source:" label, the 18 region display
   names, etc.) live in a per-language dictionary — not a full i18n
-  framework, since the chrome vocabulary is small (~30-40 strings). Rather
-  than hand-authoring translations for languages like Bengali/Hindi/
-  Ukrainian that can't be verified by inspection, a one-off script
+  framework, since the chrome vocabulary is small (~25 strings). Rather
+  than hand-authoring translations for languages like Bengali/Hindi that
+  can't be verified by inspection, a one-off script
   (`scripts/generate-dictionaries.ts`) generates `shared/dictionaries/{lang}.json`
   from a hand-written `shared/dictionaries/en.json` base by reusing the
   content pipeline's existing, already-tested `translate.ts` (MyMemory) —
@@ -220,10 +237,10 @@ restraint):
   labels, source/timestamp accents).
 - **Structure**: hairline black rules between sections, small-caps
   uppercase section/region labels (e.g. "GLOBAL", "BAYERN").
-- **Non-Latin scripts** (Hindi, Bengali, Ukrainian, and any future
-  non-Latin language) use a matching Noto Serif/Sans variant for that
-  script at equivalent weights, so headlines stay legible and consistent
-  in weight across every language, not just Latin-script ones.
+- **Non-Latin scripts** (Hindi, Bengali, and any future non-Latin language)
+  use a matching Noto Serif/Sans variant for that script at equivalent
+  weights, so headlines stay legible and consistent in weight across every
+  language, not just Latin-script ones.
 - These are configured as Tailwind theme tokens (colors, font families),
   not scattered inline styles, so the system stays consistent as pages are
   added.
