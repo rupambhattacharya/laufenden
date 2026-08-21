@@ -8,12 +8,8 @@ import type { LanguageCode } from '../shared/types';
 const LANGUAGE_LABELS: Record<LanguageCode, string> = {
   en: 'English',
   de: 'Deutsch',
-  tr: 'Türkçe',
-  uk: 'Українська',
   hi: 'हिन्दी',
   bn: 'বাংলা',
-  pl: 'Polski',
-  es: 'Español',
   fr: 'Français',
 };
 
