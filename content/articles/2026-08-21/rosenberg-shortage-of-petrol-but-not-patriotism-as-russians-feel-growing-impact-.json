@@ -1,0 +1,47 @@
+{
+  "id": "7b0a660543e81e52381c518f0f86d4258410f5bd",
+  "slug": "rosenberg-shortage-of-petrol-but-not-patriotism-as-russians-feel-growing-impact-",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-21T11:31:51.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day."
+    },
+    "de": {
+      "title": "Rosenberg: Benzinknappheit, aber kein Patriotismus, da die Russen die wachsenden Auswirkungen des Krieges spüren",
+      "summary": "Die Fahrer warten stundenlang in der Kraftstoffwarteschlange, während Moskau sich darauf vorbereitet, den Tag der russischen Flagge zu feiern."
+    },
+    "tr": {
+      "title": "Rosenberg: Ruslar savaşın artan etkisini hissederken petrol sıkıntısı var ama vatanseverlik yok",
+      "summary": "Moskova, Rusya Bayrak Günü'nü kutlamaya hazırlanırken, sürücüler yakıt kuyruklarında saatlerce bekliyor."
+    },
+    "uk": {
+      "title": "Розенберг: Нестача бензину, але не патріотизм, оскільки росіяни відчувають зростаючий вплив війни",
+      "summary": "Водії годинами чекають у паливних чергах, оскільки Москва готується до святкування Дня російського прапора."
+    },
+    "hi": {
+      "title": "रोसेनबर्ग: पेट्रोल की कमी लेकिन देशभक्ति नहीं क्योंकि रूसी युद्ध के बढ़ते प्रभाव को महसूस करते हैं",
+      "summary": "ड्राइवर पार्टनर ईंधन की कतारों में घंटों इंतज़ार कर रहे हैं, क्योंकि मास्को रूसी फ़्लैग डे मनाने की तैयारी कर रहा है।"
+    },
+    "bn": {
+      "title": "রোজেনবার্গ: পেট্রোলের অভাব কিন্তু দেশপ্রেম নয় কারণ রাশিয়ানরা যুদ্ধের ক্রমবর্ধমান প্রভাব অনুভব করে",
+      "summary": "ড্রাইভাররা জ্বালানী লাইনে ঘন্টার পর ঘন্টা অপেক্ষা করছেন, কারণ মস্কো রাশিয়ান পতাকা দিবস উদযাপনের প্রস্তুতি নিচ্ছে ।"
+    },
+    "pl": {
+      "title": "Rosenberg: Niedobór benzyny, ale nie patriotyzm, ponieważ Rosjanie odczuwają rosnący wpływ wojny",
+      "summary": "Kierowcy czekają godzinami w kolejkach po paliwo, a Moskwa przygotowuje się do obchodów Dnia Flagi Rosji."
+    },
+    "es": {
+      "title": "Rosenberg: Escasez de gasolina, pero no patriotismo, ya que los rusos sienten el creciente impacto de la guerra",
+      "summary": "Los conductores están esperando horas en las colas de combustible, mientras Moscú se prepara para celebrar el Día de la Bandera Rusa."
+    },
+    "fr": {
+      "title": "Rosenberg : Pénurie d'essence mais pas de patriotisme car les Russes ressentent l'impact croissant de la guerre",
+      "summary": "Les chauffeurs attendent des heures dans les files d'attente de carburant, alors que Moscou se prépare à célébrer le Jour du drapeau russe."
+    }
+  }
+}

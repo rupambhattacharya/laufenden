@@ -1,0 +1,47 @@
+{
+  "id": "a3bef7016a53b39be595c2cb2da2969587802f77",
+  "slug": "russland-unter-verdacht-geheimes-waffendepot-bei-berlin-entdeckt",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimes-waffendepot-100.html",
+  "publishedAt": "2026-08-21T12:42:47.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Russia under suspicion: Secret weapons depot discovered near Berlin",
+      "summary": "According to information from WDR, NDR and SZ, security authorities have discovered a hiding place with two sharp weapons on the outskirts of Berlin. According to the authorities, it is said to be a depot of Russian agents for possible attacks."
+    },
+    "de": {
+      "title": "Russland unter Verdacht: Geheimes Waffendepot bei Berlin entdeckt",
+      "summary": "Sicherheitsbehörden haben nach Informationen von WDR, NDR und SZ am Stadtrand von Berlin ein Versteck mit zwei scharfen Waffen entdeckt. Nach Einschätzung der Behörden soll es sich um ein Depot russischer Agenten für mögliche Anschläge handeln."
+    },
+    "tr": {
+      "title": "Rusya'dan şüpheleniliyor: Berlin yakınlarında gizli bir silah deposu bulundu",
+      "summary": "WDR, Ndr ve SZ'den gelen bilgilere göre, güvenlik yetkilileri Berlin'in eteklerinde iki keskin silahın saklandığı bir yer keşfetti. Yetkililere göre, olası saldırılar için Rus ajanlarının bulunduğu bir depo olduğu söyleniyor."
+    },
+    "uk": {
+      "title": "Росія під підозрою: під Берліном виявлено секретний склад зброї",
+      "summary": "За інформацією WDR, NDR та SZ, на околиці Берліна силовики виявили схованку з двома гострими озброєннями. За словами влади, це, як кажуть, склад російських агентів для можливих атак."
+    },
+    "hi": {
+      "title": "रूस संदेह के घेरे में: बर्लिन के पास गुप्त हथियार डिपो की खोज की गई",
+      "summary": "WDR, NDR और SZ की जानकारी के अनुसार, सुरक्षा अधिकारियों ने बर्लिन के बाहरी इलाके में दो धारदार हथियारों के साथ एक छिपने की जगह की खोज की है। अधिकारियों के अनुसार, इसे संभावित हमलों के लिए रूसी एजेंटों का डिपो कहा जाता है।"
+    },
+    "bn": {
+      "title": "সন্দেহের অধীনে রাশিয়া: বার্লিনের কাছে গোপন অস্ত্রের ডিপো পাওয়া গেছে",
+      "summary": "ডাব্লুডিআর, এনডিআর এবং এসজেডের তথ্য অনুসারে, সুরক্ষা কর্তৃপক্ষ বার্লিনের উপকণ্ঠে দুটি ধারালো অস্ত্র সহ একটি লুকানো জায়গা আবিষ্কার করেছে । কর্তৃপক্ষের মতে, এটি সম্ভাব্য হামলার জন্য রাশিয়ান এজেন্টদের একটি ডিপো বলে মনে করা হয় ।"
+    },
+    "pl": {
+      "title": "Rosja pod podejrzeniem: tajna składnica broni odkryta w pobliżu Berlina",
+      "summary": "Według informacji WDR, NDR i SZ władze bezpieczeństwa odkryły kryjówkę z dwiema ostrymi broniami na obrzeżach Berlina. Według władz ma to być magazyn rosyjskich agentów do ewentualnych ataków."
+    },
+    "es": {
+      "title": "Rusia bajo sospecha: se descubre un depósito secreto de armas cerca de Berlín",
+      "summary": "Según información de WDR, NDR y SZ, las autoridades de seguridad han descubierto un escondite con dos armas afiladas en las afueras de Berlín. Según las autoridades, se trata de un depósito de agentes rusos para posibles ataques."
+    },
+    "fr": {
+      "title": "Russie soupçonnée : découverte d'un dépôt d'armes secret près de Berlin",
+      "summary": "Selon les informations de WDR, NDR et SZ, les autorités de sécurité ont découvert une cachette avec deux armes tranchantes à la périphérie de Berlin. Selon les autorités, il s'agirait d'un dépôt d'agents russes pour d'éventuels attentats."
+    }
+  }
+}

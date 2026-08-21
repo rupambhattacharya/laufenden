@@ -1,0 +1,47 @@
+{
+  "id": "b2992dcc91255e37c38370e64cf2e8400911b8aa",
+  "slug": "acht-tote-bei-flugzeugabsturz-auf-us-luftwaffenstutzpunkt-in-alaska",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/amerika/alaska-flugzeugabsturz-luftwaffe-100.html",
+  "publishedAt": "2026-08-21T12:50:12.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Eight dead in plane crash at US Air Force base in Alaska",
+      "summary": "A charter plane crashed at a remote radar station in western Alaska, killing all eight passengers. The experts apparently carried out a mission there - which, it is unclear."
+    },
+    "de": {
+      "title": "Acht Tote bei Flugzeugabsturz auf US-Luftwaffenstützpunkt in Alaska",
+      "summary": "An einer abgelegenen Radarstation im Westen Alaskas ist ein Charterflugzeug verunglückt - alle acht Passagiere kamen dabei ums Leben. Die Fachleute führten dort offenbar eine Mission durch - welche, ist unklar."
+    },
+    "tr": {
+      "title": "Alaska'daki ABD Hava Kuvvetleri üssünde uçak kazasında 8 kişi öldü",
+      "summary": "Alaska'nın batısındaki uzak bir radar istasyonuna bir charter uçağı düştü ve 8 yolcunun hepsi öldü. Görünüşe göre uzmanlar orada bir görev gerçekleştirdi - ki bu belirsiz."
+    },
+    "uk": {
+      "title": "Вісім людей загинули в авіакатастрофі на базі ВПС США на Алясці",
+      "summary": "Чартерний літак розбився на віддаленій радіолокаційній станції на заході Аляски, загинули всі вісім пасажирів. Експерти, мабуть, виконували там місію - що, незрозуміло."
+    },
+    "hi": {
+      "title": "अलास्का में अमेरिकी वायु सेना के अड्डे पर विमान दुर्घटनाग्रस्त, आठ लोगों की मौत",
+      "summary": "पश्चिमी अलास्का के एक दूरदराज के रडार स्टेशन पर एक चार्टर विमान दुर्घटनाग्रस्त हो गया, जिसमें सभी आठ यात्री मारे गए। विशेषज्ञों ने स्पष्ट रूप से वहां एक मिशन किया - जो, यह स्पष्ट नहीं है।"
+    },
+    "bn": {
+      "title": "আলাস্কার মার্কিন বিমান বাহিনী ঘাঁটিতে বিমান দুর্ঘটনায় আটজন নিহত",
+      "summary": "পশ্চিম আলাস্কার একটি দূরবর্তী রাডার স্টেশনে একটি চার্টার বিমান বিধ্বস্ত হয়ে আটজন যাত্রীর সবাই মারা যায় । বিশেষজ্ঞরা দৃশ্যত সেখানে একটি মিশন করেছিলেন - যা, এটি অস্পষ্ট ।"
+    },
+    "pl": {
+      "title": "Ośmiu zabitych w katastrofie lotniczej w bazie Sił Powietrznych USA na Alasce",
+      "summary": "Samolot czarterowy rozbił się na odległej stacji radarowej w zachodniej Alasce, zabijając wszystkich ośmiu pasażerów. Eksperci najwyraźniej przeprowadzili tam misję - co, nie jest jasne."
+    },
+    "es": {
+      "title": "Ocho muertos en un accidente aéreo en una base de la Fuerza Aérea de Estados Unidos en Alaska",
+      "summary": "Un avión chárter se estrelló en una remota estación de radar en el oeste de Alaska, causando la muerte de los ocho pasajeros. Los expertos aparentemente llevaron a cabo una misión allí, cuál, no está claro."
+    },
+    "fr": {
+      "title": "Huit morts dans un accident d'avion sur une base aérienne américaine en Alaska",
+      "summary": "Un avion charter s'est écrasé dans une station radar isolée dans l'ouest de l'Alaska - les huit passagers ont été tués. Les spécialistes y ont apparemment mené une mission - qui n'est pas claire."
+    }
+  }
+}

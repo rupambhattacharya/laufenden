@@ -1,0 +1,47 @@
+{
+  "id": "1acd3a3b2781c10f48b216540c725302cbd7f5f2",
+  "slug": "two-mexicans-arrested-as-police-uncover-big-meth-lab-on-south-african-farm",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-21T11:57:37.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
+      "summary": "The overnight raid of the multi-million dollar drug operation took place near the border with Zimbabwe."
+    },
+    "de": {
+      "title": "Zwei Mexikaner verhaftet, als die Polizei ein großes Meth-Labor auf einer südafrikanischen Farm entdeckt",
+      "summary": "Die nächtliche Razzia der millionenschweren Drogenoperation fand in der Nähe der Grenze zu Simbabwe statt."
+    },
+    "tr": {
+      "title": "Polisin Güney Afrika'daki çiftlikte büyük bir metamfetamin laboratuvarı ortaya çıkarması üzerine iki Meksikalı tutuklandı",
+      "summary": "Milyonlarca dolarlık uyuşturucu operasyonunun bir gecede gerçekleştirilen baskını Zimbabve sınırı yakınlarında gerçekleşti."
+    },
+    "uk": {
+      "title": "Двох мексиканців заарештували, коли поліція виявила велику лабораторію на південноафриканській фермі",
+      "summary": "Нічний рейд багатомільйонної операції з боротьби з наркотиками відбувся поблизу кордону з Зімбабве."
+    },
+    "hi": {
+      "title": "दक्षिण अफ़्रीकी फ़ार्म पर बड़ी मेथ लैब का पर्दाफ़ाश करते हुए पुलिस ने दो मैक्सिकन लोगों को गिरफ्तार किया",
+      "summary": "लाखों डॉलर के ड्रग ऑपरेशन की रात भर की छापेमारी जिम्बाब्वे की सीमा के पास हुई।"
+    },
+    "bn": {
+      "title": "দক্ষিণ আফ্রিকার খামারে বড় মেথ ল্যাবের সন্ধান পাওয়ায় দুই মেক্সিকানকে গ্রেফতার করেছে পুলিশ",
+      "summary": "জিম্বাবুয়ে সীমান্তের কাছে বহু মিলিয়ন ডলারের মাদক অভিযানে রাতারাতি অভিযান চালানো হয় ।"
+    },
+    "pl": {
+      "title": "Dwóch Meksykanów aresztowanych, gdy policja odkrywa duże laboratorium metamfetaminy na farmie w RPA",
+      "summary": "Nocny nalot na wielomilionową operację narkotykową miał miejsce w pobliżu granicy z Zimbabwe."
+    },
+    "es": {
+      "title": "Dos mexicanos arrestados mientras la policía descubre un gran laboratorio de metanfetamina en una granja sudafricana",
+      "summary": "La redada nocturna de la multimillonaria operación de drogas tuvo lugar cerca de la frontera con Zimbabue."
+    },
+    "fr": {
+      "title": "Deux Mexicains arrêtés alors que la police découvrait un grand laboratoire de méthamphétamine dans une ferme sud-africaine",
+      "summary": "Le raid nocturne de l'opération antidrogue de plusieurs millions de dollars a eu lieu près de la frontière avec le Zimbabwe."
+    }
+  }
+}

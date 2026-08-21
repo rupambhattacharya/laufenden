@@ -1,4 +1,33 @@
 {
-  "publishedIds": [],
-  "dailyCounter": { "date": "2026-08-21", "count": 0 }
+  "publishedIds": [
+    "1acd3a3b2781c10f48b216540c725302cbd7f5f2",
+    "7b0a660543e81e52381c518f0f86d4258410f5bd",
+    "fa6ebaec04d30d96085739c929fa6188867b3c33",
+    "dcce419c53421765f751bc312ff3022cd438fe86",
+    "b2992dcc91255e37c38370e64cf2e8400911b8aa",
+    "d148926ae3cf2ee539326fd302f96fe6d5d7c943",
+    "a3bef7016a53b39be595c2cb2da2969587802f77",
+    "3a48346a576ba9a8bd8b4241d50fde34e2ecf71b",
+    "edfcb598836f43487c809db7f97870a15b7d506a",
+    "66422055f1eee5b3a56d782117b3a29bbc525a7e",
+    "eec9d868be40b972176ffeb7a033fcf1fa44d0c6",
+    "fc63f0d6968aa7b0a784046b88f3bd2febe4b689",
+    "e09a6f7f60b9224850dd294e1f3cbebcb47a95d7",
+    "9fd0d8abf0d83b1a87e934a07de30c28034a769f",
+    "cfc27cda898a3355be91f1f511f87d5a107a4ea4",
+    "0f3057d6dec8a9bbe6307745ea86819e497598a6",
+    "38c7b8a724e2c35ee317fca519a8d7ec21b44dc2",
+    "67dc40974d1f8b3cf2505e55636de4851790524d",
+    "8727fcd227b7f01d4e6d0471d678b0db26efd668",
+    "06b8d1bb66f6b6d0fe68f90e91153f368aae59c4"
+  ],
+  "dailyCounter": {
+    "date": "2026-08-21",
+    "count": 20,
+    "byTier": {
+      "global": 4,
+      "germany": 6,
+      "states": 10
+    }
+  }
 }

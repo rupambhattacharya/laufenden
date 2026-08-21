@@ -1,0 +1,47 @@
+{
+  "id": "d148926ae3cf2ee539326fd302f96fe6d5d7c943",
+  "slug": "hessen-autofahrer-verletzt-passanten-offenbar-medizinischer-notfall",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/regional/hessen/hofgeismar-auto-fussgaengerzone-100.html",
+  "publishedAt": "2026-08-21T12:46:54.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Hesse: Motorists injure passers-by - apparently a medical emergency",
+      "summary": "In Hofgeismar in Hesse, a 68-year-old man drove his car through the pedestrian zone and hit a department store. Eight people were injured. The driver apparently had a medical emergency."
+    },
+    "de": {
+      "title": "Hessen: Autofahrer verletzt Passanten - offenbar medizinischer Notfall",
+      "summary": "Im hessischen Hofgeismar ist ein 68-Jähriger mit seinem Auto durch die Fußgängerzone gefahren und gegen ein Kaufhaus geprallt. Acht Menschen wurden verletzt. Beim Fahrer gab es offenbar einen medizinischen Notfall."
+    },
+    "tr": {
+      "title": "Hesse: Sürücüler yoldan geçenleri yaraladı - görünüşe göre tıbbi bir acil durum",
+      "summary": "Hessen'deki Hofgeismar'da 68 yaşındaki bir adam arabasını yaya bölgesine sürdü ve bir mağazaya çarptı. Sekiz kişi yaralandı. Görünüşe göre sürücünün tıbbi bir acil durumu vardı."
+    },
+    "uk": {
+      "title": "Гессен: Автомобілісти травмують перехожих - очевидно, це невідкладна медична допомога",
+      "summary": "У Хофгейсмарі в Гессені 68-річний чоловік проїхав на автомобілі пішохідною зоною і наїхав на універмаг. Вісім людей отримали поранення. Водій, мабуть, отримав невідкладну медичну допомогу."
+    },
+    "hi": {
+      "title": "हेसे: मोटर चालक राहगीरों को घायल कर देते हैं - जाहिरा तौर पर एक चिकित्सा आपातकाल",
+      "summary": "हेसे के होफगेइस्मार में, एक 68 वर्षीय व्यक्ति ने अपनी कार पैदल यात्री क्षेत्र से गुज़रते हुए एक डिपार्टमेंट स्टोर को टक्कर मार दी। आठ लोग घायल हो गए। ड्राइवर को मेडिकल इमरजेंसी थी।"
+    },
+    "bn": {
+      "title": "হেসি: মোটরসাইকেল চালকরা পাসারদের আহত করে - আপাতদৃষ্টিতে একটি মেডিকেল জরুরী অবস্থা",
+      "summary": "হেসের হফগেসমারে, 68 বছর বয়সী একজন ব্যক্তি পথচারী জোনের মধ্য দিয়ে তার গাড়ি চালিয়ে একটি ডিপার্টমেন্ট স্টোরকে আঘাত করেছিলেন । আটজন আহত হয়েছেন । ড্রাইভারের মনে হয় মেডিক্যাল ইমার্জেন্সি ছিল ।"
+    },
+    "pl": {
+      "title": "Hesse: Kierowcy ranią przechodniów - najwyraźniej nagły wypadek medyczny",
+      "summary": "W Hofgeismar w Hesji 68-letni mężczyzna przejechał samochodem przez strefę dla pieszych i uderzył w dom towarowy. Osiem osób zostało rannych. Kierowca najwyraźniej miał nagły wypadek medyczny."
+    },
+    "es": {
+      "title": "Hesse: Los automovilistas hieren a los transeúntes, aparentemente una emergencia médica",
+      "summary": "En Hofgeismar, en Hesse, un hombre de 68 años condujo su coche por la zona peatonal y se estrelló contra unos grandes almacenes. Ocho personas resultaron heridas. Al parecer, hubo una emergencia médica con el conductor."
+    },
+    "fr": {
+      "title": "Hesse : un automobiliste blesse des passants - apparemment une urgence médicale",
+      "summary": "À Hofgeismar, en Hesse, un homme de 68 ans a traversé la zone piétonne avec sa voiture et s'est heurté à un grand magasin. Huit personnes ont été blessées. Apparemment, il y avait une urgence médicale chez le conducteur."
+    }
+  }
+}
