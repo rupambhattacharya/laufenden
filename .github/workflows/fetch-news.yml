@@ -33,6 +33,7 @@ jobs:
       - name: Run content pipeline
         env:
           MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
+          GOOGLE_TRANSLATE_API_KEY: ${{ secrets.GOOGLE_TRANSLATE_API_KEY }}
         run: npm run fetch-news
 
       - name: Commit and push new content

@@ -1,5 +1,12 @@
+import { backoffDelayMs, sleep } from './retryBackoff';
+import { translateTextGoogle } from './googleTranslate';
+
+export { backoffDelayMs };
+
 export interface TranslateOptions {
   email?: string;
+  /** Google Cloud Translation API key, used only as a fallback when MyMemory fails. */
+  googleApiKey?: string;
   fetchFn?: typeof fetch;
   maxRetries?: number;
   /** Injectable so tests don't have to actually wait out the backoff. */
@@ -17,16 +24,6 @@ const REQUEST_TIMEOUT_MS = 15_000;
 
 /** MyMemory documents a ~500-byte limit on `q`; stay under it with headroom. */
 const MAX_QUERY_BYTES = 450;
-
-const BASE_BACKOFF_MS = 1000;
-const MAX_BACKOFF_MS = 4000;
-
-const sleep = (ms: number) => new Promise<void>((resolve) => setTimeout(resolve, ms));
-
-/** Exponential backoff with jitter, so retries don't hammer a struggling API. */
-export function backoffDelayMs(attempt: number): number {
-  return Math.min(BASE_BACKOFF_MS * 2 ** attempt, MAX_BACKOFF_MS) + Math.random() * 250;
-}
 
 /**
  * Truncate `text` to at most `maxBytes` UTF-8 bytes, cutting at the last word
@@ -87,6 +84,22 @@ export async function translateText(
   return null;
 }
 
+/**
+ * Translates via MyMemory first; if MyMemory fails, falls back to Google
+ * Cloud Translate (only if a `googleApiKey` is configured — otherwise this
+ * is a no-op and behaves exactly like `translateText` alone).
+ */
+export async function translateTextViaProviders(
+  text: string,
+  sourceLang: string,
+  targetLang: string,
+  options: TranslateOptions = {}
+): Promise<string | null> {
+  const primary = await translateText(text, sourceLang, targetLang, options);
+  if (primary !== null) return primary;
+  return translateTextGoogle(text, sourceLang, targetLang, options);
+}
+
 export async function translateFields(
   fields: { title: string; summary: string },
   sourceLang: string,
@@ -100,8 +113,8 @@ export async function translateFields(
       continue;
     }
     const [title, summary] = await Promise.all([
-      translateText(fields.title, sourceLang, lang, options),
-      translateText(fields.summary, sourceLang, lang, options),
+      translateTextViaProviders(fields.title, sourceLang, lang, options),
+      translateTextViaProviders(fields.summary, sourceLang, lang, options),
     ]);
     if (title !== null && summary !== null) {
       result[lang] = { title, summary };
