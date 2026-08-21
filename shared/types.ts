@@ -1,6 +1,11 @@
 import type { Region } from './regions';
 import type { LanguageCode } from './languages';
 
+// Re-exported so `import type { Region } from '.../shared/types'` is a valid
+// path too — the plausible-looking import that has bitten this codebase before.
+export type { Region } from './regions';
+export type { LanguageCode } from './languages';
+
 export interface FeedConfig {
   region: Region;
   language: LanguageCode;

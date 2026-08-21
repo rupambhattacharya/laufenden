@@ -8,6 +8,12 @@ on:
 permissions:
   contents: write
 
+# Queue a manual workflow_dispatch behind an in-flight scheduled run rather than
+# letting the two race each other over content/ and the git push.
+concurrency:
+  group: fetch-news
+  cancel-in-progress: false
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -38,5 +44,9 @@ jobs:
             echo "No new articles, nothing to commit."
           else
             git commit -m "content: automated news fetch $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
+            if ! git push; then
+              echo "Push failed; rebasing onto the remote and retrying once."
+              git pull --rebase
+              git push
+            fi
           fi
