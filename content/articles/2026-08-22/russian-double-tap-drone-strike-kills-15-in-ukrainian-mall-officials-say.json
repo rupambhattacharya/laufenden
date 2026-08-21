@@ -1,0 +1,31 @@
+{
+  "id": "30a9052415ad73d2e7a9ef2210209eeda8db5c0b",
+  "slug": "russian-double-tap-drone-strike-kills-15-in-ukrainian-mall-officials-say",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-21T19:49:56.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+      "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head."
+    },
+    "de": {
+      "title": "Russischer Doppelschlag-Drohnenangriff tötet 15 in ukrainischem Einkaufszentrum, sagen Beamte",
+      "summary": "Mindestens 130 Menschen, darunter 23 Kinder, wurden ebenfalls verletzt, als das Einkaufszentrum getroffen wurde, so der regionale Leiter."
+    },
+    "hi": {
+      "title": "अधिकारियों का कहना है कि यूक्रेनी मॉल में रूसी डबल - टैप ड्रोन हमले में 15 लोगों की मौत हो गई",
+      "summary": "क्षेत्रीय प्रमुख के अनुसार, शॉपिंग सेंटर में टक्कर लगने से 23 बच्चों सहित कम से कम 130 लोग घायल हो गए।"
+    },
+    "bn": {
+      "title": "ইউক্রেনীয় মলে রুশ ডাবল ট্যাপ ড্রোন হামলায় নিহত ১৫, কর্মকর্তারা বলছেন",
+      "summary": "আঞ্চলিক প্রধানের মতে, শপিং সেন্টারে আঘাত হানার সময় ২৩ শিশুসহ কমপক্ষে ১৩০ জন আহত হয়েছে ।"
+    },
+    "fr": {
+      "title": "Une frappe de drone russe à double pression tue 15 personnes dans un centre commercial ukrainien, selon des responsables",
+      "summary": "Au moins 130 personnes, dont 23 enfants, ont également été blessées lorsque le centre commercial a été touché, selon le chef régional."
+    }
+  }
+}

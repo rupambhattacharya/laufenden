@@ -1,0 +1,31 @@
+{
+  "id": "f1daac68cea970a7b7a678190c5e5c77d7df87ec",
+  "slug": "unfall-auf-der-a7-bei-neumunster-lkw-landet-auf-der-seite",
+  "category": "schleswig-holstein",
+  "sourceName": "Nachrichten aus Schleswig-Holstein",
+  "sourceUrl": "https://www.ndr.de/nachrichten/schleswig-holstein/kiel_neumuenster_ploen_rendsburg-eckernfoerde/unfall-auf-der-a7-bei-neumuenster-lkw-landet-auf-der-seite,regionkielnews-2696.html",
+  "publishedAt": "2026-08-21T19:48:27.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Accident on the A7 near Neumünster: Truck lands on the side",
+      "summary": "The A7 junction Neumünster-Süd is closed due to salvage work. No one was hurt."
+    },
+    "de": {
+      "title": "Unfall auf der A7 bei Neumünster: Lkw landet auf der Seite",
+      "summary": "Die A7-Anschlussstelle Neumünster-Süd ist wegen Bergungsarbeiten gesperrt. Niemand wurde verletzt."
+    },
+    "hi": {
+      "title": "न्यूमुंस्टर के पास A7 पर दुर्घटना: ट्रक एक तरफ उतरता है",
+      "summary": "बचाव कार्य के कारण A7 जंक्शन Neumünster - Süd बंद है। कोई भी घायल नहीं हुआ।"
+    },
+    "bn": {
+      "title": "নিউমুনস্টারের কাছে A7-তে দুর্ঘটনা: পাশে ট্রাক অবতরণ",
+      "summary": "উদ্ধার কাজের কারণে A7 জংশন Neumünster-Süd বন্ধ রয়েছে । কেউ আহত হননি ।"
+    },
+    "fr": {
+      "title": "Accident sur l'A7 à Neumünster : le camion atterrit sur le côté",
+      "summary": "La jonction A7 Neumünster-Sud est fermée en raison de travaux de sauvetage. Personne n'a été blessé."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "e639572a76b56132610ede6a5aeebedd76d3853a",
+  "slug": "how-israel-is-expanding-settlements-in-drive-to-reshape-west-bank",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-21T19:31:47.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "How Israel is expanding settlements in drive to reshape West Bank",
+      "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years."
+    },
+    "de": {
+      "title": "Wie Israel die Siedlungen ausbaut, um das Westjordanland umzugestalten",
+      "summary": "In den letzten Jahren wurde der Bau und der Straßenbau auf palästinensischem Land, das von Israel besetzt wurde, erheblich ausgeweitet."
+    },
+    "hi": {
+      "title": "वेस्ट बैंक को नया रूप देने के लिए इज़राइल कैसे बस्तियों का विस्तार कर रहा है",
+      "summary": "हाल के वर्षों में इज़राइल द्वारा कब्जा की गई फिलिस्तीनी भूमि पर भवन और सड़क निर्माण का एक महत्वपूर्ण विस्तार हुआ है।"
+    },
+    "bn": {
+      "title": "ইস্রায়েল কীভাবে পশ্চিম তীরে পুনর্নির্মাণের জন্য বসতিগুলি প্রসারিত করছে",
+      "summary": "সাম্প্রতিক বছরগুলিতে ইস্রায়েলের অধিকৃত ফিলিস্তিনি জমিতে বিল্ডিং এবং সড়ক নির্মাণের একটি উল্লেখযোগ্য সম্প্রসারণ হয়েছে ।"
+    },
+    "fr": {
+      "title": "Comment Israël étend les colonies dans le but de remodeler la Cisjordanie",
+      "summary": "Il y a eu une expansion significative de la construction de bâtiments et de routes sur les terres palestiniennes occupées par Israël ces dernières années."
+    }
+  }
+}

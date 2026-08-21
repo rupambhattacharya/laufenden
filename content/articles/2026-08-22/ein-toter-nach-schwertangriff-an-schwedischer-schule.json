@@ -1,0 +1,31 @@
+{
+  "id": "1416ed711276bbe90f1c8a82653e2fd3d7dfb3a8",
+  "slug": "ein-toter-nach-schwertangriff-an-schwedischer-schule",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html",
+  "publishedAt": "2026-08-21T20:01:48.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "A dead man after a sword attack on a Swedish school",
+      "summary": "In a school in a small town in central Sweden, an 18-year-old attacked several people with a sword. One person died and three others were injured. The police arrested the alleged perpetrator."
+    },
+    "de": {
+      "title": "Ein Toter nach Schwertangriff an schwedischer Schule",
+      "summary": "In einer Schule in einer Kleinstadt in Zentralschweden hat ein 18-Jähriger mit einem Schwert mehrere Personen angegriffen. Ein Mensch starb, drei weitere wurden verletzt. Die Polizei nahm den mutmaßlichen Täter fest."
+    },
+    "hi": {
+      "title": "स्वीडिश स्कूल पर तलवार से हमले के बाद एक मृत व्यक्ति",
+      "summary": "मध्य स्वीडन के एक छोटे से शहर के एक स्कूल में, एक 18 वर्षीय व्यक्ति ने कई लोगों पर तलवार से हमला किया। एक व्यक्ति की मौत हो गई और तीन अन्य घायल हो गए। पुलिस ने कथित अपराधी को गिरफ्तार कर लिया।"
+    },
+    "bn": {
+      "title": "সুইডিশ স্কুলে তলোয়ার হামলার পর একজন মৃত ব্যক্তি",
+      "summary": "মধ্য সুইডেনের একটি ছোট শহরের একটি স্কুলে ১৮ বছর বয়সী এক তরবারি দিয়ে বেশ কয়েকজনকে আক্রমণ করে । একজন মারা গেছেন এবং তিনজন আহত হয়েছেন । পুলিশ অভিযুক্ত অপরাধীকে গ্রেপ্তার করেছে ।"
+    },
+    "fr": {
+      "title": "Un mort après une attaque à l'épée dans une école suédoise",
+      "summary": "Dans une école d'une petite ville du centre de la Suède, un jeune de 18 ans a attaqué plusieurs personnes avec une épée. Une personne est décédée, trois autres ont été blessées. La police a arrêté l'auteur présumé."
+    }
+  }
+}

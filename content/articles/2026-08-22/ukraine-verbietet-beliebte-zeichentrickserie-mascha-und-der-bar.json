@@ -1,0 +1,31 @@
+{
+  "id": "4d224b70cb7e6f07ee72de7bea0f6b576d52afd7",
+  "slug": "ukraine-verbietet-beliebte-zeichentrickserie-mascha-und-der-bar",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/ukraine-zeichentrickserie-russland-100.html",
+  "publishedAt": "2026-08-21T16:35:44.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Ukraine bans popular cartoon series \"Masha and the Bear\"",
+      "summary": "The Ukrainian government has banned the popular Russian animated series \"Masha and the Bear\". It may no longer be shown in the country. The background is the advertising revenues from the series, which benefit Russia."
+    },
+    "de": {
+      "title": "Ukraine verbietet beliebte Zeichentrickserie \"Mascha und der Bär\"",
+      "summary": "Die ukrainische Regierung hat die beliebte russische Animationsserie \"Mascha und der Bär\" verboten. Sie darf im Land nicht mehr gezeigt werden. Hintergrund sind die Werbeeinnahmen durch die Serie, die Russland zugutekommen."
+    },
+    "hi": {
+      "title": "यूक्रेन ने लोकप्रिय कार्टून श्रृंखला \"माशा एंड द बीयर\" पर प्रतिबंध लगा दिया है",
+      "summary": "यूक्रेनी सरकार ने लोकप्रिय रूसी एनिमेटेड श्रृंखला \"माशा एंड द बीयर\" पर प्रतिबंध लगा दिया है। इसे अब देश में नहीं दिखाया जा सकता है। पृष्ठभूमि श्रृंखला से विज्ञापन राजस्व है, जो रूस को लाभान्वित करता है।"
+    },
+    "bn": {
+      "title": "ইউক্রেন জনপ্রিয় কার্টুন সিরিজ \"মাশা এবং ভাল্লুক\" নিষিদ্ধ করেছে",
+      "summary": "ইউক্রেনীয় সরকার জনপ্রিয় রাশিয়ান অ্যানিমেটেড সিরিজ \"মাশা এবং ভাল্লুক\" নিষিদ্ধ করেছে । এটি দেশে আর প্রদর্শিত নাও হতে পারে । পটভূমি হ 'ল এই সিরিজের বিজ্ঞাপনের রাজস্ব, যা রাশিয়াকে উপকৃত করে ।"
+    },
+    "fr": {
+      "title": "L'Ukraine interdit la série animée populaire « Macha et l'ours »",
+      "summary": "Le gouvernement ukrainien a interdit la populaire série d'animation russe « Macha et l'ours ». Elle ne peut plus être montrée dans le pays. Le contexte est les revenus publicitaires générés par la série, qui profitent à la Russie."
+    }
+  }
+}

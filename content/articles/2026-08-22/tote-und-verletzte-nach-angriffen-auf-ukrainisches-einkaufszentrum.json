@@ -1,0 +1,31 @@
+{
+  "id": "e05f19d502d33deac0ef0326231048be4a8a8171",
+  "slug": "tote-und-verletzte-nach-angriffen-auf-ukrainisches-einkaufszentrum",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
+  "publishedAt": "2026-08-21T20:26:30.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Dead and injured after attacks on Ukrainian shopping mall",
+      "summary": "Russia has attacked a bustling shopping mall in the Ukrainian president's hometown. There are many dead and injured. Zelenskyi speaks of a \"sneak attack\" in two waves."
+    },
+    "de": {
+      "title": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
+      "summary": "Russland hat ein belebtes Einkaufszentrum in der Heimatstadt des ukrainischen Präsidenten angegriffen. Es gibt viele Tote und Verletzte. Selenskyj spricht von einem \"hinterhältigen Angriff\" in zwei Wellen."
+    },
+    "hi": {
+      "title": "यूक्रेनी शॉपिंग मॉल पर हमलों के बाद मृत और घायल",
+      "summary": "रूस ने यूक्रेनी राष्ट्रपति के गृहनगर में एक व्यस्त शॉपिंग मॉल पर हमला किया है। कई लोग मारे गए और घायल हुए हैं। ज़ेलेंस्की दो तरंगों में \"चुपके हमले\" की बात करता है।"
+    },
+    "bn": {
+      "title": "ইউক্রেনের শপিং মলে হামলার পর নিহত ও আহত",
+      "summary": "ইউক্রেনের প্রেসিডেন্টের নিজ শহরে একটি শপিং মলে হামলা চালিয়েছে রাশিয়া । অনেক মৃত এবং আহত আছে । জেলেনস্কি দুটি তরঙ্গে একটি \"ছদ্মবেশী আক্রমণ\" সম্পর্কে কথা বলেছেন ।"
+    },
+    "fr": {
+      "title": "Morts et blessés à la suite d'attaques contre un centre commercial ukrainien",
+      "summary": "La Russie a attaqué un centre commercial animé dans la ville natale du président ukrainien. Il y a beaucoup de morts et de blessés. Zelensky parle d'une « attaque sournoise » en deux vagues."
+    }
+  }
+}

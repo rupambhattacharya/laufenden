@@ -1,0 +1,31 @@
+{
+  "id": "cd642f677b68b81b83ab46c50f4e8116b8d27bd5",
+  "slug": "one-killed-in-sword-attack-at-swedish-school",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-21T21:03:24.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "One killed in sword attack at Swedish school",
+      "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested."
+    },
+    "de": {
+      "title": "Einer, der bei einem Schwertangriff in einer schwedischen Schule getötet wurde",
+      "summary": "Beamte sagen, dass weitere drei Menschen verletzt wurden und ein 18-jähriger männlicher Verdächtiger erschossen und verhaftet wurde."
+    },
+    "hi": {
+      "title": "स्वीडिश स्कूल में तलवार के हमले में एक की मौत",
+      "summary": "अधिकारियों का कहना है कि तीन अन्य लोग घायल हो गए, और एक 18 वर्षीय पुरुष संदिग्ध को गोली मारकर गिरफ्तार कर लिया गया।"
+    },
+    "bn": {
+      "title": "সুইডিশ স্কুলে তলোয়ার হামলায় একজন নিহত",
+      "summary": "কর্মকর্তারা বলছেন আরও তিনজন আহত হয়েছেন এবং একজন ১৮ বছর বয়সী পুরুষ সন্দেহভাজনকে গুলি করে গ্রেপ্তার করা হয়েছে ।"
+    },
+    "fr": {
+      "title": "Un tué dans une attaque à l'épée dans une école suédoise",
+      "summary": "Les autorités disent que trois autres personnes ont été blessées et qu'un suspect masculin de 18 ans a été abattu et arrêté."
+    }
+  }
+}

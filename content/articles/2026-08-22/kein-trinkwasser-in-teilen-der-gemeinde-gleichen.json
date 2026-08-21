@@ -1,0 +1,31 @@
+{
+  "id": "60d3a44bb3330b743d27106ac58f97b8581a7fff",
+  "slug": "kein-trinkwasser-in-teilen-der-gemeinde-gleichen",
+  "category": "niedersachsen",
+  "sourceName": "Nachrichten aus Niedersachsen",
+  "sourceUrl": "https://www.ndr.de/nachrichten/niedersachsen/braunschweig_harz_goettingen/kein-trinkwasser-in-teilen-der-gemeinde-gleichen,aktuellbraunschweig-3586.html",
+  "publishedAt": "2026-08-21T20:18:34.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "No drinking water in parts of the municipality of Gleichen",
+      "summary": "According to the municipality, a pipe has broken in the district of Sattenhausen. The water supply is therefore out of operation."
+    },
+    "de": {
+      "title": "Kein Trinkwasser in Teilen der Gemeinde Gleichen",
+      "summary": "Im Ortsteil Sattenhausen ist laut Gemeinde ein Rohr gebrochen. Die Wasserversorgung ist deshalb außer Betrieb."
+    },
+    "hi": {
+      "title": "ग्लीचेन नगरपालिका के कुछ हिस्सों में पीने का पानी नहीं है",
+      "summary": "नगर पालिका के अनुसार, सटेनहौसेन जिले में एक पाइप टूट गया है। इसलिए पानी की आपूर्ति काम नहीं कर रही है।"
+    },
+    "bn": {
+      "title": "গ্লাইচেন পৌরসভার কিছু অংশে পানীয় জল নেই",
+      "summary": "পৌরসভার মতে, সাত্তেনহাউসেন জেলায় একটি পাইপ ভেঙে গেছে । তাই পানি সরবরাহ কাজ করছে না ।"
+    },
+    "fr": {
+      "title": "Pas d'eau potable dans certaines parties de la commune de Gleichen",
+      "summary": "Selon la commune, un tuyau est cassé dans le quartier de Sattenhausen. L'alimentation en eau est donc hors service."
+    }
+  }
+}

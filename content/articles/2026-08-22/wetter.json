@@ -1,0 +1,31 @@
+{
+  "id": "d2d4016ab5e7b4b7a2b966b74765e16fa38b9ded",
+  "slug": "wetter",
+  "category": "sachsen",
+  "sourceName": "Sachsen | Nachrichten, News, Videos, Fotos und Liveticker",
+  "sourceUrl": "https://www.mdr.de/nachrichten/sachsen/wetter",
+  "publishedAt": "2026-08-21T18:46:18.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Weather",
+      "summary": "What's the weather like today? Whether it is raining or the sun is shining, you can find out in our weather report - for the regions of Bautzen, Chemnitz, Dresden and Leipzig. You will also find current pollen load values here."
+    },
+    "de": {
+      "title": "Wetter",
+      "summary": "Wie wird das Wetter heute? Ob es regnet oder die Sonne scheint, erfahren Sie in unserem Wetterbericht - für die Regionen Bautzen, Chemnitz, Dresden und Leipzig. Außerdem finden Sie hier aktuelle Pollenbelastungswerte."
+    },
+    "hi": {
+      "title": "0 मी (पानी)",
+      "summary": "आज का मौसम कैसा है? चाहे बारिश हो रही हो या सूरज चमक रहा हो, आप हमारी मौसम रिपोर्ट में पता लगा सकते हैं - बाउत्ज़ेन, चेम्निट्ज़, ड्रेसडेन और लीपज़िग के क्षेत्रों के लिए। आपको वर्तमान पराग लोड मान भी यहां मिलेंगे।"
+    },
+    "bn": {
+      "title": "আবহাওয়া",
+      "summary": "আজকের আবহাওয়া কেমন? বৃষ্টি হোক বা সূর্য জ্বলজ্বল করুক না কেন, আপনি আমাদের আবহাওয়ার প্রতিবেদনে খুঁজে পেতে পারেন - বাউটজেন, কেমনিটজ, ড্রেসডেন এবং লিপজিগ অঞ্চলের জন্য । আপনি এখানে বর্তমান পরাগ লোড মানগুলিও পাবেন ।"
+    },
+    "fr": {
+      "title": "météo",
+      "summary": "Quel temps fait-il aujourd'hui ? Pour savoir s'il pleut ou s'il y a du soleil, consultez notre bulletin météo - pour les régions de Bautzen, Chemnitz, Dresde et Leipzig. En outre, vous trouverez ici les valeurs actuelles de la charge pollinique."
+    }
+  }
+}

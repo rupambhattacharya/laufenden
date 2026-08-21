@@ -1,0 +1,31 @@
+{
+  "id": "51614a574512ef1f72acf01a1e719a00e9172403",
+  "slug": "gewitter-und-regen-ziehen-uber-das-rheinland",
+  "category": "nrw",
+  "sourceName": "WDR.de",
+  "sourceUrl": "https://www1.wdr.de/nrw/wetter/aktuell/wetter-nrw-lokale-unwetter-100.html",
+  "publishedAt": "2026-08-21T21:54:14.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Thunderstorms and rain sweep over the Rhineland",
+      "summary": "Thunderstorms and rain are sweeping over the Rhineland: an official storm warning applies to the Rhein-Erft district."
+    },
+    "de": {
+      "title": "Gewitter und Regen ziehen über das Rheinland",
+      "summary": "Gewitter und Regen ziehen über das Rheinland: Für den Rhein-Erft-Kreis gilt eine amtliche Unwetterwarnung."
+    },
+    "hi": {
+      "title": "राइनलैंड पर आंधी - तूफ़ान और बारिश का मंजर",
+      "summary": "राइनलैंड पर आंधी - तूफान और बारिश हो रही है: एक आधिकारिक तूफान की चेतावनी राइन - इरफ़्ट जिले पर लागू होती है।"
+    },
+    "bn": {
+      "title": "রাইনল্যান্ড জুড়ে বজ্রঝড় এবং বৃষ্টিপাত",
+      "summary": "বজ্রঝড় এবং বৃষ্টিপাত Rhineland জুড়ে ছড়িয়ে পড়ছে: Rhein-Erft জেলায় একটি সরকারী ঝড় সতর্কতা প্রযোজ্য ।"
+    },
+    "fr": {
+      "title": "Les orages et la pluie traversent la Rhénanie",
+      "summary": "Des orages et de la pluie traversent la Rhénanie : un avertissement d'intempéries officiel s'applique au district de Rhein-Erft."
+    }
+  }
+}

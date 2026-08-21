@@ -1,0 +1,31 @@
+{
+  "id": "7e54057f512731ef8f45911ed4d64dde069751fe",
+  "slug": "mehr-als-300-migranten-von-holzboot-vor-mauretanien-gerettet",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/afrika/mauretanien-rettung-migranten-100.html",
+  "publishedAt": "2026-08-21T22:04:29.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "More than 300 migrants rescued from wooden boat off Mauritania",
+      "summary": "Off the coast of Mauritania, the Coast Guard has rescued more than 300 people from an unmanageable wooden boat. They were probably on their way to the Canary Islands - a route that is becoming increasingly dangerous."
+    },
+    "de": {
+      "title": "Mehr als 300 Migranten von Holzboot vor Mauretanien gerettet",
+      "summary": "Vor der Küste Mauretaniens hat die Küstenwache mehr als 300 Menschen von einem manövrierunfähigen Holzboot gerettet. Sie waren wohl auf dem Weg zu den Kanarischen Inseln - eine Route, die immer gefährlicher wird."
+    },
+    "hi": {
+      "title": "मॉरिटानिया के पास लकड़ी की नाव से 300 से ज़्यादा प्रवासियों को बचाया गया",
+      "summary": "मॉरिटानिया के तट से दूर, तटरक्षक बल ने लकड़ी की एक अनियंत्रित नाव से 300 से अधिक लोगों को बचाया है। वे शायद कैनरी द्वीप समूह की ओर जा रहे थे - एक ऐसा मार्ग जो तेजी से खतरनाक होता जा रहा है।"
+    },
+    "bn": {
+      "title": "মৌরিতানিয়া থেকে ৩০০ জনেরও বেশি অভিবাসীকে কাঠের নৌকা থেকে উদ্ধার করা হয়েছে",
+      "summary": "মৌরিতানিয়া উপকূলে, কোস্টগার্ড একটি অনিয়ন্ত্রিত কাঠের নৌকা থেকে ৩০০ জনেরও বেশি মানুষকে উদ্ধার করেছে । তারা সম্ভবত ক্যানারি দ্বীপপুঞ্জের দিকে যাচ্ছিলেন - একটি রুট যা ক্রমবর্ধমান বিপজ্জনক হয়ে উঠছে ।"
+    },
+    "fr": {
+      "title": "Plus de 300 migrants secourus par un bateau en bois au large de la Mauritanie",
+      "summary": "Au large de la Mauritanie, les garde-côtes ont sauvé plus de 300 personnes d'un bateau en bois immobilisé. Ils étaient probablement en route vers les îles Canaries - une route qui devient de plus en plus dangereuse."
+    }
+  }
+}

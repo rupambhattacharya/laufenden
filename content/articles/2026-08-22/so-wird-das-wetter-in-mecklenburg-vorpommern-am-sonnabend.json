@@ -1,0 +1,31 @@
+{
+  "id": "3ce3ca5722021e003f7a8ea0df452729cd3ba14b",
+  "slug": "so-wird-das-wetter-in-mecklenburg-vorpommern-am-sonnabend",
+  "category": "mecklenburg-vorpommern",
+  "sourceName": "Nachrichten aus Mecklenburg-Vorpommern",
+  "sourceUrl": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/so-wird-wetter-in-mecklenburg-vorpommern-am-sonnabend,mvwetter-1040.html",
+  "publishedAt": "2026-08-21T19:06:49.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "This is how the weather in Mecklenburg-Vorpommern on Saturday",
+      "summary": "Weather forecast by Frank Abel from Cape Arkona on Rügen."
+    },
+    "de": {
+      "title": "So wird das Wetter in Mecklenburg-Vorpommern am Sonnabend",
+      "summary": "Wettervorhersage von Frank Abel vom Kap Arkona auf Rügen."
+    },
+    "hi": {
+      "title": "इस तरह शनिवार को मेक्लेनबर्ग - वोर्पोमर्न में मौसम",
+      "summary": "रुगेन पर केप अर्कोना से फ्रैंक एबेल का मौसम पूर्वानुमान।"
+    },
+    "bn": {
+      "title": "শনিবার মেকলেনবার্গ-ভর্পোমার্নের আবহাওয়া এমনই",
+      "summary": "রুগেনের কেপ আরকোনা থেকে ফ্রাঙ্ক আবেলের আবহাওয়ার পূর্বাভাস ।"
+    },
+    "fr": {
+      "title": "Ainsi, le temps en Mecklembourg-Poméranie-Occidentale le samedi",
+      "summary": "Prévisions météorologiques de Frank Abel du cap Arkona à Rügen."
+    }
+  }
+}

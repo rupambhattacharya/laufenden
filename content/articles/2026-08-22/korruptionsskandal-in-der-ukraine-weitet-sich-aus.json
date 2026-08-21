@@ -1,0 +1,31 @@
+{
+  "id": "657cbaef46a8b15445fb1d3420be21859050df03",
+  "slug": "korruptionsskandal-in-der-ukraine-weitet-sich-aus",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-selenskyj-102.html",
+  "publishedAt": "2026-08-21T18:30:11.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Corruption scandal in Ukraine expands",
+      "summary": "The latest corruption scandal in Ukraine is spreading: Now a participating state-owned bank is to be privatized. Investigations are also being carried out in the president's environment. The opposition accuses him of money laundering. By Florian Kellermann."
+    },
+    "de": {
+      "title": "Korruptionsskandal in der Ukraine weitet sich aus",
+      "summary": "Der jüngste Korruptionsskandal in der Ukraine weitet sich aus: Nun soll eine beteiligte staatseigene Bank privatisiert werden. Auch im Umfeld des Präsidenten wird ermittelt. Die Opposition wirft ihm Geldwäsche vor. Von Florian Kellermann."
+    },
+    "hi": {
+      "title": "यूक्रेन में भ्रष्टाचार का घोटाला बढ़ता जा रहा है",
+      "summary": "यूक्रेन में भ्रष्टाचार का नवीनतम घोटाला फैल रहा है: अब एक भाग लेने वाले राज्य के स्वामित्व वाले बैंक का निजीकरण किया जाना है। राष्ट्रपति के वातावरण में भी जांच की जा रही है। विपक्ष उन पर मनी लॉन्ड्रिंग का आरोप लगाता है। फ्लोरियन केलरमैन द्वारा।"
+    },
+    "bn": {
+      "title": "ইউক্রেনে দুর্নীতির কেলেঙ্কারি বাড়ছে",
+      "summary": "ইউক্রেনে সর্বশেষ দুর্নীতির কেলেঙ্কারি ছড়িয়ে পড়ছে: এখন একটি অংশগ্রহণকারী রাষ্ট্রীয় মালিকানাধীন ব্যাংককে বেসরকারীকরণ করতে হবে । রাষ্ট্রপতির পরিবেশে তদন্তও করা হচ্ছে । বিরোধীরা তাকে অর্থ পাচারের অভিযোগে অভিযুক্ত করে । ফ্লোরিয়ান কেলারম্যান দ্বারা ।"
+    },
+    "fr": {
+      "title": "Le scandale de corruption en Ukraine s'étend",
+      "summary": "Le récent scandale de corruption en Ukraine s'étend : une banque d'État participante doit maintenant être privatisée. L'entourage du président fait également l'objet d'une enquête. L'opposition l'accuse de blanchiment d'argent. Par Florian Kellermann."
+    }
+  }
+}

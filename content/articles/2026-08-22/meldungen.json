@@ -1,0 +1,31 @@
+{
+  "id": "dd469bda2b4deb1458bcb20a235a049624cc78b8",
+  "slug": "meldungen",
+  "category": "thueringen",
+  "sourceName": "Thüringen | Nachrichten und aktuelle Informationen ",
+  "sourceUrl": "https://www.mdr.de/nachrichten/thueringen/nachrichten-mdr-108.html",
+  "publishedAt": "2026-08-21T22:05:17.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Messages",
+      "summary": "+++ CDU state party congress with board elections ++ + Constitution party at the Schwarzburg ++ + Starting signal for Rudolstadt bird shooting +++ New South civil protection camp goes into operation +++"
+    },
+    "de": {
+      "title": "Meldungen",
+      "summary": "+++ CDU-Landesparteitag mit Vorstandswahlen +++ Verfassungsfest auf der Schwarzburg +++ Startschuss für das Rudolstädter Vogelschießen +++ Neues Katastrophenschutzlager Süd geht in Betrieb +++"
+    },
+    "hi": {
+      "title": "जानकारीपरक संदेश",
+      "summary": "+++ श्वार्ज़बर्ग +++ में बोर्ड चुनावों +++ कॉन्स्टिट्यूशन पार्टी के साथ सीडीयू स्टेट पार्टी कांग्रेस रूडोल्स्टैड बर्ड शूटिंग ++++ न्यू साउथ सिविल प्रोटेक्शन कैंप के लिए सिग्नल शुरू हो रहा है +++"
+    },
+    "bn": {
+      "title": "মেসেজ",
+      "summary": "++ সিডিইউ স্টেট পার্টি কংগ্রেসে বোর্ড নির্বাচন +++ সাংবিধানিক পার্টি শোয়ার্জবার্গে ++++ রুডলস্টাড পাখির শুটিংয়ের জন্য সিগন্যাল শুরু ++++ নিউ সাউথ সিভিল প্রোটেকশন ক্যাম্প চালু হয় +++"
+    },
+    "fr": {
+      "title": "Messages",
+      "summary": "+ ++ Congrès national du parti CDU avec élections au conseil d'administration ++ + Fête constitutionnelle à Schwarzburg ++ + Lancement du tir à l'oiseau de Rudolstadt +++ Le nouveau camp de protection civile sud entre en service +++"
+    }
+  }
+}

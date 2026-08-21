@@ -1,0 +1,31 @@
+{
+  "id": "0dd73d70ef71743361dbebc85464a91d609a912b",
+  "slug": "sie-wollen-verandern-aber-nicht-regieren",
+  "category": "sachsen-anhalt",
+  "sourceName": "Sachsen-Anhalt | Aktuelle Nachrichten, News und Videos",
+  "sourceUrl": "https://www.mdr.de/nachrichten/sachsen-anhalt/bsw-wahlkampf-sachsen-anhalt-100.html",
+  "publishedAt": "2026-08-21T19:09:38.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "They want to change, but not govern",
+      "summary": "The BSW wants to change Saxony-Anhalt. Thomas Schulze and Claudia Wittig are campaigning for this. Only one thing the party explicitly does not want: to govern."
+    },
+    "de": {
+      "title": "Sie wollen verändern, aber nicht regieren",
+      "summary": "Das BSW will Sachsen-Anhalt verändern. Dafür machen Thomas Schulze und Claudia Wittig Wahlkampf. Nur eines, das will die Partei explizit nicht: Regieren."
+    },
+    "hi": {
+      "title": "वे बदलना चाहते हैं, लेकिन शासन नहीं करना चाहते",
+      "summary": "BSW Saxony - Anhalt को बदलना चाहता है। थॉमस शुल्ज़ और क्लाउडिया विटिग इसके लिए प्रचार कर रहे हैं। केवल एक चीज जो पार्टी स्पष्ट रूप से नहीं चाहती है: शासन करना।"
+    },
+    "bn": {
+      "title": "তারা পরিবর্তন করতে চায়, কিন্তু শাসন করতে চায় না",
+      "summary": "BSW Saxony-Anhalt পরিবর্তন করতে চায় । টমাস শুলজে এবং ক্লাউডিয়া উইটিগ এর জন্য প্রচারণা চালাচ্ছেন । শুধুমাত্র একটি জিনিস যা পার্টি স্পষ্টভাবে চায় না: শাসন করা ।"
+    },
+    "fr": {
+      "title": "Vous voulez changer, mais vous ne voulez pas gouverner",
+      "summary": "Le BSW veut changer la Saxe-Anhalt. Thomas Schulze et Claudia Wittig font campagne pour cela. Une seule chose que le parti ne veut pas explicitement : gouverner."
+    }
+  }
+}
