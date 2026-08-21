@@ -5,6 +5,7 @@
   "scripts": {
     "test": "vitest run",
     "fetch-news": "tsx content-pipeline/src/run.ts",
+    "generate-dictionaries": "tsx scripts/generate-dictionaries.ts",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
