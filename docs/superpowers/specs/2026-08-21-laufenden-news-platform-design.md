@@ -54,13 +54,27 @@ intended to be consumed and redistributed.
 
 - Hard cap: **20 new articles/day total**, counted in Europe/Berlin time
   (reset at Berlin midnight).
-- Priority order when selecting from newly-seen feed items: Global →
-  Germany-national → Bundesländer (round-robin or most-recent-first among
-  states with new items). This means on a quiet regional day, more slots
-  naturally go to global/national; on a day with major regional stories,
-  states are still represented.
+- **Fixed per-tier quotas, not strict priority-drain:** ≤4 slots to Global,
+  ≤6 to Germany-national, and the remaining ≥10 slots round-robined across
+  the 16 Bundesländer (most-recent-first within each state, cycling through
+  states with new items so no single state's volume crowds out the others).
+  An amendment from the original design: strict Global → Germany-national →
+  Bundesländer priority-drain was found (during implementation) to let
+  Global's typically-higher item volume consume the entire daily cap before
+  Germany-national or any state was ever considered — defeating the site's
+  core premise of German/regional coverage. Fixed quotas guarantee every
+  tier is represented daily regardless of relative feed volume.
+  - Unused quota spills **downward only** (Global's unused slots go to
+    Germany-national, Germany-national's unused slots go to the states;
+    never upward) — a quiet global-news day lets national/regional fill
+    more of the cap, but a heavy global-news day never crowds out national
+    or regional.
 - Dedup by feed item GUID/link against a manifest of already-published
-  articles, so re-running the pipeline never double-publishes.
+  articles, so re-running the pipeline never double-publishes. Dedup must
+  apply **within a single run's candidate batch**, not only against
+  already-published history — two feed configs that happen to point at the
+  same underlying feed (e.g. Berlin and Brandenburg both served by rbb)
+  must not have the same story counted/published twice in one run.
 
 ## Translation
 
