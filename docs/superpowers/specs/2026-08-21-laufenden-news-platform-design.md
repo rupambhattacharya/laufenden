@@ -160,22 +160,73 @@ A language key is simply absent if translation failed for that article/language.
 
 ## Frontend (Next.js on Vercel)
 
-- App Router, TypeScript, static generation — pages are built from the
-  committed JSON at deploy time.
-- **Routing**: language-prefixed, e.g. `/en`, `/de`, `/tr`, `/uk`, `/hi`,
-  `/bn`, `/pl`, `/es`, `/fr`. A language switcher persists the selected
-  language across navigation.
-- **Category/region pages**: `/[lang]/global`, `/[lang]/germany`,
-  `/[lang]/bayern`, `/[lang]/nrw`, etc. — one page per tier/state.
-- **Home page**: mixes recent articles across tiers (global + national +
-  regional highlights).
-- **Article page**: shows the translated title/summary for the active
-  language, publish date, and a clearly visible "Source: <outlet>" link to
-  the original article.
-- **UI chrome strings** (nav labels, buttons, "Source:" label, etc.) live in
-  a small hand-maintained per-language dictionary — not a full i18n
-  framework, since the chrome vocabulary is tiny. Article content
-  translation is entirely handled by the pipeline, not at render time.
+- App Router, TypeScript, Tailwind CSS, static generation — pages are built
+  from the committed JSON at deploy time (no database, no runtime API).
+- **Scaffolding note:** Next.js and Tailwind are added into the *existing*
+  `package.json`/`tsconfig.json` (which already serve the content
+  pipeline's Vitest setup) — not generated fresh via `create-next-app` into
+  an empty directory. The pipeline's tests and scripts must keep working
+  unchanged.
+- **Routing**: language-prefixed — `/[lang]` (home), `/[lang]/[region]`
+  (category/state listing, `region` ∈ `global | germany | <16 states>`),
+  `/[lang]/[region]/[slug]` (article). `lang` ∈ `en | de | tr | uk | hi |
+  bn | pl | es | fr`. Root `/` redirects to `/en`. An invalid `lang` or
+  `region` segment 404s. A language switcher swaps only the `lang` segment,
+  preserving the rest of the current path.
+- **Home page**: three labeled sections — Global, Germany, Regional
+  highlights (most recent regional articles across all states mixed
+  together, not one slot per state) — each showing its most recent
+  articles for the active language.
+- **Category/region page**: most-recent-first listing for that
+  region+language. No pagination in v1 (article volume doesn't warrant it
+  yet; add it later if it does) — cap the listing at the 100 most recent
+  articles for that region+language.
+- **Article page**: translated title/summary for the active language,
+  publish date, and a clearly visible "Source: <outlet>" link to the
+  original article. If the active language's translation is missing, fall
+  back to the original-language text with a visible "translation
+  unavailable" note, rather than a blank field.
+- **Empty states**: the site may have zero articles for a given
+  region/language at any point (a quiet day, or before the first pipeline
+  run lands) — every listing renders a real "no articles yet" state rather
+  than erroring or rendering blank.
+- **Data layer**: a `lib/content.ts` module reads `content/articles/**/*.json`
+  directly via Node `fs` (server components only) — no API route, no
+  database. Exposes functions like `getRecentByRegion(region, lang, limit)`,
+  `getArticleBySlug(region, slug)`, `getRegions()`.
+- **UI chrome strings** (nav labels, "Source:" label, the 18 region display
+  names, etc.) live in a per-language dictionary — not a full i18n
+  framework, since the chrome vocabulary is small (~30-40 strings). Rather
+  than hand-authoring translations for languages like Bengali/Hindi/
+  Ukrainian that can't be verified by inspection, a one-off script
+  (`scripts/generate-dictionaries.ts`) generates `shared/dictionaries/{lang}.json`
+  from a hand-written `shared/dictionaries/en.json` base by reusing the
+  content pipeline's existing, already-tested `translate.ts` (MyMemory) —
+  run manually when the base dictionary changes, not on the automated
+  fetch schedule. Article content translation itself remains entirely the
+  pipeline's job, never done at render time.
+
+### Visual design system — "Classic Editorial"
+
+Chosen after reviewing mockups against a New York Times–inspired direction
+(not a copy — an editorial reference point for typographic weight and
+restraint):
+
+- **Headlines**: Playfair Display (700/900) — high-contrast serif.
+- **Deck/subhead text**: Lora, italic.
+- **Body & UI text**: Inter (sans-serif).
+- **Palette**: white background, near-black text, one accent color —
+  masthead red `#b3121b` — used sparingly (active nav underline, section
+  labels, source/timestamp accents).
+- **Structure**: hairline black rules between sections, small-caps
+  uppercase section/region labels (e.g. "GLOBAL", "BAYERN").
+- **Non-Latin scripts** (Hindi, Bengali, Ukrainian, and any future
+  non-Latin language) use a matching Noto Serif/Sans variant for that
+  script at equivalent weights, so headlines stay legible and consistent
+  in weight across every language, not just Latin-script ones.
+- These are configured as Tailwind theme tokens (colors, font families),
+  not scattered inline styles, so the system stays consistent as pages are
+  added.
 
 ## Error handling
 
@@ -197,7 +248,12 @@ A language key is simply absent if translation failed for that article/language.
 - The GitHub Actions workflow supports `workflow_dispatch` for on-demand
   manual runs, used to verify the end-to-end pipeline before relying on the
   schedule.
-- Basic rendering tests for article and category pages against fixture JSON.
+- Unit tests for `lib/content.ts` (the frontend's data-reading layer)
+  against a fixture content directory, covering the empty-state case.
+- A manual `npm run dev` browser check of the golden path (home → category
+  → article → language switch) before any frontend page is considered
+  done — type-checking and unit tests verify correctness, not that the
+  page actually renders and looks right.
 
 ## Open questions / explicitly deferred
 
