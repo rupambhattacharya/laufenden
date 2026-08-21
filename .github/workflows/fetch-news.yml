@@ -1,0 +1,42 @@
+name: Fetch News
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run content pipeline
+        env:
+          MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
+        run: npm run fetch-news
+
+      - name: Commit and push new content
+        run: |
+          git config user.name "laufenden-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add content/
+          if git diff --cached --quiet; then
+            echo "No new articles, nothing to commit."
+          else
+            git commit -m "content: automated news fetch $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

@@ -1,5 +1,6 @@
 import { readFile } from 'node:fs/promises';
 import path from 'node:path';
+import { pathToFileURL } from 'node:url';
 import { fetchAllFeeds } from './fetchFeeds';
 import { berlinDateString, selectArticles } from './selectArticles';
 import { translateFields } from './translate';
@@ -52,7 +53,7 @@ export async function runPipeline({ contentDir = CONTENT_DIR, now = new Date() }
   return { published: selected.length };
 }
 
-if (import.meta.url === `file://${process.argv[1]}`) {
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   runPipeline()
     .then(({ published }) => {
       console.log(`Published ${published} article(s).`);
