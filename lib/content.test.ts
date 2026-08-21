@@ -47,7 +47,7 @@ describe('getArticlesByRegion', () => {
     await writeArticleFixture(dir, '2026-08-21', makeArticle({ slug: 'b', category: 'global', publishedAt: '2026-08-21T10:00:00Z' }));
     await writeArticleFixture(dir, '2026-08-21', makeArticle({ slug: 'c', category: 'bayern', publishedAt: '2026-08-21T09:00:00Z' }));
 
-    const result = await getArticlesByRegion('global', 100, dir);
+    const result = await getArticlesByRegion('global', 'en', 100, dir);
     expect(result.map((a) => a.slug)).toEqual(['b', 'a']);
   });
 
@@ -55,12 +55,33 @@ describe('getArticlesByRegion', () => {
     await writeArticleFixture(dir, '2026-08-21', makeArticle({ slug: 'a', publishedAt: '2026-08-21T08:00:00Z' }));
     await writeArticleFixture(dir, '2026-08-21', makeArticle({ slug: 'b', publishedAt: '2026-08-21T09:00:00Z' }));
 
-    const result = await getArticlesByRegion('global', 1, dir);
+    const result = await getArticlesByRegion('global', 'en', 1, dir);
     expect(result).toHaveLength(1);
   });
 
+  it('excludes articles that have no translation for the requested language', async () => {
+    await writeArticleFixture(
+      dir,
+      '2026-08-21',
+      makeArticle({
+        slug: 'de-only',
+        originalLanguage: 'de',
+        translations: { de: { title: 'Nur Deutsch', summary: 'Nur Deutsch.' } },
+        publishedAt: '2026-08-21T09:00:00Z',
+      })
+    );
+    await writeArticleFixture(
+      dir,
+      '2026-08-21',
+      makeArticle({ slug: 'has-en', publishedAt: '2026-08-21T08:00:00Z' })
+    );
+
+    const result = await getArticlesByRegion('global', 'en', 100, dir);
+    expect(result.map((a) => a.slug)).toEqual(['has-en']);
+  });
+
   it('returns an empty array when the articles directory does not exist', async () => {
-    const result = await getArticlesByRegion('global', 100, path.join(dir, 'does-not-exist'));
+    const result = await getArticlesByRegion('global', 'en', 100, path.join(dir, 'does-not-exist'));
     expect(result).toEqual([]);
   });
 });
@@ -71,8 +92,24 @@ describe('getRecentAcrossRegions', () => {
     await writeArticleFixture(dir, '2026-08-21', makeArticle({ slug: 'b', category: 'nrw', publishedAt: '2026-08-21T10:00:00Z' }));
     await writeArticleFixture(dir, '2026-08-21', makeArticle({ slug: 'c', category: 'global', publishedAt: '2026-08-21T09:00:00Z' }));
 
-    const result = await getRecentAcrossRegions(['bayern', 'nrw'], 10, dir);
+    const result = await getRecentAcrossRegions(['bayern', 'nrw'], 'en', 10, dir);
     expect(result.map((a) => a.slug)).toEqual(['b', 'a']);
+  });
+
+  it('excludes articles that have no translation for the requested language', async () => {
+    await writeArticleFixture(
+      dir,
+      '2026-08-21',
+      makeArticle({
+        slug: 'de-only',
+        category: 'bayern',
+        originalLanguage: 'de',
+        translations: { de: { title: 'Nur Deutsch', summary: 'Nur Deutsch.' } },
+      })
+    );
+
+    const result = await getRecentAcrossRegions(['bayern'], 'en', 10, dir);
+    expect(result).toEqual([]);
   });
 });
 

@@ -44,23 +44,32 @@ function sortByRecency(articles: Article[]): Article[] {
   return [...articles].sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
 }
 
+/** An article only counts as available in `lang` if it has a real translation for it. */
+function hasTranslation(article: Article, lang: LanguageCode): boolean {
+  return Boolean(article.translations[lang]);
+}
+
 export async function getArticlesByRegion(
   region: Region,
+  lang: LanguageCode,
   limit = 100,
   articlesDir: string = DEFAULT_ARTICLES_DIR
 ): Promise<Article[]> {
   const all = await getAllArticles(articlesDir);
-  return sortByRecency(all.filter((a) => a.category === region)).slice(0, limit);
+  const filtered = all.filter((a) => a.category === region && hasTranslation(a, lang));
+  return sortByRecency(filtered).slice(0, limit);
 }
 
 export async function getRecentAcrossRegions(
   regions: Region[],
+  lang: LanguageCode,
   limit: number,
   articlesDir: string = DEFAULT_ARTICLES_DIR
 ): Promise<Article[]> {
   const all = await getAllArticles(articlesDir);
   const regionSet = new Set(regions);
-  return sortByRecency(all.filter((a) => regionSet.has(a.category))).slice(0, limit);
+  const filtered = all.filter((a) => regionSet.has(a.category) && hasTranslation(a, lang));
+  return sortByRecency(filtered).slice(0, limit);
 }
 
 export async function getArticleBySlug(

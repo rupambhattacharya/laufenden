@@ -13,9 +13,9 @@ export default async function HomePage({ params }: { params: Promise<{ lang: str
 
   const dict = getDictionary(lang);
   const [globalArticles, germanyArticles, regionalArticles] = await Promise.all([
-    getArticlesByRegion('global', 6),
-    getArticlesByRegion('germany', 6),
-    getRecentAcrossRegions(STATE_REGIONS, 6),
+    getArticlesByRegion('global', lang, 6),
+    getArticlesByRegion('germany', lang, 6),
+    getRecentAcrossRegions(STATE_REGIONS, lang, 6),
   ]);
 
   const sections = [

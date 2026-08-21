@@ -20,7 +20,7 @@ export default async function RegionPage({
   }
 
   const dict = getDictionary(lang);
-  const articles = await getArticlesByRegion(region, 100);
+  const articles = await getArticlesByRegion(region, lang, 100);
 
   return (
     <div>
