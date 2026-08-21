@@ -25,10 +25,15 @@ absorbs spillover. Articles are dedup'd against `content/manifest.json`
 across runs and within each run's own batch, so two feeds serving the same
 story (rbb covers both Berlin and Brandenburg) publish it once.
 
-Optional environment variable: `MYMEMORY_EMAIL` — registering an email with
-MyMemory raises its free daily quota from 5,000 to 50,000 words. Set it as a
-repository secret (`Settings → Secrets and variables → Actions`) named
-`MYMEMORY_EMAIL` to have the scheduled workflow use it.
+Translation tries **MyMemory first, falling back to Google Cloud Translate**
+when MyMemory fails for a given request (rate-limited, quota-exhausted, or
+erroring) — MyMemory stays primary since it needs no billing account, Google
+just fills the gaps. Environment variables, both optional but recommended:
+`MYMEMORY_EMAIL` (registering an email with MyMemory raises its free daily
+quota from 5,000 to 50,000 words) and `GOOGLE_TRANSLATE_API_KEY` (a Google
+Cloud Translation API key — Basic/v2, 500,000 free characters/month). Set
+both as repository secrets (`Settings → Secrets and variables → Actions`) to
+have the scheduled workflow use them.
 
 **Known gap:** Saarland has no configured feed yet — no working public
 text-news RSS feed for it was found. Add one to `content/feeds.json` with
@@ -48,16 +53,8 @@ accent), built as Tailwind CSS v4 `@theme` tokens in `app/globals.css`.
 The UI chrome (nav labels, region names, a handful of fixed strings) lives in
 `shared/dictionaries/{lang}.json`, generated from `shared/dictionaries/en.json`
 via `npm run generate-dictionaries` (reuses the content pipeline's MyMemory
-wrapper). Re-run it whenever `en.json` changes; the 8 generated files are
-committed to the repo, not regenerated automatically.
-
-**Known gap:** the 8 non-English dictionary files are currently byte-identical
-to `en.json` (not real translations) — the first generation run exhausted
-MyMemory's daily quota (from earlier same-day testing) before any translation
-succeeded. Re-run `npm run generate-dictionaries` once the quota resets and
-commit the result; nothing else needs to change. This only affects UI chrome
-strings (nav labels, region names) — article content translation is unrelated
-and already working (see the content pipeline section above).
+→ Google Translate fallback). Re-run it whenever `en.json` changes; the 8
+generated files are committed to the repo, not regenerated automatically.
 
 ### Deploying to Vercel
 
