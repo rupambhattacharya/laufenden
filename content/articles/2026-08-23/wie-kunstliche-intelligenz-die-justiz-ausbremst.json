@@ -1,0 +1,31 @@
+{
+  "id": "59cbfbb43bc5d6af51d72e974fdf5d0fdf843c9e",
+  "slug": "wie-kunstliche-intelligenz-die-justiz-ausbremst",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/gesellschaft/kuenstliche-intelligenz-justiz-100.html",
+  "publishedAt": "2026-08-22T17:59:00.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "How artificial intelligence is slowing down the judiciary",
+      "summary": "The social courts in particular are experiencing the phenomenon: more and more plaintiffs are apparently using artificial intelligence to formulate submissions. For the judiciary, this means a lot of work with sometimes nonsensical pleadings. By T. Denzel."
+    },
+    "de": {
+      "title": "Wie Künstliche Intelligenz die Justiz ausbremst",
+      "summary": "Vor allem die Sozialgerichte erleben das Phänomen: Immer mehr Kläger nutzen offenbar Künstliche Intelligenz, um Eingaben zu formulieren. Für die Justiz bedeutet das viel Arbeit mit teils unsinnigen Schriftsätzen. Von T. Denzel."
+    },
+    "hi": {
+      "title": "कैसे कृत्रिम बुद्धिमत्ता न्यायपालिका को धीमा कर रही है",
+      "summary": "विशेष रूप से सामाजिक अदालतें इस घटना का अनुभव कर रही हैं: अधिक से अधिक वादी जाहिरा तौर पर प्रस्तुतियाँ तैयार करने के लिए कृत्रिम बुद्धिमत्ता का उपयोग कर रहे हैं। न्यायपालिका के लिए, इसका मतलब है कि कभी - कभी बेतुकी दलीलों के साथ बहुत काम करना। टी. डेन्ज़ेल द्वारा।"
+    },
+    "bn": {
+      "title": "কীভাবে আর্টিফিশিয়াল ইন্টেলিজেন্স বিচার ব্যবস্থাকে ধীর করে দিচ্ছে",
+      "summary": "বিশেষত সামাজিক আদালতগুলি এই ঘটনাটি অনুভব করছে: আরও বেশি সংখ্যক বাদী আপাতদৃষ্টিতে জমা দেওয়ার জন্য কৃত্রিম বুদ্ধিমত্তা ব্যবহার করছেন । বিচার বিভাগের জন্য, এর অর্থ কখনও কখনও অযৌক্তিক আবেদন নিয়ে প্রচুর কাজ । টি. ডেনজেলের দ্বারা ।"
+    },
+    "fr": {
+      "title": "Comment l'intelligence artificielle freine la justice",
+      "summary": "Ce sont surtout les tribunaux sociaux qui font l'expérience du phénomène : de plus en plus de plaignants utilisent apparemment l'intelligence artificielle pour formuler des requêtes. Pour la justice, cela signifie beaucoup de travail avec des écritures parfois absurdes. De T. Denzel."
+    }
+  }
+}

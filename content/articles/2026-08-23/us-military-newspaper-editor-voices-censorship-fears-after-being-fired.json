@@ -1,0 +1,31 @@
+{
+  "id": "d4657c5082b78ff2cbc43f2be711d640f393b424",
+  "slug": "us-military-newspaper-editor-voices-censorship-fears-after-being-fired",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-22T16:57:19.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "US military newspaper editor voices censorship fears after being fired",
+      "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\"."
+    },
+    "de": {
+      "title": "US-Militärzeitungsredakteur äußert Zensurängste nach Entlassung",
+      "summary": "Erik Slavin glaubt, dass er gefeuert wurde, weil er in einem Interview sagte, dass \"in einer hypothetischen Situation Zensur eine rote Linie wäre\"."
+    },
+    "hi": {
+      "title": "अमेरिकी सैन्य समाचार पत्र के संपादक ने बर्खास्त होने के बाद सेंसरशिप की आशंका जताई",
+      "summary": "एरिक स्लाविन का मानना है कि उन्हें एक साक्षात्कार में यह कहने के लिए निकाल दिया गया था कि \"एक काल्पनिक स्थिति में, सेंसरशिप एक लाल रेखा होगी\"।"
+    },
+    "bn": {
+      "title": "মার্কিন সামরিক সংবাদপত্রের সম্পাদক বরখাস্ত হওয়ার পর সেন্সরশিপের ভীতি প্রকাশ করেছেন",
+      "summary": "এরিক স্লাভিন বিশ্বাস করেন যে তাকে একটি সাক্ষাত্কারে বলার জন্য বরখাস্ত করা হয়েছিল যে \"একটি কাল্পনিক পরিস্থিতিতে, সেন্সরশিপ একটি লাল রেখা হবে\" ।"
+    },
+    "fr": {
+      "title": "Le rédacteur en chef du journal militaire américain exprime ses craintes de censure après avoir été licenci",
+      "summary": "Erik Slavin estime avoir été licencié pour avoir déclaré dans une interview que « dans une situation hypothétique, la censure serait une ligne rouge »."
+    }
+  }
+}

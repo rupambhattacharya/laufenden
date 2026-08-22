@@ -1,0 +1,31 @@
+{
+  "id": "0cade8a2e9b260f4d6000f84965c8c937fa67b20",
+  "slug": "brennende-autos-losen-gro-einsatz-in-karlsruher-parkhaus-aus",
+  "category": "baden-wuerttemberg",
+  "sourceName": "SWR Aktuell Baden-Württemberg",
+  "sourceUrl": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/brand-in-parkhaus-in-karlsruhe-100.html",
+  "publishedAt": "2026-08-22T21:55:45.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Burning cars trigger large-scale deployment in Karlsruhe car park",
+      "summary": "The fire brigade had to extinguish a fire in a parking garage in Karlsruhe. Five people were slightly injured. The cause of the fire is unclear."
+    },
+    "de": {
+      "title": "Brennende Autos lösen Großeinsatz in Karlsruher Parkhaus aus",
+      "summary": "Die Feuerwehr musste in einem Parkhaus in Karlsruhe ein Feuer löschen. Fünf Personen wurden leicht verletzt. Die Brandursache ist unklar."
+    },
+    "hi": {
+      "title": "जलती हुई कारों ने कार्लसरूहे कार पार्क में बड़े पैमाने पर तैनाती को ट्रिगर किया",
+      "summary": "फायर ब्रिगेड को कार्लस्रूहे में एक पार्किंग गैरेज में लगी आग को बुझाना पड़ा। पांच लोग मामूली रूप से घायल हो गए। आग लगने का कारण स्पष्ट नहीं है।"
+    },
+    "bn": {
+      "title": "জ্বলন্ত গাড়িগুলি কার্লসরুহে গাড়ি পার্কে বড় আকারের মোতায়েনকে ট্রিগার করে",
+      "summary": "কার্লস্রুহে একটি পার্কিং গ্যারেজে ফায়ার ব্রিগেডকে আগুন জ্বালাতে হয়েছিল । পাঁচজন সামান্য আহত হয়েছেন । অগ্নিকাণ্ডের কারণ স্পষ্ট নয় ।"
+    },
+    "fr": {
+      "title": "Les voitures en feu déclenchent une grande intervention dans le parking de Karlsruhe",
+      "summary": "Les pompiers ont dû éteindre un incendie dans un parking de Karlsruhe. Cinq personnes ont été légèrement blessées. La cause de l'incendie n'est pas claire."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "6188a06057a94560f9ffde6609e4dad9d26c246d",
+  "slug": "wenn-fruhchen-krank-werden",
+  "category": "nrw",
+  "sourceName": "WDR.de",
+  "sourceUrl": "https://www1.wdr.de/nrw/fruehchen-bakterium-angst-der-eltern100.html",
+  "publishedAt": "2026-08-22T22:00:30.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "When premature babies get sick",
+      "summary": "A premature baby dies after an infection. We spoke to parents whose child survived such an infection."
+    },
+    "de": {
+      "title": "Wenn Frühchen krank werden",
+      "summary": "Ein Frühchen stirbt nach einer Infektion. Wir haben mit Eltern gesprochen, deren Kind so eine Infektion überlebt hat."
+    },
+    "hi": {
+      "title": "जब समय से पहले बच्चे बीमार हो जाते हैं",
+      "summary": "संक्रमण के बाद एक समय से पहले बच्चे की मृत्यु हो जाती है। हमने उन माता - पिता से बात की जिनके बच्चे इस तरह के संक्रमण से बच गए।"
+    },
+    "bn": {
+      "title": "যখন অকালে শিশুরা অসুস্থ হয়ে পড়ে",
+      "summary": "একটি অকাল শিশু সংক্রমণের পরে মারা যায় । আমরা সেই পিতামাতার সাথে কথা বলেছি যাদের সন্তান এই ধরনের সংক্রমণ থেকে বেঁচে গিয়েছিল ।"
+    },
+    "fr": {
+      "title": "Quand les bébés prématurés tombent malades",
+      "summary": "Un bébé prématuré meurt après une infection. Nous avons parlé à des parents dont l'enfant a survécu à une telle infection."
+    }
+  }
+}

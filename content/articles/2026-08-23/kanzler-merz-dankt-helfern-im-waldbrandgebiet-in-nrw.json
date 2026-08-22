@@ -1,0 +1,31 @@
+{
+  "id": "a59cda45504f65d3548a3c6c76b67b6738f1f75a",
+  "slug": "kanzler-merz-dankt-helfern-im-waldbrandgebiet-in-nrw",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-eifel-100.html",
+  "publishedAt": "2026-08-22T15:06:54.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Chancellor Merz thanks helpers in the forest fire area in North Rhine-Westphalia",
+      "summary": "After the forest fire in the Hürtgen Forest in North Rhine-Westphalia, the Chancellor thanked the helpers. His visit came too late, local residents say. But the rescue workers praise the Chancellor's timing."
+    },
+    "de": {
+      "title": "Kanzler Merz dankt Helfern im Waldbrandgebiet in NRW",
+      "summary": "Nach dem Waldbrand im nordrhein-westfälischen Hürtgenwald hat der Kanzler den Helfern gedankt. Zu spät sei sein Besuch gekommen, sagen Anwohner. Doch die Rettungskräfte loben das Timing des Kanzlers."
+    },
+    "hi": {
+      "title": "चांसलर मर्ज़ ने नॉर्थ राइन - वेस्टफ़ेलिया में फ़ॉरेस्ट फ़ायर एरिया में मददगारों का शुक्रिया अदा किया",
+      "summary": "नॉर्थ राइन - वेस्टफेलिया के हर्टगेन फ़ॉरेस्ट में जंगल में लगी आग के बाद, चांसलर ने मददगारों का शुक्रिया अदा किया। स्थानीय निवासियों का कहना है कि उनकी मुलाकात बहुत देर से हुई। लेकिन बचावकर्मी कुलाधिपति के समय की प्रशंसा करते हैं।"
+    },
+    "bn": {
+      "title": "চ্যান্সেলর মার্জ উত্তর রাইন-ওয়েস্টফালিয়ার বনাঞ্চলে অগ্নিকাণ্ডে সাহায্যকারীদের ধন্যবাদ জানিয়েছেন",
+      "summary": "উত্তর রাইন-ওয়েস্টফালিয়ার হার্টজেন বনে দাবানলের পরে, চ্যান্সেলর সাহায্যকারীদের ধন্যবাদ জানান । তার সফর অনেক দেরিতে এসেছে, স্থানীয় বাসিন্দারা বলছেন । কিন্তু উদ্ধারকর্মীরা চ্যান্সেলরের সময়ের প্রশংসা করেন ।"
+    },
+    "fr": {
+      "title": "Le chancelier Merz remercie les assistants dans la zone de feu de forêt en Rhénanie-du-Nord-Westphal",
+      "summary": "Après l'incendie de forêt dans la forêt de Hürtgen en Rhénanie-du-Nord-Westphalie, le chancelier a remercié les bénévoles. Sa visite est arrivée trop tard, disent les habitants. Mais les secouristes louent le timing du chancelier."
+    }
+  }
+}

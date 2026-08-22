@@ -1,0 +1,31 @@
+{
+  "id": "629fa4a9af6b1a0dd9f7411696ca3153d0ca12a8",
+  "slug": "handelsgesprache-gescheitert-usa-verhangen-neue-zolle-gegen-kanada",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html",
+  "publishedAt": "2026-08-22T17:04:55.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Trade talks failed - US imposes new tariffs on Canada",
+      "summary": "Negotiations for a trade agreement between the US and Canada have failed. Washington then put further tariffs in place. The neighbor's reaction is harsh: Prime Minister Carney speaks of retribution."
+    },
+    "de": {
+      "title": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
+      "summary": "Die Verhandlungen über ein Handelsabkommen zwischen den USA und Kanada sind gescheitert. Washington setzte daraufhin weitere Zölle in Kraft. Die Reaktion des Nachbarn fällt hart aus: Regierungschef Carney spricht von Vergeltung."
+    },
+    "hi": {
+      "title": "व्यापार वार्ता विफल - अमेरिका ने कनाडा पर नए शुल्क लगाए",
+      "summary": "अमेरिका और कनाडा के बीच व्यापार समझौते के लिए बातचीत विफल हो गई है। वाशिंगटन ने तब और टैरिफ लगाए। पड़ोसी की प्रतिक्रिया कठोर है: प्रधान मंत्री कार्नी प्रतिशोध की बात करते हैं।"
+    },
+    "bn": {
+      "title": "বাণিজ্য আলোচনা ব্যর্থ হয়েছে - মার্কিন যুক্তরাষ্ট্র কানাডার উপর নতুন শুল্ক আরোপ করেছে",
+      "summary": "মার্কিন যুক্তরাষ্ট্র এবং কানাডার মধ্যে একটি বাণিজ্য চুক্তির আলোচনা ব্যর্থ হয়েছে । তারপরে ওয়াশিংটন আরও শুল্ক আরোপ করে । প্রতিবেশীর প্রতিক্রিয়া কঠোর: প্রধানমন্ত্রী কার্নি প্রতিশোধের কথা বলেছেন ।"
+    },
+    "fr": {
+      "title": "Échec des négociations commerciales - Les États-Unis imposent de nouveaux droits de douane au Canada",
+      "summary": "Les négociations sur un accord commercial entre les États-Unis et le Canada ont échoué. Washington a ensuite imposé d'autres droits de douane. La réaction du voisin est dure : le chef du gouvernement Carney parle de représailles."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "5bf985e2d3574ad0f36de2b253db1655efb5c22c",
+  "slug": "watch-moment-humanoid-robot-beats-usain-bolt-s-100m-record",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-22T17:02:06.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+      "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing."
+    },
+    "de": {
+      "title": "Uhr: Moment humanoider Roboter schlägt Usain Bolts 100-Meter-Rekord",
+      "summary": "Der Roboter lief die Strecke in 9,39 Sekunden bei den World Humanoid Robot Games in Peking."
+    },
+    "hi": {
+      "title": "देखें: पल - पल ह्यूमनॉइड रोबोट ने उसैन बोल्ट के 100 मीटर के रिकॉर्ड को पीछे छोड़ा",
+      "summary": "बीजिंग में वर्ल्ड ह्यूमनॉइड रोबोट गेम्स में रोबोट ने 9.39 सेकंड में दूरी तय की।"
+    },
+    "bn": {
+      "title": "ওয়াচ: মুহুর্তের হিউম্যানয়েড রোবট উসাইন বোল্টের 100 মিটার রেকর্ডকে পরাজিত করেছে",
+      "summary": "বেইজিংয়ের ওয়ার্ল্ড হিউম্যানয়েড রোবট গেমসে রোবটটি ৯. ৩৯ সেকেন্ডে এই দূরত্ব অতিক্রম করেছিল ।"
+    },
+    "fr": {
+      "title": "Regarder : Le robot humanoïde Moment bat le record de 100 m d'Usain Bolt",
+      "summary": "Le robot a parcouru la distance en 9,39 secondes aux Jeux mondiaux des robots humanoïdes à Pékin."
+    }
+  }
+}

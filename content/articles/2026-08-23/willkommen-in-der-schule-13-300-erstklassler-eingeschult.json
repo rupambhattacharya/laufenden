@@ -1,0 +1,31 @@
+{
+  "id": "1175b6f5efda9f1c12b02d8e3f2ede7e425eadf9",
+  "slug": "willkommen-in-der-schule-13-300-erstklassler-eingeschult",
+  "category": "mecklenburg-vorpommern",
+  "sourceName": "Nachrichten aus Mecklenburg-Vorpommern",
+  "sourceUrl": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/willkommen-in-der-schule-13300-erstklaessler-werden-eingeschult,einschulung-166.html",
+  "publishedAt": "2026-08-22T19:25:32.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Welcome to school: 13,300 first graders enrolled",
+      "summary": "Before the actual school year starts on Monday, there was a special day on Saturday for many children and families in MV: enrolment."
+    },
+    "de": {
+      "title": "Willkommen in der Schule: 13.300 Erstklässler eingeschult",
+      "summary": "Bevor am Montag das eigentliche Schuljahr startet, stand am Samstag für viele Kinder und Familien in MV ein besonderer Tag an: Die Einschulung."
+    },
+    "hi": {
+      "title": "स्कूल में आपका स्वागत है: 13,300 फर्स्ट ग्रेडर नामांकित हैं",
+      "summary": "सोमवार को वास्तविक स्कूल वर्ष शुरू होने से पहले, एमवी: नामांकन में कई बच्चों और परिवारों के लिए शनिवार को एक विशेष दिन था।"
+    },
+    "bn": {
+      "title": "স্কুলে স্বাগতম: 13,300 প্রথম গ্রেড নথিভুক্ত",
+      "summary": "প্রকৃত স্কুল বছর সোমবার শুরু হওয়ার আগে, এমভি-তে অনেক শিশু এবং পরিবারের জন্য শনিবার একটি বিশেষ দিন ছিল: তালিকাভুক্তি ।"
+    },
+    "fr": {
+      "title": "Bienvenue à l'école : 13 300 élèves de première année scolarisés",
+      "summary": "Avant le début de l'année scolaire proprement dite le lundi, une journée spéciale était prévue pour de nombreux enfants et familles de MV le samedi : la scolarisation."
+    }
+  }
+}

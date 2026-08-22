@@ -1,0 +1,31 @@
+{
+  "id": "e79c52082a9b21211d89809df573e58378f4d5fc",
+  "slug": "china-humanoider-roboter-schneller-uber-100-meter-als-usain-bolt",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/asien/china-roboter-lauf-100.html",
+  "publishedAt": "2026-08-22T19:29:05.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "China: Humanoid robot faster over 100 meters than Usain Bolt",
+      "summary": "At the World Humanoid Robotics Championships in China, a Chinese model beat Usain Bolt's 100-meter world record. It wasn't the first time robots ran faster than humans."
+    },
+    "de": {
+      "title": "China: Humanoider Roboter schneller über 100 Meter als Usain Bolt",
+      "summary": "Bei der Weltmeisterschaft humanoider Roboter in China hat ein chinesisches Modell den 100-Meter-Weltrekord von Usain Bolt unterboten. Es war nicht das erste Mal, dass Roboter schneller als Menschen laufen."
+    },
+    "hi": {
+      "title": "चीन: ह्यूमनॉइड रोबोट उसैन बोल्ट से 100 मीटर से भी ज़्यादा तेज़",
+      "summary": "चीन में विश्व ह्यूमनॉइड रोबोटिक्स चैंपियनशिप में, एक चीनी मॉडल ने उसैन बोल्ट के 100 मीटर के विश्व रिकॉर्ड को हराया। यह पहली बार नहीं था जब रोबोट मनुष्यों की तुलना में तेजी से दौड़ रहे थे।"
+    },
+    "bn": {
+      "title": "চীন: হিউম্যানয়েড রোবট উসাইন বোল্টের চেয়ে ১০০ মিটারের বেশি দ্রুত",
+      "summary": "চীনে ওয়ার্ল্ড হিউম্যানয়েড রোবোটিক্স চ্যাম্পিয়নশিপে, একজন চীনা মডেল উসাইন বোল্টের ১০০ মিটার বিশ্ব রেকর্ড ভেঙেছেন । এই প্রথম নয় যে রোবট মানুষের চেয়ে দ্রুত গতিতে ছুটেছে ।"
+    },
+    "fr": {
+      "title": "Chine : Robot humanoïde plus rapide de plus de 100 mètres qu'Usain Bolt",
+      "summary": "Lors de la Coupe du monde des robots humanoïdes en Chine, un modèle chinois a battu le record du monde du 100 mètres d'Usain Bolt. Ce n'était pas la première fois que les robots couraient plus vite que les humains."
+    }
+  }
+}

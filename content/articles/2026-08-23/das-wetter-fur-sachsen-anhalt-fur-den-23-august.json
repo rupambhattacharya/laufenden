@@ -1,0 +1,31 @@
+{
+  "id": "61325a8177c74e030f31387a3982ec314445f247",
+  "slug": "das-wetter-fur-sachsen-anhalt-fur-den-23-august",
+  "category": "sachsen-anhalt",
+  "sourceName": "Sachsen-Anhalt | Aktuelle Nachrichten, News und Videos",
+  "sourceUrl": "https://www.mdr.de/video/mdr-videos/c/video-1635674.html",
+  "publishedAt": "2026-08-22T19:17:26.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "The weather for Saxony-Anhalt for 23 August",
+      "summary": "In the next few days, we will increasingly need the sunshine instead of the umbrella. A mix of sun and clouds will initially ensure a friendly end to the week in Saxony-Anhalt."
+    },
+    "de": {
+      "title": "Das Wetter für Sachsen-Anhalt für den 23. August",
+      "summary": "In den nächsten Tagen brauchen wir wieder vermehrt den Sonnen- statt des Regenschirms. Ein Mix aus Sonne und Wolken wird in Sachsen-Anhalt zunächst für einen freundlichen Wochenausklang sorgen."
+    },
+    "hi": {
+      "title": "23 अगस्त के लिए सैक्सोनी - एन्हाल्ट का मौसम",
+      "summary": "अगले कुछ दिनों में, हमें छतरी के बजाय धूप की तेजी से आवश्यकता होगी। सूरज और बादलों का मिश्रण शुरू में सैक्सोनी - एन्हाल्ट में सप्ताह के अंत में एक दोस्ताना अंत सुनिश्चित करेगा।"
+    },
+    "bn": {
+      "title": "23 আগস্টের জন্য স্যাক্সনি-আনহাল্টের আবহাওয়া",
+      "summary": "পরবর্তী কয়েক দিনের মধ্যে, ছাতার পরিবর্তে আমাদের ক্রমবর্ধমানভাবে রোদের প্রয়োজন হবে । সূর্য এবং মেঘের মিশ্রণ প্রাথমিকভাবে স্যাক্সনি-আনহাল্টে সপ্তাহের বন্ধুত্বপূর্ণ সমাপ্তি নিশ্চিত করবে ।"
+    },
+    "fr": {
+      "title": "La météo pour la Saxe-Anhalt pour le 23 août",
+      "summary": "Au cours des prochains jours, nous aurons à nouveau besoin de plus de parasols au lieu de parapluies. Un mélange de soleil et de nuages assurera d'abord une fin de semaine amicale en Saxe-Anhalt."
+    }
+  }
+}
