@@ -1,0 +1,31 @@
+{
+  "id": "2d671198506ed848725b4d1d76ea4f78f82213a7",
+  "slug": "iran-reagiert-mit-drohungen-auf-us-drohungen",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/asien/usa-iran-warnung-sanktionen-100.html",
+  "publishedAt": "2026-08-23T15:25:53.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Iran responds with threats to US threats",
+      "summary": "There is still no agreement in the Iran war. The US threatens an \"economic war\", Tehran reacts sharply. Anyone who participates in this will be seen as an \"enemy\". But Iran's economic problems seem to be growing."
+    },
+    "de": {
+      "title": "Iran reagiert mit Drohungen auf US-Drohungen",
+      "summary": "Noch immer gibt es keine Einigung im Iran-Krieg. Die USA drohen mit einem \"Wirtschaftskrieg\", Teheran reagiert scharf. Jeder, der sich daran beteilige, werde als \"Feind\" gesehen. Doch die ökonomischen Probleme Irans wachsen offenbar."
+    },
+    "hi": {
+      "title": "ईरान ने अमेरिकी धमकियों का जवाब दिया",
+      "summary": "ईरान युद्ध में अभी भी कोई समझौता नहीं हुआ है। अमेरिका ने \"आर्थिक युद्ध\" की धमकी दी है, तेहरान ने कड़ी प्रतिक्रिया व्यक्त की है। जो कोई भी इसमें भाग लेता है उसे \"दुश्मन\" के रूप में देखा जाएगा। लेकिन ईरान की आर्थिक समस्याएं बढ़ रही हैं।"
+    },
+    "bn": {
+      "title": "ইরান মার্কিন হুমকির হুমকি দিয়ে সাড়া দেয়",
+      "summary": "ইরান যুদ্ধে এখনও কোনও চুক্তি হয়নি । মার্কিন যুক্তরাষ্ট্র একটি \"অর্থনৈতিক যুদ্ধ\" এর হুমকি দেয়, তেহরান তীব্র প্রতিক্রিয়া জানায় । যে কেউ এতে অংশ নেবে তাকে \"শত্রু\" হিসাবে দেখা হবে । কিন্তু ইরানের অর্থনৈতিক সমস্যা বাড়ছে বলে মনে হচ্ছে ।"
+    },
+    "fr": {
+      "title": "L'Iran répond aux menaces américaines",
+      "summary": "Il n'y a toujours pas d'accord sur la guerre en Iran. Les États-Unis menacent d'une « guerre économique », Téhéran réagit violemment. Quiconque y participe est considéré comme un « ennemi ». Mais les problèmes économiques de l'Iran semblent s'aggraver."
+    }
+  }
+}

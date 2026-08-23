@@ -1,0 +1,31 @@
+{
+  "id": "9a84101931e06547ee111a4bb0129ab0c7393145",
+  "slug": "france-links-sharp-rise-in-drownings-to-heatwaves",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-23T17:39:33.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "France links sharp rise in drownings to heatwaves",
+      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June."
+    },
+    "de": {
+      "title": "Frankreich verbindet einen starken Anstieg des Ertrinkens mit Hitzewellen",
+      "summary": "Ein Regierungsminister sagt, dass die Menschen Risiken eingegangen sind, indem sie ins Wasser gegangen sind, mit 301 Toten seit dem 19. Juni."
+    },
+    "hi": {
+      "title": "फ्रांस डूबने में तेज वृद्धि को हीटवेव से जोड़ता है",
+      "summary": "एक सरकारी मंत्री का कहना है कि लोग पानी में जाकर जोखिम उठा रहे हैं, 19 जून से अब तक 301 लोगों की मौत हो चुकी है।"
+    },
+    "bn": {
+      "title": "ফ্রান্স ডুবে যাওয়ার তীব্র উত্থানকে তাপপ্রবাহের সাথে যুক্ত করে",
+      "summary": "একজন সরকারী মন্ত্রী বলেছেন যে ১৯ শে জুন থেকে ৩০১ জন মারা যাওয়ার সাথে সাথে মানুষ পানিতে গিয়ে ঝুঁকি নিচ্ছে ।"
+    },
+    "fr": {
+      "title": "La France lie la forte augmentation des noyades aux vagues de chaleur",
+      "summary": "Un ministre du gouvernement a déclaré que les gens prenaient des risques en allant dans l'eau, avec 301 morts depuis le 19 juin."
+    }
+  }
+}

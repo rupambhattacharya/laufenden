@@ -1,0 +1,31 @@
+{
+  "id": "8d2f77d48c8adb168ee77dadbbcecce633cc35ce",
+  "slug": "in-80-stunden-durch-sh-jetzt-geht-es-ins-binnenland",
+  "category": "schleswig-holstein",
+  "sourceName": "Nachrichten aus Schleswig-Holstein",
+  "sourceUrl": "https://www.ndr.de/nachrichten/schleswig-holstein/in-80-stunden-durch-sh-jetzt-geht-es-ins-binnenland,80stunden-100.html",
+  "publishedAt": "2026-08-23T20:39:28.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "In 80 hours through SH: Now it goes inland",
+      "summary": "Reporter Kim is on a discovery tour for the country's 80th anniversary. In the last 16 hours it goes through the countryside."
+    },
+    "de": {
+      "title": "In 80 Stunden durch SH: Jetzt geht es ins Binnenland",
+      "summary": "Reporterin Kim ist zum 80. Landesjubiläum auf Entdeckungstour. In den letzten 16 Stunden geht es durchs Binnenland."
+    },
+    "hi": {
+      "title": "SH के माध्यम से 80 घंटे में: अब यह अंतर्देशीय हो जाता है",
+      "summary": "रिपोर्टर किम देश की 80 वीं वर्षगांठ के लिए खोज दौरे पर हैं। पिछले 16 घंटों में यह ग्रामीण इलाकों से होकर गुजरता है।"
+    },
+    "bn": {
+      "title": "SH এর মাধ্যমে 80 ঘন্টার মধ্যে: এখন এটি অভ্যন্তরীণ হয়ে যায়",
+      "summary": "রিপোর্টার কিম দেশের ৮০ তম বার্ষিকীতে একটি আবিষ্কার সফরে রয়েছেন । গত 16 ঘন্টার মধ্যে এটি গ্রামাঞ্চলের মধ্য দিয়ে যায় ।"
+    },
+    "fr": {
+      "title": "En 80 heures à travers SH : maintenant, c'est à l'intérieur des terres",
+      "summary": "La journaliste Kim part à la découverte du 80e anniversaire du pays. Au cours des 16 dernières heures, vous traverserez l'intérieur des terres."
+    }
+  }
+}

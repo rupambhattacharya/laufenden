@@ -1,0 +1,31 @@
+{
+  "id": "6700a3e81a77a028909fdc2c9b5b705db3e16f6b",
+  "slug": "mehrere-leichen-nach-bootsungluck-vor-tunesien-geborgen",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootsunglueck-100.html",
+  "publishedAt": "2026-08-23T21:38:32.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Several bodies recovered from Tunisia after boat accident",
+      "summary": "The number of fatalities has continued to rise after the boat accident off the coast of the North African country. Of the 15 inmates, only one person remains missing. The migrants apparently wanted to go to Italy."
+    },
+    "de": {
+      "title": "Mehrere Leichen nach Bootsunglück vor Tunesien geborgen",
+      "summary": "Die Zahl der Todesopfer ist nach dem Bootsunglück vor der Küste des nordafrikanischen Landes weiter gestiegen. Von den 15 Insassen wird nur noch ein Mensch vermisst. Die Migranten wollten offenbar nach Italien."
+    },
+    "hi": {
+      "title": "नाव दुर्घटना के बाद ट्यूनीशिया से कई शव बरामद किए गए",
+      "summary": "उत्तरी अफ्रीकी देश के तट पर नाव दुर्घटना के बाद मरने वालों की संख्या में वृद्धि जारी है। 15 कैदियों में से केवल एक व्यक्ति लापता है। प्रवासी जाहिर तौर पर इटली जाना चाहते थे।"
+    },
+    "bn": {
+      "title": "নৌকা দুর্ঘটনায় তিউনিসিয়া থেকে বেশ কয়েকটি মৃতদেহ উদ্ধার",
+      "summary": "উত্তর আফ্রিকান দেশের উপকূলে নৌকা দুর্ঘটনার পরে মৃতের সংখ্যা বাড়তে থাকে । ১৫ জন বন্দীর মধ্যে মাত্র একজন নিখোঁজ রয়েছেন । অভিবাসীরা দৃশ্যত ইতালি যেতে চেয়েছিলেন ।"
+    },
+    "fr": {
+      "title": "Plusieurs corps retrouvés au large de la Tunisie après le naufrage",
+      "summary": "Le nombre de morts a continué d'augmenter après l'accident de bateau au large des côtes du pays nord-africain. Sur les 15 occupants, une seule personne est portée disparue. Apparemment, les migrants voulaient aller en Italie."
+    }
+  }
+}

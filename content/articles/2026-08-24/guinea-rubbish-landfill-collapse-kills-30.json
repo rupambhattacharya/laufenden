@@ -1,0 +1,31 @@
+{
+  "id": "69938856737205cf59498e2e9a5f722897b6b1a4",
+  "slug": "guinea-rubbish-landfill-collapse-kills-30",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-23T18:17:37.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Guinea rubbish landfill collapse kills 30",
+      "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says."
+    },
+    "de": {
+      "title": "Zusammenbruch der Mülldeponie in Guinea tötet 30",
+      "summary": "Ein Müllhaufen an einer großen Mülldeponie hat mehrere Häuser in der Hauptstadt begraben, sagt die Regierung."
+    },
+    "hi": {
+      "title": "गिनी में कचरा ढहने से 30 लोगों की मौत",
+      "summary": "सरकार का कहना है कि एक प्रमुख अपशिष्ट स्थल पर कचरे के ढेर ने राजधानी में कई घरों को दफन कर दिया।"
+    },
+    "bn": {
+      "title": "গিনিতে আবর্জনার স্তূপ ধসে নিহত ৩০",
+      "summary": "সরকার বলছে, রাজধানীর বেশ কয়েকটি বাড়িতে একটি প্রধান বর্জ্য স্থলে আবর্জনার স্তূপ সমাহিত করা হয়েছে ।"
+    },
+    "fr": {
+      "title": "L'effondrement de la décharge des ordures en Guinée tue 30",
+      "summary": "Un monticule d'ordures sur un important site de déchets a enterré plusieurs maisons dans la capitale, selon le gouvernement."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "c5d943c492bc41ed23d1a0deec508744b5f8d5b7",
+  "slug": "afd-vorsitzender-chrupalla-nennt-klimawandel-nebenthema",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
+  "publishedAt": "2026-08-23T18:05:46.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "AfD Chairman Chrupalla calls climate change a \"secondary issue\"",
+      "summary": "Germany is experiencing an extreme summer with heat-related deaths and forest fires. The AfD chairman Chrupalla nevertheless criticises a \"climate hype\". It is important to make electricity affordable for air conditioners, he said in the ARD summer interview."
+    },
+    "de": {
+      "title": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
+      "summary": "Deutschland erlebt einen Extremsommer mit Hitzetoten und Waldbränden. Der AfD-Vorsitzende Chrupalla kritisiert dennoch einen \"Klima-Hype\". Wichtig sei, den Strom für Klimageräte bezahlbar zu machen, sagte er im ARD-Sommerinterview."
+    },
+    "hi": {
+      "title": "एएफडी के अध्यक्ष क्रुपल्ला ने जलवायु परिवर्तन को \"द्वितीयक मुद्दा\" बताया",
+      "summary": "जर्मनी गर्मी से संबंधित मौतों और जंगल की आग के साथ एक चरम गर्मी का सामना कर रहा है। एएफडी के अध्यक्ष क्रुपल्ला फिर भी \"जलवायु प्रचार\" की आलोचना करते हैं। उन्होंने एआरडी ग्रीष्मकालीन साक्षात्कार में कहा कि एयर कंडीशनर के लिए बिजली को किफायती बनाना महत्वपूर्ण है।"
+    },
+    "bn": {
+      "title": "এএফডি চেয়ারম্যান ক্রুপাল্লা জলবায়ু পরিবর্তনকে একটি \"গৌণ সমস্যা\" বলে অভিহিত করেছেন",
+      "summary": "তাপ-সম্পর্কিত মৃত্যু এবং বনের আগুন নিয়ে জার্মানিতে চরম গ্রীষ্মকাল চলছে । এএফডি চেয়ারম্যান Chrupalla তবুও একটি \"জলবায়ু হাইপ\" সমালোচনা করেন । এয়ার কন্ডিশনারগুলির জন্য বিদ্যুৎ সাশ্রয়ী করা গুরুত্বপূর্ণ, তিনি এআরডি গ্রীষ্মকালীন সাক্ষাত্কারে বলেছিলেন ।"
+    },
+    "fr": {
+      "title": "Chrupalla, président de l'AfD, qualifie le changement climatique de « sujet secondaire »",
+      "summary": "L'Allemagne connaît un été extrême avec des morts de chaleur et des incendies de forêt. Le président de l'AfD, Chrupalla, critique néanmoins un « battage médiatique sur le climat ». Il est important de rendre l'électricité abordable pour les climatiseurs, a-t-il déclaré dans l'interview d'été d'ARD."
+    }
+  }
+}

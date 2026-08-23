@@ -1,0 +1,31 @@
+{
+  "id": "71c38b08752bab14ca0e0826793416aa337553ad",
+  "slug": "openai-startet-werbegeschaft-in-europa-wie-sich-ki-finanzieren-lasst",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/unternehmen/chat-gpt-werbung-finanzierung-ki-100.html",
+  "publishedAt": "2026-08-23T18:34:43.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "OpenAI Launches Advertising Business in Europe: How to Fund AI",
+      "summary": "From Monday, ChatGPT will include advertising in Europe. Although OpenAI CEO Altman was against it for a long time, the group is now betting on it to finance AI. Lilli-Marie Hiltscher explains the consequences of this."
+    },
+    "de": {
+      "title": "OpenAI startet Werbegeschäft in Europa: Wie sich KI finanzieren lässt",
+      "summary": "Von Montag an wird ChatGPT in Europa Werbung enthalten. Obwohl OpenAI-Chef Altman lange dagegen war, setzt der Konzern nun genau darauf, um die KI zu finanzieren. Welche Folgen das hat, erklärt Lilli-Marie Hiltscher."
+    },
+    "hi": {
+      "title": "OpenAI ने यूरोप में विज्ञापन व्यवसाय लॉन्च किया: AI को कैसे फंड करें",
+      "summary": "सोमवार से, ChatGPT में यूरोप में विज्ञापन शामिल होंगे। हालांकि ओपनएआई के सीईओ ऑल्टमैन लंबे समय से इसके खिलाफ थे, लेकिन समूह अब एआई को वित्तपोषित करने के लिए इस पर दांव लगा रहा है। लिली - मैरी हिल्स्चर इसके परिणामों की व्याख्या करती है।"
+    },
+    "bn": {
+      "title": "OpenAI ইউরোপে বিজ্ঞাপনের ব্যবসা চালু করেছে: AI-কে কীভাবে অর্থায়ন করা যায়",
+      "summary": "সোমবার থেকে, ChatGPT ইউরোপে বিজ্ঞাপন অন্তর্ভুক্ত করবে । যদিও ওপেনএআই-এর সিইও আল্টম্যান দীর্ঘদিন ধরে এর বিরুদ্ধে ছিলেন, গ্রুপটি এখন এআইকে অর্থায়নের জন্য এটিতে বাজি ধরছে । লিলি-মেরি হিল্টশার এর পরিণতি ব্যাখ্যা করেছেন ।"
+    },
+    "fr": {
+      "title": "OpenAI lance une activité publicitaire en Europe : comment financer l'IA",
+      "summary": "À partir de lundi, ChatGPT contiendra de la publicité en Europe. Bien que le PDG d'OpenAI, Altman, s'y soit opposé depuis longtemps, le groupe mise maintenant précisément sur cela pour financer l'IA. Lilli-Marie Hiltscher explique quelles en sont les conséquences."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "01ddd49958d160366347a07e51ee3d04a31e50ae",
+  "slug": "berliner-senatsverwaltungen-sind-nach-hackerangriff-wieder-online",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/regional/berlin/hackerangriff-berliner-senatsverwaltungen-100.html",
+  "publishedAt": "2026-08-23T16:15:18.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Berlin Senate administrations are back online after a hacker attack",
+      "summary": "The Berlin administration is fully online again. After a hacker attack, two Senate administrations were disconnected from the IT network for days, and various services were restricted. The backgrounds are still being determined."
+    },
+    "de": {
+      "title": "Berliner Senatsverwaltungen sind nach Hackerangriff wieder online",
+      "summary": "Die Berliner Verwaltung ist wieder komplett online. Nach einem Hackerangriff waren zwei Senatsverwaltungen tagelang vom IT-Netz abgetrennt, diverse Dienstleistungen waren eingeschränkt. Die Hintergründe werden weiterhin ermittelt."
+    },
+    "hi": {
+      "title": "हैकर के हमले के बाद बर्लिन सीनेट प्रशासन फिर से ऑनलाइन हो गया है",
+      "summary": "बर्लिन प्रशासन फिर से पूरी तरह से ऑनलाइन है। हैकर के हमले के बाद, दो सीनेट प्रशासन को दिनों के लिए आईटी नेटवर्क से डिस्कनेक्ट कर दिया गया था, और विभिन्न सेवाओं को प्रतिबंधित कर दिया गया था। पृष्ठभूमि अभी भी निर्धारित की जा रही है।"
+    },
+    "bn": {
+      "title": "একটি হ্যাকার আক্রমণের পরে বার্লিন সিনেট প্রশাসন আবার অনলাইনে ফিরে এসেছে",
+      "summary": "বার্লিন প্রশাসন আবার সম্পূর্ণ অনলাইন । হ্যাকার আক্রমণের পরে, দুটি সেনেট প্রশাসনকে কয়েকদিন ধরে আইটি নেটওয়ার্ক থেকে সংযোগ বিচ্ছিন্ন করা হয়েছিল এবং বিভিন্ন পরিষেবা নিষিদ্ধ করা হয়েছিল । পটভূমি এখনও নির্ধারণ করা হচ্ছে ।"
+    },
+    "fr": {
+      "title": "Les administrations du Sénat de Berlin sont de nouveau en ligne après le piratage",
+      "summary": "L'administration berlinoise est à nouveau entièrement en ligne. Après une attaque de hacker, deux administrations du Sénat ont été déconnectées du réseau informatique pendant des jours, divers services ont été limités. Les arrière-plans sont toujours déterminés."
+    }
+  }
+}

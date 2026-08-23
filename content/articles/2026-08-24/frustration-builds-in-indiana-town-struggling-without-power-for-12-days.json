@@ -1,0 +1,31 @@
+{
+  "id": "570e01a262d1ddea6eeeaab8fa3e00ccd364a59b",
+  "slug": "frustration-builds-in-indiana-town-struggling-without-power-for-12-days",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-23T15:54:32.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Frustration builds in Indiana town struggling without power for 12 days",
+      "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\"."
+    },
+    "de": {
+      "title": "Frustration baut sich in der Stadt Indiana auf, die 12 Tage lang ohne Strom kämpft",
+      "summary": "In der Stadt Gary, wo ein Drittel der Einwohner in Armut lebt, sagen die Leute, dass sie im \"Überlebensmodus\" gelebt haben."
+    },
+    "hi": {
+      "title": "12 दिनों से बिजली के बिना संघर्ष कर रहे इंडियाना शहर में हताशा बढ़ रही है",
+      "summary": "गैरी शहर में, जहां एक तिहाई निवासी गरीबी में रहते हैं, लोगों का कहना है कि वे \"उत्तरजीविता मोड\" में रह रहे हैं।"
+    },
+    "bn": {
+      "title": "ইন্ডিয়ানা শহরে ১২ দিন ধরে বিদ্যুৎ না থাকায় হতাশা বাড়ছে",
+      "summary": "গ্যারি শহরে, যেখানে এক তৃতীয়াংশ অধিবাসীরা দারিদ্র্যের মধ্যে বসবাস করে, লোকেরা বলে যে তারা \"বেঁচে থাকার মোডে\" বাস করছে ।"
+    },
+    "fr": {
+      "title": "La frustration grandit dans une ville de l'Indiana qui se bat sans électricité pendant 12 jours",
+      "summary": "Dans la ville de Gary, où un tiers des habitants vivent dans la pauvreté, les gens disent avoir vécu en « mode survie »."
+    }
+  }
+}

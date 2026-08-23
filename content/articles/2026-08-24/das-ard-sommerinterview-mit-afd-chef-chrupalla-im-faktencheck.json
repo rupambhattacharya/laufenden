@@ -1,0 +1,31 @@
+{
+  "id": "0a0a9093c7b21d7f66824aa3af91c9df48d68f4a",
+  "slug": "das-ard-sommerinterview-mit-afd-chef-chrupalla-im-faktencheck",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-chrupalla-100.html",
+  "publishedAt": "2026-08-23T16:40:57.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "The ARD summer interview with AfD leader Chrupalla in fact check",
+      "summary": "The AfD chairman Chrupalla was a guest in the ARD summer interview. Many statements stand up to scrutiny. But he was wrong about climate change, and some statements about migration were also wrong."
+    },
+    "de": {
+      "title": "Das ARD-Sommerinterview mit AfD-Chef Chrupalla im Faktencheck",
+      "summary": "Der AfD-Vorsitzende Chrupalla war im ARD-Sommerinterview zu Gast. Viele Aussagen halten einer Überprüfung stand. Doch beim Thema Klimawandel lag er daneben, einige Aussagen zur Migration waren ebenfalls falsch."
+    },
+    "hi": {
+      "title": "एएफडी नेता क्रुपल्ला के साथ एआरडी ग्रीष्मकालीन साक्षात्कार वास्तव में जांच में",
+      "summary": "एएफडी के चेयरमैन च्रुपल्ला एआरडी समर इंटरव्यू में मेहमान थे। कई कथन जांच के लिए खड़े होते हैं। लेकिन वह जलवायु परिवर्तन के बारे में गलत था, और प्रवासन के बारे में कुछ बयान भी गलत थे।"
+    },
+    "bn": {
+      "title": "এএফডি নেতা ক্রুপাল্লার সাথে এআরডি গ্রীষ্মকালীন সাক্ষাত্কার আসলে চেক",
+      "summary": "এএফডি চেয়ারম্যান ক্রুপাল্লা এআরডি গ্রীষ্মকালীন সাক্ষাত্কারে অতিথি ছিলেন । অনেক বিবৃতি যাচাইয়ের জন্য দাঁড়িয়ে আছে । কিন্তু তিনি জলবায়ু পরিবর্তন সম্পর্কে ভুল ছিলেন, এবং অভিবাসন সম্পর্কে কিছু বিবৃতিও ভুল ছিল ।"
+    },
+    "fr": {
+      "title": "L'interview d'été de l'ARD avec le chef de l'AfD Chrupalla dans la vérification des faits",
+      "summary": "Le président de l'AfD, Chrupalla, était l'invité de l'interview d'été de l'ARD. De nombreuses déclarations résistent à l'examen. Mais il avait tort sur le sujet du changement climatique, certaines déclarations sur la migration étaient également fausses."
+    }
+  }
+}

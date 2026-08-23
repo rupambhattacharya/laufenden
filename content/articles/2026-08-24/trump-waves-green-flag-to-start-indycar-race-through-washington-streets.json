@@ -1,0 +1,31 @@
+{
+  "id": "e49c799ef1541de31ee313e1609a03f88f5f11b2",
+  "slug": "trump-waves-green-flag-to-start-indycar-race-through-washington-streets",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-23T20:19:36.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
+      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
+    },
+    "de": {
+      "title": "Trump weht mit grüner Flagge, um das IndyCar-Rennen durch die Straßen von Washington zu starten",
+      "summary": "Der Präsident machte vor dem Rennen eine feierliche Runde auf der Strecke, die den Höhepunkt eines Sommers mit Veranstaltungen zum 250. Geburtstag des Landes darstellt."
+    },
+    "hi": {
+      "title": "वाशिंगटन की सड़कों पर इंडीकार रेस शुरू करने के लिए ट्रम्प ने हरी झंडी दिखाई",
+      "summary": "राष्ट्रपति ने दौड़ से पहले ट्रैक की एक औपचारिक गोद ली, जो देश के 250 वें जन्मदिन को चिह्नित करने के लिए आयोजनों की गर्मियों की समाप्ति है।"
+    },
+    "bn": {
+      "title": "ওয়াশিংটনের রাস্তায় ইন্ডিকার রেস শুরু করার জন্য ট্রাম্প সবুজ পতাকা তরঙ্গ করেছেন",
+      "summary": "রাষ্ট্রপতি দৌড়ের আগে ট্র্যাকের একটি আনুষ্ঠানিক কোলে নিয়েছিলেন, যা দেশের 250 তম জন্মদিন উপলক্ষে ইভেন্টের গ্রীষ্মের সমাপ্তি ।"
+    },
+    "fr": {
+      "title": "Trump agite le drapeau vert pour lancer la course IndyCar dans les rues de Washington",
+      "summary": "Le président a effectué un tour de cérémonie de la piste avant la course, qui est l'aboutissement d'un été d'événements pour marquer le 250e anniversaire du pays."
+    }
+  }
+}
