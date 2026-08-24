@@ -132,6 +132,16 @@ describe('query length guard', () => {
     const unbroken = 'a'.repeat(600);
     expect(truncateToByteLimit(unbroken)).toHaveLength(450);
   });
+
+  it('treats line breaks as word boundaries in multi-line text', () => {
+    const long = Array.from({ length: 120 }, (_, i) => `word${i}`).join('\n');
+    const truncated = truncateToByteLimit(long);
+    expect(new TextEncoder().encode(truncated).length).toBeLessThanOrEqual(450);
+    expect(long.startsWith(truncated)).toBe(true);
+    expect(truncated).toContain('\n');
+    // The cut lands on a line break, so the last line kept is a complete word.
+    expect(long.split('\n')).toContain(truncated.split('\n').at(-1));
+  });
 });
 
 describe('translateFields', () => {

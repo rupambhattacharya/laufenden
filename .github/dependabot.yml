@@ -1,0 +1,22 @@
+# Weekly dependency maintenance: all npm version updates land in a single
+# grouped PR (Monday, Berlin time), so there is one review-and-merge per week.
+# Security advisories are grouped too, but open as soon as they appear rather
+# than waiting for Monday — the open-pull-requests-limit does not apply to them.
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      timezone: "Europe/Berlin"
+    open-pull-requests-limit: 1
+    groups:
+      weekly-updates:
+        applies-to: version-updates
+        patterns:
+          - "*"
+      security-updates:
+        applies-to: security-updates
+        patterns:
+          - "*"
