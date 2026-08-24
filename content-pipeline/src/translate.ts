@@ -1,3 +1,4 @@
+import { regex } from 'shorol';
 import { backoffDelayMs, sleep } from './retryBackoff';
 
 export { backoffDelayMs };
@@ -22,6 +23,20 @@ const REQUEST_TIMEOUT_MS = 15_000;
 /** MyMemory documents a ~500-byte limit on `q`; stay under it with headroom. */
 const MAX_QUERY_BYTES = 450;
 
+// `^(.*)\s\S*$` with dotAll, so `.` spans line breaks: group 1 greedily
+// captures everything up to the last whitespace, dropping the trailing
+// (possibly cut-mid-word) fragment. `raw` because the builder has no
+// non-whitespace token.
+const UP_TO_LAST_WHITESPACE = regex()
+  .start()
+  .group((b) => b.any().zeroOrMore())
+  .whitespace()
+  .raw('\\S')
+  .zeroOrMore()
+  .end()
+  .dotAll()
+  .toRegExp();
+
 /**
  * Truncate `text` to at most `maxBytes` UTF-8 bytes, cutting at the last word
  * boundary at or before the limit rather than mid-word.
@@ -40,7 +55,7 @@ export function truncateToByteLimit(text: string, maxBytes: number = MAX_QUERY_B
     cut += char;
   }
 
-  const atWordBoundary = /^([\s\S]*)\s[\S]*$/.exec(cut);
+  const atWordBoundary = UP_TO_LAST_WHITESPACE.exec(cut);
   if (atWordBoundary && atWordBoundary[1].trim()) return atWordBoundary[1].trimEnd();
   return cut;
 }

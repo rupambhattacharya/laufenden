@@ -34,6 +34,22 @@ describe('slugify', () => {
   it('falls back to "article" for titles with no ascii-safe characters', () => {
     expect(slugify('日本語')).toBe('article');
   });
+
+  it('strips combining diacritics but dashes out undecomposable characters like ß', () => {
+    // Pins the behavior behind real published slugs ("Groß-Krotzenburg" → "gro-krotzenburg"):
+    // NFKD splits umlauts into base + combining mark, but ß has no decomposition,
+    // so it falls into the non-alphanumeric run and becomes part of a dash.
+    expect(slugify('Groß-Krotzenburg')).toBe('gro-krotzenburg');
+    expect(slugify('Bäume, Flüsse & Straßen')).toBe('baume-flusse-stra-en');
+  });
+
+  it('trims leading and trailing separator runs', () => {
+    expect(slugify('...Hallo Welt!')).toBe('hallo-welt');
+  });
+
+  it('caps slugs at 80 characters after edge-trimming, so a cut can end on a dash', () => {
+    expect(slugify('word '.repeat(30))).toBe('word-'.repeat(16));
+  });
 });
 
 describe('writeArticle', () => {
