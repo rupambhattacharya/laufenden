@@ -1,0 +1,31 @@
+{
+  "id": "c63d02b4b6df0dfabae9b344d011eeb2d93e9d05",
+  "slug": "italien-gedenken-an-opfer-der-erdbeben-vor-zehn-jahren-in-amatrice",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/gedenken-amatrice-erdbeben-100.html",
+  "publishedAt": "2026-08-24T16:44:15.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Italy: Commemoration of victims of the earthquakes ten years ago in Amatrice",
+      "summary": "Ten years ago, the region around Amatrice in Italy was shaken by severe earthquakes - 300 people died. Prime Minister Meloni also came to commemorate today. Reconstruction continues to be sluggish."
+    },
+    "de": {
+      "title": "Italien: Gedenken an Opfer der Erdbeben vor zehn Jahren in Amatrice",
+      "summary": "Vor zehn Jahren wurde die Region um Amatrice in Italien von schweren Erdbeben erschüttert - 300 Menschen starben. Zum Gedenken heute kam auch Ministerpräsidentin Meloni. Der Wiederaufbau läuft weiter schleppend."
+    },
+    "hi": {
+      "title": "इटली: दस साल पहले अमाट्रिस में आए भूकंप के पीड़ितों की याद में",
+      "summary": "दस साल पहले, इटली में Amatrice के आसपास का क्षेत्र भीषण भूकंप से हिल गया था - 300 लोगों की मौत हो गई थी। प्रधान मंत्री मेलोनी भी आज मनाने के लिए आए। पुनर्निर्माण लगातार सुस्त होता जा रहा है।"
+    },
+    "bn": {
+      "title": "ইতালি: দশ বছর আগে আমাত্রিসে ভূমিকম্পে ক্ষতিগ্রস্তদের স্মরণ",
+      "summary": "দশ বছর আগে, ইতালির আমাত্রিসের আশেপাশের অঞ্চলটি ভয়াবহ ভূমিকম্পে কাঁপছিল - ৩০০ জন মারা গিয়েছিল । প্রধানমন্ত্রী মেলোনি আজ স্মরণে এসেছিলেন । পুনর্গঠন এখনও মন্থর ।"
+    },
+    "fr": {
+      "title": "Italie : Commémoration des victimes du tremblement de terre d'il y a dix ans à Amatrice",
+      "summary": "Il y a dix ans, la région d'Amatrice en Italie a été secouée par de graves tremblements de terre - 300 personnes sont mortes. La première ministre Meloni est également venue commémorer aujourd'hui. La reconstruction se poursuit à un rythme lent."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "595aced452f73ca2c1844722e2e69f759446efe2",
+  "slug": "ein-mix-aus-sonne-wolken-und-auch-starkregen",
+  "category": "rheinland-pfalz",
+  "sourceName": "SWR Aktuell Rheinland-Pfalz",
+  "sourceUrl": "https://www.swr.de/swraktuell/rheinland-pfalz/wetter-bringt-viel-regen-mit-unwettergefahr-diese-woche-100.html",
+  "publishedAt": "2026-08-24T19:09:30.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "A mix of sun, clouds and also heavy rain",
+      "summary": "It's worth packing your umbrella this week. Instead of midsummer temperatures, we can expect rain, showers and sometimes strong thunderstorms."
+    },
+    "de": {
+      "title": "Ein Mix aus Sonne, Wolken und auch Starkregen",
+      "summary": "Es lohnt sich diese Woche den Regenschirm einzupacken. Statt hochsommerlichen Temperaturen erwarten uns auch Regen, Schauer und teils kräftige Gewitter."
+    },
+    "hi": {
+      "title": "धूप, बादलों और भारी बारिश का मिश्रण",
+      "summary": "यह इस हफ़्ते अपनी छाता पैक करने लायक है। मध्य गर्मी के तापमान के बजाय, हम बारिश, बारिश और कभी - कभी तेज आंधी की उम्मीद कर सकते हैं।"
+    },
+    "bn": {
+      "title": "সূর্য, মেঘ এবং ভারী বৃষ্টির মিশ্রণ",
+      "summary": "এই সপ্তাহে আপনার ছাতা প্যাক করা মূল্যবান । মাঝারি তাপমাত্রার পরিবর্তে, আমরা বৃষ্টি, ঝরনা এবং কখনও কখনও শক্তিশালী বজ্রঝড়ের আশা করতে পারি ।"
+    },
+    "fr": {
+      "title": "Un mélange de soleil, de nuages et aussi de fortes pluies",
+      "summary": "Cela vaut la peine d'emporter le parapluie cette semaine. Au lieu de températures estivales élevées, nous nous attendons également à de la pluie, des averses et parfois de forts orages."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "42b2cc0e529226444ca903f930d16c4b7eccd56f",
+  "slug": "wie-kurzungen-im-bundeshaushalt-die-musikbranche-treffen",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/kultur/haushaltsentwurf-musikbranche-100.html",
+  "publishedAt": "2026-08-24T17:50:45.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "How cuts in the federal budget are affecting the music industry",
+      "summary": "The Federal Government's savings plans have been under discussion for weeks. According to the draft budget for 2027, savings should also be made on culture. Where and what consequences could this have? By A. K. Schleithoff."
+    },
+    "de": {
+      "title": "Wie Kürzungen im Bundeshaushalt die Musikbranche treffen",
+      "summary": "Seit Wochen wird über die Sparvorhaben der Bundesregierung diskutiert. Laut Haushaltsentwurf für 2027 soll auch bei der Kultur gespart werden. Wo und welche Folgen das haben könnte? Von A. K. Schleithoff."
+    },
+    "hi": {
+      "title": "संघीय बजट में कटौती संगीत उद्योग को कैसे प्रभावित कर रही है",
+      "summary": "संघीय सरकार की बचत योजनाओं पर हफ्तों से चर्चा चल रही है। 2027 के बजट के मसौदे के अनुसार, संस्कृति पर भी बचत की जानी चाहिए। इसके कहाँ और क्या परिणाम हो सकते हैं? ए. के. श्लेथॉफ द्वारा।"
+    },
+    "bn": {
+      "title": "ফেডারেল বাজেটে কাট কীভাবে সঙ্গীত শিল্পকে প্রভাবিত করছে",
+      "summary": "ফেডারেল সরকারের সঞ্চয় পরিকল্পনা নিয়ে কয়েক সপ্তাহ ধরে আলোচনা চলছে । ২০২৭ সালের খসড়া বাজেট অনুযায়ী, সংস্কৃতিতেও সঞ্চয় করা উচিত । কোথায় এবং এর কী পরিণতি হতে পারে? A. K. Schleithoff দ্বারা ।"
+    },
+    "fr": {
+      "title": "Comment les coupes dans le budget fédéral affectent l'industrie de la musique",
+      "summary": "Les projets d'économies du gouvernement fédéral font l'objet de discussions depuis des semaines. Selon le projet de budget pour 2027, il convient également d'économiser sur la culture. Où et quelles conséquences cela pourrait-il avoir ? Par A. K. Schleithoff."
+    }
+  }
+}

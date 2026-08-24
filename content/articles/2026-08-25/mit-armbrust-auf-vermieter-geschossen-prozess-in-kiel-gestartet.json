@@ -1,0 +1,31 @@
+{
+  "id": "b2e51353a5ecdb727c1a0420f9b56d3970843d2a",
+  "slug": "mit-armbrust-auf-vermieter-geschossen-prozess-in-kiel-gestartet",
+  "category": "schleswig-holstein",
+  "sourceName": "Nachrichten aus Schleswig-Holstein",
+  "sourceUrl": "https://www.ndr.de/nachrichten/schleswig-holstein/kiel_neumuenster_ploen_rendsburg-eckernfoerde/mit-armbrust-auf-vermieter-geschossen-prozess-in-kiel-beginnt,armbrust-112.html",
+  "publishedAt": "2026-08-24T22:01:00.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Shot with crossbow at landlord: process started in Kiel",
+      "summary": "After the termination of his lease, the defendant is said to have seriously injured his landlord in Bordesholm."
+    },
+    "de": {
+      "title": "Mit Armbrust auf Vermieter geschossen: Prozess in Kiel gestartet",
+      "summary": "Nach der Kündigung seines Mietvertrags soll der Angeklagte in Bordesholm seinen Vermieter schwer verletzt haben."
+    },
+    "hi": {
+      "title": "मकान मालिक पर क्रॉसबो के साथ शॉट: कील में प्रक्रिया शुरू हुई",
+      "summary": "अपने पट्टे की समाप्ति के बाद, प्रतिवादी को बोर्डेशोल्म में अपने मकान मालिक को गंभीर रूप से घायल करने के लिए कहा जाता है।"
+    },
+    "bn": {
+      "title": "বাড়িওয়ালায় ক্রসবো দিয়ে গুলি: কিয়েলে প্রক্রিয়া শুরু",
+      "summary": "তার ইজারা সমাপ্তির পরে, বিবাদী বোর্দেশোলমে তার বাড়িওয়ালাকে গুরুতরভাবে আহত করেছে বলে জানা গেছে ।"
+    },
+    "fr": {
+      "title": "Tir à l'arbalète sur le propriétaire : début du processus à Kiel",
+      "summary": "Après la résiliation de son bail, l'accusé aurait gravement blessé son propriétaire à Bordesholm."
+    }
+  }
+}

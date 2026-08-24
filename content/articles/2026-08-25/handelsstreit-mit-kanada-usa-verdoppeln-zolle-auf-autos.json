@@ -1,0 +1,31 @@
+{
+  "id": "70e2c0f0582eb912247063a78dfe8e9f0c231eb6",
+  "slug": "handelsstreit-mit-kanada-usa-verdoppeln-zolle-auf-autos",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zollstreit-usa-kanada-104.html",
+  "publishedAt": "2026-08-24T18:01:28.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Trade dispute with Canada: US doubles tariffs on cars",
+      "summary": "At the weekend, the customs dispute between the USA and Canada had broken out again. Now US President Trump is following suit and announcing significantly higher taxes on cars and car parts from the neighboring country."
+    },
+    "de": {
+      "title": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
+      "summary": "Am Wochenende war der Zollstreit zwischen den USA und Kanada neu ausgebrochen. Jetzt legt US-Präsident Trump nach und kündigt deutlich höhere Abgaben auf Autos und Autoteile aus dem Nachbarland an."
+    },
+    "hi": {
+      "title": "कनाडा के साथ व्यापार विवाद: अमेरिका ने कारों पर शुल्क दोगुना कर दिया",
+      "summary": "सप्ताहांत में, संयुक्त राज्य अमेरिका और कनाडा के बीच सीमा शुल्क विवाद फिर से टूट गया था। अब अमेरिकी राष्ट्रपति ट्रम्प सूट का पालन कर रहे हैं और पड़ोसी देश से कारों और कार भागों पर काफी अधिक करों की घोषणा कर रहे हैं।"
+    },
+    "bn": {
+      "title": "কানাডার সাথে বাণিজ্য বিরোধ: গাড়ির উপর মার্কিন যুক্তরাষ্ট্রের শুল্ক দ্বিগুণ করা হয়েছে",
+      "summary": "সপ্তাহান্তে, মার্কিন যুক্তরাষ্ট্র এবং কানাডার মধ্যে শুল্ক বিরোধ আবার শুরু হয়েছিল । এখন মার্কিন প্রেসিডেন্ট ট্রাম্প মামলাটি অনুসরণ করছেন এবং প্রতিবেশী দেশ থেকে গাড়ি এবং গাড়ির যন্ত্রাংশের উপর উল্লেখযোগ্যভাবে বেশি কর ঘোষণা করছেন ।"
+    },
+    "fr": {
+      "title": "Litige commercial avec le Canada : les États-Unis doublent les droits de douane sur les voitures",
+      "summary": "Le week-end dernier, le différend douanier entre les États-Unis et le Canada avait de nouveau éclaté. Maintenant, le président américain Trump rattrape son retard et annonce des taxes beaucoup plus élevées sur les voitures et les pièces automobiles du pays voisin."
+    }
+  }
+}

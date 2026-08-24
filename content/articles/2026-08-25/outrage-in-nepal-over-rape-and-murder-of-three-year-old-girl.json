@@ -1,0 +1,31 @@
+{
+  "id": "9a641490044d1005c5fb7ebcb84c7413debde645",
+  "slug": "outrage-in-nepal-over-rape-and-murder-of-three-year-old-girl",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-24T17:24:25.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Outrage in Nepal over rape and murder of three-year-old girl",
+      "summary": "There have been protests since the girl was found dead last week, three days after she went missing."
+    },
+    "de": {
+      "title": "Empörung in Nepal über Vergewaltigung und Ermordung eines dreijährigen Mädchens",
+      "summary": "Es gab Proteste, seit das Mädchen letzte Woche tot aufgefunden wurde, drei Tage nachdem sie vermisst wurde."
+    },
+    "hi": {
+      "title": "नेपाल में तीन साल की बच्ची के साथ बलात्कार और हत्या पर आक्रोश",
+      "summary": "लड़की के लापता होने के तीन दिन बाद, पिछले सप्ताह मृत पाए जाने के बाद से विरोध प्रदर्शन हो रहे हैं।"
+    },
+    "bn": {
+      "title": "তিন বছরের মেয়েকে ধর্ষণ ও হত্যার ঘটনায় নেপালে ক্ষোভ",
+      "summary": "মেয়েটি নিখোঁজ হওয়ার তিন দিন পরে গত সপ্তাহে মেয়েটিকে মৃত অবস্থায় পাওয়া যাওয়ার পর থেকে বিক্ষোভ চলছে ।"
+    },
+    "fr": {
+      "title": "Indignation au Népal pour le viol et le meurtre d'une fillette de trois ans",
+      "summary": "Il y a eu des protestations depuis que la fille a été retrouvée morte la semaine dernière, trois jours après sa disparition."
+    }
+  }
+}

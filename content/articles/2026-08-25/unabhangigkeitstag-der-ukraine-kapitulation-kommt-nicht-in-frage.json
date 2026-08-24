@@ -1,0 +1,31 @@
+{
+  "id": "1a4b5c56b58997a3ec909c65ede5017cbad298fa",
+  "slug": "unabhangigkeitstag-der-ukraine-kapitulation-kommt-nicht-in-frage",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-unterstuetzung-100.html",
+  "publishedAt": "2026-08-24T16:48:03.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Independence Day of Ukraine - surrender is out of the question",
+      "summary": "In the midst of the Russian war of aggression, Ukraine is celebrating its independence. President Zelenskyi insists on the strength of his country - and receives further arms aid from the EU and Great Britain. By F. Kellermann."
+    },
+    "de": {
+      "title": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
+      "summary": "Mitten im russischen Angriffskrieg feiert die Ukraine ihre Unabhängigkeit. Präsident Selenskyj pocht auf die Stärke seines Landes - und erhält weitere Rüstungshilfe der EU und aus Großbritannien. Von F. Kellermann."
+    },
+    "hi": {
+      "title": "यूक्रेन का स्वतंत्रता दिवस - समर्पण सवाल से बाहर है",
+      "summary": "आक्रामकता के रूसी युद्ध के बीच, यूक्रेन अपनी स्वतंत्रता का जश्न मना रहा है। राष्ट्रपति ज़ेलेंस्की अपने देश की ताकत पर जोर देते हैं - और यूरोपीय संघ और ग्रेट ब्रिटेन से आगे की हथियार सहायता प्राप्त करते हैं। एफ. केलरमैन द्वारा।"
+    },
+    "bn": {
+      "title": "ইউক্রেনের স্বাধীনতা দিবস - আত্মসমর্পণ প্রশ্নের বাইরে",
+      "summary": "রাশিয়ার আগ্রাসনের যুদ্ধের মাঝে ইউক্রেন তার স্বাধীনতা উদযাপন করছে । রাষ্ট্রপতি জেলেনস্কি তার দেশের শক্তির উপর জোর দেন - এবং ইইউ এবং গ্রেট ব্রিটেনের কাছ থেকে আরও অস্ত্র সহায়তা পান । F. Kellermann দ্বারা ।"
+    },
+    "fr": {
+      "title": "Jour de l'indépendance de l'Ukraine - la capitulation est hors de question",
+      "summary": "Au milieu de la guerre d'agression russe, l'Ukraine célèbre son indépendance. Le président Zelensky insiste sur la force de son pays - et reçoit une aide militaire supplémentaire de l'UE et de la Grande-Bretagne. Par F. Kellermann."
+    }
+  }
+}

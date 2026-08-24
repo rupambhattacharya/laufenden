@@ -1,0 +1,31 @@
+{
+  "id": "aaf60deb914755bbce5729b3717610f87faa2ce4",
+  "slug": "us-finanzminister-droht-mit-sanktionen-gegen-irans-handelspartner",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-iran-114.html",
+  "publishedAt": "2026-08-24T20:56:51.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "US Treasury threatens sanctions against Iran's trading partners",
+      "summary": "The US wants to isolate Iran economically and has announced sanctions against Tehran's economic partners. Anyone who trades with the country will feel the \"impact of American power\", according to Finance Minister Bessent."
+    },
+    "de": {
+      "title": "US-Finanzminister droht mit Sanktionen gegen Irans Handelspartner",
+      "summary": "Die USA wollen Iran wirtschaftlich isolieren und haben Sanktionen gegen Teherans Wirtschaftspartner angekündigt. Wer Handel mit dem Land treibe, werde die \"Wucht der amerikanischen Macht\" zu spüren bekommen, so Finanzminister Bessent."
+    },
+    "hi": {
+      "title": "अमेरिकी ट्रेजरी ने ईरान के व्यापारिक भागीदारों के खिलाफ प्रतिबंधों की धमकी दी",
+      "summary": "अमेरिका ईरान को आर्थिक रूप से अलग - थलग करना चाहता है और उसने तेहरान के आर्थिक भागीदारों के खिलाफ प्रतिबंधों की घोषणा की है। वित्त मंत्री बेसेंट के अनुसार, देश के साथ व्यापार करने वाला कोई भी व्यक्ति \"अमेरिकी शक्ति के प्रभाव\" को महसूस करेगा।"
+    },
+    "bn": {
+      "title": "মার্কিন ট্রেজারি ইরানের বাণিজ্যিক অংশীদারদের বিরুদ্ধে নিষেধাজ্ঞার হুমকি দিয়েছে",
+      "summary": "আমেরিকা ইরানকে অর্থনৈতিকভাবে বিচ্ছিন্ন করতে চায় এবং তেহরানের অর্থনৈতিক অংশীদারদের বিরুদ্ধে নিষেধাজ্ঞা ঘোষণা করেছে । অর্থমন্ত্রী বেসেন্টের মতে, যে কেউ দেশের সাথে বাণিজ্য করবে সে \"আমেরিকান শক্তির প্রভাব\" অনুভব করবে ।"
+    },
+    "fr": {
+      "title": "Le secrétaire américain au Trésor menace de sanctions contre le partenaire commercial de l'Iran",
+      "summary": "Les États-Unis veulent isoler économiquement l'Iran et ont annoncé des sanctions contre les partenaires économiques de Téhéran. Si vous faites du commerce avec le pays, vous ressentirez la « force de la puissance américaine », a déclaré le ministre des Finances Bessent."
+    }
+  }
+}
