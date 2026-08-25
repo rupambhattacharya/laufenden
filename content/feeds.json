@@ -15,5 +15,6 @@
   { "region": "mecklenburg-vorpommern", "language": "de", "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/index-rss.xml" },
   { "region": "niedersachsen", "language": "de", "url": "https://www.ndr.de/nachrichten/niedersachsen/index-rss.xml" },
   { "region": "schleswig-holstein", "language": "de", "url": "https://www.ndr.de/nachrichten/schleswig-holstein/index-rss.xml" },
-  { "region": "bremen", "language": "de", "url": "https://www.butenunbinnen.de/feed/rss/nachrichten/neuste-nachrichten100.xml" }
+  { "region": "bremen", "language": "de", "url": "https://www.butenunbinnen.de/feed/rss/nachrichten/neuste-nachrichten100.xml" },
+  { "region": "saarland", "language": "de", "url": "https://www.tagesschau.de/inland/regional/saarland/index~rss2.xml" }
 ]

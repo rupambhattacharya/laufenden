@@ -34,10 +34,11 @@ quota from 5,000 to 50,000 words. Set it as a repository secret (`Settings →
 Secrets and variables → Actions`) named `MYMEMORY_EMAIL` to have the
 scheduled workflow use it.
 
-**Known gap:** Saarland has no configured feed yet — no working public
-text-news RSS feed for it was found. Add one to `content/feeds.json` with
-`"region": "saarland"` whenever a suitable feed is identified; no code
-changes are needed.
+Saarland is the one state not served by its own broadcaster's feed: SR
+exposes no public text-news RSS, so its entry uses tagesschau.de's regional
+Saarland feed (ARD-aktuell), which carries SR's reporting. Stories that also
+run in the national tagesschau feed share guids with it and dedupe into the
+Germany tier.
 
 ## Frontend
 
