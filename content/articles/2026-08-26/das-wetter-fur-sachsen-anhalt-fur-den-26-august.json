@@ -1,0 +1,31 @@
+{
+  "id": "8daab9c8f2023980762b26672f516b177e702520",
+  "slug": "das-wetter-fur-sachsen-anhalt-fur-den-26-august",
+  "category": "sachsen-anhalt",
+  "sourceName": "Sachsen-Anhalt | Aktuelle Nachrichten, News und Videos",
+  "sourceUrl": "https://www.mdr.de/video/mdr-videos/c/video-1637222.html",
+  "publishedAt": "2026-08-25T19:12:42.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "The weather for Saxony-Anhalt for August 26",
+      "summary": "After the warm Tuesday, there is a little cooling off. But this should not take long, as Stephanie Meißner reveals in her weather report."
+    },
+    "de": {
+      "title": "Das Wetter für Sachsen-Anhalt für den 26. August",
+      "summary": "Nach dem warmen Dienstag gibt es eine kleine Abkühlung. Doch lange dürfte diese nicht dauern, wie Stephanie Meißner in ihrem Wetterbericht verrät."
+    },
+    "hi": {
+      "title": "26 अगस्त के लिए सैक्सोनी - एन्हाल्ट का मौसम",
+      "summary": "गर्म मंगलवार के बाद, थोड़ा ठंडा हो रहा है। लेकिन इसमें ज़्यादा समय नहीं लगना चाहिए, जैसा कि स्टेफ़नी मेइस्नर ने अपनी मौसम रिपोर्ट में बताया है।"
+    },
+    "bn": {
+      "title": "26 আগস্টের জন্য স্যাক্সনি-আনহাল্টের আবহাওয়া",
+      "summary": "উষ্ণ মঙ্গলবারের পরে, কিছুটা শীতলতা রয়েছে । তবে এটি বেশি সময় নেওয়া উচিত নয়, যেমন স্টেফানি মেইসনার তার আবহাওয়ার প্রতিবেদনে প্রকাশ করেছেন ।"
+    },
+    "fr": {
+      "title": "La météo pour la Saxe-Anhalt pour le 26 août",
+      "summary": "Après le mardi chaud, il y a un petit rafraîchissement. Mais cela ne devrait pas durer longtemps, comme le révèle Stephanie Meißner dans sa météo."
+    }
+  }
+}

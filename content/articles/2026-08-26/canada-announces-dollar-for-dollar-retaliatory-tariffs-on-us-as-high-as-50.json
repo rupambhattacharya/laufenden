@@ -1,0 +1,31 @@
+{
+  "id": "d82eb2866ac02e05bdbced7ae5f52c202870c3e0",
+  "slug": "canada-announces-dollar-for-dollar-retaliatory-tariffs-on-us-as-high-as-50",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-25T19:50:57.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
+    },
+    "de": {
+      "title": "Kanada kündigt Vergeltungszölle in Höhe von 50 % auf die USA an",
+      "summary": "Die jüngste Eskalation in einem anhaltenden Handelskrieg zwischen den USA und Kanada wird neue Abgaben auf Waren von Stahl über Möbel bis hin zu frischem Thunfisch und Make-up mit sich bringen."
+    },
+    "hi": {
+      "title": "कनाडा ने अमेरिका पर 50% तक 'डॉलर - प्रति - डॉलर' प्रतिशोधी टैरिफ की घोषणा की",
+      "summary": "अमेरिका और कनाडा के बीच चल रहे व्यापार युद्ध में नवीनतम वृद्धि में स्टील से लेकर फर्नीचर, ताजा टूना और मेकअप तक के सामानों पर नए शुल्क लगेंगे।"
+    },
+    "bn": {
+      "title": "কানাডা মার্কিন যুক্তরাষ্ট্রে 50% পর্যন্ত 'ডলার-ফর-ডলার' প্রতিশোধমূলক শুল্ক ঘোষণা করেছে",
+      "summary": "মার্কিন যুক্তরাষ্ট্র এবং কানাডার মধ্যে চলমান বাণিজ্য যুদ্ধের সর্বশেষ বৃদ্ধি ইস্পাত থেকে আসবাবপত্র, তাজা টুনা এবং মেকআপ থেকে পণ্যগুলিতে নতুন শুল্ক দেখতে পাবে ।"
+    },
+    "fr": {
+      "title": "Le Canada annonce des tarifs de rétorsion« dollar pour dollar » sur les États-Unis pouvant atteindre 50 %",
+      "summary": "La dernière escalade d'une guerre commerciale en cours entre les États-Unis et le Canada verra de nouveaux prélèvements sur les marchandises, de l'acier aux meubles, en passant par le thon frais et le maquillage."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "9a5edef0fee7b32f40901885b0112360baa42576",
+  "slug": "region-west",
+  "category": "thueringen",
+  "sourceName": "Thüringen | Nachrichten und aktuelle Informationen ",
+  "sourceUrl": "https://www.mdr.de/nachrichten/thueringen/west-thueringen",
+  "publishedAt": "2026-08-25T17:39:34.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "West region",
+      "summary": "Daily updates: news and information from Western Thuringia. In addition, photos, audios and videos of the MDR from the region."
+    },
+    "de": {
+      "title": "Region West",
+      "summary": "Täglich aktuell: Nachrichten und Informationen aus Westthüringen. Dazu Fotos, Audios und Videos des MDR aus der Region."
+    },
+    "hi": {
+      "title": "वेस्ट रीजन",
+      "summary": "दैनिक अपडेट: पश्चिमी थुरिंगिया से समाचार और जानकारी। इसके अलावा, क्षेत्र से एमडीआर की तस्वीरें, ऑडियो और वीडियो।"
+    },
+    "bn": {
+      "title": "পশ্চিম অঞ্চল",
+      "summary": "দৈনিক আপডেট: পশ্চিম থুরিংগিয়া থেকে খবর এবং তথ্য । এছাড়াও, এই অঞ্চলের MDR-এর ছবি, অডিও এবং ভিডিও ।"
+    },
+    "fr": {
+      "title": "Région Ouest :",
+      "summary": "Actualité quotidienne : nouvelles et informations de Westthüringen. En plus, des photos, des audios et des vidéos du MDR de la région."
+    }
+  }
+}

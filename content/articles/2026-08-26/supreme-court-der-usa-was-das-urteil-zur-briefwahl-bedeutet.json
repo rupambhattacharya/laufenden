@@ -1,0 +1,31 @@
+{
+  "id": "fb00f675d5a02a668f9963867944e3ebf1e79e8e",
+  "slug": "supreme-court-der-usa-was-das-urteil-zur-briefwahl-bedeutet",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-100.html",
+  "publishedAt": "2026-08-25T20:01:08.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "U.S. Supreme Court: What the Postal Voting Judgment Means",
+      "summary": "The recent US Supreme Court ruling on the postal vote is only a stage victory for Trump - because the legal dispute is far from over. But the decision could cause unrest in the midterm elections."
+    },
+    "de": {
+      "title": "Supreme Court der USA: Was das Urteil zur Briefwahl bedeutet",
+      "summary": "Das jüngste Urteil des US Supreme Court zur Briefwahl ist nur ein Etappensieg für Trump - denn der juristische Streit ist noch lange nicht zu Ende. Doch die Entscheidung könnte für Unruhe bei den Zwischenwahlen sorgen."
+    },
+    "hi": {
+      "title": "यू.एस. सुप्रीम कोर्ट: पोस्टल वोटिंग जजमेंट का क्या मतलब है",
+      "summary": "डाक वोट पर हाल ही में अमेरिकी सुप्रीम कोर्ट का फैसला ट्रम्प के लिए केवल एक मंच की जीत है - क्योंकि कानूनी विवाद खत्म होने से बहुत दूर है। लेकिन यह निर्णय मध्यावधि चुनावों में अशांति का कारण बन सकता है।"
+    },
+    "bn": {
+      "title": "মার্কিন সুপ্রিম কোর্ট: পোস্টাল ভোটিং জাজমেন্টের অর্থ কী",
+      "summary": "পোস্টাল ভোটের বিষয়ে মার্কিন সুপ্রিম কোর্টের সাম্প্রতিক রায় ট্রাম্পের জন্য একটি মঞ্চ জয় মাত্র - কারণ আইনি বিরোধ শেষ হতে এখনও অনেক বাকি । কিন্তু এই সিদ্ধান্ত মধ্যবর্তী নির্বাচনে অশান্তির কারণ হতে পারে ।"
+    },
+    "fr": {
+      "title": "Cour suprême des États-Unis : ce que signifie le verdict sur le vote par correspondance",
+      "summary": "Le récent jugement de la Cour suprême américaine sur le vote par correspondance n'est qu'une victoire d'étape pour Trump - car le différend juridique est loin d'être terminé. Mais la décision pourrait susciter des inquiétudes lors des élections de mi-mandat."
+    }
+  }
+}

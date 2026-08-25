@@ -1,0 +1,31 @@
+{
+  "id": "31393c909374380e828c5c805f5c5517ef4dcc6e",
+  "slug": "milchlaster-uberschlagt-sich-a215-bei-kiel-gesperrt",
+  "category": "schleswig-holstein",
+  "sourceName": "Nachrichten aus Schleswig-Holstein",
+  "sourceUrl": "https://www.ndr.de/nachrichten/schleswig-holstein/kiel_neumuenster_ploen_rendsburg-eckernfoerde/milchlaster-ueberschlaegt-sich-a215-bei-kiel-voll-gesperrt,umgekippterlkw-100.html",
+  "publishedAt": "2026-08-25T22:13:32.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Milk truck overturns: A215 blocked at Kiel",
+      "summary": "Between Kiel-West and Bordesholm, the A215 was still closed at midnight in the direction of Neumünster."
+    },
+    "de": {
+      "title": "Milchlaster überschlägt sich: A215 bei Kiel gesperrt",
+      "summary": "Zwischen Kiel-West und Bordesholm war die A215 auch noch um Mitternacht in Richtung Neumünster gesperrt."
+    },
+    "hi": {
+      "title": "मिल्क ट्रक पलट गया: कील में A215 ब्लॉक है",
+      "summary": "कील - वेस्ट और बोर्डेशोल्म के बीच, न्यूमुंस्टर की दिशा में आधी रात को A215 अभी भी बंद था।"
+    },
+    "bn": {
+      "title": "দুধের ট্রাক উল্টে গেছে: কিয়েলে A215 ব্লক করা হয়েছে",
+      "summary": "Kiel-West এবং Bordesholm-এর মধ্যে, A215 এখনও নিউমুনস্টারের দিকে মধ্যরাতে বন্ধ ছিল ।"
+    },
+    "fr": {
+      "title": "Le camion de lait se retourne : A215 verrouillé près de la quille",
+      "summary": "Entre Kiel-Ouest et Bordesholm, l'A215 était également fermée à minuit en direction de Neumünster."
+    }
+  }
+}

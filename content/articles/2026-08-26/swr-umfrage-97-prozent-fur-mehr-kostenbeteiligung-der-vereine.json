@@ -1,0 +1,31 @@
+{
+  "id": "e4a463356d2a2ea69c87a804b45cbabf5912b767",
+  "slug": "swr-umfrage-97-prozent-fur-mehr-kostenbeteiligung-der-vereine",
+  "category": "rheinland-pfalz",
+  "sourceName": "SWR Aktuell Rheinland-Pfalz",
+  "sourceUrl": "https://www.swr.de/swraktuell/rheinland-pfalz/derby-krawalle-kaiserslautern-mannheim-mehrheit-vereine-kosten-bezahlen-100.html",
+  "publishedAt": "2026-08-25T19:54:33.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "SWR survey: 97 percent for more cost sharing by the clubs",
+      "summary": "A SWR survey after the match between Waldhof and FCK shows a clear picture: 97 percent want football clubs to pay for police missions. The survey is not representative."
+    },
+    "de": {
+      "title": "SWR-Umfrage: 97 Prozent für mehr Kostenbeteiligung der Vereine",
+      "summary": "Eine SWR-Umfrage nach dem Spiel Waldhof gegen FCK zeigt ein klares Bild: 97 Prozent wollen, dass Fußballvereine für Polizeieinsätze zahlen. Die Umfrage ist nicht repräsentativ."
+    },
+    "hi": {
+      "title": "SWR सर्वेक्षण: क्लबों द्वारा अधिक लागत साझा करने के लिए 97 प्रतिशत",
+      "summary": "Waldhof और FCK के बीच मैच के बाद SWR का एक सर्वेक्षण एक स्पष्ट तस्वीर दिखाता है: 97 प्रतिशत चाहते हैं कि फुटबॉल क्लब पुलिस मिशनों के लिए भुगतान करें। सर्वेक्षण प्रतिनिधि नहीं है।"
+    },
+    "bn": {
+      "title": "SWR জরিপ: ক্লাবগুলির আরও ব্যয় ভাগ করে নেওয়ার জন্য 97 শতাংশ",
+      "summary": "Waldhof এবং FCK এর মধ্যে ম্যাচের পরে একটি SWR জরিপ একটি স্পষ্ট চিত্র দেখায়: 97 শতাংশ ফুটবল ক্লাবগুলিকে পুলিশ মিশনের জন্য অর্থ প্রদান করতে চায় । সমীক্ষাটি প্রতিনিধিত্বমূলক নয় ।"
+    },
+    "fr": {
+      "title": "Enquête SWR : 97 % pour une plus grande participation des clubs aux coûts",
+      "summary": "Un sondage SWR après le match Waldhof contre FCK montre une image claire : 97 pour cent veulent que les clubs de football paient pour les opérations de police. L'enquête n'est pas représentative."
+    }
+  }
+}

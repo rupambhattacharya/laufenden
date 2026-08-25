@@ -1,0 +1,31 @@
+{
+  "id": "999249d2165044dd0f35a2e9ad269bb677b288ba",
+  "slug": "film-everytime-als-deutscher-beitrag-fur-oscar-verleihung-nominiert",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/kultur/everytime-film-100.html",
+  "publishedAt": "2026-08-25T18:44:57.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Film \"Everytime\" nominated as a German contribution to the Academy Awards",
+      "summary": "The film \"Everytime\" by Sandra Wollner is the official Oscar submission from Germany. In addition, two more German productions could enter the race for the Oscar as \"Best International Film\" for the first time."
+    },
+    "de": {
+      "title": "Film \"Everytime\" als deutscher Beitrag für Oscar-Verleihung nominiert",
+      "summary": "Der Film \"Everytime\" von Sandra Wollner ist die offizielle Oscar-Einreichung aus Deutschland. Darüber hinaus könnten erstmals zwei weitere deutsche Produktionen ins Rennen um den Oscar als \"Bester internationaler Film\" gehen."
+    },
+    "hi": {
+      "title": "फिल्म \"हर बार\" को अकादमी पुरस्कारों के लिए जर्मन योगदान के रूप में नामांकित किया गया",
+      "summary": "सैंड्रा वोलनर की फिल्म \"एवरीटाइम\" जर्मनी की आधिकारिक ऑस्कर प्रस्तुति है। इसके अलावा, दो और जर्मन प्रोडक्शंस पहली बार \"सर्वश्रेष्ठ अंतर्राष्ट्रीय फिल्म\" के रूप में ऑस्कर की दौड़ में शामिल हो सकते हैं।"
+    },
+    "bn": {
+      "title": "একাডেমি পুরষ্কারে জার্মান অবদানের জন্য \"প্রতিবার\" চলচ্চিত্রটি মনোনীত হয়েছে",
+      "summary": "Sandra Wollner এর \"Everytime\" ছবিটি হল জার্মানির অফিসিয়াল অস্কার জমা দেওয়া । এছাড়াও, প্রথমবারের মতো আরও দুটি জার্মান প্রযোজনা অস্কারের জন্য \"সেরা আন্তর্জাতিক চলচ্চিত্র\" হিসাবে প্রতিযোগিতায় প্রবেশ করতে পারে ।"
+    },
+    "fr": {
+      "title": "Film « Everytime » nominé comme contribution allemande aux Oscars",
+      "summary": "Le film « Everytime » de Sandra Wollner est la candidature officielle aux Oscars en provenance d'Allemagne. En outre, deux autres productions allemandes pourraient pour la première fois concourir pour l'Oscar du « meilleur film international »."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1eefc6310e2fab2600a4bb82355491f0621edccf",
+  "slug": "two-unvaccinated-people-die-of-measles-in-pennsylvania",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-25T16:43:08.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Two unvaccinated people die of measles in Pennsylvania ",
+      "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline."
+    },
+    "de": {
+      "title": "Zwei ungeimpfte Menschen sterben in Pennsylvania an Masern",
+      "summary": "Die Fälle in den USA haben den höchsten Punkt seit der Eliminierung des Virus erreicht, da die Impfquoten sinken."
+    },
+    "hi": {
+      "title": "पेंसिल्वेनिया में दो बिना टीकाकरण वाले लोगों की खसरे से मौत हो जाती है",
+      "summary": "अमेरिका में टीकाकरण की दर कम होने के साथ ही वायरस के ख़त्म होने के बाद से मामले सबसे ऊँचे स्तर पर पहुँच गए हैं।"
+    },
+    "bn": {
+      "title": "পেনসিলভানিয়ায় দু 'জন টিকা না নেওয়া ব্যক্তির মৃত্যু",
+      "summary": "টিকা দেওয়ার হার হ্রাস পাওয়ায় ভাইরাসটি নির্মূল হওয়ার পর থেকে মার্কিন যুক্তরাষ্ট্রে কেসগুলি সর্বোচ্চ পয়েন্টে পৌঁছেছে ।"
+    },
+    "fr": {
+      "title": "Deux personnes non vaccinées meurent de la rougeole en Pennsylvanie",
+      "summary": "Les cas aux États-Unis ont atteint le point le plus élevé depuis l'élimination du virus, alors que les taux de vaccination diminuent."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "b5224482a7ca1cdb2797473241ca07b1dbb48c28",
+  "slug": "cia-chief-travels-to-moscow-for-unannounced-talks-us-media-reports",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-25T19:48:14.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
+    },
+    "de": {
+      "title": "CIA-Chef reist zu unangekündigten Gesprächen nach Moskau, US-Medien berichten",
+      "summary": "Flugverfolgungsdaten bestätigen, dass ein amerikanisches Militärflugzeug am Dienstag von den USA über Lettland nach Russland gereist ist."
+    },
+    "hi": {
+      "title": "सीआईए प्रमुख अघोषित वार्ता के लिए मॉस्को की यात्रा पर, अमेरिकी मीडिया रिपोर्ट्स",
+      "summary": "उड़ान ट्रैकिंग डेटा इस बात की पुष्टि करता है कि एक अमेरिकी सैन्य विमान ने मंगलवार को लातविया के रास्ते अमेरिका से रूस की यात्रा की।"
+    },
+    "bn": {
+      "title": "অঘোষিত আলোচনার জন্য সিআইএ প্রধান মস্কো সফর করেছেন, মার্কিন গণমাধ্যমের খবরে বলা হয়েছে",
+      "summary": "ফ্লাইট ট্র্যাকিং ডেটা নিশ্চিত করে যে মঙ্গলবার মার্কিন যুক্তরাষ্ট্র থেকে লাটভিয়া হয়ে রাশিয়ায় ভ্রমণ করা একটি আমেরিকান সামরিক বিমান ।"
+    },
+    "fr": {
+      "title": "Le chef de la CIA se rend à Moscou pour des entretiens inopinés, rapportent les médias américains",
+      "summary": "Les données de suivi des vols confirment qu'un avion militaire américain s'est rendu en Russie depuis les États-Unis via la Lettonie mardi."
+    }
+  }
+}

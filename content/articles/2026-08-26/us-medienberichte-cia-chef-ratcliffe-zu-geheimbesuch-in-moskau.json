@@ -1,0 +1,31 @@
+{
+  "id": "ece324cbe36066f459a432a14d0aab1f776ea587",
+  "slug": "us-medienberichte-cia-chef-ratcliffe-zu-geheimbesuch-in-moskau",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/asien/usa-russland-cia-100.html",
+  "publishedAt": "2026-08-25T18:42:34.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "US media reports - CIA chief Ratcliffe on secret visit to Moscow",
+      "summary": "The director of the US foreign intelligence service CIA, Ratcliffe, has flown to Moscow, according to media reports. Ukraine is said to have been informed in advance. Neither the US nor Russia confirmed the trip."
+    },
+    "de": {
+      "title": "US-Medienberichte - CIA-Chef Ratcliffe zu Geheimbesuch in Moskau",
+      "summary": "Der Direktor des US-Auslandsgeheimdienstes CIA, Ratcliffe, ist Medienberichten zufolge nach Moskau geflogen. Die Ukraine soll demnach vorab informiert worden sein. Weder die USA noch Russland bestätigen die Reise."
+    },
+    "hi": {
+      "title": "अमेरिकी मीडिया रिपोर्ट्स - मॉस्को की गुप्त यात्रा पर सीआईए प्रमुख रैटक्लिफ",
+      "summary": "मीडिया रिपोर्टों के अनुसार, अमेरिकी विदेशी खुफिया सेवा सीआईए के निदेशक, रैटक्लिफ, मास्को के लिए रवाना हो गए हैं। कहा जाता है कि यूक्रेन को पहले ही सूचित कर दिया गया था। न तो अमेरिका और न ही रूस ने इस यात्रा की पुष्टि की।"
+    },
+    "bn": {
+      "title": "মার্কিন মিডিয়া রিপোর্ট - সিআইএ প্রধান র্যাটক্লিফ মস্কো গোপন সফরে",
+      "summary": "মার্কিন যুক্তরাষ্ট্রের বৈদেশিক গোয়েন্দা সংস্থা সিআইএর পরিচালক র্যাটক্লিফ, গণমাধ্যমের প্রতিবেদন অনুযায়ী, মস্কো গেছেন । ইউক্রেনকে আগেই জানানো হয়েছে বলে জানা গেছে । মার্কিন যুক্তরাষ্ট্র বা রাশিয়া কেউই ট্রিপটি নিশ্চিত করেনি ।"
+    },
+    "fr": {
+      "title": "Rapports des médias américains - Le chef de la CIA Ratcliffe en visite secrète à Moscou",
+      "summary": "Selon les médias, le directeur de la CIA, Ratcliffe, s'est envolé pour Moscou. L'Ukraine aurait donc été informée à l'avance. Ni les États-Unis ni la Russie ne confirment le voyage."
+    }
+  }
+}
