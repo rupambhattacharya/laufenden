@@ -1,0 +1,31 @@
+{
+  "id": "85a11b1876286a03cc4375a2a3508ff25265a6fa",
+  "slug": "mullwagen-schiebt-auto-in-bleicherode-gegen-carport",
+  "category": "thueringen",
+  "sourceName": "Thüringen | Nachrichten und aktuelle Informationen ",
+  "sourceUrl": "https://www.mdr.de/nachrichten/thueringen/nord-thueringen/nordhausen/video-muellwagen-unfall-100.html",
+  "publishedAt": "2026-08-26T18:37:37.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Garbage truck pushes car against carport in Bleicherode",
+      "summary": "in Bleicherode in the district of Nordhausen, a garbage truck ran into a parked car. The driver of the garbage truck had to be taken to a clinic."
+    },
+    "de": {
+      "title": "Müllwagen schiebt Auto in Bleicherode gegen Carport",
+      "summary": "in Bleicherode im Kreis Nordhausen ist ein Müllwagen gegen ein geparktes Auto gefahren. Der Fahrer des Müllwagens musste in eine Klinik gebracht werden."
+    },
+    "hi": {
+      "title": "कचरा ट्रक ने ब्लीचेरोड में कारपोर्ट के खिलाफ कार को धक्का दिया",
+      "summary": "नॉर्डहौसेन जिले के ब्लीचेरोड में, एक कचरा ट्रक एक खड़ी कार से टकरा गया। कचरा ट्रक के चालक को एक क्लिनिक में ले जाना पड़ा।"
+    },
+    "bn": {
+      "title": "Bleicherode-এ আবর্জনা ট্রাক কার্পোর্টের বিপরীতে গাড়ি ঠেলে দেয়",
+      "summary": "নর্ডহাউসেন জেলার ব্লাইচেরোডে, একটি আবর্জনা ট্রাক একটি পার্ক করা গাড়িতে ঢুকে পড়ে । আবর্জনা ট্রাকের ড্রাইভারকে একটি ক্লিনিকে নিয়ে যেতে হয়েছিল ।"
+    },
+    "fr": {
+      "title": "Le camion à ordures pousse la voiture dans l'ardoise de plomb contre le carport",
+      "summary": "à Bleicherode dans le district de Nordhausen, un camion à ordures s'est écrasé contre une voiture garée. Le chauffeur du camion poubelle a dû être emmené dans une clinique."
+    }
+  }
+}

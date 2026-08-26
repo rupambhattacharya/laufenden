@@ -1,0 +1,31 @@
+{
+  "id": "5a3ce4ac3ebb6b82f55c531fe7c811c454c8f52f",
+  "slug": "us-drug-agency-approves-breakthrough-treatment-for-pancreatic-cancer",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-26T22:02:18.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+      "summary": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers."
+    },
+    "de": {
+      "title": "US-Arzneimittelbehörde genehmigt bahnbrechende Behandlung von Bauchspeicheldrüsenkrebs",
+      "summary": "Experten haben das Medikament Daraxonrasib als wegweisend für eine der tödlichsten Krebsarten der Welt bezeichnet."
+    },
+    "hi": {
+      "title": "अमेरिकी दवा एजेंसी ने अग्नाशय के कैंसर के लिए सफलता उपचार को मंजूरी दी",
+      "summary": "विशेषज्ञों ने दुनिया के सबसे घातक कैंसर में से एक के लिए गेम चेंजर के रूप में दवा, दाराक्सोनरासिब की सराहना की है।"
+    },
+    "bn": {
+      "title": "মার্কিন ওষুধ সংস্থা অগ্ন্যাশয় ক্যান্সারের জন্য যুগান্তকারী চিকিৎসার অনুমোদন দিয়েছে",
+      "summary": "বিশেষজ্ঞরা এই ওষুধকে বিশ্বের অন্যতম মারাত্মক ক্যান্সারের জন্য গেম চেঞ্জার হিসাবে প্রশংসা করেছেন ।"
+    },
+    "fr": {
+      "title": "L'Agence américaine des médicaments approuve un traitement révolutionnaire pour le cancer du pancréas",
+      "summary": "Les experts ont salué le médicament, le daraxonrasib, comme un changeur de jeu pour l'un des cancers les plus mortels au monde."
+    }
+  }
+}

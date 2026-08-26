@@ -1,0 +1,31 @@
+{
+  "id": "2e0cd79a5f3c6f78feb4cdaec3f15af2b93f143d",
+  "slug": "viele-tote-nach-sturzflut-in-nepal-hunderte-vermisst",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaja-100.html",
+  "publishedAt": "2026-08-26T19:07:47.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Many dead after flash flood in Nepal - hundreds missing",
+      "summary": "Water masses that tear away entire villages: at least 157 people have died in flash floods in Nepal. Hundreds of people are still missing. Victims are also reported from neighboring China."
+    },
+    "de": {
+      "title": "Viele Tote nach Sturzflut in Nepal - Hunderte vermisst",
+      "summary": "Wassermassen, die ganze Dörfer wegreißen: Bei Sturzfluten sind in Nepal mindestens 157 Menschen ums Leben gekommen. Hunderte Menschen werden noch vermisst. Auch aus dem benachbarten China werden Opfer gemeldet."
+    },
+    "hi": {
+      "title": "नेपाल में अचानक आई बाढ़ के बाद कई लोगों की मौत - सैकड़ों लापता",
+      "summary": "पूरे गाँवों को तबाह करने वाले पानी के लोग: नेपाल में अचानक आई बाढ़ में कम से कम 157 लोग मारे गए हैं। सैकड़ों लोग अभी भी लापता हैं। पीड़ितों को पड़ोसी चीन से भी सूचित किया जाता है।"
+    },
+    "bn": {
+      "title": "নেপালে আকস্মিক বন্যায় অনেকের মৃত্যু - শতাধিক নিখোঁজ",
+      "summary": "নেপালে আকস্মিক বন্যায় কমপক্ষে ১৫৭ জনের মৃত্যু হয়েছে । শত শত মানুষ এখনও নিখোঁজ । ভুক্তভোগীদের প্রতিবেশী চীন থেকেও রিপোর্ট করা হয় ।"
+    },
+    "fr": {
+      "title": "De nombreux morts après les inondations soudaines au Népal - des centaines de personnes portées disparues",
+      "summary": "Des masses d'eau qui arrachent des villages entiers : au moins 157 personnes sont mortes dans des inondations soudaines au Népal. Des centaines de personnes sont toujours portées disparues. Des victimes de la Chine voisine sont également signalées."
+    }
+  }
+}

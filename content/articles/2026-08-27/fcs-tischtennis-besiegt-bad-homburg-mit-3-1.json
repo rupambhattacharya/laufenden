@@ -1,0 +1,31 @@
+{
+  "id": "f054e136487f933a9c798bea9e2ff4d202c08cdb",
+  "slug": "fcs-tischtennis-besiegt-bad-homburg-mit-3-1",
+  "category": "saarland",
+  "sourceName": "Regionalnachrichten aus dem Saarland",
+  "sourceUrl": "https://www.tagesschau.de/inland/regional/saarland/sr-fcs-tischtennis-besiegt-bad-homburg-mit-3-100.html",
+  "publishedAt": "2026-08-26T19:41:00.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "FCS Tischtennis defeats Bad Homburg 3:1",
+      "summary": "FC Saarbrücken TT won their away game in Bad Homburg 3-1. After the games against Dortmund and Mühlhausen, FCS thus also won in the third game of the season."
+    },
+    "de": {
+      "title": "FCS Tischtennis besiegt Bad Homburg mit 3:1",
+      "summary": "Der 1. FC Saarbrücken TT hat sein Auswärtsspiel in Bad Homburg mit 3:1 gewonnen. Damit hat der FCS nach den Spielen gegen Dortmund und Mühlhausen auch im dritten Saisonspiel gesiegt."
+    },
+    "hi": {
+      "title": "FCS Tischtennis ने बैड होम्बर्ग को हराया 3:1",
+      "summary": "एफसी सारब्रुकन टीटी ने बैड होम्बर्ग में 3-1 से अपना अवे गेम जीता। डॉर्टमुंड और मुहल्हाउसेन के खिलाफ मैचों के बाद, इस प्रकार एफसीएस ने सीज़न के तीसरे गेम में भी जीत हासिल की।"
+    },
+    "bn": {
+      "title": "এফসিএস টিশটেনিস খারাপ হোমবুর্গ 3:1 কে পরাজিত করে",
+      "summary": "এফসি সারব্রুকেন টিটি ব্যাড হোমবুর্গ ৩-১ এ তাদের অ্যাওয়ে ম্যাচ জিতেছে । ডর্টমুন্ড এবং মুহলহাউসেনের বিপক্ষে খেলার পরে, এফসিএস মৌসুমের তৃতীয় খেলায়ও জিতেছিল ।"
+    },
+    "fr": {
+      "title": "Le FCS Tennis de table bat Bad Homburg 3:1",
+      "summary": "Le 1er FC Sarrebruck TT a remporté son match à l'extérieur à Bad Homburg 3:1. Ainsi, le FCS a également remporté le troisième match de la saison après les matchs contre Dortmund et Mühlhausen."
+    }
+  }
+}

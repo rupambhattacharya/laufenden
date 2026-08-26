@@ -1,0 +1,31 @@
+{
+  "id": "ef8cfb37a7b832009cd965cd70a4fce3c97dd52b",
+  "slug": "marktbericht-dax-bleibt-auf-hohem-niveau",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html",
+  "publishedAt": "2026-08-26T16:17:44.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Market report: DAX remains at a high level",
+      "summary": "Investors today moved cautiously ahead of new balance sheet figures from the AI chip giant Nvidia. The DAX still rises slightly and scratches the all-time high. The further decline in oil prices helped."
+    },
+    "de": {
+      "title": "Marktbericht: DAX bleibt auf hohem Niveau",
+      "summary": "Vor neuen Bilanzzahlen des KI-Chipriesen Nvidia haben sich die Anleger heute vorsichtig bewegt. Der DAX legt trotzdem leicht zu und kratzt am Allzeithoch. Geholfen hat der weitere Rückgang der Ölpreise."
+    },
+    "hi": {
+      "title": "बाज़ार की रिपोर्ट: DAX उच्च स्तर पर बनी हुई है",
+      "summary": "एआई चिप दिग्गज एनवीडिया के नए बैलेंस शीट आंकड़ों से पहले निवेशक आज सावधानीपूर्वक आगे बढ़े। DAX अभी भी थोड़ा बढ़ता है और सर्वकालिक उच्च को खरोंचता है। तेल की कीमतों में और गिरावट से मदद मिली।"
+    },
+    "bn": {
+      "title": "মার্কেট রিপোর্ট: DAX একটি উচ্চ স্তরে রয়েছে",
+      "summary": "বিনিয়োগকারীরা আজ এআই চিপ জায়ান্ট এনভিডিয়া থেকে নতুন ব্যালেন্স শীটের পরিসংখ্যানের আগে সতর্কতার সাথে এগিয়ে গেছে । DAX এখনও সামান্য বৃদ্ধি পায় এবং সর্বকালের উচ্চতায় স্ক্র্যাচ করে । তেলের দাম আরও কমতে সাহায্য করেছে ।"
+    },
+    "fr": {
+      "title": "Rapport de marché : le DAX reste à un niveau élevé",
+      "summary": "Aujourd'hui, les investisseurs se sont montrés prudents face aux nouveaux chiffres du bilan du géant des puces IA Nvidia. Le DAX augmente néanmoins légèrement et gratte à son plus haut niveau. La poursuite de la baisse des prix du pétrole a aidé."
+    }
+  }
+}

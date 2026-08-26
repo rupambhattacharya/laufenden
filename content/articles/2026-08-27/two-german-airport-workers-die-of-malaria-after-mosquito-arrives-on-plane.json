@@ -1,0 +1,31 @@
+{
+  "id": "abb34ee3086099dda81cb0fdcd0239b74b1be625",
+  "slug": "two-german-airport-workers-die-of-malaria-after-mosquito-arrives-on-plane",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-26T18:22:41.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "summary": "It is believed the mosquitoes arrived at Germany's busiest airport on a plane, according to German public health officials."
+    },
+    "de": {
+      "title": "Zwei deutsche Flughafenangestellte sterben an Malaria, nachdem \"Mücke im Flugzeug ankommt\"",
+      "summary": "Es wird angenommen, dass die Mücken in einem Flugzeug am verkehrsreichsten Flughafen Deutschlands angekommen sind, so die deutschen Gesundheitsbehörden."
+    },
+    "hi": {
+      "title": "'विमान में मच्छर आने के बाद मलेरिया से जर्मन हवाई अड्डे के दो श्रमिकों की मौत'",
+      "summary": "ऐसा माना जाता है कि मच्छर एक विमान से जर्मनी के सबसे व्यस्त हवाई अड्डे पर पहुंचे थे, जर्मन सार्वजनिक स्वास्थ्य अधिकारियों के अनुसार।"
+    },
+    "bn": {
+      "title": "মশার কামড়ে ম্যালেরিয়ায় জার্মান বিমানবন্দরের দুই কর্মীর মৃত্যু",
+      "summary": "জার্মান জনস্বাস্থ্য আধিকারিকদের মতে, মশাগুলি একটি বিমানে করে জার্মানির সবচেয়ে ব্যস্ততম বিমানবন্দরে পৌঁছেছে বলে মনে করা হয় ।"
+    },
+    "fr": {
+      "title": "Deux travailleurs aéroportuaires allemands meurent du paludisme après l'arrivée d'un « moustique dans l'avion »",
+      "summary": "On pense que les moustiques sont arrivés à l'aéroport le plus achalandé d'Allemagne en avion, selon les responsables allemands de la santé publique."
+    }
+  }
+}

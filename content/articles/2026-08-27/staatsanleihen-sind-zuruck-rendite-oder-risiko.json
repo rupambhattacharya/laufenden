@@ -1,0 +1,31 @@
+{
+  "id": "8379191107fb83e68706a3fc5c9bb20b60a86451",
+  "slug": "staatsanleihen-sind-zuruck-rendite-oder-risiko",
+  "category": "baden-wuerttemberg",
+  "sourceName": "SWR Aktuell Baden-Württemberg",
+  "sourceUrl": "https://www.swr.de/plusminus/staatsanleihen-sind-zurueck-rendite-oder-risiko-100.html",
+  "publishedAt": "2026-08-26T22:01:00.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Government bonds are back! Return or risk?",
+      "summary": "Government bonds are yielding interest again: more than three percent yield is in it. Good for the custody account, expensive for the state – how safe is your money?"
+    },
+    "de": {
+      "title": "Staatsanleihen sind zurück! Rendite oder Risiko?",
+      "summary": "Staatsanleihen bringen wieder Zinsen: Über drei Prozent Rendite sind drin. Gut fürs Depot, teuer für den Staat – wie sicher ist euer Geld?"
+    },
+    "hi": {
+      "title": "सरकारी बॉन्ड वापस आ गए हैं! वापसी या जोखिम?",
+      "summary": "सरकारी बॉन्ड फिर से ब्याज दे रहे हैं: इसमें तीन प्रतिशत से अधिक प्रतिफल है। हिरासत खाते के लिए अच्छा, राज्य के लिए महंगा – आपका पैसा कितना सुरक्षित है?"
+    },
+    "bn": {
+      "title": "সরকারী বন্ড ফিরে এসেছে! ফেরত বা ঝুঁকি?",
+      "summary": "সরকারী বন্ডগুলি আবার সুদ দিচ্ছে: এতে তিন শতাংশের বেশি ফলন রয়েছে । হেফাজত অ্যাকাউন্টের জন্য ভাল, রাষ্ট্রের জন্য ব্যয়বহুল – আপনার অর্থ কতটা নিরাপদ?"
+    },
+    "fr": {
+      "title": "Les bons du Trésor sont de retour ! Rendement ou risque ?",
+      "summary": "Les emprunts d'État rapportent à nouveau des intérêts : plus de trois pour cent de rendement. Bon pour le dépôt, cher pour l'État – à quel point votre argent est-il sûr ?"
+    }
+  }
+}

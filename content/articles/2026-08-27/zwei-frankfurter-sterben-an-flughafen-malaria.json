@@ -1,0 +1,31 @@
+{
+  "id": "f2a1bd3bc085ef28a067669e0fc505289f1d41dd",
+  "slug": "zwei-frankfurter-sterben-an-flughafen-malaria",
+  "category": "bayern",
+  "sourceName": "Die Nachrichten des Bayerischen Rundfunks",
+  "sourceUrl": "https://www.br.de/nachrichten/meldungen/index.html#n5",
+  "publishedAt": "2026-08-26T20:11:48.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Two Frankfurters die of \"airport malaria\"",
+      "summary": "Two airport employees die of malaria in Frankfurt: The health department confirmed that there was one death in July and one in August. It is suspected that the employees were bitten at work by mosquitoes that came from a malaria area and came to Germany by plane. ( BR24 Radio News 26.08.2026 18:45)"
+    },
+    "de": {
+      "title": "Zwei Frankfurter sterben an \"Flughafen-Malaria\"",
+      "summary": "Zwei Flughafen-Mitarbeiter sterben in Frankfurt an Malaria: Das Gesundheitsamt bestätigte, dass es einen Todesfall im Juli und einen im August gab. Es wird vermutet, dass die Mitarbeiter bei der Arbeit von Mücken gestochen wurden, die aus einem Malariagebiet stammten und mit dem Flugzeug nach Deutschland kamen. ( BR24 Radio-Nachrichten 26.08.2026 18:45)"
+    },
+    "hi": {
+      "title": "\"एयरपोर्ट मलेरिया\" से दो फ्रैंकफर्टर्स की मौत",
+      "summary": "फ्रैंकफर्ट में मलेरिया से दो हवाई अड्डे के कर्मचारियों की मौत हो गई: स्वास्थ्य विभाग ने पुष्टि की कि जुलाई में एक और अगस्त में एक मौत हुई थी। संदेह है कि कर्मचारियों को मलेरिया क्षेत्र से आए मच्छरों द्वारा काम पर काटा गया था और वे विमान से जर्मनी आए थे। ( BR24 रेडियो समाचार 26.08.2026 18:45)"
+    },
+    "bn": {
+      "title": "\"এয়ারপোর্ট ম্যালেরিয়া\" থেকে দুটি ফ্রাঙ্কফুর্টার মারা যায়",
+      "summary": "ফ্রাঙ্কফুর্টে ম্যালেরিয়ায় বিমানবন্দরের দুই কর্মীর মৃত্যু: স্বাস্থ্য বিভাগ নিশ্চিত করেছে যে জুলাইয়ে একজন এবং আগস্টে একজন মারা গেছেন । সন্দেহ করা হয় যে কর্মীদের ম্যালেরিয়া এলাকা থেকে আসা এবং বিমানে জার্মানিতে আসা মশার কামড়ে কর্মস্থলে কামড় দেওয়া হয়েছিল । ( BR24 রেডিও নিউজ 26.08.2026 18:45)"
+    },
+    "fr": {
+      "title": "Deux Francfortois meurent du « paludisme aéroportuaire »",
+      "summary": "Deux employés de l'aéroport meurent du paludisme à Francfort : le service de santé a confirmé qu'il y a eu un décès en juillet et un en août. On pense que les employés ont été piqués au travail par des moustiques originaires d'une zone de paludisme et qui sont venus en Allemagne en avion. ( BR24 Radio Nouvelles 26/08/2026 18:45)"
+    }
+  }
+}

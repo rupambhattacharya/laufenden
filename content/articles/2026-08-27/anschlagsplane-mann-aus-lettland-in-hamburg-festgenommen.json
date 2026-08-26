@@ -1,0 +1,31 @@
+{
+  "id": "3f3202423c798d3c294e75493554788c0ec86902",
+  "slug": "anschlagsplane-mann-aus-lettland-in-hamburg-festgenommen",
+  "category": "hamburg",
+  "sourceName": "Nachrichten aus Hamburg",
+  "sourceUrl": "https://www.ndr.de/nachrichten/hamburg/anschlagsplaene-mann-aus-lettland-in-hamburg-festgenommen,kurzehh-4138.html",
+  "publishedAt": "2026-08-26T18:13:49.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Plans: Man from Latvia arrested in Hamburg",
+      "summary": "The 26-year-old is said to have planned an arson attack on a Slovak drone factory."
+    },
+    "de": {
+      "title": "Anschlagspläne: Mann aus Lettland in Hamburg festgenommen",
+      "summary": "Der 26-Jährige soll einen Brandanschlag auf eine slowakische Drohnenfabrik geplant haben."
+    },
+    "hi": {
+      "title": "योजनाएँ: हैम्बर्ग में लातविया से एक व्यक्ति गिरफ्तार किया गया",
+      "summary": "कहा जाता है कि 26 वर्षीय ने स्लोवाक ड्रोन फैक्ट्री पर आगजनी की योजना बनाई थी।"
+    },
+    "bn": {
+      "title": "পরিকল্পনা: হামবুর্গে লাটভিয়া থেকে আসা ব্যক্তি গ্রেপ্তার",
+      "summary": "26 বছর বয়সী এই ব্যক্তি স্লোভাক ড্রোন কারখানায় অগ্নিসংযোগের পরিকল্পনা করেছিলেন বলে জানা গেছে ।"
+    },
+    "fr": {
+      "title": "Plans d'attentat : un Letton arrêté à Hambourg",
+      "summary": "Le jeune homme de 26 ans aurait planifié un incendie criminel contre une usine de drones slovaques."
+    }
+  }
+}
