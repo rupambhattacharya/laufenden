@@ -1,0 +1,31 @@
+{
+  "id": "ffd0ccdb1996379278131bc0bbc8f38ccd9b4671",
+  "slug": "erpresser-fordern-losegeld-nach-hackerangriff-auf-berliner-landesnetz",
+  "category": "berlin",
+  "sourceName": "rbb24 - Nachrichten aus Berlin und Brandenburg | rbb24",
+  "sourceUrl": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-hackerangriff-landesnetz-loesegeld-forderung-erpresser.html",
+  "publishedAt": "2026-08-27T20:54:14.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Blackmailers demand ransom after hacker attack on Berlin state network",
+      "summary": "After the hacker attack on the Berlin regional network, a ransom demand was received. Whether it is a threat from the ransom claimants is not clear. A meeting with security authorities will take place on Friday."
+    },
+    "de": {
+      "title": "Erpresser fordern Lösegeld nach Hackerangriff auf Berliner Landesnetz",
+      "summary": "Nach dem Hackerangriff auf das Berliner Landesnetz ist eine Lösegeldforderung eingegangen. Ob es sich um ein Drohung der Lösegeld-Forderer handelt, ist nicht klar. Am Freitag findet ein Treffen mit Sicherheitsbehörden statt."
+    },
+    "hi": {
+      "title": "बर्लिन राज्य नेटवर्क पर हैकर हमले के बाद ब्लैकमेलर्स ने फिरौती की मांग की",
+      "summary": "बर्लिन क्षेत्रीय नेटवर्क पर हैकर हमले के बाद, फिरौती की मांग प्राप्त हुई। क्या यह फिरौती के दावेदारों से खतरा है, यह स्पष्ट नहीं है। शुक्रवार को सुरक्षा अधिकारियों के साथ एक बैठक होगी।"
+    },
+    "bn": {
+      "title": "বার্লিন স্টেট নেটওয়ার্কে হ্যাকার হামলার পর ব্ল্যাকমেইলারের মুক্তিপণ দাবি",
+      "summary": "বার্লিন আঞ্চলিক নেটওয়ার্কে হ্যাকার আক্রমণের পরে, মুক্তিপণ দাবি করা হয়েছিল । মুক্তিপণ দাবিকারীদের কাছ থেকে এটি হুমকি কিনা তা স্পষ্ট নয় । শুক্রবার নিরাপত্তা কর্তৃপক্ষের সাথে একটি বৈঠক অনুষ্ঠিত হবে ।"
+    },
+    "fr": {
+      "title": "Les extorqueurs demandent une rançon après le piratage du réseau régional de Berlin",
+      "summary": "Après le piratage du réseau régional de Berlin, une demande de rançon a été reçue. Il n'est pas clair s'il s'agit d'une menace des demandeurs de rançon. Une réunion avec les autorités de sécurité aura lieu vendredi."
+    }
+  }
+}

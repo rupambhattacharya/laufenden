@@ -1,0 +1,31 @@
+{
+  "id": "f3fed40b42668644dc18f9a7d8743cc3004f5b13",
+  "slug": "partielle-mondfinsternis-beginnt-alles-wichtige-in-der-ubersicht",
+  "category": "baden-wuerttemberg",
+  "sourceName": "SWR Aktuell Baden-Württemberg",
+  "sourceUrl": "https://www.swr.de/swraktuell/partielle-mondfinsternis-am-freitag-belohnt-fruehaufsteher-100.html",
+  "publishedAt": "2026-08-28T03:34:47.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Partial lunar eclipse begins: Everything important in the overview",
+      "summary": "Early Friday morning, a partial lunar eclipse can be seen over Germany. When it starts, when the climax is reached and how it is even created."
+    },
+    "de": {
+      "title": "Partielle Mondfinsternis beginnt: Alles Wichtige in der Übersicht",
+      "summary": "Am frühen Freitagmorgen ist über Deutschland eine partielle Mondfinsternis zu sehen. Wann es losgeht, wann der Höhepunkt erreicht wird und wie sie überhaupt entsteht."
+    },
+    "hi": {
+      "title": "आंशिक चंद्र ग्रहण शुरू होता है: अवलोकन में सब कुछ महत्वपूर्ण है",
+      "summary": "शुक्रवार की सुबह, जर्मनी के ऊपर आंशिक चंद्र ग्रहण देखा जा सकता है। यह कब शुरू होता है, चरमोत्कर्ष पर कब पहुंचता है और इसे कैसे बनाया जाता है।"
+    },
+    "bn": {
+      "title": "আংশিক চন্দ্রগ্রহণ শুরু হয়: ওভারভিউতে গুরুত্বপূর্ণ সবকিছু",
+      "summary": "শুক্রবার সকালে জার্মানিতে আংশিক চন্দ্রগ্রহণ দেখা যেতে পারে । যখন এটি শুরু হয়, যখন ক্লাইম্যাক্সে পৌঁছানো হয় এবং কীভাবে এটি তৈরি করা হয় ।"
+    },
+    "fr": {
+      "title": "Début de l'éclipse lunaire partielle : aperçu de tout ce qui est important",
+      "summary": "Tôt vendredi matin, une éclipse lunaire partielle est visible au-dessus de l'Allemagne. Quand il commence, quand le point culminant est atteint et comment il se produit."
+    }
+  }
+}

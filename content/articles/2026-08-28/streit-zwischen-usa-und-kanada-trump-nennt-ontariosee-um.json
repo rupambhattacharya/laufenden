@@ -1,0 +1,31 @@
+{
+  "id": "68864924dcbe8d3525430c76712356f4c08a983b",
+  "slug": "streit-zwischen-usa-und-kanada-trump-nennt-ontariosee-um",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/amerika/usa-kanada-streit-ontario-100.html",
+  "publishedAt": "2026-08-27T22:26:50.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Dispute between USA and Canada - Trump calls Lake Ontario",
+      "summary": "Lake Ontario connects the USA and Canada - but at the moment a dispute divides the two neighbours. US President Trump is now causing further trouble in Canada with a name change."
+    },
+    "de": {
+      "title": "Streit zwischen USA und Kanada - Trump nennt Ontariosee um",
+      "summary": "Der Ontariosee verbindet die USA und Kanada - doch im Augenblick entzweit ein Streit die beiden Nachbarn. US-Präsident Trump sorgt nun mit einer Namensänderung für weiteren Ärger in Kanada."
+    },
+    "hi": {
+      "title": "संयुक्त राज्य अमेरिका और कनाडा के बीच विवाद - ट्रम्प ने लेक ओंटारियो को बुलाया",
+      "summary": "लेक ओंटारियो संयुक्त राज्य अमेरिका और कनाडा को जोड़ता है - लेकिन इस समय एक विवाद दोनों पड़ोसियों को विभाजित करता है। अमेरिकी राष्ट्रपति ट्रम्प अब नाम बदलने के साथ कनाडा में और परेशानी पैदा कर रहे हैं।"
+    },
+    "bn": {
+      "title": "মার্কিন যুক্তরাষ্ট্র এবং কানাডার মধ্যে বিরোধ - ট্রাম্প লেক অন্টারিওকে কল করেছেন",
+      "summary": "অন্টারিও হ্রদ মার্কিন যুক্তরাষ্ট্র এবং কানাডাকে সংযুক্ত করে - কিন্তু এই মুহূর্তে একটি বিরোধ দুই প্রতিবেশীকে বিভক্ত করে । মার্কিন প্রেসিডেন্ট ট্রাম্প এখন নাম পরিবর্তনের কারণে কানাডায় আরও সমস্যা সৃষ্টি করছেন ।"
+    },
+    "fr": {
+      "title": "Litige entre les États-Unis et le Canada - Trump nomme le lac Ontario",
+      "summary": "Le lac Ontario relie les États-Unis et le Canada - mais pour le moment, un différend divise les deux voisins. Le président américain Trump crée maintenant plus de problèmes au Canada avec un changement de nom."
+    }
+  }
+}

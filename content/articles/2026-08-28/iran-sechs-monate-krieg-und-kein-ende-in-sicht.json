@@ -1,0 +1,31 @@
+{
+  "id": "3cf99bc96a4997e7f90513694a918a4ec8926b4c",
+  "slug": "iran-sechs-monate-krieg-und-kein-ende-in-sicht",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/asien/iran-usa-israel-krieg-106.html",
+  "publishedAt": "2026-08-28T02:38:59.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Iran: Six months of war and no end in sight",
+      "summary": "US President Trump and Israeli Prime Minister Netanyahu had set their sights on a breakthrough when they launched the aerial bombardment of Iran on 28 February. Things turned out differently - and to this day the conflict remains unresolved. By Tina Fuchs."
+    },
+    "de": {
+      "title": "Iran: Sechs Monate Krieg und kein Ende in Sicht",
+      "summary": "US-Präsident Trump und Israels Premier Netanjahu hatten auf einen Durchmarsch gesetzt, als sie am 28. Februar das Luftbombardement Irans starteten. Es kam anders - und bis heute ist der Konflikt ungelöst. Von Tina Fuchs."
+    },
+    "hi": {
+      "title": "ईरान: युद्ध के छह महीने और कोई अंत नहीं",
+      "summary": "अमेरिकी राष्ट्रपति ट्रम्प और इजरायली प्रधान मंत्री नेतन्याहू ने 28 फरवरी को ईरान पर हवाई बमबारी शुरू करते समय एक सफलता पर अपनी नज़र रखी थी। चीजें अलग - अलग निकलीं - और आज तक संघर्ष अनसुलझा है। टीना फ्यूच द्वारा."
+    },
+    "bn": {
+      "title": "ইরান: ছয় মাসের যুদ্ধ এবং দেখার শেষ নেই",
+      "summary": "মার্কিন রাষ্ট্রপতি ট্রাম্প এবং ইস্রায়েলের প্রধানমন্ত্রী নেতানিয়াহু ২৮ ফেব্রুয়ারি ইরানের উপর বিমান হামলা চালানোর সময় একটি যুগান্তকারী সাফল্যের দিকে তাদের দৃষ্টি আকর্ষণ করেছিলেন । জিনিসগুলি ভিন্নভাবে পরিণত হয়েছিল - এবং আজ পর্যন্ত দ্বন্দ্বটি সমাধান করা হয়নি । টিনা ফুকস দ্বারা ।"
+    },
+    "fr": {
+      "title": "Iran : six mois de guerre et pas de fin en vue",
+      "summary": "Le président américain Trump et le Premier ministre israélien Netanyahu avaient misé sur un passage lorsqu'ils ont lancé le bombardement aérien de l'Iran le 28 février. Cela s'est passé différemment - et à ce jour, le conflit n'est toujours pas résolu. Par Tina Fuchs."
+    }
+  }
+}

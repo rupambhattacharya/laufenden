@@ -1,0 +1,31 @@
+{
+  "id": "575339c6fae1c2da303513e55cb624ae2b55aa95",
+  "slug": "what-we-know-about-deadly-nepal-tibet-floods",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-28T03:15:35.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "What we know about deadly Nepal-Tibet floods",
+      "summary": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet."
+    },
+    "de": {
+      "title": "Was wir über tödliche Überschwemmungen zwischen Nepal und Tibet wissen",
+      "summary": "Hunderte sind bei den Überschwemmungen und Erdrutschen an der Grenze zwischen Nepal und Tibet am Mittwoch gestorben oder werden vermisst."
+    },
+    "hi": {
+      "title": "घातक नेपाल - तिब्बत बाढ़ के बारे में हम क्या जानते हैं",
+      "summary": "नेपाल और तिब्बत की सीमा पर बुधवार की बाढ़ और भूस्खलन में सैकड़ों लोग मारे गए हैं या लापता हैं।"
+    },
+    "bn": {
+      "title": "নেপাল-তিব্বত বন্যা সম্পর্কে আমরা কী জানি",
+      "summary": "নেপাল ও তিব্বত সীমান্তে বুধবারের বন্যা ও ভূমিধসে শত শত মানুষ মারা গেছে বা নিখোঁজ রয়েছে ।"
+    },
+    "fr": {
+      "title": "Ce que nous savons des inondations meurtrières au Népal et au Tibet",
+      "summary": "Des centaines de personnes sont mortes ou sont portées disparues lors des inondations et des glissements de terrain survenus mercredi à la frontière entre le Népal et le Tibet."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "eb75c322ae9b9099675c3f0e331150ed83326221",
+  "slug": "trump-signs-order-to-rename-lake-ontario-as-lake-america",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-27T23:14:43.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Trump signs order to rename Lake Ontario as Lake America ",
+      "summary": "Trump's order comes after the trade talks between the US and Canada collapsed late last week."
+    },
+    "de": {
+      "title": "Trump unterzeichnet den Befehl, den Ontariosee in Lake America umzubenennen",
+      "summary": "Trumps Anordnung kommt, nachdem die Handelsgespräche zwischen den USA und Kanada Ende letzter Woche zusammengebrochen sind."
+    },
+    "hi": {
+      "title": "ट्रम्प ने लेक ओंटारियो का नाम बदलकर लेक अमेरिका करने के आदेश पर हस्ताक्षर किए",
+      "summary": "ट्रम्प का आदेश पिछले सप्ताह के अंत में अमेरिका और कनाडा के बीच व्यापार वार्ता के पतन के बाद आया है।"
+    },
+    "bn": {
+      "title": "ট্রাম্প অন্টারিও হ্রদকে লেক আমেরিকা হিসাবে নামকরণ করার আদেশে স্বাক্ষর করেছেন",
+      "summary": "গত সপ্তাহের শেষের দিকে মার্কিন যুক্তরাষ্ট্র এবং কানাডার মধ্যে বাণিজ্য আলোচনা ভেঙে যাওয়ার পরে ট্রাম্পের আদেশ আসে ।"
+    },
+    "fr": {
+      "title": "Trump signe l'ordre de renommer le lac Ontario en lac Amérique",
+      "summary": "L'ordre de Trump intervient après l'échec des négociations commerciales entre les États-Unis et le Canada à la fin de la semaine dernière."
+    }
+  }
+}

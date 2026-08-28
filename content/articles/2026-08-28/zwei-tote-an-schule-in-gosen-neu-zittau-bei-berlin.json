@@ -1,0 +1,31 @@
+{
+  "id": "ed2caa9ba3c9374395db90d0a77edbe444ebf4b7",
+  "slug": "zwei-tote-an-schule-in-gosen-neu-zittau-bei-berlin",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/regional/brandenburg/gewalttat-schule-gosen-neu-zittau-100.html",
+  "publishedAt": "2026-08-27T19:12:52.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Two dead at school in Gosen-Neu Zittau near Berlin",
+      "summary": "According to rbb information, two people were killed in an act of violence at a school in Gosen-Neu Zittau in Brandenburg. A man was arrested. According to the police, there are no indications of an amoctate."
+    },
+    "de": {
+      "title": "Zwei Tote an Schule in Gosen-Neu Zittau bei Berlin",
+      "summary": "Bei einer Gewalttat an einer Schule in Gosen-Neu Zittau in Brandenburg sind nach rbb-Informationen zwei Personen getötet worden. Ein Mann sei festgenommen worden. Hinweise auf eine Amoktat gibt es laut Polizei nicht."
+    },
+    "hi": {
+      "title": "बर्लिन के पास गोसेन - न्यू ज़िट्टाऊ में स्कूल में दो लोगों की मौत",
+      "summary": "आरबीबी की जानकारी के अनुसार, ब्रैंडेनबर्ग के गोसेन - न्यू ज़िट्टाऊ में एक स्कूल में हिंसा के एक कृत्य में दो लोग मारे गए थे। एक आदमी को गिरफ्तार किया गया था। पुलिस के अनुसार, अमोक्टेट के कोई संकेत नहीं हैं।"
+    },
+    "bn": {
+      "title": "বার্লিনের কাছে গোসেন-নিউ জিট্টুতে স্কুলে দুজন নিহত",
+      "summary": "আরবিবি তথ্য অনুসারে, ব্র্যান্ডেনবার্গের গোসেন-নিউ জিটাউয়ের একটি স্কুলে সহিংসতায় দু 'জন নিহত হয়েছেন । এক ব্যক্তিকে গ্রেপ্তার করা হয়েছে । পুলিশের মতে, অ্যামোকটেটের কোনও ইঙ্গিত নেই ।"
+    },
+    "fr": {
+      "title": "Deux morts à l'école à Gosen-Neu Zittau près de Berlin",
+      "summary": "Selon les informations de la RBB, deux personnes ont été tuées lors d'un acte de violence dans une école de Gosen-Neu Zittau, dans le Brandebourg. Un homme a été arrêté. Selon la police, il n'y a aucune preuve d'amoktat."
+    }
+  }
+}

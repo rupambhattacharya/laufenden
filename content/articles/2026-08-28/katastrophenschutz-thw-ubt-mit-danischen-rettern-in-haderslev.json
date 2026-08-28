@@ -1,0 +1,31 @@
+{
+  "id": "0944e59de41d71e44b516dc30cea738f14eab227",
+  "slug": "katastrophenschutz-thw-ubt-mit-danischen-rettern-in-haderslev",
+  "category": "schleswig-holstein",
+  "sourceName": "Nachrichten aus Schleswig-Holstein",
+  "sourceUrl": "https://www.ndr.de/nachrichten/schleswig-holstein/katastrophenschutz-thw-uebt-mit-daenischen-rettern-in-haderslev,thw-254.html",
+  "publishedAt": "2026-08-28T03:00:02.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Civil protection: THW exercises with Danish rescuers in Haderslev",
+      "summary": "150 emergency personnel from Germany and Denmark train together at the weekend in Haderslev, Denmark."
+    },
+    "de": {
+      "title": "Katastrophenschutz: THW übt mit dänischen Rettern in Haderslev",
+      "summary": "150 Einsatzkräfte aus Deutschland und Dänemark trainieren am Wochenende gemeinsam im dänischen Haderslev."
+    },
+    "hi": {
+      "title": "नागरिक सुरक्षा: हैडरस्लेव में डेनिश बचावकर्ताओं के साथ THW अभ्यास",
+      "summary": "जर्मनी और डेनमार्क के 150 आपातकालीन कर्मी हैडरस्लेव, डेनमार्क में सप्ताहांत में एक साथ प्रशिक्षण देते हैं।"
+    },
+    "bn": {
+      "title": "নাগরিক সুরক্ষা: হ্যাডারসলেভে ডেনিশ উদ্ধারকারীদের সাথে THW অনুশীলন",
+      "summary": "ডেনমার্কের হ্যাডারসলেভে সপ্তাহান্তে জার্মানি এবং ডেনমার্কের ১৫০ জন জরুরি কর্মী একসাথে প্রশিক্ষণ নেন ।"
+    },
+    "fr": {
+      "title": "Protection civile : THW s'entraîne avec des sauveteurs danois à Haderslev",
+      "summary": "150 intervenants d'Allemagne et du Danemark s'entraînent ensemble le week-end à Haderslev, au Danemark."
+    }
+  }
+}

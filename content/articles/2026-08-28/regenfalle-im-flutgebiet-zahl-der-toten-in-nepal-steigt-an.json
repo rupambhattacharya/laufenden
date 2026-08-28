@@ -1,0 +1,31 @@
+{
+  "id": "18bfb4fc6b7cf5dbf44529fcb5aefdcdb2c7481e",
+  "slug": "regenfalle-im-flutgebiet-zahl-der-toten-in-nepal-steigt-an",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/asien/nepal-china-flutwelle-100.html",
+  "publishedAt": "2026-08-28T03:40:39.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Rainfall in the floodplain - number of deaths in Nepal increases",
+      "summary": "In Nepal, the authorities are now reporting about 470 deaths. And rains could bring new dangers."
+    },
+    "de": {
+      "title": "Regenfälle im Flutgebiet - Zahl der Toten in Nepal steigt an",
+      "summary": "In Nepal melden die Behörden mittlerweile etwa 470 Tote. Und Regenfälle könnten neue Gefahren bringen."
+    },
+    "hi": {
+      "title": "बाढ़ के मैदान में बारिश - नेपाल में मौतों की संख्या बढ़ जाती है",
+      "summary": "नेपाल में, अधिकारी अब लगभग 470 मौतों की सूचना दे रहे हैं। और बारिश नए खतरे ला सकती है।"
+    },
+    "bn": {
+      "title": "বন্যা কবলিত এলাকায় বৃষ্টিপাত - নেপালে মৃতের সংখ্যা বাড়ছে",
+      "summary": "নেপালে, কর্তৃপক্ষ এখন প্রায় ৪৭০ জনের মৃত্যুর খবর দিচ্ছে । এবং বৃষ্টি নতুন বিপদ আনতে পারে ।"
+    },
+    "fr": {
+      "title": "Pluies dans la zone inondée - Augmentation du nombre de morts au Népal",
+      "summary": "Au Népal, les autorités font état d'environ 470 morts. Et les pluies pourraient apporter de nouveaux dangers."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "7d683d5bd184dbb16f9126a1ec3525a5dab89bf6",
+  "slug": "a1-in-hamburg-wird-ab-heute-abend-gesperrt",
+  "category": "hamburg",
+  "sourceName": "Nachrichten aus Hamburg",
+  "sourceUrl": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-wird-ab-heute-abend-gesperrt,aeins-142.html",
+  "publishedAt": "2026-08-28T03:52:22.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "A1 in Hamburg will be closed from tonight",
+      "summary": "Due to construction work on the Süderelbbrücke, the roadway in the direction of Lübeck will be closed until Monday morning."
+    },
+    "de": {
+      "title": "A1 in Hamburg wird ab heute Abend gesperrt",
+      "summary": "Wegen Bauarbeiten an der Süderelbbrücke wird die Fahrbahn in Richtung Lübeck bis Montagfrüh gesperrt."
+    },
+    "hi": {
+      "title": "हैम्बर्ग में A1 आज रात से बंद हो जाएगा",
+      "summary": "Süderelbbrücke पर निर्माण कार्य के कारण, Lübeck की दिशा में सड़क मार्ग सोमवार सुबह तक बंद रहेगा।"
+    },
+    "bn": {
+      "title": "হামবুর্গের A1 আজ রাত থেকে বন্ধ থাকবে",
+      "summary": "Süderelbbrücke-তে নির্মাণ কাজের কারণে, লুবেকের দিকের রাস্তাটি সোমবার সকাল পর্যন্ত বন্ধ থাকবে ।"
+    },
+    "fr": {
+      "title": "A1 à Hambourg sera bloqué à partir de ce soir",
+      "summary": "En raison de travaux sur le pont de l'Elbe sud, la route en direction de Lübeck sera fermée jusqu'à lundi matin."
+    }
+  }
+}
