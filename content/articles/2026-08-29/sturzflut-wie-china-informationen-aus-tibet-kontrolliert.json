@@ -1,0 +1,31 @@
+{
+  "id": "7053266e70b2b355e2c35e64cbc9c4eb6c111a09",
+  "slug": "sturzflut-wie-china-informationen-aus-tibet-kontrolliert",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/asien/china-tibet-nepal-flut-100.html",
+  "publishedAt": "2026-08-28T23:21:11.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Flash flood: How China controls information from Tibet",
+      "summary": "After the flash flood, numerous journalists travelled to Nepal. From China-controlled Tibet, however, only sparse information is available via Chinese state media. By E. Lamby-Schmitt, ARD Shanghai."
+    },
+    "de": {
+      "title": "Sturzflut: Wie China Informationen aus Tibet kontrolliert",
+      "summary": "Nach der Sturzflut sind zahlreiche Journalisten nach Nepal gereist. Aus dem von China kontrollierten Tibet jedoch dringen über chinesische Staatsmedien nur spärliche Informationen. Von E. Lamby-Schmitt, ARD Shanghai."
+    },
+    "hi": {
+      "title": "फ्लैश फ्लड: चीन तिब्बत से जानकारी को कैसे नियंत्रित करता है",
+      "summary": "अचानक आई बाढ़ के बाद, कई पत्रकारों ने नेपाल की यात्रा की। चीन - नियंत्रित तिब्बत से, हालांकि, चीनी राज्य मीडिया के माध्यम से केवल विरल जानकारी उपलब्ध है। ई. लैम्बी - श्मिट, एआरडी शंघाई द्वारा।"
+    },
+    "bn": {
+      "title": "ফ্ল্যাশ বন্যা: চীন কীভাবে তিব্বতের তথ্য নিয়ন্ত্রণ করে",
+      "summary": "ফ্ল্যাশ বন্যার পরে, অনেক সাংবাদিক নেপাল ভ্রমণ করেছিলেন । চীন-নিয়ন্ত্রিত তিব্বত থেকে, তবে, শুধুমাত্র চীনা রাষ্ট্রীয় গণমাধ্যমের মাধ্যমে খুব কম তথ্য পাওয়া যায় । E. Lamby-Schmitt, ARD সাংহাই দ্বারা ।"
+    },
+    "fr": {
+      "title": "Inondation éclair : comment la Chine contrôle les informations en provenance du Tibet",
+      "summary": "Après le déluge, de nombreux journalistes se sont rendus au Népal. Cependant, peu d'informations parviennent du Tibet contrôlé par la Chine via les médias d'État chinois. Par E. Lamby-Schmitt, ARD Shanghai."
+    }
+  }
+}

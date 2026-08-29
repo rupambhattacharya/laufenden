@@ -1,0 +1,31 @@
+{
+  "id": "8e2c429561df0fbe84a9f512714812c4dac201d9",
+  "slug": "sicherheit-fur-die-gaste-des-naturbads-stadtparksee",
+  "category": "hamburg",
+  "sourceName": "Nachrichten aus Hamburg",
+  "sourceUrl": "https://www.ndr.de/fernsehen/sendungen/rund_um_den_michel/Sicherheit-fuer-die-Gaeste-des-Naturbads-Stadtparksee,rundumdenmichel3960.html",
+  "publishedAt": "2026-08-28T22:08:13.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Safety for guests of the nature pool Stadtparksee",
+      "summary": "Jens Rusch is a specialist for bathing establishments. For four years, his summer workplace has been the Stadtparksee."
+    },
+    "de": {
+      "title": "Sicherheit für die Gäste des Naturbads Stadtparksee",
+      "summary": "Jens Rusch ist Fachkraft für Bäderbetriebe. Seit vier Jahren ist sein Sommerarbeitsplatz der Stadtparksee."
+    },
+    "hi": {
+      "title": "कुदरती पूल Stadtparksee के मेहमानों के लिए सुरक्षा",
+      "summary": "जेन्स रश स्नान प्रतिष्ठानों के विशेषज्ञ हैं। चार वर्षों से, उनका ग्रीष्मकालीन कार्यस्थल स्टैडपार्कसी रहा है।"
+    },
+    "bn": {
+      "title": "Stadtparksee প্রকৃতির পুলের অতিথিদের জন্য নিরাপত্তা",
+      "summary": "জেনস রুশ স্নান প্রতিষ্ঠানের জন্য একজন বিশেষজ্ঞ । চার বছর ধরে, তার গ্রীষ্মকালীন কর্মক্ষেত্র স্টাডপার্কসি ।"
+    },
+    "fr": {
+      "title": "Sécurité pour les clients de la piscine naturelle Stadtparksee",
+      "summary": "Jens Rusch est un spécialiste des établissements de bains. Depuis quatre ans, son lieu de travail estival est le Stadtparksee."
+    }
+  }
+}

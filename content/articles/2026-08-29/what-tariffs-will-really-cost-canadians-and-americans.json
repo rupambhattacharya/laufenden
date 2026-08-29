@@ -1,0 +1,31 @@
+{
+  "id": "207a14ea35b4fa04334ef68f02909e6107089c94",
+  "slug": "what-tariffs-will-really-cost-canadians-and-americans",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-29T00:15:19.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "What tariffs will really cost Canadians and Americans",
+      "summary": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?"
+    },
+    "de": {
+      "title": "Welche Tarife Kanadier und Amerikaner wirklich kosten werden",
+      "summary": "Haushalte und Unternehmen haben sich seit mehr als einem Jahr an Tarife gewöhnt, die sich auf die Lebenshaltungskosten auswirken. Was wird sich also jetzt ändern?"
+    },
+    "hi": {
+      "title": "क्या टैरिफ वास्तव में कनाडाई और अमेरिकियों की लागत होगी",
+      "summary": "घरों और व्यवसायों को अब एक साल से अधिक समय से रहने की लागत को प्रभावित करने वाले टैरिफ की आदत हो गई है, तो अब क्या बदल जाएगा?"
+    },
+    "bn": {
+      "title": "কানাডিয়ান এবং আমেরিকানদের কোন ট্যারিফের জন্য সত্যিই খরচ হবে",
+      "summary": "পরিবার এবং ব্যবসাগুলি এখন এক বছরেরও বেশি সময় ধরে জীবনযাত্রার ব্যয়কে প্রভাবিত করে এমন শুল্কের জন্য অভ্যস্ত হয়ে উঠেছে, তাই এখন কী পরিবর্তন হবে?"
+    },
+    "fr": {
+      "title": "Ce que les tarifs coûteront vraiment aux Canadiens et aux Américains",
+      "summary": "Les ménages et les entreprises se sont habitués aux tarifs qui ont un impact sur le coût de la vie depuis plus d'un an maintenant, alors qu'est-ce qui va changer maintenant ?"
+    }
+  }
+}

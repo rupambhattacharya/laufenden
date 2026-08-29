@@ -1,0 +1,31 @@
+{
+  "id": "a7bb23d14978fa88bf62e7836fae61a4d9191225",
+  "slug": "nach-betriebsversammlungen-lauter-offene-fragen-bei-vw",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-betriebsversammlungen-bilanz-100.html",
+  "publishedAt": "2026-08-28T17:57:27.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "After company meetings: Lots of open questions at VW",
+      "summary": "At several company meetings, Volkswagen CEO Blume prepared the employees for hard cuts. But many questions remained unanswered. A solution emerges according to NDR information for the Osnabrück plant. A.Deutskens and K.Seiler."
+    },
+    "de": {
+      "title": "Nach Betriebsversammlungen: Lauter offene Fragen bei VW",
+      "summary": "In mehreren Betriebsversammlungen hat Volkswagen-Chef Blume die Mitarbeiter auf harte Einschnitte eingestimmt. Doch viele Fragen blieben offen. Eine Lösung zeichnet sich nach NDR-Informationen für das Werk Osnabrück ab. A.Deutskens und K.Seiler."
+    },
+    "hi": {
+      "title": "कंपनी की बैठकों के बाद: VW में बहुत सारे खुले सवाल",
+      "summary": "कंपनी की कई बैठकों में, वोक्सवैगन के सीईओ ब्लूम ने कर्मचारियों को कठोर कटौती के लिए तैयार किया। लेकिन कई सवालों के जवाब नहीं मिले। ओस्नाब्रुक संयंत्र के लिए एनडीआर की जानकारी के अनुसार एक समाधान सामने आता है। A.Deutskens और K.Seiler।"
+    },
+    "bn": {
+      "title": "কোম্পানির বৈঠকের পরে: ভিডাব্লিউ-তে প্রচুর খোলা প্রশ্ন",
+      "summary": "বেশ কয়েকটি কোম্পানির সভায়, ভক্সওয়াগেনের সিইও ব্লুম কর্মীদের কঠোর কাটার জন্য প্রস্তুত করেছিলেন । কিন্তু অনেক প্রশ্নের উত্তর পাওয়া যায়নি । ওসনাব্রুক প্ল্যান্টের জন্য এনডিআর তথ্য অনুসারে একটি সমাধান উদ্ভূত হয় । A.Deutskens এবং K.Seiler ।"
+    },
+    "fr": {
+      "title": "Après les réunions d'entreprise : de nombreuses questions en suspens chez VW",
+      "summary": "Lors de plusieurs réunions d'entreprise, le PDG de Volkswagen, Blume, a préparé les employés à des coupes sévères. Mais de nombreuses questions sont restées sans réponse. Une solution se dessine selon les informations de la NDR pour l'usine d'Osnabrück. A.Deutskens et K.Seiler."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "7064386835a412923c08d8fae29533aa3b033787",
+  "slug": "taliban-auf-mission-in-deutschland-abschiebungen-vorbereiten",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-taliban-100.html",
+  "publishedAt": "2026-08-28T20:57:28.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Taliban on mission in Germany - Preparing deportations",
+      "summary": "According to NDR information, the Taliban sent a delegation to Germany this week. The diplomats are to stay in the country for three weeks and prepare deportations to Afghanistan. By Peter Hornung."
+    },
+    "de": {
+      "title": "Taliban auf Mission in Deutschland - Abschiebungen vorbereiten",
+      "summary": "Die Taliban haben nach NDR-Informationen in dieser Woche eine Delegation nach Deutschland geschickt. Die Diplomaten sollen drei Wochen im Land bleiben und Abschiebungen nach Afghanistan vorbereiten. Von Peter Hornung."
+    },
+    "hi": {
+      "title": "जर्मनी में मिशन पर तालिबान - निर्वासन की तैयारी",
+      "summary": "एनडीआर की जानकारी के अनुसार, तालिबान ने इस सप्ताह जर्मनी में एक प्रतिनिधिमंडल भेजा। राजनयिकों को तीन सप्ताह तक देश में रहना है और अफगानिस्तान के लिए निर्वासन तैयार करना है। पीटर हॉर्नंग द्वारा।"
+    },
+    "bn": {
+      "title": "জার্মানিতে তালেবানের মিশনে - নির্বাসন প্রস্তুতি",
+      "summary": "এনডিআর তথ্য অনুযায়ী, তালেবানরা এই সপ্তাহে জার্মানিতে একটি প্রতিনিধিদল পাঠিয়েছে । কূটনীতিকদের তিন সপ্তাহের জন্য দেশে থাকতে হবে এবং আফগানিস্তানে নির্বাসন প্রস্তুত করতে হবে । পিটার হর্নুং দ্বারা ।"
+    },
+    "fr": {
+      "title": "Talibans en mission en Allemagne - Préparer les expulsions",
+      "summary": "Selon les informations de la NDR, les talibans ont envoyé une délégation en Allemagne cette semaine. Les diplomates doivent rester trois semaines dans le pays et préparer les expulsions vers l'Afghanistan. De Peter Hornung."
+    }
+  }
+}

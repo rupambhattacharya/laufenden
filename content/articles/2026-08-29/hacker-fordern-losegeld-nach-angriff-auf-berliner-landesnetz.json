@@ -1,0 +1,31 @@
+{
+  "id": "ba0044f17b02f11a5139630602026d221dc2778e",
+  "slug": "hacker-fordern-losegeld-nach-angriff-auf-berliner-landesnetz",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/regional/berlin/berlin-hackerangriff-senatsverwaltung-loesegeld-100.html",
+  "publishedAt": "2026-08-28T19:35:35.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Hackers demand ransom after attack on Berlin state network",
+      "summary": "After the hacker attack on the Berlin regional network, a ransom demand was received. This was confirmed by Berlin's Governing Mayor Wegner. There is no information yet about the amount and type of data drained."
+    },
+    "de": {
+      "title": "Hacker fordern Lösegeld nach Angriff auf Berliner Landesnetz",
+      "summary": "Nach dem Hackerangriff auf das Berliner Landesnetz ist eine Lösegeldforderung eingegangen. Das bestätigte Berlins Regierender Bürgermeister Wegner. Über Menge und Art der abgeflossenen Daten gibt es noch keine Informationen."
+    },
+    "hi": {
+      "title": "बर्लिन स्टेट नेटवर्क पर हमले के बाद हैकर्स ने फिरौती की मांग की",
+      "summary": "बर्लिन क्षेत्रीय नेटवर्क पर हैकर हमले के बाद, फिरौती की मांग प्राप्त हुई। बर्लिन के गवर्निंग मेयर वेगनर ने इसकी पुष्टि की। निकाले गए डेटा की मात्रा और प्रकार के बारे में अभी तक कोई जानकारी नहीं है।"
+    },
+    "bn": {
+      "title": "বার্লিন স্টেট নেটওয়ার্কে হামলার পর হ্যাকাররা মুক্তিপণ দাবি করে",
+      "summary": "বার্লিন আঞ্চলিক নেটওয়ার্কে হ্যাকার আক্রমণের পরে, মুক্তিপণ দাবি করা হয়েছিল । বার্লিনের গভর্নিং মেয়র ওয়েগনার এটি নিশ্চিত করেছেন । ড্রেন করা ডেটার পরিমাণ এবং প্রকার সম্পর্কে এখনও কোনও তথ্য নেই ।"
+    },
+    "fr": {
+      "title": "Les pirates demandent une rançon après l'attaque du réseau régional de Berlin",
+      "summary": "Après le piratage du réseau régional de Berlin, une demande de rançon a été reçue. Cela a été confirmé par le maire de Berlin, M. Wegner. Il n'y a pas encore d'informations sur la quantité et le type de données écoulées."
+    }
+  }
+}

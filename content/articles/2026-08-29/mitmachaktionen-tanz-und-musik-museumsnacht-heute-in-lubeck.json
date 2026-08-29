@@ -1,0 +1,31 @@
+{
+  "id": "ca1b6423da0481e9b080d1f40ee0b06c28c28e71",
+  "slug": "mitmachaktionen-tanz-und-musik-museumsnacht-heute-in-lubeck",
+  "category": "schleswig-holstein",
+  "sourceName": "Nachrichten aus Schleswig-Holstein",
+  "sourceUrl": "https://www.ndr.de/kultur/kunst/schleswig-holstein/mitmachaktionen-tanz-und-musik-museumsnaechte-in-kiel-und-luebeck,museumsnaechte-100.html",
+  "publishedAt": "2026-08-28T22:01:00.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Activities, dance and music: Museum Night in Lübeck today",
+      "summary": "Today, more than 30 museums and cultural institutions in Kiel invite you to the Museum Night, on Saturday even more than 50 in Lübeck."
+    },
+    "de": {
+      "title": "Mitmachaktionen, Tanz und Musik: Museumsnacht heute in Lübeck",
+      "summary": "Heute laden mehr als 30 Museen und Kultureinrichtungen in Kiel zur Museumsnacht ein, am Sonnabend sogar mehr als 50 in Lübeck."
+    },
+    "hi": {
+      "title": "गतिविधियाँ, नृत्य और संगीत: आज लुबेक में म्यूज़ियम नाइट",
+      "summary": "आज, कील में 30 से अधिक संग्रहालय और सांस्कृतिक संस्थान आपको म्यूज़ियम नाइट में आमंत्रित करते हैं, शनिवार को लुबेक में 50 से अधिक भी।"
+    },
+    "bn": {
+      "title": "ক্রিয়াকলাপ, নাচ এবং সঙ্গীত: আজ লুবেকে মিউজিয়াম নাইট",
+      "summary": "আজ, কিয়েলের 30 টিরও বেশি জাদুঘর এবং সাংস্কৃতিক প্রতিষ্ঠান আপনাকে মিউজিয়াম নাইটে আমন্ত্রণ জানিয়েছে, শনিবার এমনকি ল্যুবেকের 50 টিরও বেশি ।"
+    },
+    "fr": {
+      "title": "Activités participatives, danse et musique : Nuit des musées aujourd'hui à Lübeck",
+      "summary": "Aujourd'hui, plus de 30 musées et institutions culturelles invitent à la Nuit des musées à Kiel et plus de 50 à Lübeck le samedi."
+    }
+  }
+}

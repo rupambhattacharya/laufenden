@@ -1,0 +1,31 @@
+{
+  "id": "dda9e09ba87baf9a8ae7c6da1720100bc7b357f5",
+  "slug": "nordmagazin-land-und-leute-28-08-2026",
+  "category": "mecklenburg-vorpommern",
+  "sourceName": "Nachrichten aus Mecklenburg-Vorpommern",
+  "sourceUrl": "https://www.ndr.de/fernsehen/sendungen/land_und_leute/Nordmagazin-Land-und-Leute,landundleute-1012.html",
+  "publishedAt": "2026-08-28T19:16:48.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Nordmagazin - Country and People | 08/28/2026",
+      "summary": "The regional magazine from Mecklenburg-Vorpommern - live and on site."
+    },
+    "de": {
+      "title": "Nordmagazin - Land und Leute | 28.08.2026",
+      "summary": "Das regionale Magazin aus Mecklenburg-Vorpommern - live und vor Ort."
+    },
+    "hi": {
+      "title": "नॉर्डमैगाज़िन - देश और लोग | 08/28/2026",
+      "summary": "Mecklenburg - Vorpommern की क्षेत्रीय पत्रिका - लाइव और साइट पर।"
+    },
+    "bn": {
+      "title": "নর্ডমাগাজিন - দেশ ও জনগণ | 08/28/2026",
+      "summary": "Mecklenburg-Vorpommern থেকে আঞ্চলিক ম্যাগাজিন - লাইভ এবং সাইটে ।"
+    },
+    "fr": {
+      "title": "Nordmagazin - Land und Menschen | 28/08/2026",
+      "summary": "Le magazine régional du Mecklembourg-Poméranie-Occidentale - en direct et sur place."
+    }
+  }
+}

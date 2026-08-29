@@ -1,0 +1,31 @@
+{
+  "id": "f49e958bdfc53c124ccb9d3bd63fb4b20bcc5f7d",
+  "slug": "kevin-warsh-ein-fed-chef-der-ungewissheit-zulasst",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-warsh-rede-100.html",
+  "publishedAt": "2026-08-28T19:54:08.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Kevin Warsh: A Fed Chief Allowing Uncertainty",
+      "summary": "Fed Chairman Warsh's speech at the annual Fed meeting had been eagerly awaited. He did not provide concrete indications for the next interest rate decision. There is more to it than mere restraint. By Anne Schneider."
+    },
+    "de": {
+      "title": "Kevin Warsh: Ein Fed-Chef, der Ungewissheit zulässt",
+      "summary": "Die Rede von Fed-Chef Warsh beim jährlichen Notenbanker-Treffen war mit Spannung erwartet worden. Konkrete Hinweise für die nächste Zinsentscheidung blieb er schuldig. Dahinter steckt mehr als bloße Zurückhaltung. Von Anne Schneider."
+    },
+    "hi": {
+      "title": "केविन वॉश: एक फेड चीफ अनिश्चितता की अनुमति देता है",
+      "summary": "फेड की वार्षिक बैठक में फेड चेयरमैन वाश के भाषण का बेसब्री से इंतजार किया गया था। उन्होंने अगले ब्याज दर के निर्णय के लिए ठोस संकेत नहीं दिए। इसमें केवल संयम से ज्यादा कुछ है। ऐनी श्नाइडर द्वारा."
+    },
+    "bn": {
+      "title": "কেভিন ওয়ারশ: একজন ফেড প্রধান অনিশ্চয়তা মঞ্জুর করেছেন",
+      "summary": "ফেডের বার্ষিক ফেড সভায় ফেড চেয়ারম্যান ওয়ারশের বক্তব্যের জন্য অধীর আগ্রহে অপেক্ষা করা হয়েছিল । তিনি পরবর্তী সুদের হারের সিদ্ধান্তের জন্য সুনির্দিষ্ট ইঙ্গিত প্রদান করেননি । কেবল সংযমের চেয়ে এটিতে আরও অনেক কিছু রয়েছে । অ্যান স্নাইডার ।"
+    },
+    "fr": {
+      "title": "Kevin Warsh : un patron de la Fed qui admet l'incertitude",
+      "summary": "Le discours du président de la Fed, M. Warsh, lors de la réunion annuelle des banquiers centraux était très attendu. Il n'a pas fourni d'informations concrètes sur la prochaine décision en matière de taux d'intérêt. Derrière cela, il y a plus qu'une simple retenue. Par Anne Schneider."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a1bbe492586d2cc3343e31b18a47e98db9d25350",
+  "slug": "hackergruppe-erpresst-berliner-verwaltung-nach-datenklau",
+  "category": "bayern",
+  "sourceName": "Die Nachrichten des Bayerischen Rundfunks",
+  "sourceUrl": "https://www.br.de/nachrichten/meldungen/index.html#n7",
+  "publishedAt": "2026-08-28T20:55:31.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Hacker group blackmails Berlin administration for data theft",
+      "summary": "The Berlin administration is being blackmailed: this was announced by the Governing Mayor Wegner after a special session of the Senate. In mid-August, a hacker attack on the administration's data network became known. According to a press report, the blackmailers demand around two million euros and claim to be in possession of sensitive data. Wegner announced that the Senate would not respond to the demands of the blackmailers. ( BR24"
+    },
+    "de": {
+      "title": "Hackergruppe erpresst Berliner Verwaltung nach Datenklau",
+      "summary": "Die Berliner Verwaltung wird erpresst: Das gab der Regierende Bürgermeister Wegner nach einer Sondersitzung des Senats bekannt. Mitte August war ein Hackerangriff auf das Datennetz der Verwaltung bekannt geworden. Laut einem Pressebericht verlangen die Erpresser rund zwei Millionen Euro und behaupten, im Besitz sensibler Daten zu sein. Wegner kündigte an, der Senat werde auf die Forderungen der Erpresser nicht eingehen. ( BR24 Radio-Nachrichten 28.08.2026 21:00)"
+    },
+    "hi": {
+      "title": "हैकर समूह डेटा चोरी के लिए बर्लिन प्रशासन को ब्लैकमेल करता है",
+      "summary": "बर्लिन प्रशासन को ब्लैकमेल किया जा रहा है: इसकी घोषणा गवर्निंग मेयर वेगनर ने सीनेट के विशेष सत्र के बाद की थी। अगस्त के मध्य में, प्रशासन के डेटा नेटवर्क पर एक हैकर हमले का पता चला। एक प्रेस रिपोर्ट के अनुसार, ब्लैकमेलर्स लगभग दो मिलियन यूरो की मांग करते हैं और संवेदनशील डेटा के कब्जे में होने का दावा करते हैं। वेगनर ने घोषणा की कि सीनेट ब्लैकमेलर्स की मांगों का जवाब नहीं देगा। ( BR24"
+    },
+    "bn": {
+      "title": "ডেটা চুরির জন্য হ্যাকার গ্রুপ বার্লিন প্রশাসনকে ব্ল্যাকমেইল করে",
+      "summary": "বার্লিন প্রশাসনকে ব্ল্যাকমেইল করা হচ্ছে: সিনেটের একটি বিশেষ অধিবেশনের পরে গভর্নিং মেয়র ওয়েগনার এটি ঘোষণা করেছিলেন । আগস্টের মাঝামাঝি সময়ে, প্রশাসনের ডেটা নেটওয়ার্কে একটি হ্যাকার আক্রমণের কথা জানা যায় । একটি প্রেস রিপোর্ট অনুসারে, ব্ল্যাকমেলাররা প্রায় দুই মিলিয়ন ইউরো দাবি করে এবং দাবি করে যে তাদের কাছে সংবেদনশীল ডেটা রয়েছে । ওয়েগনার ঘোষণা করেছিলেন যে সেনেট ব্ল্যাকমেলারদের দাবির প্রতি সাড়া দেবে না । ( BR24"
+    },
+    "fr": {
+      "title": "Un groupe de hackers fait chanter l'administration berlinoise après un vol de données",
+      "summary": "L'administration berlinoise fait l'objet d'un chantage : c'est ce qu'a annoncé le maire sortant Wegner après une séance extraordinaire du Sénat. À la mi-août, un piratage du réseau de données de l'administration avait été annoncé. Selon un article de presse, les extorqueurs réclament environ deux millions d'euros et prétendent être en possession de données sensibles. Wegner a annoncé que le Sénat ne répondrait pas aux demandes des maîtres-chanteurs. ( BR24"
+    }
+  }
+}
