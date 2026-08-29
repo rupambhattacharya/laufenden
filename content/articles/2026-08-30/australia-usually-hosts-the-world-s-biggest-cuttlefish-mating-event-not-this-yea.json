@@ -1,0 +1,31 @@
+{
+  "id": "09b36c55b2b12b0b47a1308f34076f9d8b992a46",
+  "slug": "australia-usually-hosts-the-world-s-biggest-cuttlefish-mating-event-not-this-yea",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-29T18:30:32.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
+      "summary": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year."
+    },
+    "de": {
+      "title": "Australien veranstaltet in der Regel die größte Tintenfischpaarung der Welt - nicht in diesem Jahr",
+      "summary": "Offiziellen Zahlen zufolge sind in diesem Jahr nur 1.811 Tintenfische zur Paarung aufgetaucht, ein Rückgang von 97 % gegenüber dem Vorjahr."
+    },
+    "hi": {
+      "title": "ऑस्ट्रेलिया आमतौर पर दुनिया की सबसे बड़ी कटलफ़िश मैटिंग इवेंट की मेज़बानी करता है - इस साल नहीं",
+      "summary": "आधिकारिक आंकड़ों के अनुसार इस साल केवल 1,811 कटलफिश साथी बन गई, जो पिछले साल की तुलना में 97% कम है।"
+    },
+    "bn": {
+      "title": "অস্ট্রেলিয়া সাধারণত বিশ্বের বৃহত্তম কাটলফিশ মিলন অনুষ্ঠানের আয়োজন করে - এই বছর নয়",
+      "summary": "সরকারী পরিসংখ্যান অনুসারে এই বছর কেবল ১, ৮১১ টি কাটলফিশ সঙ্গম করেছে, যা গত বছরের তুলনায় ৯৭ % কম ।"
+    },
+    "fr": {
+      "title": "L'Australie accueille généralement le plus grand événement d'accouplement de seiches au monde - pas cette année",
+      "summary": "Selon les chiffres officiels, seulement 1 811 seiches se sont accouplées cette année, en baisse de 97% par rapport à l'année dernière."
+    }
+  }
+}

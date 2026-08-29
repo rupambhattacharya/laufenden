@@ -1,0 +1,31 @@
+{
+  "id": "fb19c7d39f1042b1042195c32cfd62ada5f763b7",
+  "slug": "at-least-37-dead-and-hundreds-evacuated-after-strike-on-kyiv-weapons-depot",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-29T20:13:16.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
+    },
+    "de": {
+      "title": "Mindestens 37 Tote und Hunderte wurden nach einem Angriff auf das Kiewer Waffenlager evakuiert",
+      "summary": "Eine Untersuchung zur Lagerung von Waffen für das ukrainische Militär in der Nähe eines Wohngebiets hat begonnen."
+    },
+    "hi": {
+      "title": "कीव के हथियार डिपो पर हमले के बाद कम से कम 37 लोग मारे गए और सैकड़ों लोगों को निकाला गया",
+      "summary": "एक आवासीय क्षेत्र के पास यूक्रेन की सेना के लिए हथियारों के भंडारण की जांच शुरू हो गई है।"
+    },
+    "bn": {
+      "title": "কিয়েভের অস্ত্র গুদামে হামলার পর কমপক্ষে ৩৭ জন নিহত এবং শত শত লোককে সরিয়ে নেওয়া হয়েছে",
+      "summary": "ইউক্রেনের একটি আবাসিক এলাকার কাছে ইউক্রেনের সামরিক বাহিনীর জন্য অস্ত্র সংরক্ষণের বিষয়ে তদন্ত শুরু হয়েছে ।"
+    },
+    "fr": {
+      "title": "Au moins 37 morts et des centaines évacués après une frappe sur le dépôt d'armes de Kiev",
+      "summary": "Une enquête a été ouverte sur le stockage d'armes pour l'armée ukrainienne près d'une zone résidentielle."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "7793fa3b7cc1e97a6808a67d37b86c413e772bb3",
+  "slug": "iran-raumt-wirtschaftliche-kriegsfolgen-ein-dennoch-kein-einlenken",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/asien/iran-kriegsfolgen-wirtschaft-100.html",
+  "publishedAt": "2026-08-29T15:20:56.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Iran admits economic consequences of war - but does not relent",
+      "summary": "Iran's leadership admits serious economic damage from the war with the US, but the country does not want to back down. Long queues form in front of petrol stations in the capital Tehran."
+    },
+    "de": {
+      "title": "Iran räumt wirtschaftliche Kriegsfolgen ein - dennoch kein Einlenken",
+      "summary": "Irans Führung räumt schwere wirtschaftliche Schäden durch den Krieg mit den USA ein, dennoch will das Land nicht einlenken. In der Hauptstadt Teheran bilden sich lange Schlangen vor Tankstellen."
+    },
+    "hi": {
+      "title": "ईरान युद्ध के आर्थिक परिणामों को स्वीकार करता है - लेकिन इससे पीछे नहीं हटता है",
+      "summary": "ईरान का नेतृत्व अमेरिका के साथ युद्ध से गंभीर आर्थिक नुकसान को स्वीकार करता है, लेकिन देश पीछे हटना नहीं चाहता है। राजधानी तेहरान में पेट्रोल स्टेशनों के सामने लंबी कतारें लगती हैं।"
+    },
+    "bn": {
+      "title": "ইরান যুদ্ধের অর্থনৈতিক পরিণতি স্বীকার করে - কিন্তু অনুতপ্ত হয় না",
+      "summary": "ইরানের নেতৃত্ব মার্কিন যুক্তরাষ্ট্রের সাথে যুদ্ধে গুরুতর অর্থনৈতিক ক্ষতির কথা স্বীকার করে, কিন্তু দেশটি পিছিয়ে যেতে চায় না । রাজধানী তেহরানের পেট্রোল স্টেশনের সামনে লম্বা লাইন ।"
+    },
+    "fr": {
+      "title": "L'Iran admet les conséquences économiques de la guerre - mais sans céder",
+      "summary": "Les dirigeants iraniens reconnaissent les graves dommages économiques causés par la guerre avec les États-Unis, mais le pays ne veut pas céder. Dans la capitale Téhéran, de longues files d'attente se forment devant les stations-service."
+    }
+  }
+}

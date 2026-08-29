@@ -1,0 +1,31 @@
+{
+  "id": "15699bd37cbec85a04aece199c69039f756b615b",
+  "slug": "hsv-wacht-zu-spat-auf-und-verliert-bundesliga-auftakt-bei-borussia-dortmund",
+  "category": "hamburg",
+  "sourceName": "Nachrichten aus Hamburg",
+  "sourceUrl": "https://www.ndr.de/sport/fussball/Bundesliga-Hamburg-HSV-Borussia-Dortmund-BVB-Spielbericht,hsv-1850.html",
+  "publishedAt": "2026-08-29T19:37:32.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "HSV wakes up too late and loses Bundesliga opener at Borussia Dortmund",
+      "summary": "The Hamburg team will only wake up in the second half of the game at BVB and will have to accept a well-deserved defeat at the start of the new Bundesliga season."
+    },
+    "de": {
+      "title": "HSV wacht zu spät auf und verliert Bundesliga-Auftakt bei Borussia Dortmund",
+      "summary": "Die Hamburger wachen im Spiel beim BVB erst in der zweiten Hälfte auf und müssen zum Auftakt der neuen Bundesliga-Saison eine verdiente Niederlage hinnehmen."
+    },
+    "hi": {
+      "title": "एचएसवी बहुत देर से जागता है और बोरुसिया डॉर्टमुंड में बुंडेसलीगा के सलामी बल्लेबाज को खो देता है",
+      "summary": "हैम्बर्ग की टीम बीवीबी में खेल के दूसरे हाफ में ही जाग जाएगी और उसे नए बुंडेसलीगा सीज़न की शुरुआत में अच्छी तरह से योग्य हार स्वीकार करनी होगी।"
+    },
+    "bn": {
+      "title": "বুরুসিয়া ডর্টমুন্ডে বুন্দেসলিগার ওপেনারকে হারিয়ে এইচএসভি খুব দেরিতে ঘুম থেকে ওঠে",
+      "summary": "হামবুর্গ দলটি কেবল BVB-তে খেলার দ্বিতীয়ার্ধে জেগে উঠবে এবং নতুন বুন্দেসলিগার মরসুমের শুরুতে একটি উপযুক্ত পরাজয় গ্রহণ করতে হবে ।"
+    },
+    "fr": {
+      "title": "Le HSV se réveille trop tard et perd le coup d'envoi de la Bundesliga au Borussia Dortmund",
+      "summary": "Les Hambourgois ne se réveillent au BVB que dans la seconde moitié du match et subissent une défaite méritée au début de la nouvelle saison de Bundesliga."
+    }
+  }
+}

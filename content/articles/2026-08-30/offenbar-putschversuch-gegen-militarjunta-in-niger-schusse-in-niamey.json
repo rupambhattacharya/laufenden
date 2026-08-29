@@ -1,0 +1,31 @@
+{
+  "id": "90855e79dec571075ed8dafa1a5eb873360cc222",
+  "slug": "offenbar-putschversuch-gegen-militarjunta-in-niger-schusse-in-niamey",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/afrika/militaerjunta-niger-meuterei-soldaten-100.html",
+  "publishedAt": "2026-08-29T14:34:23.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Apparently coup attempt against military junta in Niger - shootings in Niamey",
+      "summary": "There has apparently been an attempted coup in Niger in West Africa. Soldiers took officers hostage in the capital and attacked strategic targets, according to the military junta. In the meantime, the uprising was over."
+    },
+    "de": {
+      "title": "Offenbar Putschversuch gegen Militärjunta in Niger - Schüsse in Niamey",
+      "summary": "In Niger in Westafrika hat es offenbar einen Putschversuch gegeben. Soldaten nahmen der Militärjunta zufolge Offiziere in der Hauptstadt als Geiseln und griffen strategische Ziele an. Inzwischen sei der Aufstand beendet."
+    },
+    "hi": {
+      "title": "जाहिरा तौर पर नाइजर में सैन्य जुंटा के खिलाफ तख्तापलट की कोशिश - नियामी में गोलीबारी",
+      "summary": "जाहिरा तौर पर पश्चिम अफ्रीका के नाइजर में तख्तापलट की कोशिश की गई है। सैन्य जुंटा के अनुसार, सैनिकों ने राजधानी में अधिकारियों को बंधक बना लिया और रणनीतिक लक्ष्यों पर हमला किया। इस बीच, विद्रोह खत्म हो गया था।"
+    },
+    "bn": {
+      "title": "নাইজারে সামরিক জান্তার বিরুদ্ধে আপাতদৃষ্টিতে অভ্যুত্থানের চেষ্টা - নিয়ামে গুলিবর্ষণ",
+      "summary": "দৃশ্যত পশ্চিম আফ্রিকার নাইজারে একটি অভ্যুত্থানের চেষ্টা হয়েছে । সামরিক জান্তা অনুসারে, সৈন্যরা রাজধানীতে কর্মকর্তাদের জিম্মি করে এবং কৌশলগত লক্ষ্যবস্তুতে আক্রমণ করে । ইতিমধ্যে, বিদ্রোহ শেষ হয়ে গেছে ।"
+    },
+    "fr": {
+      "title": "Tentative de coup d'État contre la junte militaire au Niger - Fusillade à Niamey",
+      "summary": "Il y a apparemment eu une tentative de coup d'État au Niger en Afrique de l'Ouest. Selon la junte militaire, les soldats ont pris des officiers en otage dans la capitale et ont attaqué des cibles stratégiques. Entre-temps, la révolte est terminée."
+    }
+  }
+}

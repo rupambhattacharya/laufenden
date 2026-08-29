@@ -1,0 +1,31 @@
+{
+  "id": "f559a34b71a2489f1a5796f3fad2cf7a2cbc3243",
+  "slug": "37-tote-bei-angriff-nahe-kiew-ukraine-spricht-von-fahrlassigkeit",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
+  "publishedAt": "2026-08-29T18:42:43.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "37 killed in attack near Kiev - Ukraine speaks of negligence",
+      "summary": "After a heavy Russian attack with 37 dead, Ukrainian President Zelenskyi speaks of negligence. Apparently, there were violations of ammunition storage regulations. Investigations have been initiated."
+    },
+    "de": {
+      "title": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
+      "summary": "Nach einem schweren russischen Angriff mit 37 Toten spricht der ukrainische Präsident Selenskyj von Fahrlässigkeit. Offenbar gab es Verstöße gegen Vorschriften zur Munitionslagerung. Ermittlungen wurden eingeleitet."
+    },
+    "hi": {
+      "title": "कीव के पास हमले में 37 लोग मारे गए - यूक्रेन लापरवाही की बात करता है",
+      "summary": "37 लोगों की मौत के साथ भारी रूसी हमले के बाद, यूक्रेनी राष्ट्रपति ज़ेलेंस्की लापरवाही की बात करते हैं। जाहिर है, गोला - बारूद भंडारण नियमों का उल्लंघन हुआ था। जांच शुरू कर दी गई है।"
+    },
+    "bn": {
+      "title": "কিয়েভের কাছে হামলায় নিহত ৩৭ - ইউক্রেন অবহেলার কথা বলে",
+      "summary": "৩৭ জন নিহতের সাথে একটি ভারী রাশিয়ান আক্রমণের পরে, ইউক্রেনের রাষ্ট্রপতি জেলেনস্কি অবহেলার কথা বলেছেন । দৃশ্যত, গোলাবারুদ সংরক্ষণের নিয়ম লঙ্ঘন হয়েছিল । তদন্ত শুরু করা হয়েছে ।"
+    },
+    "fr": {
+      "title": "37 morts dans une attaque près de Kiev - L'Ukraine parle de négligence",
+      "summary": "Après une grave attaque russe qui a fait 37 morts, le président ukrainien Zelensky parle de négligence. Apparemment, il y a eu des violations de la réglementation sur le stockage des munitions. Des enquêtes ont été ouvertes."
+    }
+  }
+}

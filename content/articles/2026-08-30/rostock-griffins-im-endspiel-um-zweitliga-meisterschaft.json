@@ -1,0 +1,31 @@
+{
+  "id": "d5ae4f592f965a02d0beac4cb51c97fb43539200",
+  "slug": "rostock-griffins-im-endspiel-um-zweitliga-meisterschaft",
+  "category": "mecklenburg-vorpommern",
+  "sourceName": "Nachrichten aus Mecklenburg-Vorpommern",
+  "sourceUrl": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/rostock/rostock-griffins-im-endspiel-um-zweitliga-meisterschaft,mvregiorostock-4492.html",
+  "publishedAt": "2026-08-29T19:25:22.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Rostock Griffins in the final for second division championship",
+      "summary": "The American footballers beat the Wiesbaden Phantoms in the semi-finals with 54:34 and are now fighting for first division promotion."
+    },
+    "de": {
+      "title": "Rostock Griffins im Endspiel um Zweitliga-Meisterschaft",
+      "summary": "Die American Footballer besiegen im Halbfinale die Wiesbaden Phantoms mit 54:34 und kämpfen nun um den Erstliga-Aufstieg."
+    },
+    "hi": {
+      "title": "रॉस्टॉक ग्रिफिंस दूसरी डिवीजन चैंपियनशिप के फाइनल में",
+      "summary": "अमेरिकी फुटबॉलरों ने 54:34 के साथ सेमीफाइनल में विस्बाडेन फैंटम्स को हराया और अब प्रथम श्रेणी पदोन्नति के लिए लड़ रहे हैं।"
+    },
+    "bn": {
+      "title": "দ্বিতীয় বিভাগ চ্যাম্পিয়নশিপের ফাইনালে রোস্টক গ্রিফিন্স",
+      "summary": "আমেরিকান ফুটবলাররা 54:34 দিয়ে সেমিফাইনালে উইসবাডেন ফ্যান্টমসকে পরাজিত করে এবং এখন প্রথম বিভাগের প্রচারের জন্য লড়াই করছে ।"
+    },
+    "fr": {
+      "title": "Les Griffins de Rostock en finale du championnat de deuxième division",
+      "summary": "Les footballeurs américains battent les Phantoms de Wiesbaden en demi-finale avec 54:34 et se battent maintenant pour la montée en première division."
+    }
+  }
+}

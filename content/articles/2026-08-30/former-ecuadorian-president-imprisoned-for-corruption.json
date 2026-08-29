@@ -1,0 +1,31 @@
+{
+  "id": "ca4bdbd86deae45b18c7fbd0242dcd8480d04845",
+  "slug": "former-ecuadorian-president-imprisoned-for-corruption",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-29T19:44:54.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant."
+    },
+    "de": {
+      "title": "Ehemaliger ecuadorianischer Präsident wegen Korruption inhaftiert",
+      "summary": "Lenín Moreno bestreitet, Bestechungsgelder von einer chinesischen Firma anzunehmen, um sich einen Vertrag über den Bau eines Wasserkraftwerks zu sichern."
+    },
+    "hi": {
+      "title": "भ्रष्टाचार के आरोप में इक्वाडोर के पूर्व राष्ट्रपति को जेल",
+      "summary": "लेनिन मोरेनो ने पनबिजली संयंत्र के निर्माण के लिए अनुबंध हासिल करने के लिए एक चीनी फर्म से रिश्वत लेने से इनकार किया।"
+    },
+    "bn": {
+      "title": "ইকুয়েডরের সাবেক প্রেসিডেন্ট দুর্নীতির দায়ে কারাবন্দী",
+      "summary": "লেনিন মোরেনো একটি জলবিদ্যুৎ কেন্দ্র নির্মাণের চুক্তি সুরক্ষিত করার জন্য একটি চীনা ফার্মের কাছ থেকে ঘুষ নেওয়ার বিষয়টি অস্বীকার করেছেন ।"
+    },
+    "fr": {
+      "title": "L'ancien président équatorien emprisonné pour corruption",
+      "summary": "Lenín Moreno nie avoir reçu des pots-de-vin d'une entreprise chinoise pour obtenir un contrat de construction d'une centrale hydroélectrique."
+    }
+  }
+}

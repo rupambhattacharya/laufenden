@@ -1,0 +1,31 @@
+{
+  "id": "de7a328e90da75352d495d00f1d4da0785ab2373",
+  "slug": "die-irische-biermarke-guinness-widersteht-dem-brauerei-sterben",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/verbraucher/guinness-bier-irland-100.html",
+  "publishedAt": "2026-08-29T16:16:37.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Irish Beer Brand Guinness Resists Brewery Dying",
+      "summary": "Beer consumption is also declining in the British Isles, with many small breweries having to close. But a traditional brand is experiencing an astonishing boom: Guinness from Ireland. By Lisa-Maria Röhling."
+    },
+    "de": {
+      "title": "Die irische Biermarke Guinness widersteht dem Brauerei-Sterben",
+      "summary": "Auch auf den britischen Inseln geht der Bierkonsum zurück, viele kleine Brauereien müssen schließen. Eine Traditionsmarke aber erlebt einen erstaunlichen Boom: Guinness aus Irland. Von Lisa-Maria Röhling."
+    },
+    "hi": {
+      "title": "आयरिश बीयर ब्रांड गिनीज ने शराब की भठ्ठी के मरने का विरोध किया",
+      "summary": "ब्रिटिश द्वीपों में बीयर की खपत भी कम हो रही है, कई छोटी शराब की दुकानों को बंद करना पड़ रहा है। लेकिन एक पारंपरिक ब्रांड एक आश्चर्यजनक उछाल का अनुभव कर रहा है: आयरलैंड से गिनीज। लिसा - मारिया रोहलिंग द्वारा।"
+    },
+    "bn": {
+      "title": "আইরিশ বিয়ার ব্র্যান্ড গিনেস ব্রুয়ারি ডাইং প্রতিরোধ করে",
+      "summary": "ব্রিটিশ দ্বীপপুঞ্জেও বিয়ারের ব্যবহার হ্রাস পাচ্ছে, অনেক ছোট ব্রুয়ারিজ বন্ধ করতে হচ্ছে । কিন্তু একটি ঐতিহ্যবাহী ব্র্যান্ড একটি বিস্ময়কর উত্থান অনুভব করছে: আয়ারল্যান্ডের গিনেস । লিসা-মারিয়া রোহলিং দ্বারা ।"
+    },
+    "fr": {
+      "title": "La marque de bière irlandaise Guinness résiste à la mort de la brasserie",
+      "summary": "La consommation de bière diminue également dans les îles britanniques, de nombreuses petites brasseries doivent fermer. Mais une marque traditionnelle connaît un essor étonnant : la Guinness d'Irlande. Par Lisa-Maria Röhling."
+    }
+  }
+}

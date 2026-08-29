@@ -1,0 +1,31 @@
+{
+  "id": "85d6d9438bdfba692063b6d00c54ef0402b650da",
+  "slug": "mein-lieblingsplatz-das-freibad-in-westercelle",
+  "category": "niedersachsen",
+  "sourceName": "Nachrichten aus Niedersachsen",
+  "sourceUrl": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/mein-lieblingsplatz-das-freibad-in-westercelle,hallonds-9822.html",
+  "publishedAt": "2026-08-29T18:39:59.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "My favourite place: The outdoor pool in Westercelle",
+      "summary": "Without a committed sponsoring association, the outdoor pool would no longer exist. Angelika Latt has her favourite spot there: at the cash register."
+    },
+    "de": {
+      "title": "Mein Lieblingsplatz: Das Freibad in Westercelle",
+      "summary": "Ohne einen engagierten Förderverein gäbe es das Freibad gar nicht mehr. Angelika Latt hat dort ihren Lieblingsplatz: an der Kasse."
+    },
+    "hi": {
+      "title": "मेरी पसंदीदा जगह: वेस्टरसेले में आउटडोर पूल",
+      "summary": "एक प्रतिबद्ध प्रायोजक संघ के बिना, आउटडोर पूल अब मौजूद नहीं होगा। एंजेलिका लैट की पसंदीदा जगह है: कैश रजिस्टर में।"
+    },
+    "bn": {
+      "title": "আমার প্রিয় জায়গা: ওয়েস্টারসেলের আউটডোর পুল",
+      "summary": "একটি প্রতিশ্রুতিবদ্ধ স্পনসরিং অ্যাসোসিয়েশন ছাড়া, আউটডোর পুলটি আর বিদ্যমান থাকবে না । অ্যাঞ্জেলিকা ল্যাট সেখানে তার প্রিয় স্থান আছে: নগদ রেজিস্টারে ।"
+    },
+    "fr": {
+      "title": "Mon endroit préféré : la piscine extérieure de Westercelle",
+      "summary": "Sans une association de soutien engagée, la piscine extérieure n'existerait plus. Angelika Latt y a sa place préférée : à la caisse."
+    }
+  }
+}

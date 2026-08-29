@@ -1,0 +1,31 @@
+{
+  "id": "2586b78bb359f33ec7b4665030bd16a01f4e2960",
+  "slug": "iran-krieg-rund-400-schiffe-stecken-weiter-im-persischen-golf-fest",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/asien/iran-krieg-strasse-hormus-100.html",
+  "publishedAt": "2026-08-29T16:33:48.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Iran War: Around 400 ships stuck in the Persian Gulf",
+      "summary": "Since the beginning of the Iran war, shipping traffic through the Strait of Hormuz has been severely restricted. It is unclear how many tankers and freighters they pass through on a daily basis. Hundreds of ships are still unable to leave the Persian Gulf."
+    },
+    "de": {
+      "title": "Iran-Krieg: Rund 400 Schiffe stecken weiter im Persischen Golf fest",
+      "summary": "Seit Beginn des Iran-Kriegs ist der Schiffsverkehr durch die Straße von Hormus stark eingeschränkt. Wie viele Tanker und Frachter sie täglich passieren, ist unklar. Noch immer können Hunderte Schiffe den Persischen Golf nicht verlassen."
+    },
+    "hi": {
+      "title": "ईरान युद्ध: फारस की खाड़ी में लगभग 400 जहाज फंस गए",
+      "summary": "ईरान युद्ध की शुरुआत के बाद से, होर्मुज जलडमरूमध्य के माध्यम से शिपिंग यातायात को गंभीर रूप से प्रतिबंधित किया गया है। यह स्पष्ट नहीं है कि वे दैनिक आधार पर कितने टैंकरों और मालवाहकों से गुजरते हैं। सैकड़ों जहाज अभी भी फारस की खाड़ी से निकलने में असमर्थ हैं।"
+    },
+    "bn": {
+      "title": "ইরান যুদ্ধ: পারস্য উপসাগরে প্রায় ৪০০ জাহাজ আটকা পড়েছে",
+      "summary": "ইরান যুদ্ধ শুরু হওয়ার পর থেকে হরমুজ প্রণালী দিয়ে জাহাজ চলাচল কঠোরভাবে সীমিত করা হয়েছে । তারা প্রতিদিন কতগুলি ট্যাঙ্কার এবং ফ্রেটারের মধ্য দিয়ে যায় তা স্পষ্ট নয় । পারস্য উপসাগর থেকে শত শত জাহাজ এখনও বের হতে পারছে না ।"
+    },
+    "fr": {
+      "title": "Guerre en Iran : environ 400 navires restent bloqués dans le golfe Persique",
+      "summary": "Depuis le début de la guerre en Iran, le trafic maritime est fortement limité par le détroit d'Ormuz. Le nombre de pétroliers et de cargos qu'ils traversent chaque jour n'est pas clair. Des centaines de navires ne peuvent toujours pas quitter le golfe Persique."
+    }
+  }
+}
