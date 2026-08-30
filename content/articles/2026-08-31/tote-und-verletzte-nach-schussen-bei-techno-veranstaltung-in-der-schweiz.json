@@ -1,0 +1,31 @@
+{
+  "id": "41b1ff84bcb160d29405fa428e89230708a6555d",
+  "slug": "tote-und-verletzte-nach-schussen-bei-techno-veranstaltung-in-der-schweiz",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-100.html",
+  "publishedAt": "2026-08-30T16:50:34.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Dead and injured after shots fired at techno event in Switzerland",
+      "summary": "At a rave in Aarau, Switzerland, west of Zurich, shots were fired at night. The police speak of one dead and five injured. The background to the crime is still unclear."
+    },
+    "de": {
+      "title": "Tote und Verletzte nach Schüssen bei Techno-Veranstaltung in der Schweiz",
+      "summary": "Bei einem Rave im schweizerischen Aarau, westlich von Zürich, sind in der Nacht Schüsse gefallen. Die Polizei spricht von einer Toten und fünf Verletzten. Die Hintergründe der Tat sind noch unklar."
+    },
+    "hi": {
+      "title": "स्विट्ज़रलैंड में टेक्नो इवेंट में गोलीबारी के बाद मृत और घायल",
+      "summary": "ज्यूरिख के पश्चिम में, स्विट्जरलैंड के आरौ में एक रेव पर, रात में गोलियां चलाई गईं। पुलिस एक मृत और पांच घायलों की बात करती है। अपराध की पृष्ठभूमि अभी भी स्पष्ट नहीं है।"
+    },
+    "bn": {
+      "title": "সুইজারল্যান্ডের টেকনো ইভেন্টে গুলি চালানোর পরে নিহত এবং আহত",
+      "summary": "জুরিখের পশ্চিমে সুইজারল্যান্ডের আরাউতে রাতে গোলাগুলি হয় । পুলিশ একজন নিহত এবং পাঁচজন আহত হওয়ার কথা বলে । অপরাধের পটভূমি এখনও অস্পষ্ট ।"
+    },
+    "fr": {
+      "title": "Morts et blessés après des coups de feu lors d'un événement techno en Suisse",
+      "summary": "Lors d'une rave à Aarau, en Suisse, à l'ouest de Zurich, des coups de feu ont été tirés dans la nuit. La police parle d'une mort et de cinq blessés. Le contexte de l'acte n'est pas encore clair."
+    }
+  }
+}

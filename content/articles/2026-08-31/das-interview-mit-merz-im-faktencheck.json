@@ -1,0 +1,31 @@
+{
+  "id": "6b896d75c04cffc1d2d9f9f33a2d2c263b838f55",
+  "slug": "das-interview-mit-merz-im-faktencheck",
+  "category": "baden-wuerttemberg",
+  "sourceName": "SWR Aktuell Baden-Württemberg",
+  "sourceUrl": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-merz-100.html",
+  "publishedAt": "2026-08-30T20:15:01.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "The interview with Merz in a fact check",
+      "summary": "The Federal Chancellor and CDU Chairman Merz was a guest in the ARD summer interview. His statements on migration, climate protection and oil prices were inaccurate."
+    },
+    "de": {
+      "title": "Das Interview mit Merz im Faktencheck",
+      "summary": "Der Bundeskanzler und CDU-Vorsitzende Merz war im ARD-Sommerinterview zu Gast. Bei den Themen Migration, Klimaschutz und Ölpreis waren seine Aussagen ungenau."
+    },
+    "hi": {
+      "title": "तथ्य जांच में मर्ज़ के साथ साक्षात्कार",
+      "summary": "फेडरल चांसलर और CDU के चेयरमैन मर्ज़ ARD समर इंटरव्यू में मेहमान थे। प्रवासन, जलवायु संरक्षण और तेल की कीमतों पर उनके बयान गलत थे।"
+    },
+    "bn": {
+      "title": "একটি ফ্যাক্ট চেকে মার্জের সাথে সাক্ষাত্কার",
+      "summary": "ফেডারেল চ্যান্সেলর এবং সিডিইউ চেয়ারম্যান মার্জ এআরডি গ্রীষ্মকালীন সাক্ষাত্কারে অতিথি ছিলেন । অভিবাসন, জলবায়ু সুরক্ষা এবং তেলের দাম সম্পর্কে তার বিবৃতি সঠিক ছিল না ।"
+    },
+    "fr": {
+      "title": "L'entretien avec Merz dans la vérification des faits",
+      "summary": "Le chancelier fédéral et président de la CDU Merz était l'invité de l'interview d'été de l'ARD. En ce qui concerne la migration, la protection du climat et le prix du pétrole, ses déclarations étaient inexactes."
+    }
+  }
+}

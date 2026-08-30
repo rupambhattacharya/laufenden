@@ -1,0 +1,31 @@
+{
+  "id": "d1f851bc0a0731d748cf132007ea01e7bba45117",
+  "slug": "hsv-vor-transfer-doppelpack-nach-bvb-pleite",
+  "category": "hamburg",
+  "sourceName": "Nachrichten aus Hamburg",
+  "sourceUrl": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Hamburg-Journal,hamj-14102.html",
+  "publishedAt": "2026-08-30T22:02:37.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "HSV before transfer double pack after BVB bankruptcy",
+      "summary": "HSV starts sporting with a defeat. On the transfer market, on the other hand, Vieira and El Ouahdi have two commitments ahead of them."
+    },
+    "de": {
+      "title": "HSV vor Transfer-Doppelpack nach BVB-Pleite",
+      "summary": "Sportlich startet der HSV mit einer Niederlage. Auf dem Transfermarkt stehen mit Vieira und El Ouahdi dagegen zwei Verpflichtungen bevor."
+    },
+    "hi": {
+      "title": "बीवीबी दिवालिया होने के बाद डबल पैक ट्रांसफर करने से पहले एचएसवी",
+      "summary": "एचएसवी हार के साथ खेलना शुरू करता है। दूसरी ओर, ट्रांसफ़र मार्केट पर, Vieira और El Ouahdi की उनसे आगे दो प्रतिबद्धताएँ हैं।"
+    },
+    "bn": {
+      "title": "BVB দেউলিয়ার পরে ডাবল প্যাক স্থানান্তর করার আগে HSV",
+      "summary": "HSV পরাজয় দিয়ে খেলা শুরু করে । ট্রান্সফার মার্কেটে, অন্যদিকে, Vieira এবং El Ouahdi তাদের সামনে দুটি প্রতিশ্রুতি রয়েছে ।"
+    },
+    "fr": {
+      "title": "HSV avant le double pack de transfert après la faillite du BVB",
+      "summary": "Sportivement, le HSV commence par une défaite. Sur le marché des transferts, en revanche, deux engagements sont à venir avec Vieira et El Ouahdi."
+    }
+  }
+}

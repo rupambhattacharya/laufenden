@@ -1,0 +1,31 @@
+{
+  "id": "ef025ef064d6aea4fec3e93700ea735ccb5c564b",
+  "slug": "hallo-niedersachsen-30-08-2026",
+  "category": "niedersachsen",
+  "sourceName": "Nachrichten aus Niedersachsen",
+  "sourceUrl": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/Hallo-Niedersachsen,hallonds-9828.html",
+  "publishedAt": "2026-08-30T18:16:17.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Hello Lower Saxony | 08/30/2026",
+      "summary": "At Hallo Niedersachsen at 7:30 pm, you can find out everything that was going on in Lower Saxony that day."
+    },
+    "de": {
+      "title": "Hallo Niedersachsen | 30.08.2026",
+      "summary": "Bei Hallo Niedersachsen um 19:30 Uhr erfahren Sie alles, was am Tag in Niedersachsen los war."
+    },
+    "hi": {
+      "title": "नमस्ते लोअर सैक्सोनी | 08/30/2026",
+      "summary": "Hallo Niedersachsen में शाम 7:30 बजे, आप उस दिन लोअर सैक्सोनी में जो कुछ भी चल रहा था उसका पता लगा सकते हैं।"
+    },
+    "bn": {
+      "title": "হ্যালো লোয়ার স্যাক্সনি | 08/30/2026",
+      "summary": "হ্যালো Niedersachsen এ সন্ধ্যা 7:30 টায়, আপনি সেই দিন লোয়ার স্যাক্সনিতে যা যা ঘটেছিল তা জানতে পারবেন ।"
+    },
+    "fr": {
+      "title": "Bonjour Basse-Saxe | 30/08/2026",
+      "summary": "Bonjour Basse-Saxe à 19h30, vous apprendrez tout ce qui s'est passé dans la journée en Basse-Saxe."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "7201162fc85bf6e0daa5e6c122e7b03ecc195f71",
+  "slug": "notfallubung-im-glaswerk-schleusingen",
+  "category": "thueringen",
+  "sourceName": "Thüringen | Nachrichten und aktuelle Informationen ",
+  "sourceUrl": "https://www.mdr.de/nachrichten/thueringen/sued-thueringen/hildburghausen/schleusingen-notfall-uebung-aerzte,video-1639946.html",
+  "publishedAt": "2026-08-30T18:07:54.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Emergency exercise at the Schleusingen glassworks",
+      "summary": "A major emergency exercise took place at the Schleusingen glassworks. Senior emergency physicians had to take care of numerous injured people."
+    },
+    "de": {
+      "title": "Notfallübung im Glaswerk Schleusingen",
+      "summary": "Im Glaswerk Schleusingen hat eine große Notfallübung stattgefunden. Dabei mussten leitende Notärzte zahlreiche Verletzte versorgen."
+    },
+    "hi": {
+      "title": "Schleusingen Glassworks में आपातकालीन अभ्यास",
+      "summary": "Schleusingen Glassworks में एक प्रमुख आपातकालीन अभ्यास हुआ। वरिष्ठ आपातकालीन चिकित्सकों को कई घायल लोगों की देखभाल करनी पड़ी।"
+    },
+    "bn": {
+      "title": "শ্লেসুইজেন কাঁচের কাজগুলিতে জরুরি অনুশীলন",
+      "summary": "শ্লেইসিন গ্লাসওয়ার্কগুলিতে একটি বড় জরুরি অনুশীলন হয়েছিল । সিনিয়র জরুরী চিকিত্সকদের অসংখ্য আহত মানুষের যত্ন নিতে হয়েছিল ।"
+    },
+    "fr": {
+      "title": "Exercice d'urgence à la verrerie de Schleusingen",
+      "summary": "Un grand exercice d'urgence a eu lieu à la verrerie de Schleusingen. Les médecins urgentistes ont dû soigner de nombreux blessés."
+    }
+  }
+}

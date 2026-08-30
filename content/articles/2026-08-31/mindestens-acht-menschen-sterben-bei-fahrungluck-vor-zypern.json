@@ -1,0 +1,31 @@
+{
+  "id": "70fd14f5b70b3054c09412779907bb564618a188",
+  "slug": "mindestens-acht-menschen-sterben-bei-fahrungluck-vor-zypern",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/zypern-faehre-seenot-102.html",
+  "publishedAt": "2026-08-30T18:26:09.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "At least eight people die in a ferry accident off Cyprus",
+      "summary": "A ship with more than 260 people on board capsized off the coast of Northern Cyprus. At least eight people were killed. The captain and seven crew members were arrested."
+    },
+    "de": {
+      "title": "Mindestens acht Menschen sterben bei Fährunglück vor Zypern",
+      "summary": "Vor der Küste Nordzyperns ist ein Schiff mit mehr als 260 Menschen an Bord gekentert. Mindestens acht Menschen kamen dabei ums Leben. Der Kapitän und sieben Crewmitglieder wurden festgenommen."
+    },
+    "hi": {
+      "title": "साइप्रस के पास एक नौका दुर्घटना में कम से कम आठ लोगों की मौत हो गई",
+      "summary": "उत्तरी साइप्रस के तट पर 260 से अधिक लोगों के साथ एक जहाज डूब गया। कम से कम आठ लोग मारे गए थे। कैप्टन और चालक दल के सात सदस्यों को गिरफ्तार कर लिया गया।"
+    },
+    "bn": {
+      "title": "সাইপ্রাসে ফেরি দুর্ঘটনায় অন্তত আট জনের মৃত্যু",
+      "summary": "উত্তর সাইপ্রাসের উপকূলে ২৬০ জনেরও বেশি যাত্রী নিয়ে একটি জাহাজ ডুবে যায় । কমপক্ষে আট জনকে হত্যা করা হয়েছে । ক্যাপ্টেন এবং সাত ক্রু সদস্যকে গ্রেপ্তার করা হয়েছিল ।"
+    },
+    "fr": {
+      "title": "Au moins huit personnes meurent dans le naufrage d'un ferry au large de Chypre",
+      "summary": "Au large des côtes du nord de Chypre, un navire avec plus de 260 personnes à bord a chaviré. Au moins huit personnes en sont mortes. Le capitaine et sept membres d'équipage ont été arrêtés."
+    }
+  }
+}

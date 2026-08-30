@@ -1,0 +1,31 @@
+{
+  "id": "2ed590f5b60d79039bbbd75debe33b2d4a77e13f",
+  "slug": "referendum-in-island-ein-nein-aber-keine-abkehr-von-europa",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/island-referendum-102.html",
+  "publishedAt": "2026-08-30T17:42:47.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Referendum in Iceland: A No - but no turning away from Europe",
+      "summary": "In a referendum, the Icelanders decided against resuming EU accession talks. But the close vote shows that the question of Iceland's place in Europe is far from being resolved. By Arne Bartram."
+    },
+    "de": {
+      "title": "Referendum in Island: Ein Nein - aber keine Abkehr von Europa",
+      "summary": "Die Isländer haben sich in einem Referendum gegen eine Wiederaufnahme von EU-Beitrittsgesprächen entschieden. Doch die knappe Abstimmung zeigt: Die Frage nach Islands Platz in Europa ist noch längst nicht geklärt. Von Arne Bartram."
+    },
+    "hi": {
+      "title": "आइसलैंड में जनमत संग्रह: नहीं - लेकिन यूरोप से मुँह नहीं मोड़ना",
+      "summary": "एक जनमत संग्रह में, आइसलैंडर्स ने यूरोपीय संघ के प्रवेश वार्ता को फिर से शुरू करने के खिलाफ फैसला किया। लेकिन करीबी वोट से पता चलता है कि यूरोप में आइसलैंड की जगह का सवाल हल होने से बहुत दूर है। Arne Bartram द्वारा।"
+    },
+    "bn": {
+      "title": "আইসল্যান্ডে গণভোট: একটি না - কিন্তু ইউরোপ থেকে দূরে সরে না",
+      "summary": "একটি গণভোটে, আইসল্যান্ডীয়রা ইইউতে যোগদানের আলোচনা পুনরায় শুরু করার সিদ্ধান্ত নিয়েছে । কিন্তু ঘনিষ্ঠ ভোটটি দেখায় যে ইউরোপে আইসল্যান্ডের স্থানের প্রশ্নটি সমাধান করা থেকে অনেক দূরে । দ্বারা Arne Bartram."
+    },
+    "fr": {
+      "title": "Référendum en Islande : un non - mais pas d'abandon de l'Europe",
+      "summary": "Lors d'un référendum, les Islandais ont décidé de ne pas reprendre les négociations d'adhésion à l'UE. Mais le vote serré montre que la question de la place de l'Islande en Europe est loin d'être résolue. Par Arne Bartram."
+    }
+  }
+}

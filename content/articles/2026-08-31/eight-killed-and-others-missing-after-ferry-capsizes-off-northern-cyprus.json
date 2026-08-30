@@ -1,0 +1,31 @@
+{
+  "id": "34fea99f5c0d623bba590eb92db6cd33d7da0619",
+  "slug": "eight-killed-and-others-missing-after-ferry-capsizes-off-northern-cyprus",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-30T20:02:43.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port."
+    },
+    "de": {
+      "title": "Acht Tote und weitere Vermisste, nachdem die Fähre vor Nordzypern gekentert ist",
+      "summary": "Eine Such- und Rettungsaktion ist im Gange, nachdem sich eine Fähre mit fast 270 Menschen nach dem Verlassen des Hafens umgedreht hat."
+    },
+    "hi": {
+      "title": "उत्तरी साइप्रस के पास नौका पलटने से आठ लोगों की मौत हो गई और अन्य लापता हैं",
+      "summary": "बंदरगाह छोड़ने के बाद लगभग 270 लोगों को ले जाने वाली एक नौका के पलटने के बाद एक खोज और बचाव अभियान चल रहा है।"
+    },
+    "bn": {
+      "title": "উত্তর সাইপ্রাসে ফেরি বিধ্বস্ত হয়ে আটজন নিহত ও অন্যান্য নিখোঁজ",
+      "summary": "বন্দর ছাড়ার পর প্রায় ২৭০ জন যাত্রী নিয়ে একটি ফেরি উল্টে যাওয়ার পরে অনুসন্ধান ও উদ্ধার অভিযান চলছে ।"
+    },
+    "fr": {
+      "title": "Huit morts et d'autres disparus après le chavirement du ferry au large du nord de Chypre",
+      "summary": "Une opération de recherche et de sauvetage est en cours après qu'un ferry transportant près de 270 personnes se soit retourné après avoir quitté le port."
+    }
+  }
+}

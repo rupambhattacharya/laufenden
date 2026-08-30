@@ -1,0 +1,31 @@
+{
+  "id": "f2c07784fd481c70d701ab67ec466857a0334afe",
+  "slug": "nepal-flood-relief-vehicles-trapped-as-heavy-rain-turns-roads-to-mud",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/videos/c5ydwy004v0o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-30T20:40:02.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
+      "summary": "Heavy rain has hampered relief efforts in Nepal where thousands remain missing after flash floods hit its border with Tibet."
+    },
+    "de": {
+      "title": "Nepal Hochwasser-Hilfsfahrzeuge gefangen, da starker Regen Straßen in Schlamm verwandelt",
+      "summary": "Starke Regenfälle haben die Hilfsmaßnahmen in Nepal behindert, wo Tausende nach Sturzfluten an der Grenze zu Tibet vermisst werden."
+    },
+    "hi": {
+      "title": "नेपाल में भारी बारिश से फंसे बाढ़ राहत वाहन सड़कों को कीचड़ में तब्दील कर देते हैं",
+      "summary": "भारी बारिश ने नेपाल में राहत प्रयासों को बाधित कर दिया है जहां तिब्बत के साथ उसकी सीमा पर अचानक बाढ़ आने के बाद हजारों लोग लापता हैं।"
+    },
+    "bn": {
+      "title": "প্রবল বৃষ্টিতে নেপালে বন্যার্তদের ত্রাণসামগ্রী আটকা পড়েছে",
+      "summary": "প্রবল বৃষ্টি নেপালে ত্রাণ প্রচেষ্টাকে বাধাগ্রস্ত করেছে যেখানে তিব্বতের সীমান্তে আকস্মিক বন্যার পর হাজার হাজার লোক নিখোঁজ রয়েছে ।"
+    },
+    "fr": {
+      "title": "Véhicules de secours en cas d'inondation au Népal piégés alors que de fortes pluies transforment les routes",
+      "summary": "De fortes pluies ont entravé les efforts de secours au Népal, où des milliers de personnes sont toujours portées disparues après que des inondations soudaines aient frappé sa frontière avec le Tibet."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "be7dc6d128d1a0477fd6074e0a831a3c8533ff4d",
+  "slug": "merz-im-ard-sommerinterview-es-wird-am-ende-zusammengezahlt",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-kanzler-merz-100.html",
+  "publishedAt": "2026-08-30T17:55:49.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Merz in the ARD summer interview: \"It will be added up at the end\"",
+      "summary": "The Chancellor and his government are at the bottom of the survey. Nevertheless, Merz is optimistic in the ARD summer interview. The economy is already recovering - and it is especially important that Germany is well positioned in the long term."
+    },
+    "de": {
+      "title": "Merz im ARD-Sommerinterview: \"Es wird am Ende zusammengezählt\"",
+      "summary": "Der Kanzler und seine Regierung stecken im Umfragetief. Dennoch zeigt sich Merz im ARD-Sommerinterview optimistisch. Die Wirtschaft erhole sich bereits - und wichtig sei vor allem, dass Deutschland langfristig gut aufgestellt sei."
+    },
+    "hi": {
+      "title": "एआरडी ग्रीष्मकालीन साक्षात्कार में मर्ज़: \"इसे अंत में जोड़ा जाएगा\"",
+      "summary": "चांसलर और उनकी सरकार सर्वे में सबसे निचले पायदान पर हैं। फिर भी, मर्ज़ ARD समर इंटरव्यू में आशावादी हैं। अर्थव्यवस्था पहले से ही ठीक हो रही है - और यह विशेष रूप से महत्वपूर्ण है कि जर्मनी लंबी अवधि में अच्छी स्थिति में हो।"
+    },
+    "bn": {
+      "title": "ARD গ্রীষ্মকালীন সাক্ষাত্কারে মার্জ: \"এটি শেষে যোগ করা হবে\"",
+      "summary": "চ্যান্সেলর এবং তার সরকার জরিপের শীর্ষে রয়েছে । তা সত্ত্বেও, মার্জ এআরডি গ্রীষ্মকালীন সাক্ষাৎকারে আশাবাদী । অর্থনীতি ইতিমধ্যে পুনরুদ্ধার করছে - এবং এটি বিশেষ করে গুরুত্বপূর্ণ যে জার্মানি দীর্ঘমেয়াদে ভাল অবস্থানে রয়েছে ।"
+    },
+    "fr": {
+      "title": "Merz dans l'interview d'été d'ARD : \"Il est additionné à la fin\"",
+      "summary": "Le chancelier et son gouvernement sont dans le creux de l'enquête. Néanmoins, Merz se montre optimiste dans l'interview d'été d'ARD. L'économie se redresse déjà - et il est surtout important que l'Allemagne soit bien positionnée à long terme."
+    }
+  }
+}
