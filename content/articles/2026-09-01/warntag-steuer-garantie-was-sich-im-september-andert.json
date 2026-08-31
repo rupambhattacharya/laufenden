@@ -1,0 +1,31 @@
+{
+  "id": "1426119f2c665ea425b5207fe3f6f397fa420345",
+  "slug": "warntag-steuer-garantie-was-sich-im-september-andert",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/verbraucher/neuerungen-september-100.html",
+  "publishedAt": "2026-08-31T17:00:05.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Warning Day, Tax, Warranty: What's Changing in September",
+      "summary": "Don't be alarmed: there is a nationwide alarm in September - sirens and warning apps will be tested on Warning Day. A new label will show the warranty period in the future. And there are simplifications in tax consultancy."
+    },
+    "de": {
+      "title": "Warntag, Steuer, Garantie: Was sich im September ändert",
+      "summary": "Nicht erschrecken: Im September gibt es bundesweit Alarm - beim Warntag werden Sirenen und Warn-Apps getestet. Ein neues Label zeigt künftig die Garantiezeit. Und es gibt Vereinfachungen bei Steuerberatungen."
+    },
+    "hi": {
+      "title": "चेतावनी का दिन, टैक्स, वारंटी: सितंबर में क्या बदल रहा है",
+      "summary": "घबराएं नहीं: सितंबर में देश भर में एक अलार्म है - चेतावनी के दिन सायरन और चेतावनी ऐप का परीक्षण किया जाएगा। एक नया लेबल भविष्य में वारंटी अवधि दिखाएगा। और कर परामर्श में सरलीकरण हैं।"
+    },
+    "bn": {
+      "title": "সতর্কতা দিবস, কর, ওয়ারেন্টি: সেপ্টেম্বরে কী পরিবর্তন হচ্ছে",
+      "summary": "আতঙ্কিত হবেন না: সেপ্টেম্বরে দেশব্যাপী অ্যালার্ম রয়েছে - সতর্কতা দিবসে সাইরেন এবং সতর্কতা অ্যাপ পরীক্ষা করা হবে । একটি নতুন লেবেল ভবিষ্যতে ওয়্যারেন্টির সময়কাল দেখাবে । এবং কর পরামর্শের সরলীকরণ রয়েছে ।"
+    },
+    "fr": {
+      "title": "Jour d'avertissement, taxe, garantie : ce qui change en septembre",
+      "summary": "Ne vous inquiétez pas : en septembre, il y a une alarme dans tout le pays - le jour de l'alerte, les sirènes et les applications d'alerte sont testées. Une nouvelle étiquette indique à l'avenir la période de garantie. Et il y a des simplifications dans les conseils fiscaux."
+    }
+  }
+}

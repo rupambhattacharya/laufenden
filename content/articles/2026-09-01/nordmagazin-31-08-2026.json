@@ -1,0 +1,31 @@
+{
+  "id": "28d34d73939c0066bf1edd0adfc0d1ddc475f0b5",
+  "slug": "nordmagazin-31-08-2026",
+  "category": "mecklenburg-vorpommern",
+  "sourceName": "Nachrichten aus Mecklenburg-Vorpommern",
+  "sourceUrl": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/nordmagazin-31082026,nordmagazin-13646.html",
+  "publishedAt": "2026-08-31T19:40:44.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Nordmagazin | 31/08/2026",
+      "summary": "Our country in 30 minutes: Regional information and entertainment from Mecklenburg-Vorpommern every evening at 7:30 pm."
+    },
+    "de": {
+      "title": "Nordmagazin | 31.08.2026",
+      "summary": "Unser Land in 30 Minuten: Regionale Information und Unterhaltung aus Mecklenburg-Vorpommern jeden Abend um 19:30 Uhr."
+    },
+    "hi": {
+      "title": "नॉर्डमैगाज़िन | 31/08/2026",
+      "summary": "30 मिनट में हमारा देश: Mecklenburg - Vorpommern से हर शाम शाम 7:30 बजे क्षेत्रीय जानकारी और मनोरंजन।"
+    },
+    "bn": {
+      "title": "নর্ডম্যাগাজিন | 31/08/2026",
+      "summary": "আমাদের দেশ 30 মিনিটের মধ্যে: Mecklenburg-Vorpommern থেকে প্রতি সন্ধ্যা 7:30 টায় আঞ্চলিক তথ্য এবং বিনোদন ।"
+    },
+    "fr": {
+      "title": "Magazine Nord | 31/08/2026",
+      "summary": "Notre pays en 30 minutes : information et divertissement régionaux du Mecklembourg-Poméranie-Occidentale tous les soirs à 19h30."
+    }
+  }
+}

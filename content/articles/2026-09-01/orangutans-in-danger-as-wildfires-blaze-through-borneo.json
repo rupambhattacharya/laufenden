@@ -1,0 +1,31 @@
+{
+  "id": "8ec2ec7fce3f33417efe657b12514d8dbb193c55",
+  "slug": "orangutans-in-danger-as-wildfires-blaze-through-borneo",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/videos/c74emdn49kdo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-31T22:05:43.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Orangutans in danger as wildfires blaze through Borneo",
+      "summary": "Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species."
+    },
+    "de": {
+      "title": "Orang-Utans in Gefahr, da Waldbrände durch Borneo lodern",
+      "summary": "Waldbrände in Indonesien haben einen Teil des natürlichen Lebensraums von Hunderten von Orang-Utans zerstört und das Überleben der Art gefährdet."
+    },
+    "hi": {
+      "title": "बोर्नियो के जंगलों में आग लगने से ओरंगुटन खतरे में",
+      "summary": "इंडोनेशिया में जंगल की आग ने प्रजातियों के अस्तित्व को खतरे में डालते हुए सैकड़ों ऑरंगुटन के प्राकृतिक आवास के कुछ हिस्से को नष्ट कर दिया है।"
+    },
+    "bn": {
+      "title": "বোর্নিওর মধ্য দিয়ে দাবানল ছড়িয়ে পড়ায় ওরাঙ্গুটানরা বিপদে রয়েছে",
+      "summary": "ইন্দোনেশিয়ার দাবানল শত শত ওরাংওটাং এর প্রাকৃতিক আবাসের কিছু অংশ ধ্বংস করেছে, যা প্রজাতির বেঁচে থাকার ঝুঁকি তৈরি করেছে ।"
+    },
+    "fr": {
+      "title": "Les orangs-outans en danger alors que les feux de forêt s'enflamment à Bornéo",
+      "summary": "Les feux de forêt en Indonésie ont détruit une partie de l'habitat naturel de centaines d'orangs-outans, mettant en danger la survie de l'espèce."
+    }
+  }
+}

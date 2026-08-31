@@ -1,0 +1,31 @@
+{
+  "id": "5e79cf60fef53009c492c7535673469b6e640f4e",
+  "slug": "flut-im-himalaya-hunderte-arbeiter-in-wasserkraftwerken-eingeschlossen",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/asien/nepal-flut-erdrutsch-suche-ueberlebende-100.html",
+  "publishedAt": "2026-08-31T17:04:55.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Himalayan Flood: Hundreds of workers trapped in hydroelectric plants",
+      "summary": "In Nepal, the search for survivors of the flood disaster is in full swing. The focus is currently on hundreds of workers trapped in the tunnels of hydroelectric power plants. The death toll rose to more than 950."
+    },
+    "de": {
+      "title": "Flut im Himalaya: Hunderte Arbeiter in Wasserkraftwerken eingeschlossen",
+      "summary": "In Nepal läuft die Suche nach Überlebenden der Flutkatastrophe auf Hochtouren. Im Fokus stehen derzeit Hunderte Arbeiter, die in den Tunneln von Wasserkraftwerken eingeschlossen sind. Die Zahl der Toten stieg auf mehr als 950."
+    },
+    "hi": {
+      "title": "हिमालयी बाढ़: जलविद्युत संयंत्रों में सैकड़ों श्रमिक फंसे हुए हैं",
+      "summary": "नेपाल में, बाढ़ आपदा से बचे लोगों की तलाश जोरों पर है। वर्तमान में ध्यान जलविद्युत संयंत्रों की सुरंगों में फंसे सैकड़ों श्रमिकों पर है। मरने वालों की संख्या बढ़कर 950 से अधिक हो गई।"
+    },
+    "bn": {
+      "title": "হিমালয়ের বন্যা: জলবিদ্যুৎ প্লান্টে আটকে শতাধিক শ্রমিক",
+      "summary": "নেপালে, বন্যা বিপর্যয়ে বেঁচে যাওয়া ব্যক্তিদের সন্ধানে তল্লাশি চলছে । বর্তমানে জলবিদ্যুৎ কেন্দ্রের টানেলগুলিতে আটকা পড়া শত শত শ্রমিকের উপর দৃষ্টি নিবদ্ধ করা হয়েছে । মৃতের সংখ্যা বেড়ে হয়েছে ৯৫০ ।"
+    },
+    "fr": {
+      "title": "Inondation dans l'Himalaya : des centaines de travailleurs enfermés dans des centrales hydroélectriques",
+      "summary": "Au Népal, la recherche de survivants des inondations bat son plein. L'accent est actuellement mis sur des centaines de travailleurs enfermés dans les tunnels des centrales hydroélectriques. Le nombre de morts est passé à plus de 950."
+    }
+  }
+}

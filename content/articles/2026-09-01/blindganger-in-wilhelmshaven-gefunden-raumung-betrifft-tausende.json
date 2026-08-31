@@ -1,0 +1,31 @@
+{
+  "id": "6bd1b896685f55c63b72c39290e1d3164d51ba47",
+  "slug": "blindganger-in-wilhelmshaven-gefunden-raumung-betrifft-tausende",
+  "category": "niedersachsen",
+  "sourceName": "Nachrichten aus Niedersachsen",
+  "sourceUrl": "https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/blindgaenger-in-wilhelmshaven-gefunden-raeumung-betrifft-tausende,wilhelmshaven-198.html",
+  "publishedAt": "2026-08-31T22:30:23.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Unexploded ordnance found in Wilhelmshaven: Evacuation affects thousands",
+      "summary": "Evacuation will start today at 8am. The city centre is also affected - bus traffic will be discontinued."
+    },
+    "de": {
+      "title": "Blindgänger in Wilhelmshaven gefunden: Räumung betrifft Tausende",
+      "summary": "Die Evakuierung startet heute um 8 Uhr. Auch die Innenstadt ist betroffen - der Busverkehr wird eingestellt."
+    },
+    "hi": {
+      "title": "विल्हेमशेवेन में बिना विस्फोट किया गया आयुध मिला: निकासी हजारों को प्रभावित करती है",
+      "summary": "निकासी आज सुबह 8 बजे शुरू होगी। शहर का केंद्र भी प्रभावित है - बस यातायात बंद कर दिया जाएगा।"
+    },
+    "bn": {
+      "title": "উইলহেমশ্যাভেনে অবিস্ফোরিত অগ্নিসংযোগ পাওয়া গেছে: উচ্ছেদ হাজার হাজার প্রভাবিত করে",
+      "summary": "আজ সকাল ৮টা থেকে উচ্ছেদ শুরু হবে । সিটি সেন্টারও ক্ষতিগ্রস্থ হয়েছে - বাস চলাচল বন্ধ থাকবে ।"
+    },
+    "fr": {
+      "title": "Armes non explosées trouvées à Wilhelmshaven : l'évacuation concerne des milliers de personnes",
+      "summary": "L'évacuation débute aujourd'hui à 8h. Le centre-ville est également touché - le service de bus est interrompu."
+    }
+  }
+}

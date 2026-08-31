@@ -1,0 +1,31 @@
+{
+  "id": "015da518eacbaaecd22c398f391ec1c107bdf6fe",
+  "slug": "backes-gegen-cispa-findet-der-gerichtstermin-statt",
+  "category": "saarland",
+  "sourceName": "Regionalnachrichten aus dem Saarland",
+  "sourceUrl": "https://www.tagesschau.de/inland/regional/saarland/sr-backes-gegen-cispa-findet-der-gerichtstermin-statt-102.html",
+  "publishedAt": "2026-08-31T19:48:00.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Backes v. CISPA: Will the court date take place?",
+      "summary": "There is confusion in the legal dispute between CISPA and its founding director Prof. Michael Backes. A trial should begin before the Saarbrücken Regional Court on Tuesday afternoon, but according to SR information, Backes is now aiming for a rescheduling of the deadline."
+    },
+    "de": {
+      "title": "Backes gegen CISPA: Findet der Gerichtstermin statt?",
+      "summary": "Im Rechtsstreit zwischen dem CISPA und seinem Gründungsdirektor Prof. Michael Backes herrscht Verwirrung. Vor dem Landgericht Saarbrücken sollte am Dienstagmittag ein Prozess beginnen, nach SR-Informationen strebt Backes jetzt jedoch eine Terminverlegung an."
+    },
+    "hi": {
+      "title": "समर्थन बनाम CISPA: क्या अदालत की तारीख होगी?",
+      "summary": "CISPA और इसके संस्थापक निदेशक प्रो. माइकल बैक्स के बीच कानूनी विवाद में भ्रम की स्थिति है। मंगलवार दोपहर को सारब्रुकन क्षेत्रीय अदालत के समक्ष एक परीक्षण शुरू होना चाहिए, लेकिन एसआर जानकारी के अनुसार, बैक अब समय सीमा को फिर से निर्धारित करने का लक्ष्य बना रहा है।"
+    },
+    "bn": {
+      "title": "ব্যাকস বনাম সিআইএসপিএ: আদালতের তারিখ কি হবে?",
+      "summary": "সিআইএসপিএ এবং এর প্রতিষ্ঠাতা পরিচালক অধ্যাপক মাইকেল ব্যাকসের মধ্যে আইনি বিরোধে বিভ্রান্তি রয়েছে । মঙ্গলবার বিকেলে সারব্রুকেন আঞ্চলিক আদালতের সামনে একটি বিচার শুরু করা উচিত, তবে এসআর তথ্য অনুসারে, ব্যাকস এখন সময়সীমা পুনর্নির্ধারণের লক্ষ্য রাখছে ।"
+    },
+    "fr": {
+      "title": "Backes contre CISPA : la date du procès a-t-elle lieu ?",
+      "summary": "Il y a confusion dans le litige entre le CISPA et son directeur fondateur, le professeur Michael Backes. Un procès devrait commencer devant le tribunal de grande instance de Sarrebruck mardi midi, mais selon les informations de SR, Backes cherche maintenant un report de rendez-vous."
+    }
+  }
+}

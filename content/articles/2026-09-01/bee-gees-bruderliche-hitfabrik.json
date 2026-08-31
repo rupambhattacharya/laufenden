@@ -1,0 +1,31 @@
+{
+  "id": "802d50bb5cf25cc252b80548e5e460386f14c500",
+  "slug": "bee-gees-bruderliche-hitfabrik",
+  "category": "nrw",
+  "sourceName": "WDR.de",
+  "sourceUrl": "https://www1.wdr.de/kultur/musik/bee-gees-142.html",
+  "publishedAt": "2026-08-31T22:00:00.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Bee Gees: Fraternal Hit Factory",
+      "summary": "They are among the greats of pop history. Their trademark: falsetto singing. The Bee Gees look back on a career full of fame, comebacks and blows of fate. Barry Gibb celebrates his 80th birthday on 01.09.2026."
+    },
+    "de": {
+      "title": "Bee Gees: Brüderliche Hitfabrik",
+      "summary": "Sie gehören zu den Großen der Popgeschichte. Ihr Markenzeichen: der Falsett-Gesang. Die Bee Gees blicken zurück auf eine Karriere voller Ruhm, Comebacks und Schicksalsschläge. Am 01.09.2026 feiert Barry Gibb seinen 80. Geburtstag."
+    },
+    "hi": {
+      "title": "मधुमक्खी जीस: भ्रातृ हिट फैक्ट्री",
+      "summary": "वे पॉप इतिहास के महान लोगों में से हैं। उनका ट्रेडमार्क: गाना गाना गलत है। मधुमक्खी के बच्चे प्रसिद्धि, वापसी और भाग्य के झटकों से भरे करियर पर नज़र डालते हैं। बैरी गिब 01.09.2026 को अपना 80 वां जन्मदिन मना रहे हैं।"
+    },
+    "bn": {
+      "title": "মৌমাছি জিইএস: ভ্রাতৃপ্রতিম হিট ফ্যাক্টরি",
+      "summary": "তারা পপ ইতিহাসের মহান ব্যক্তিদের মধ্যে রয়েছে । তাদের ট্রেডমার্ক: Falsetto গান গাওয়া । মৌমাছি গিস খ্যাতি, প্রত্যাবর্তন এবং ভাগ্যের ধাক্কায় পূর্ণ ক্যারিয়ারের দিকে ফিরে তাকায় । ব্যারি গিব 01.09.2026 তারিখে তার 80 তম জন্মদিন উদযাপন করে ।"
+    },
+    "fr": {
+      "title": "Bee Gees : Usine à succès fraternelle",
+      "summary": "Ils font partie des grands de l'histoire de la pop. Votre signature : le chant de fausset. Les Bee Gees reviennent sur une carrière pleine de gloire, de retour et de coups du sort. Le 01/09/2026, Barry Gibb fête ses 80 ans."
+    }
+  }
+}

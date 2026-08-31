@@ -1,0 +1,31 @@
+{
+  "id": "b676f330fc9a0146c5fa040dc9f9c12621cf81ea",
+  "slug": "news-zu-eintracht-frankfurt",
+  "category": "hessen",
+  "sourceName": "hessenschau.de",
+  "sourceUrl": "https://www.hessenschau.de/sport/fussball/eintracht-frankfurt/eintracht-frankfurt-news-ticker-null,bundesliga-ticker-104.html",
+  "publishedAt": "2026-08-31T19:09:42.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "News about Eintracht Frankfurt",
+      "summary": "Here you always get the latest news about Eintracht Frankfurt."
+    },
+    "de": {
+      "title": "News zu Eintracht Frankfurt",
+      "summary": "Hier bekommen Sie immer die neuesten Nachrichten über Eintracht Frankfurt."
+    },
+    "hi": {
+      "title": "Eintracht Frankfurt के बारे में खबरें",
+      "summary": "यहाँ आपको हमेशा Eintracht Frankfurt के बारे में ताज़ा ख़बरें मिलती हैं।"
+    },
+    "bn": {
+      "title": "Eintracht Frankfurt সম্পর্কে খবর",
+      "summary": "এখানে আপনি সর্বদা Eintracht Frankfurt সম্পর্কে সর্বশেষ খবর পাবেন ।"
+    },
+    "fr": {
+      "title": "Actualités sur Eintracht Frankfurt",
+      "summary": "Ici, vous recevrez toujours les dernières nouvelles sur l'Eintracht Francfort."
+    }
+  }
+}

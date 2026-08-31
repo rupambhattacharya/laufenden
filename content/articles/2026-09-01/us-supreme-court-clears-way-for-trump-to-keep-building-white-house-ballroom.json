@@ -1,0 +1,31 @@
+{
+  "id": "4dd0caec31ce7b7c3abec32879a8ca1e6da534ef",
+  "slug": "us-supreme-court-clears-way-for-trump-to-keep-building-white-house-ballroom",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-31T22:38:24.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
+      "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\"."
+    },
+    "de": {
+      "title": "Der Oberste Gerichtshof der USA räumt Trump den Weg frei, den Ballsaal des Weißen Hauses weiter zu bauen",
+      "summary": "Aber Chief Justice John Roberts widerspricht und schreibt, dass \"Bauen wahrscheinlich rechtswidrig ist\"."
+    },
+    "hi": {
+      "title": "अमेरिकी सुप्रीम कोर्ट ने व्हाइट हाउस बॉलरूम का निर्माण जारी रखने के लिए ट्रम्प के लिए रास्ता साफ किया",
+      "summary": "लेकिन मुख्य न्यायाधीश जॉन रॉबर्ट्स ने असहमति जताते हुए लिखा कि \"निर्माण संभवतः गैरकानूनी है\"।"
+    },
+    "bn": {
+      "title": "হোয়াইট হাউস বলরুম নির্মাণ অব্যাহত রাখতে ট্রাম্পের জন্য পথ পরিষ্কার করল মার্কিন সুপ্রিম কোর্ট",
+      "summary": "কিন্তু প্রধান বিচারপতি জন রবার্টস ভিন্নমত পোষণ করেন, লিখেছেন যে \"নির্মাণ সম্ভবত বেআইনি\" ।"
+    },
+    "fr": {
+      "title": "La Cour suprême des États-Unis ouvre la voie à Trump pour continuer à construire la salle de bal de la Maison Blanche",
+      "summary": "Mais le juge en chef John Roberts est en désaccord, écrivant que « la construction est probablement illégale »."
+    }
+  }
+}

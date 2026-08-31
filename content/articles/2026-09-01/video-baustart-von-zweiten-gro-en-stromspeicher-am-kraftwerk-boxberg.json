@@ -1,0 +1,31 @@
+{
+  "id": "e54deaf0366487fdf912dc67b166b3184e9c6442",
+  "slug": "video-baustart-von-zweiten-gro-en-stromspeicher-am-kraftwerk-boxberg",
+  "category": "sachsen",
+  "sourceName": "Sachsen | Nachrichten, News, Videos, Fotos und Liveticker",
+  "sourceUrl": "https://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/batteriespeicher-strom-energie-baustart,video-akt-980.html",
+  "publishedAt": "2026-08-31T18:43:37.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Video: Start of construction of second large electricity storage facility at the Boxberg power plant",
+      "summary": "Construction of a second large electricity storage facility has begun at the Boxberg power plant in Upper Lusatia. According to the power plant operator, the storage system should be able to supply 640,000 households with electricity for four hours."
+    },
+    "de": {
+      "title": "Video: Baustart von zweiten großen Stromspeicher am Kraftwerk Boxberg",
+      "summary": "Am Kraftwerk Boxberg in der Oberlausitz hat der Bau eines zweiten großen Stromspeichers begonnen. Nach Angaben des Kraftwerkbetreibers soll der Speicher 640.000 Haushalte vier Stunden lang mit Strom versorgen können."
+    },
+    "hi": {
+      "title": "वीडियो: बॉक्सबर्ग पावर प्लांट में दूसरी बड़ी बिजली भंडारण सुविधा के निर्माण की शुरुआत",
+      "summary": "अपर लुसतिया के बॉक्सबर्ग पावर प्लांट में दूसरी बड़ी बिजली भंडारण सुविधा का निर्माण शुरू हो गया है। पावर प्लांट ऑपरेटर के अनुसार, स्टोरेज सिस्टम को चार घंटे के लिए 640,000 घरों में बिजली की आपूर्ति करने में सक्षम होना चाहिए।"
+    },
+    "bn": {
+      "title": "ভিডিও: বক্সবার্গ পাওয়ার প্ল্যান্টে দ্বিতীয় বৃহৎ বিদ্যুৎ সংরক্ষণ কেন্দ্র নির্মাণের কাজ শুরু",
+      "summary": "আপার লুসাতিয়ার বক্সবার্গ পাওয়ার প্ল্যান্টে দ্বিতীয় বৃহৎ বিদ্যুৎ সংরক্ষণ কেন্দ্র নির্মাণ শুরু হয়েছে । পাওয়ার প্ল্যান্ট অপারেটরের মতে, স্টোরেজ সিস্টেমটি 640,000 পরিবারকে চার ঘন্টার জন্য বিদ্যুৎ সরবরাহ করতে সক্ষম হওয়া উচিত ।"
+    },
+    "fr": {
+      "title": "Vidéo : Début de la construction du deuxième grand accumulateur d'électricité à la centrale de Boxberg",
+      "summary": "La construction d'un deuxième grand accumulateur d'électricité a commencé à la centrale de Boxberg en Haute-Lusace. Selon l'exploitant de la centrale, le stockage devrait pouvoir alimenter 640 000 foyers en électricité pendant quatre heures."
+    }
+  }
+}

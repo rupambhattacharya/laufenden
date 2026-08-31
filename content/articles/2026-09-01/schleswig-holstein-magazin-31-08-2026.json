@@ -1,0 +1,31 @@
+{
+  "id": "5259f537d84bdbb68def18db55205af076800892",
+  "slug": "schleswig-holstein-magazin-31-08-2026",
+  "category": "schleswig-holstein",
+  "sourceName": "Nachrichten aus Schleswig-Holstein",
+  "sourceUrl": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/Schleswig-Holstein-Magazin,shmag-12822.html",
+  "publishedAt": "2026-08-31T21:23:45.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Schleswig-Holstein Magazine | 31/08/2026",
+      "summary": "Here you can find out what happened during the day between the North Sea and the Baltic Sea."
+    },
+    "de": {
+      "title": "Schleswig-Holstein Magazin | 31.08.2026",
+      "summary": "Hier erfahren Sie, was sich am Tage zwischen Nord- und Ostsee ereignet hat."
+    },
+    "hi": {
+      "title": "श्लेस्विग - होल्स्टीन पत्रिका | 31/08/2026",
+      "summary": "यहां आप यह पता लगा सकते हैं कि उत्तरी सागर और बाल्टिक सागर के बीच दिन के दौरान क्या हुआ।"
+    },
+    "bn": {
+      "title": "শ্লেসভিগ-হোলস্টাইন ম্যাগাজিন | 31/08/2026",
+      "summary": "এখানে আপনি উত্তর সাগর এবং বাল্টিক সাগরের মধ্যে দিনে কী ঘটেছিল তা খুঁজে পেতে পারেন ।"
+    },
+    "fr": {
+      "title": "Magazine Schleswig-Holstein | 31/08/2026",
+      "summary": "Découvrez ici ce qui s'est passé le jour entre la mer du Nord et la mer Baltique."
+    }
+  }
+}

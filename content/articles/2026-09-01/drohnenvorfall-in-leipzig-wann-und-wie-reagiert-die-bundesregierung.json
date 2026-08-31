@@ -1,0 +1,31 @@
+{
+  "id": "728273badd4010610e1944562f9b984c2bf02487",
+  "slug": "drohnenvorfall-in-leipzig-wann-und-wie-reagiert-die-bundesregierung",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/drohnen-angriff-bundesregierung-reaktion-100.html",
+  "publishedAt": "2026-08-31T18:30:16.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Drone incident in Leipzig: When and how does the Federal Government react?",
+      "summary": "Who is behind the explosive drones at Leipzig Airport? There are many indications of Russia as a mastermind. However, the Federal Government has yet to officially impute blame. What consequences are conceivable? By Markus Sambale."
+    },
+    "de": {
+      "title": "Drohnenvorfall in Leipzig: Wann und wie reagiert die Bundesregierung?",
+      "summary": "Wer steckt hinter den Sprengstoff-Drohnen am Flughafen Leipzig? Vieles deutet auf Russland als Drahtzieher hin. Doch noch steht eine offizielle Schuldzuweisung der Bundesregierung aus. Welche Konsequenzen sind denkbar? Von Markus Sambale."
+    },
+    "hi": {
+      "title": "लीपज़िग में ड्रोन की घटना: संघीय सरकार कब और कैसे प्रतिक्रिया करती है?",
+      "summary": "लीपज़िग हवाई अड्डे पर विस्फोटक ड्रोन के पीछे कौन है? एक मास्टरमाइंड के रूप में रूस के कई संकेत हैं। हालांकि, संघीय सरकार ने अभी तक आधिकारिक तौर पर दोष नहीं लगाया है। किन परिणामों की कल्पना की जा सकती है? मार्कस सांबले द्वारा।"
+    },
+    "bn": {
+      "title": "লিপজিগে ড্রোনের ঘটনা: ফেডারেল সরকার কখন এবং কীভাবে প্রতিক্রিয়া জানায়?",
+      "summary": "লাইপজিগ বিমানবন্দরে বিস্ফোরক ড্রোনের পিছনে কে? রাশিয়া একটি মাস্টারমাইন্ড হিসাবে অনেক ইঙ্গিত আছে । যাইহোক, ফেডারেল সরকার এখনও আনুষ্ঠানিকভাবে দোষারোপ করেনি । কী কী পরিণতি কল্পনা করা যায়? মার্কাস সাম্বালে দ্বারা ।"
+    },
+    "fr": {
+      "title": "Incident de drone à Leipzig : quand et comment le gouvernement fédéral réagit-il ?",
+      "summary": "Qui se cache derrière les drones explosifs de l'aéroport de Leipzig ? Beaucoup de choses pointent vers la Russie en tant que fer de lance. Mais il reste encore à blâmer officiellement le gouvernement fédéral. Quelles conséquences sont envisageables ? Par Markus Sambale."
+    }
+  }
+}

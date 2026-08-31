@@ -1,0 +1,31 @@
+{
+  "id": "96539ca6563cb443bb450d4741059ea951c72afc",
+  "slug": "nach-sturzflut-im-grand-canyon-zwei-tote-und-mehrere-vermisste",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/amerika/grand-canyon-sturzflut-100.html",
+  "publishedAt": "2026-08-31T18:57:05.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "After flash flood in the Grand Canyon: two dead and several missing",
+      "summary": "A flash flood in Grand Canyon National Park in the western United States has killed two people, and 20 more are still being sought. It is unclear if people are missing or if they are elsewhere."
+    },
+    "de": {
+      "title": "Nach Sturzflut im Grand Canyon: Zwei Tote und mehrere Vermisste",
+      "summary": "Eine Sturzflut im Grand-Canyon-Nationalpark im Westen der USA hat zwei Menschen getötet, nach 20 weiteren wird noch gesucht. Es ist unklar, ob die Menschen vermisst werden oder ob sie sich woanders aufhalten."
+    },
+    "hi": {
+      "title": "ग्रैंड कैन्यन में अचानक आई बाढ़ के बाद: दो लोगों की मौत हो गई और कई लोग लापता हैं",
+      "summary": "पश्चिमी संयुक्त राज्य अमेरिका के ग्रैंड कैन्यन नेशनल पार्क में अचानक आई बाढ़ से दो लोगों की मौत हो गई है, और 20 और लोगों की अभी भी तलाश की जा रही है। यह स्पष्ट नहीं है कि लोग लापता हैं या वे कहीं और हैं।"
+    },
+    "bn": {
+      "title": "গ্র্যান্ড ক্যানিয়নে আকস্মিক বন্যার পর: দুজন নিহত ও বেশ কয়েকজন নিখোঁজ",
+      "summary": "পশ্চিম মার্কিন যুক্তরাষ্ট্রের গ্র্যান্ড ক্যানিয়ন ন্যাশনাল পার্কে আকস্মিক বন্যায় দুই জনের মৃত্যু হয়েছে এবং আরও ২০ জনের খোঁজ চলছে । মানুষ নিখোঁজ নাকি অন্য কোথাও আছে তা স্পষ্ট নয় ।"
+    },
+    "fr": {
+      "title": "Après le déluge dans le Grand Canyon : deux morts et plusieurs disparus",
+      "summary": "Une inondation torrentielle dans le parc national du Grand Canyon, dans l'ouest des États-Unis, a tué deux personnes, dont 20 sont encore recherchées. On ne sait pas si les gens sont portés disparus ou s'ils se trouvent ailleurs."
+    }
+  }
+}
