@@ -1,0 +1,31 @@
+{
+  "id": "12497fc38df489785609e08b76370c5cc3f31871",
+  "slug": "ki-sicherheitszentrum-kommt-zunachst-nicht-ins-saarland-trotzdem-besteht-noch-ho",
+  "category": "saarland",
+  "sourceName": "Regionalnachrichten aus dem Saarland",
+  "sourceUrl": "https://www.tagesschau.de/inland/regional/saarland/sr-ki-sicherheitszentrum-kommt-zunaechst-nicht-ins-saarland-trotzdem-besteht-noch-hoffnung-102.html",
+  "publishedAt": "2026-09-01T19:26:00.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "AI security centre is not coming to Saarland at first, but there is still hope",
+      "summary": "The Saarland state government would have liked to see the new AI security institute AISI at Saarland University. But now the German government has opted for Berlin. Nevertheless, the Saarland Minister of Economic Affairs, Mr Barke, still has hope."
+    },
+    "de": {
+      "title": "KI-Sicherheitszentrum kommt zunächst nicht ins Saarland, trotzdem besteht noch Hoffnung",
+      "summary": "Die saarländische Landesregierung hätte das neue KI-Sicherheitsinstitut AISI gerne an der Saar-Uni gesehen. Doch nun hat sich die Bundesregierung für Berlin entschieden. Dennoch hat der saarländische Wirtschaftsminister Barke weiter Hoffnung."
+    },
+    "hi": {
+      "title": "एआई सुरक्षा केंद्र पहले सारलैंड में नहीं आ रहा है, लेकिन अभी भी उम्मीद है",
+      "summary": "सारलैंड राज्य सरकार सारलैंड विश्वविद्यालय में नए एआई सुरक्षा संस्थान एआईएसआई को देखना पसंद करती। लेकिन अब जर्मन सरकार ने बर्लिन का विकल्प चुना है। फिर भी, सारलैंड के आर्थिक मामलों के मंत्री, श्री बार्क को अभी भी उम्मीद है।"
+    },
+    "bn": {
+      "title": "এআই সুরক্ষা কেন্দ্র প্রথমে সারল্যান্ডে আসছে না, তবে এখনও আশা রয়েছে",
+      "summary": "সারল্যান্ড রাজ্য সরকার সারল্যান্ড বিশ্ববিদ্যালয়ে নতুন এআই সুরক্ষা ইনস্টিটিউট এআইএসআই দেখতে পছন্দ করত । কিন্তু এখন জার্মান সরকার বার্লিনকে বেছে নিয়েছে । তবুও, সারল্যান্ড অর্থনৈতিক বিষয়ক মন্ত্রী মিঃ বার্কের এখনও আশা আছে ।"
+    },
+    "fr": {
+      "title": "Le centre de sécurité IA ne vient pas en Sarre dans un premier temps, mais il y a encore de l'espoir",
+      "summary": "Le gouvernement du Land de Sarre aurait aimé voir le nouvel institut de sécurité IA AISI à l'Université de la Sarre. Mais maintenant, le gouvernement fédéral a choisi Berlin. Néanmoins, le ministre sarrois de l'économie, M. Barke, a encore de l'espoir."
+    }
+  }
+}

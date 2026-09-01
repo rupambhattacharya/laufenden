@@ -1,0 +1,31 @@
+{
+  "id": "cb6547a17d260848fb47d077cbfdf29415da74e8",
+  "slug": "aufruf-der-religionsgemeinschaften-bischof-tilman-jeremias",
+  "category": "mecklenburg-vorpommern",
+  "sourceName": "Nachrichten aus Mecklenburg-Vorpommern",
+  "sourceUrl": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/aufruf-der-religionsgemeinschaften-bischof-tilman-jeremias,nordmagazin-13708.html",
+  "publishedAt": "2026-09-01T19:34:23.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Call of the Religious Communities - Bishop Tilman Jeremias",
+      "summary": "For the first time before a state election in Mecklenburg-Western Pomerania, there is a joint, interreligious election call."
+    },
+    "de": {
+      "title": "Aufruf der Religionsgemeinschaften - Bischof Tilman Jeremias",
+      "summary": "Erstmals vor einer Landtagswahl in Mecklenburg-Vorpommern gibt es einen gemeinsamen, interreligiösen Wahlaufruf."
+    },
+    "hi": {
+      "title": "धार्मिक समुदायों का आह्वान - बिशप तिलमान जेरेमियास",
+      "summary": "मेक्लेनबर्ग - वेस्टर्न पोमेरानिया में राज्य चुनाव से पहले पहली बार, एक संयुक्त, अंतर - धार्मिक चुनाव का आह्वान किया गया है।"
+    },
+    "bn": {
+      "title": "ধর্মীয় সম্প্রদায়ের আহ্বান - বিশপ তিলমান জেরেমিয়াস",
+      "summary": "মেকলেনবার্গ-ওয়েস্টার্ন পোমেরানিয়ায় রাজ্য নির্বাচনের আগে প্রথমবারের মতো, একটি যৌথ, আন্তঃধর্মীয় নির্বাচন আহ্বান করা হয়েছে ।"
+    },
+    "fr": {
+      "title": "Appel des communautés religieuses - Mgr Tilman Jeremias",
+      "summary": "Pour la première fois avant une élection au Landtag de Mecklembourg-Poméranie-Occidentale, il y a un appel électoral interreligieux commun."
+    }
+  }
+}

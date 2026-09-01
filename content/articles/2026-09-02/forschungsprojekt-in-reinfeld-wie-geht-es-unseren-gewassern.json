@@ -1,0 +1,31 @@
+{
+  "id": "8d42e158620843fc3ccbeaedee0a9732ecd81b34",
+  "slug": "forschungsprojekt-in-reinfeld-wie-geht-es-unseren-gewassern",
+  "category": "schleswig-holstein",
+  "sourceName": "Nachrichten aus Schleswig-Holstein",
+  "sourceUrl": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/forschungsprojekt-in-reinfeld-wie-geht-es-unseren-teichen,shmag-12862.html",
+  "publishedAt": "2026-09-01T19:24:26.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Research project in Reinfeld: How are our waters?",
+      "summary": "The men's pond may look idyllic - but the appearance is deceptive. Agriculture and sewage pollute the water."
+    },
+    "de": {
+      "title": "Forschungsprojekt in Reinfeld: Wie geht es unseren Gewässern?",
+      "summary": "Der Herrenteich mag idyllisch aussehen - doch der Schein trügt. Landwirtschaft und Abwasser belasten das Gewässer."
+    },
+    "hi": {
+      "title": "रेनफेल्ड में अनुसंधान परियोजना: हमारे पानी कैसे हैं?",
+      "summary": "पुरुषों का तालाब सुखद लग सकता है - लेकिन उपस्थिति भ्रामक है। कृषि और सीवेज पानी को प्रदूषित करते हैं।"
+    },
+    "bn": {
+      "title": "রেইনফেল্ডে গবেষণা প্রকল্প: আমাদের জল কেমন?",
+      "summary": "পুরুষদের পুকুর দেখতে অবাস্তব মনে হতে পারে - কিন্তু চেহারাটি প্রতারণামূলক । কৃষি এবং নিকাশী জল দূষিত করে ।"
+    },
+    "fr": {
+      "title": "Projet de recherche à Reinfeld : comment vont nos eaux ?",
+      "summary": "L'étang pour hommes peut sembler idyllique - mais les apparences sont trompeuses. L'agriculture et les eaux usées polluent les eaux."
+    }
+  }
+}

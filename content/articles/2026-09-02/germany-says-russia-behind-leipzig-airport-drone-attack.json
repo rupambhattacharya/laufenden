@@ -1,0 +1,31 @@
+{
+  "id": "1a13fc2dbc1848e972e27f8128b161a7a19a17ab",
+  "slug": "germany-says-russia-behind-leipzig-airport-drone-attack",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-01T21:05:22.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August."
+    },
+    "de": {
+      "title": "Deutschland sagt, Russland stecke hinter dem Drohnenangriff auf den Flughafen Leipzig",
+      "summary": "Am Flughafen in der Nähe ukrainischer Frachtflugzeuge wurde am 4. August eine Drohne mit einem Sprengsatz entdeckt."
+    },
+    "hi": {
+      "title": "जर्मनी का कहना है कि लीपज़िग हवाई अड्डे पर ड्रोन हमले के पीछे रूस है",
+      "summary": "4 अगस्त को यूक्रेनी कार्गो विमानों के करीब हवाई अड्डे पर एक विस्फोटक उपकरण ले जाने वाले ड्रोन की खोज की गई थी।"
+    },
+    "bn": {
+      "title": "জার্মানি বলছে লাইপজিগ বিমানবন্দরের ড্রোন হামলার পেছনে রাশিয়া",
+      "summary": "৪ আগস্ট ইউক্রেনীয় কার্গো বিমানের কাছাকাছি বিমানবন্দরে একটি বিস্ফোরক ডিভাইস বহনকারী একটি ড্রোন আবিষ্কৃত হয়েছিল ।"
+    },
+    "fr": {
+      "title": "L'Allemagne affirme que la Russie est derrière l'attaque de drones à l'aéroport de Leipz",
+      "summary": "Un drone transportant un engin explosif a été découvert à l'aéroport près d'avions cargo ukrainiens le 4 août."
+    }
+  }
+}

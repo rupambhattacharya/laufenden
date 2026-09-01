@@ -1,0 +1,31 @@
+{
+  "id": "ba2c234c0428bd9fb22dda1fd89c4ba69e270784",
+  "slug": "kurzschlusse-nahe-kohlekraftwerk-sabotage-sollte-wohl-blackout-auslosen",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/sabotage-umspannwerk-brandenburg-100.html",
+  "publishedAt": "2026-09-01T19:09:43.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Short circuits near coal-fired power plant: Sabotage should probably trigger a blackout",
+      "summary": "In Brandenburg, unknown persons with homemade missiles have caused short circuits on a high-voltage line. There was no power failure, but Brandenburg's Minister of the Interior warns: \"This was not a prank.\""
+    },
+    "de": {
+      "title": "Kurzschlüsse nahe Kohlekraftwerk: Sabotage sollte wohl Blackout auslösen",
+      "summary": "In Brandenburg haben Unbekannte mit selbstgebauten Flugkörpern Kurzschlüsse an einer Hochspannungsleitung verursacht. Zu einem Stromausfall kam es nicht, aber Brandenburgs Innenminister warnt: \"Das war kein Kinderstreich.\""
+    },
+    "hi": {
+      "title": "कोयले से चलने वाले बिजली संयंत्र के पास शॉर्ट सर्किट: तोड़फोड़ से शायद ब्लैकआउट होना चाहिए",
+      "summary": "ब्रैंडेनबर्ग में, घर में बनी मिसाइलों के साथ अज्ञात व्यक्तियों ने एक उच्च वोल्टेज लाइन पर शॉर्ट सर्किट का कारण बना दिया है। बिजली की कोई विफलता नहीं हुई, लेकिन ब्रैंडेनबर्ग के आंतरिक मंत्री ने चेतावनी दी: \"यह एक शरारत नहीं थी।\""
+    },
+    "bn": {
+      "title": "কয়লা চালিত বিদ্যুৎ কেন্দ্রের কাছে শর্ট সার্কিট: সাবোটেজ সম্ভবত একটি ব্ল্যাকআউট ট্রিগার করা উচিত",
+      "summary": "ব্র্যান্ডেনবার্গে, হোমমেড মিসাইলযুক্ত অজানা ব্যক্তিরা একটি উচ্চ-ভোল্টেজ লাইনে শর্ট সার্কিট তৈরি করেছে । কোনও শক্তি ব্যর্থতা ছিল না, তবে ব্র্যান্ডেনবার্গের স্বরাষ্ট্রমন্ত্রী সতর্ক করেছেন: \"এটি কোনও কৌতুক ছিল না ।\""
+    },
+    "fr": {
+      "title": "Court-circuits près de la centrale au charbon : le sabotage devrait probablement déclencher un black-out",
+      "summary": "Dans le Brandebourg, des inconnus ont causé des courts-circuits sur une ligne à haute tension avec des missiles fabriqués par eux-mêmes. Il n'y a pas eu de coupure de courant, mais le ministre de l'Intérieur du Brandebourg met en garde : « Ce n'était pas une blague d'enfant. »"
+    }
+  }
+}

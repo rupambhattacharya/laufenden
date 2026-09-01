@@ -1,0 +1,31 @@
+{
+  "id": "bd4ab0ce31d2b464dad5fa1c9bd564dae059631b",
+  "slug": "us-strikes-iran-as-state-media-reports-four-killed-at-wedding-party",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-01T21:48:28.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "US strikes Iran as state media reports four killed at wedding party",
+      "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun."
+    },
+    "de": {
+      "title": "Die USA schlagen den Iran an, wie staatliche Medien berichten, dass vier auf einer Hochzeitsfeier getötet wurden",
+      "summary": "Iranische Nachrichtenagenturen sagten, Vergeltungsraketen- und Drohnenangriffe auf US-Ziele hätten begonnen."
+    },
+    "hi": {
+      "title": "अमेरिका ने ईरान पर हमला किया क्योंकि सरकारी मीडिया ने शादी की पार्टी में चार लोगों की मौत की खबर दी",
+      "summary": "ईरानी समाचार एजेंसियों ने कहा कि अमेरिकी लक्ष्यों पर जवाबी मिसाइल और ड्रोन हमले शुरू हो गए हैं।"
+    },
+    "bn": {
+      "title": "মার্কিন যুক্তরাষ্ট্র ইরানে হামলা করেছে কারণ রাষ্ট্রীয় গণমাধ্যমের খবরে বলা হয়েছে যে বিয়ের পার্টিতে চারজন নিহত হয়েছে",
+      "summary": "ইরানি সংবাদ সংস্থাগুলি বলেছে যে মার্কিন লক্ষ্যবস্তুতে প্রতিশোধমূলক ক্ষেপণাস্ত্র এবং ড্রোন হামলা শুরু হয়েছে ।"
+    },
+    "fr": {
+      "title": "Les États-Unis frappent l'Iran alors que les médias d'État rapportent que quatre personnes ont été tuées lors d'",
+      "summary": "Les agences de presse iraniennes ont déclaré que des attaques de missiles et de drones de représailles contre des cibles américaines avaient commencé."
+    }
+  }
+}

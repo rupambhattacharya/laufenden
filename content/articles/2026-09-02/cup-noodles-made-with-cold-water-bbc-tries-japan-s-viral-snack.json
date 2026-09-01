@@ -1,0 +1,31 @@
+{
+  "id": "047eaca11092c8c21a954f064f2b54ab807374b2",
+  "slug": "cup-noodles-made-with-cold-water-bbc-tries-japan-s-viral-snack",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/videos/ce30lqln299o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-01T22:02:14.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Cup noodles made with cold water? BBC tries Japan's viral snack",
+      "summary": "The BBC's Tokyo correspondent Kurumi Mori tries Japan's latest food trend, instant noodles made using cold water."
+    },
+    "de": {
+      "title": "Mit kaltem Wasser zubereitete Tassennudeln? BBC probiert Japans viralen Snack",
+      "summary": "Der BBC-Korrespondent aus Tokio, Kurumi Mori, probiert Japans neuesten Food-Trend, Instant-Nudeln aus kaltem Wasser."
+    },
+    "hi": {
+      "title": "ठंडे पानी से बने कप नूडल्स? बीबीसी ने जापान के वायरल स्नैक की कोशिश की",
+      "summary": "बीबीसी के टोक्यो संवाददाता कुरुमी मोरी जापान के नवीनतम खाद्य प्रवृत्ति, ठंडे पानी का उपयोग करके बनाए गए त्वरित नूडल्स की कोशिश करते हैं।"
+    },
+    "bn": {
+      "title": "ঠান্ডা পানি দিয়ে তৈরি কাপ নুডলস? বিবিসি জাপানের ভাইরাল স্ন্যাক চেষ্টা করে",
+      "summary": "বিবিসির টোকিও সংবাদদাতা কুরুমি মোরি জাপানের সর্বশেষ খাদ্য প্রবণতা, তাত্ক্ষণিক নুডলস ঠান্ডা জল ব্যবহার করে তৈরি করার চেষ্টা করেছেন ।"
+    },
+    "fr": {
+      "title": "Une tasse de nouilles à l'eau froide ? BBC essaie la collation virale du Japon",
+      "summary": "Le correspondant de la BBC à Tokyo, Kurumi Mori, essaie la dernière tendance alimentaire japonaise, les nouilles instantanées à l'eau froide."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "db8faa905ad16c6e9158099838dc528c566bff89",
+  "slug": "the-art-of-johnny-depp-in-dusseldorf-kitsch-oder-imagepflege",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/kultur/kunst-von-johnny-depp-duesseldorf-schloss-benrath-100.html",
+  "publishedAt": "2026-09-01T17:22:05.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "\"The Art of Johnny Depp\" in Düsseldorf: kitsch or image maintenance?",
+      "summary": "Johnny Depp is back. Between fan moments, controversial art and an image that seemed badly damaged after the War of the Roses, he stages as a painter and rock musician in Düsseldorf's Schloss Benrath. By Philine Elster."
+    },
+    "de": {
+      "title": "\"The Art of Johnny Depp\" in Düsseldorf: Kitsch oder Imagepflege?",
+      "summary": "Johnny Depp ist zurück. Zwischen Fanmomenten, umstrittener Kunst und einem Image, das nach dem Rosenkrieg schwer beschädigt schien, inszeniert er als als Maler und Rockmusiker im Düsseldorfer Schloss Benrath. Von Philine Elster."
+    },
+    "hi": {
+      "title": "डसेलडॉर्फ में \"जॉनी डेप की कला \": किट्स या इमेज मेंटेनेंस?",
+      "summary": "जॉनी डेप वापस आ गया है। प्रशंसक क्षणों, विवादास्पद कला और एक छवि के बीच जो गुलाब के युद्ध के बाद बुरी तरह क्षतिग्रस्त लग रही थी, वह डसेलडॉर्फ के श्लॉस बेनराथ में एक चित्रकार और रॉक संगीतकार के रूप में चरणबद्ध है। फिलिन एल्स्टर द्वारा।"
+    },
+    "bn": {
+      "title": "ডুসেলডর্ফে \"জনি ডেপের শিল্প\": কিচ বা চিত্র রক্ষণাবেক্ষণ?",
+      "summary": "জনি ডেপ ফিরে এসেছে । ভক্ত মুহুর্ত, বিতর্কিত শিল্প এবং গোলাপের যুদ্ধের পরে খারাপভাবে ক্ষতিগ্রস্থ হওয়া একটি চিত্রের মধ্যে, তিনি ডুসেলডর্ফের শ্লস বেনরথের চিত্রশিল্পী এবং রক সংগীতশিল্পী হিসাবে অভিনয় করেন । ফিলিন এলস্টার দ্বারা ।"
+    },
+    "fr": {
+      "title": "« The Art of Johnny Depp » à Düsseldorf : kitsch ou soin de l'image ?",
+      "summary": "Johnny Depp est de retour. Entre les moments de fans, l'art controversé et une image qui semblait gravement endommagée après la guerre des Roses, il met en scène en tant que peintre et musicien rock au château de Benrath à Düsseldorf. Par Philine Elster."
+    }
+  }
+}

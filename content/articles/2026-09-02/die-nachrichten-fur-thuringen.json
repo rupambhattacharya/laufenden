@@ -1,0 +1,31 @@
+{
+  "id": "a73bdacc144ad503c1d8d9a9138caca980010cc1",
+  "slug": "die-nachrichten-fur-thuringen",
+  "category": "thueringen",
+  "sourceName": "Thüringen | Nachrichten und aktuelle Informationen ",
+  "sourceUrl": "https://www.mdr.de/mdr-thueringen/audio/nachrichten/audio-3452154.html",
+  "publishedAt": "2026-09-01T18:59:03.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "The news for Thuringia",
+      "summary": "The news for Thuringia"
+    },
+    "de": {
+      "title": "Die Nachrichten für Thüringen",
+      "summary": "Die Nachrichten für Thüringen"
+    },
+    "hi": {
+      "title": "थुरिंगिया के लिए खुशखबरी",
+      "summary": "थुरिंगिया के लिए खुशखबरी"
+    },
+    "bn": {
+      "title": "থুরিংগিয়ার খবর",
+      "summary": "থুরিংগিয়ার খবর"
+    },
+    "fr": {
+      "title": "Les nouvelles de Thuringe",
+      "summary": "Les nouvelles de Thuringe"
+    }
+  }
+}

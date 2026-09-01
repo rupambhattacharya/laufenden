@@ -1,0 +1,31 @@
+{
+  "id": "3928b331f0e157e173ad94d1ef52e5a0279a8c81",
+  "slug": "anschlagsversuch-mit-drohnen-bekanntes-muster-russischer-operationen",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/drohnen-flughafen-bundesregierung-100.html",
+  "publishedAt": "2026-09-01T17:54:06.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Attack attempt with drones: \"Known pattern of Russian operations\"",
+      "summary": "The traces of the attempted attack at Leipzig/Halle airport are said to lead to so-called disposable agents of a Russian secret service. Michael Götschenberg explains how investigators and the federal government came to this conclusion."
+    },
+    "de": {
+      "title": "Anschlagsversuch mit Drohnen: \"Bekanntes Muster russischer Operationen\"",
+      "summary": "Die Spuren des Anschlagversuchs am Flughafen Leipzig/Halle sollen zu sogenannten Wegwerfagenten eines russischen Geheimdienstes führen. Michael Götschenberg erklärt, wie Ermittler und Bundesregierung zu diesem Schluss kamen."
+    },
+    "hi": {
+      "title": "ड्रोन के साथ हमले की कोशिश: \"रूसी संचालन का ज्ञात पैटर्न\"",
+      "summary": "कहा जाता है कि लीपज़िग/हाले हवाई अड्डे पर हमले की कोशिश के निशान रूसी गुप्त सेवा के तथाकथित डिस्पोजेबल एजेंटों की ओर ले जाते हैं। माइकल गॉट्सचेनबर्ग बताते हैं कि जांचकर्ता और संघीय सरकार इस निष्कर्ष पर कैसे पहुंची।"
+    },
+    "bn": {
+      "title": "ড্রোন দিয়ে আক্রমণের চেষ্টা: \"রাশিয়ান অপারেশনের পরিচিত প্যাটার্ন\"",
+      "summary": "লিপজিগ/হ্যালি বিমানবন্দরে হামলার প্রচেষ্টার চিহ্নগুলি একটি রাশিয়ান গোপন পরিষেবার তথাকথিত নিষ্পত্তিযোগ্য এজেন্টদের দিকে পরিচালিত করে বলে মনে করা হয় । মাইকেল গটসচেনবার্গ ব্যাখ্যা করেছেন যে তদন্তকারীরা এবং ফেডারেল সরকার কীভাবে এই সিদ্ধান্তে এসেছিল ।"
+    },
+    "fr": {
+      "title": "Tentative d'attentat avec des drones : \"Modèle connu des opérations russes\"",
+      "summary": "Les traces de la tentative d'attentat à l'aéroport de Leipzig/Halle devraient conduire à des agents dits jetables d'un service de renseignement russe. Michael Götschenberg explique comment les enquêteurs et le gouvernement fédéral sont arrivés à cette conclusion."
+    }
+  }
+}
