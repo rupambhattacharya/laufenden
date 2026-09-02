@@ -1,0 +1,31 @@
+{
+  "id": "5f6984e9c9638f1f846045582c0e3dcb6dd3fe96",
+  "slug": "ermittlungen-nach-tiefflugen-uber-rugby-stadion-in-sudafrika",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/afrika/suedafrika-rugby-flugzeug-100.html",
+  "publishedAt": "2026-09-02T18:19:24.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Investigations into low altitude flights over rugby stadium in South Africa",
+      "summary": "In South Africa, two passenger planes flew just a few meters above the heads of the spectators before a rugby game. What was planned as a show, apparently went too far for many viewers. Now the aviation authority is investigating."
+    },
+    "de": {
+      "title": "Ermittlungen nach Tiefflügen über Rugby-Stadion in Südafrika",
+      "summary": "In Südafrika sind zwei Passagierflugzeuge vor einem Rugby-Spiel nur wenige Meter über die Köpfe der Zuschauer geflogen. Was als Showeinlage geplant war, ging vielen Zuschauern offenbar zu weit. Nun ermittelt die Luftfahrtbehörde."
+    },
+    "hi": {
+      "title": "दक्षिण अफ्रीका में रग्बी स्टेडियम के ऊपर कम ऊंचाई वाली उड़ानों की जांच",
+      "summary": "दक्षिण अफ्रीका में, रग्बी गेम से पहले दो यात्री विमान दर्शकों के सिर से कुछ मीटर ऊपर उड़ गए। एक शो के रूप में जो योजना बनाई गई थी, वह स्पष्ट रूप से कई दर्शकों के लिए बहुत दूर चली गई। अब विमानन प्राधिकरण जांच कर रहा है।"
+    },
+    "bn": {
+      "title": "দক্ষিণ আফ্রিকার রাগবি স্টেডিয়ামে কম উচ্চতার ফ্লাইটের তদন্ত",
+      "summary": "দক্ষিণ আফ্রিকায়, রাগবি খেলার আগে দুটি যাত্রীবাহী বিমান দর্শকদের মাথার মাত্র কয়েক মিটার উপরে উড়েছিল । একটি শো হিসাবে যা পরিকল্পনা করা হয়েছিল, দৃশ্যত অনেক দর্শকের কাছে তা অনেক দূরে চলে গেছে । এখন বিমান চলাচল কর্তৃপক্ষ তদন্ত করছে ।"
+    },
+    "fr": {
+      "title": "Enquête après des vols à basse altitude au-dessus d'un stade de rugby en Afrique du Sud",
+      "summary": "En Afrique du Sud, deux avions de passagers ont volé à quelques mètres au-dessus de la tête des spectateurs avant un match de rugby. Ce qui était prévu comme une scène de spectacle est allé trop loin pour de nombreux téléspectateurs. Maintenant, l'autorité aéronautique enquête."
+    }
+  }
+}

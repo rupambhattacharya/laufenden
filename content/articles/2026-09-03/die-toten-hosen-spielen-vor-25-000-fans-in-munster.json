@@ -1,0 +1,31 @@
+{
+  "id": "3f1b6928630f7fb0e00fe20ff64734feec35cbb9",
+  "slug": "die-toten-hosen-spielen-vor-25-000-fans-in-munster",
+  "category": "nrw",
+  "sourceName": "WDR.de",
+  "sourceUrl": "https://www1.wdr.de/nrw/muenster/toten-hosen-abschiedskonzert-muenster-100.html",
+  "publishedAt": "2026-09-02T23:28:18.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Die Toten Hosen play in front of 25,000 fans in Münster",
+      "summary": "On Wednesday evening, the Toten Hosen played their last concert in Münster. Thousands of fans have flocked to the city since the afternoon."
+    },
+    "de": {
+      "title": "Die Toten Hosen spielen vor 25.000 Fans in Münster",
+      "summary": "Am Mittwochabend spielten die Toten Hosen ihr letztes Konzert in Münster. Tausende Fans strömten seit dem Nachmittag in die Stadt."
+    },
+    "hi": {
+      "title": "मूनस्टर में 25,000 प्रशंसकों के सामने डाई टोटन होसेन खेलते हैं",
+      "summary": "बुधवार की शाम, टोटेन होसेन ने मुंस्टर में अपना आखिरी संगीत कार्यक्रम खेला। दोपहर के बाद से हजारों प्रशंसक शहर में आ चुके हैं।"
+    },
+    "bn": {
+      "title": "ম্যুনস্টারে ২৫, ০০০ ভক্তের সামনে ডাই টটেন হোসেনের নাটক",
+      "summary": "বুধবার সন্ধ্যায়, টটেন হোসেন মিউনস্টারে তাদের শেষ কনসার্টটি খেলেছিলেন । বিকেল থেকে হাজার হাজার ভক্ত শহরে ভিড় করেছেন ।"
+    },
+    "fr": {
+      "title": "Die Toten Hosen joue devant 25 000 fans à Münster",
+      "summary": "Mercredi soir, les Toten Hosen ont donné leur dernier concert à Münster. Des milliers de fans ont afflué dans la ville depuis l'après-midi."
+    }
+  }
+}

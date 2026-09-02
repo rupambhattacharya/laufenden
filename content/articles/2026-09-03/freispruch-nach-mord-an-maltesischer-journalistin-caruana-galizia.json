@@ -1,0 +1,31 @@
+{
+  "id": "b4dedadfaa3385c2ddafbeb1bd2b00115327cadd",
+  "slug": "freispruch-nach-mord-an-maltesischer-journalistin-caruana-galizia",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/freispruch-mord-journalistin-malta-100.html",
+  "publishedAt": "2026-09-02T22:56:35.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Acquittal for the murder of Maltese journalist Caruana Galizia",
+      "summary": "Who had the Maltese journalist Daphne Caruana Galizia murdered? This question remains unanswered even after almost nine years. Jurors acquitted an entrepreneur of being the mastermind of the plot."
+    },
+    "de": {
+      "title": "Freispruch nach Mord an maltesischer Journalistin Caruana Galizia",
+      "summary": "Wer ließ die maltesische Journalistin Daphne Caruana Galizia ermorden? Diese Frage bleibt auch nach fast neun Jahren unbeantwortet. Geschworene sprachen einen Unternehmer vom Vorwurf frei, Drahtzieher des Anschlags gewesen zu sein."
+    },
+    "hi": {
+      "title": "माल्टीज़ पत्रकार कारुआना गैलिज़िया की हत्या के लिए बरी",
+      "summary": "माल्टीज पत्रकार डेफनी कारुआना गैलिज़िया की हत्या किसने की थी? यह सवाल लगभग नौ साल बाद भी अनुत्तरित है। जूरी सदस्यों ने एक उद्यमी को साजिश का मास्टरमाइंड होने से बरी कर दिया।"
+    },
+    "bn": {
+      "title": "মাল্টীয় সাংবাদিক কারুয়ানা গালিজিয়াকে হত্যার জন্য অধিগ্রহণ",
+      "summary": "মাল্টীয় সাংবাদিক ডাফনে কারুয়ানা গালিজিয়াকে কে হত্যা করেছিল? এই প্রশ্নটি প্রায় নয় বছর পরেও উত্তরহীন রয়ে গেছে । জুরিরা একজন উদ্যোক্তাকে প্লটের মাস্টারমাইন্ড হওয়ার জন্য খালাস দিয়েছেন ।"
+    },
+    "fr": {
+      "title": "Acquittement après le meurtre de la journaliste maltaise Caruana Galizia",
+      "summary": "Qui a fait assassiner la journaliste maltaise Daphne Caruana Galizia ? Cette question reste sans réponse même après près de neuf ans. Un jury a acquitté un entrepreneur de l'accusation d'avoir tiré les ficelles de l'attentat."
+    }
+  }
+}

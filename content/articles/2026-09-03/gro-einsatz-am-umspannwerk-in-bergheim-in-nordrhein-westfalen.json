@@ -1,0 +1,31 @@
+{
+  "id": "2c7ca38ead21cc8dfee87aae16605cf59055f463",
+  "slug": "gro-einsatz-am-umspannwerk-in-bergheim-in-nordrhein-westfalen",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/moeglicher-anschlag-umspannwerk-nordrhein-westfalen-100.html",
+  "publishedAt": "2026-09-02T17:31:00.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Large-scale deployment at the substation in Bergheim in North Rhine-Westphalia",
+      "summary": "During the night, there was an incident at a substation in Bergheim in North Rhine-Westphalia. The police assume an intentional act. The general power supply is not affected."
+    },
+    "de": {
+      "title": "Großeinsatz am Umspannwerk in Bergheim in Nordrhein-Westfalen",
+      "summary": "In der Nacht gab es einen Störfall an einem Umspannwerk in Bergheim in Nordrhein-Westfalen. Die Polizei geht von einer vorsätzlichen Tat aus. Die allgemeine Stromversorgung sei nicht betroffen."
+    },
+    "hi": {
+      "title": "नॉर्थ राइन - वेस्टफेलिया में बर्गहेम में सबस्टेशन पर बड़े पैमाने पर तैनाती",
+      "summary": "रात के दौरान, नॉर्थ राइन - वेस्टफेलिया के बर्गहेम में एक सबस्टेशन में एक घटना हुई। पुलिस एक जानबूझकर किया गया कार्य मानती है। सामान्य बिजली की आपूर्ति प्रभावित नहीं होती है।"
+    },
+    "bn": {
+      "title": "নর্থ রাইন-ওয়েস্টফালিয়ার বার্গহেইমে সাবস্টেশনে বড় আকারের স্থাপনা",
+      "summary": "রাতে, উত্তর রাইন-ওয়েস্টফালিয়ার বার্গহেইমের একটি সাবস্টেশনে একটি ঘটনা ঘটেছিল । পুলিশ একটি ইচ্ছাকৃত কাজ গ্রহণ করে । সাধারণ বিদ্যুৎ সরবরাহ প্রভাবিত হয় না ।"
+    },
+    "fr": {
+      "title": "Grande intervention à la sous-station de Bergheim en Rhénanie du Nord-Westphalie",
+      "summary": "Dans la nuit, il y a eu un incident dans une sous-station à Bergheim en Rhénanie du Nord-Westphalie. La police part du principe qu'il s'agit d'un acte intentionnel. L'alimentation générale n'est pas affectée."
+    }
+  }
+}

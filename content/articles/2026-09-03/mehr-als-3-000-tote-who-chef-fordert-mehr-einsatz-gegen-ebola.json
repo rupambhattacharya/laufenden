@@ -1,0 +1,31 @@
+{
+  "id": "c61d71af3a33078576bc741c92191125e59c0073",
+  "slug": "mehr-als-3-000-tote-who-chef-fordert-mehr-einsatz-gegen-ebola",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/afrika/ebola-who-aufruf-100.html",
+  "publishedAt": "2026-09-02T20:09:49.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "More than 3,000 dead - who chief calls for more action against Ebola",
+      "summary": "Who Chief Executive Tedros has called on the international community to step up efforts to combat the Ebola epidemic. The Congolese government's package of measures must be financed more quickly."
+    },
+    "de": {
+      "title": "Mehr als 3.000 Tote - WHO-Chef fordert mehr Einsatz gegen Ebola",
+      "summary": "WHO-Chef Tedros hat die internationale Gemeinschaft zu mehr Anstrengung bei der Bekämpfung der Ebola-Epidemie aufgefordert. Das Maßnahmenpaket der kongolesischen Regierung müsse schneller finanziert werden."
+    },
+    "hi": {
+      "title": "3,000 से अधिक लोग मारे गए - WHO के प्रमुख ने इबोला के खिलाफ और अधिक कार्रवाई की मांग की",
+      "summary": "डब्ल्यूएचओ के मुख्य कार्यकारी टेड्रोस ने अंतर्राष्ट्रीय समुदाय से इबोला महामारी से निपटने के प्रयासों को आगे बढ़ाने का आह्वान किया है। कांगो सरकार के उपायों के पैकेज को अधिक तेज़ी से वित्त पोषित किया जाना चाहिए।"
+    },
+    "bn": {
+      "title": "৩, ০০০ এরও বেশি লোক মারা গেছে - বিশ্ব স্বাস্থ্য সংস্থার প্রধান ইবোলার বিরুদ্ধে আরও পদক্ষেপ নেওয়ার আহ্বান জানিয়েছেন",
+      "summary": "বিশ্ব স্বাস্থ্য সংস্থার প্রধান নির্বাহী টেড্রোস ইবোলা মহামারীর বিরুদ্ধে লড়াইয়ের প্রচেষ্টা জোরদার করার জন্য আন্তর্জাতিক সম্প্রদায়ের প্রতি আহ্বান জানিয়েছেন । কঙ্গো সরকারের পদক্ষেপের প্যাকেজটি আরও দ্রুত অর্থায়ন করতে হবে ।"
+    },
+    "fr": {
+      "title": "Plus de 3 000 morts - Le chef de l'OMS appelle à plus d'efforts contre Ebola",
+      "summary": "Le chef de l'OMS, Tedros, a appelé la communauté internationale à redoubler d'efforts pour lutter contre l'épidémie d'Ebola. Le paquet de mesures du gouvernement congolais doit être financé plus rapidement."
+    }
+  }
+}

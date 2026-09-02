@@ -1,0 +1,31 @@
+{
+  "id": "e2a43482d4c7a3ecf44605c09e53fdc0e389f834",
+  "slug": "protests-in-spain-over-government-s-handling-of-ceuta-migrant-crisis",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-02T21:34:27.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+      "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta."
+    },
+    "de": {
+      "title": "Proteste in Spanien gegen den Umgang der Regierung mit der Migrantenkrise in Ceuta",
+      "summary": "Spanische Oppositionsparteien werfen Ministerpräsident Pedro Sánchez vor, die Bewohner Ceutas im Stich gelassen zu haben."
+    },
+    "hi": {
+      "title": "सेउटा प्रवासी संकट से निपटने में सरकार की भूमिका को लेकर स्पेन में विरोध प्रदर्शन",
+      "summary": "स्पेनिश विपक्षी दलों ने प्रधान मंत्री पेड्रो सांचेज़ पर सेउटा के निवासियों को छोड़ने का आरोप लगाया।"
+    },
+    "bn": {
+      "title": "সিউটা অভিবাসী সঙ্কট মোকাবেলায় সরকারের পদক্ষেপের প্রতিবাদে স্পেনে বিক্ষোভ",
+      "summary": "স্পেনের বিরোধী দলগুলো প্রধানমন্ত্রী পেদ্রো সানচেজকে সিউটার অধিবাসীদের পরিত্যাগ করার জন্য অভিযুক্ত করে ।"
+    },
+    "fr": {
+      "title": "Manifestations en Espagne contre la gestion par le gouvernement de la crise des migrants de Ceuta",
+      "summary": "Les partis d'opposition espagnols accusent le Premier ministre Pedro Sánchez d'avoir abandonné les habitants de Ceuta."
+    }
+  }
+}

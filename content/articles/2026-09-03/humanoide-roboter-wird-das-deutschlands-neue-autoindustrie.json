@@ -1,0 +1,31 @@
+{
+  "id": "584a54b0616cfdbc7339d05af81bee7701082b42",
+  "slug": "humanoide-roboter-wird-das-deutschlands-neue-autoindustrie",
+  "category": "baden-wuerttemberg",
+  "sourceName": "SWR Aktuell Baden-Württemberg",
+  "sourceUrl": "https://www.swr.de/plusminus/humanoide-roboter-wird-das-deutschlands-neue-autoindustrie-100.html",
+  "publishedAt": "2026-09-02T22:01:00.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Humanoid robots: Will this be Germany's new car industry?",
+      "summary": "Faster than Usain Bolt, stronger than many skilled workers: Are humanoid robots the beacon of hope for Germany as an industrial location?"
+    },
+    "de": {
+      "title": "Humanoide Roboter: Wird das Deutschlands neue Autoindustrie?",
+      "summary": "Schneller als Usain Bolt, stärker als viele Fachkräfte: Sind Humanoide Roboter der Hoffnungsträger für den Industriestandort Deutschland?"
+    },
+    "hi": {
+      "title": "ह्यूमनॉइड रोबोट: क्या यह जर्मनी का नया कार उद्योग होगा?",
+      "summary": "उसैन बोल्ट की तुलना में तेज़, कई कुशल श्रमिकों की तुलना में मजबूत: क्या ह्यूमनॉइड रोबोट एक औद्योगिक स्थान के रूप में जर्मनी के लिए आशा की किरण हैं?"
+    },
+    "bn": {
+      "title": "হিউম্যানয়েড রোবট: এটি কি জার্মানির নতুন গাড়ি শিল্প হবে?",
+      "summary": "উসাইন বোল্টের চেয়ে দ্রুত, অনেক দক্ষ শ্রমিকের চেয়ে শক্তিশালী: হিউম্যানয়েড রোবটগুলি কি জার্মানির জন্য একটি শিল্প কেন্দ্র হিসাবে আশার আলো?"
+    },
+    "fr": {
+      "title": "Robots humanoïdes : sera-ce la nouvelle industrie automobile allemande ?",
+      "summary": "Plus rapide qu'Usain Bolt, plus fort que de nombreux professionnels : les robots humanoïdes sont-ils porteurs d'espoir pour le site industriel allemand ?"
+    }
+  }
+}
