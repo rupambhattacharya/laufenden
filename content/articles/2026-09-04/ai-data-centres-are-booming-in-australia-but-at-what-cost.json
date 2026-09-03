@@ -1,0 +1,31 @@
+{
+  "id": "d2045537d2738c4d46232a3b7855830b28c4d68b",
+  "slug": "ai-data-centres-are-booming-in-australia-but-at-what-cost",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-03T18:32:03.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "AI data centres are booming in Australia - but at what cost?",
+      "summary": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage."
+    },
+    "de": {
+      "title": "KI-Rechenzentren boomen in Australien - aber zu welchem Preis?",
+      "summary": "Befürworter sagen, dass Rechenzentren Arbeitsplätze bringen werden, aber andere befürchten, dass sie Ressourcen aufsaugen werden, während sie wenig Vorteile bieten."
+    },
+    "hi": {
+      "title": "ऑस्ट्रेलिया में AI डेटा सेंटर फल - फूल रहे हैं - लेकिन किस कीमत पर?",
+      "summary": "अधिवक्ताओं का कहना है कि डेटा केंद्र नौकरियां लाएंगे लेकिन अन्य चिंता करते हैं कि वे थोड़ा लाभ प्रदान करते हुए संसाधनों को बर्बाद कर देंगे।"
+    },
+    "bn": {
+      "title": "এআই ডেটা সেন্টারগুলি অস্ট্রেলিয়ায় বিকশিত হচ্ছে - কিন্তু কোন মূল্যে?",
+      "summary": "অ্যাডভোকেটরা বলছেন যে ডেটা সেন্টারগুলি চাকরি আনবে তবে অন্যরা উদ্বিগ্ন যে তারা সামান্য সুবিধা প্রদান করার সময় সংস্থানগুলি চুষবে ।"
+    },
+    "fr": {
+      "title": "Les centres de données d'IA sont en plein essor en Australie - mais à quel prix ?",
+      "summary": "Les défenseurs affirment que les centres de données créeront des emplois, mais d'autres craignent d'aspirer des ressources tout en offrant peu d'avantages."
+    }
+  }
+}

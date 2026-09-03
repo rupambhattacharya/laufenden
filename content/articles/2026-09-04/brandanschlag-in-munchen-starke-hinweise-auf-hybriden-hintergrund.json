@@ -1,0 +1,31 @@
+{
+  "id": "7cd8371797bc57c665d2a129dfe8c67945f138ec",
+  "slug": "brandanschlag-in-munchen-starke-hinweise-auf-hybriden-hintergrund",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/brandanschlag-muenchen-verdacht-geheimdienst-russland-100.html",
+  "publishedAt": "2026-09-03T17:46:02.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Munich Arson Attack - Strong Evidence of Hybrid Background",
+      "summary": "According to information from the ARD capital studio, there are strong indications that the arson attack could also have been carried out near an armaments company in Munich on behalf of a Russian intelligence service. By M. Götschenberg."
+    },
+    "de": {
+      "title": "Brandanschlag in München - Starke Hinweise auf hybriden Hintergrund",
+      "summary": "Nach Informationen des ARD-Hauptstadtstudios gibt es starke Hinweise darauf, dass auch der Brandanschlag nahe eines Rüstungsunternehmens in München im Auftrag eines russischen Geheimdienstes verübt worden sein könnte. Von M. Götschenberg."
+    },
+    "hi": {
+      "title": "म्यूनिख आगजनी हमला - हाइब्रिड पृष्ठभूमि का मजबूत सबूत",
+      "summary": "एआरडी कैपिटल स्टूडियो से मिली जानकारी के अनुसार, इस बात के मजबूत संकेत हैं कि आगजनी हमला एक रूसी खुफिया सेवा की ओर से म्यूनिख में एक हथियार कंपनी के पास भी किया जा सकता था। एम. गॉट्सचेनबर्ग द्वारा।"
+    },
+    "bn": {
+      "title": "মিউনিখ আরসন আক্রমণ - হাইব্রিড পটভূমির শক্তিশালী প্রমাণ",
+      "summary": "এআরডি ক্যাপিটাল স্টুডিওর তথ্য অনুসারে, রাশিয়ার একটি গোয়েন্দা সংস্থার পক্ষ থেকে মিউনিখে একটি অস্ত্র কোম্পানির কাছেও অগ্নিসংযোগের ঘটনা ঘটতে পারে বলে জোরালো ইঙ্গিত রয়েছে । M. Götschenberg দ্বারা ।"
+    },
+    "fr": {
+      "title": "Attaque incendiaire à Munich - Forte indication d'un arrière-plan hybride",
+      "summary": "Selon les informations du studio de l'ARD, il y a de fortes indications que l'incendie criminel près d'une entreprise d'armement à Munich pourrait avoir été commis pour le compte d'un service de renseignement russe. Par M. Götschenberg."
+    }
+  }
+}

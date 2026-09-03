@@ -1,0 +1,31 @@
+{
+  "id": "1460af7a80565113ec5de6cedb2ca8ea965b9b0b",
+  "slug": "sabotage-und-drohnen-wie-verwundbar-ist-unser-stromnetz",
+  "category": "rheinland-pfalz",
+  "sourceName": "SWR Aktuell Rheinland-Pfalz",
+  "sourceUrl": "https://www.swr.de/swraktuell/rheinland-pfalz/stoerfaelle-und-angriffe-auf-innere-sicherheit-schutz-fuer-energieunternehmen-100.html",
+  "publishedAt": "2026-09-03T19:30:19.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Sabotage and drones: How vulnerable is our power grid?",
+      "summary": "There are currently some incidents at substations and critical infrastructure in Germany. RLP is also concerned about the security of the power supply - and possible acts of sabotage."
+    },
+    "de": {
+      "title": "Sabotage und Drohnen: Wie verwundbar ist unser Stromnetz?",
+      "summary": "An Umspannwerken und kritischer Infrastruktur in Deutschland gibt es gerade einige Störfälle. Auch RLP sorgt sich um die Sicherheit der Stromversorgung - und mögliche Sabotageakte."
+    },
+    "hi": {
+      "title": "तोड़फोड़ और ड्रोन: हमारा पावर ग्रिड कितना असुरक्षित है?",
+      "summary": "वर्तमान में जर्मनी में सबस्टेशन और महत्वपूर्ण बुनियादी ढांचे पर कुछ घटनाएं हैं। आरएलपी बिजली की आपूर्ति की सुरक्षा - और तोड़फोड़ के संभावित कृत्यों के बारे में भी चिंतित है।"
+    },
+    "bn": {
+      "title": "সাবোটেজ এবং ড্রোন: আমাদের পাওয়ার গ্রিড কতটা ঝুঁকিপূর্ণ?",
+      "summary": "বর্তমানে জার্মানিতে সাবস্টেশন এবং গুরুত্বপূর্ণ অবকাঠামোতে কিছু ঘটনা ঘটছে । আরএলপি বিদ্যুৎ সরবরাহের নিরাপত্তা - এবং নাশকতার সম্ভাব্য কাজ সম্পর্কেও উদ্বিগ্ন ।"
+    },
+    "fr": {
+      "title": "Sabotage et drones : à quel point notre réseau électrique est-il vulnérable ?",
+      "summary": "Il y a actuellement quelques incidents dans les sous-stations et les infrastructures critiques en Allemagne. RLP se préoccupe également de la sécurité de l'alimentation électrique - et d'éventuels actes de sabotage."
+    }
+  }
+}

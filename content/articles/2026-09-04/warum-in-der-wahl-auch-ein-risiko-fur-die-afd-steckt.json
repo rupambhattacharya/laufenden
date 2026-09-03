@@ -1,0 +1,31 @@
+{
+  "id": "e4e81636be7b36b29537750da3caee5492180574",
+  "slug": "warum-in-der-wahl-auch-ein-risiko-fur-die-afd-steckt",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-afd-100.html",
+  "publishedAt": "2026-09-03T18:00:34.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Why there is also a risk for the AfD in the election",
+      "summary": "The AfD is ahead of the state election in Saxony-Anhalt in polls and hopes for a nationwide signal. But there are also risks - and doubts about the party's ability to govern. By Benjamin Großkopff."
+    },
+    "de": {
+      "title": "Warum in der Wahl auch ein Risiko für die AfD steckt",
+      "summary": "Die AfD liegt vor der Landtagswahl in Sachsen-Anhalt in Umfragen vorn und hofft auf ein bundesweites Signal. Doch es gibt auch Risiken - und Zweifel an der Regierungsfähigkeit der Partei. Von Benjamin Großkopff."
+    },
+    "hi": {
+      "title": "चुनाव में एएफडी के लिए भी जोखिम क्यों है",
+      "summary": "एएफडी चुनाव में सैक्सोनी - एन्हाल्ट में राज्य चुनाव से आगे है और राष्ट्रव्यापी संकेत की उम्मीद करता है। लेकिन जोखिम भी हैं - और पार्टी की शासन करने की क्षमता के बारे में संदेह है। बेंजामिन ग्रोसकॉफ द्वारा।"
+    },
+    "bn": {
+      "title": "নির্বাচনে কেন এএফডি-র ঝুঁকিও রয়েছে",
+      "summary": "এএফডি স্যাক্সনি-এনহাল্টে রাজ্য নির্বাচনের আগে এবং দেশব্যাপী সিগন্যালের আশা করছে । তবে ঝুঁকিও রয়েছে - এবং দলটির শাসন করার ক্ষমতা সম্পর্কে সন্দেহ রয়েছে । বেঞ্জামিন গ্রোস্কফ দ্বারা ।"
+    },
+    "fr": {
+      "title": "Pourquoi l'élection comporte-t-elle également un risque pour l'AfD",
+      "summary": "L'AfD est en avance dans les sondages avant les élections régionales en Saxe-Anhalt et espère un signal à l'échelle nationale. Mais il y a aussi des risques - et des doutes sur la capacité du parti à gouverner. Par Benjamin Großkopfff."
+    }
+  }
+}

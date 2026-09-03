@@ -1,0 +1,31 @@
+{
+  "id": "780fd577c514325beafd6608d033dde85c8d1c5e",
+  "slug": "vw-aufsichtsrat-beschlie-t-sparma-nahmen-50-000-stellen-weg",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplaene-100.html",
+  "publishedAt": "2026-09-03T19:45:37.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "VW Supervisory Board adopts austerity measures - 50,000 jobs lost",
+      "summary": "One day earlier than planned, the VW Supervisory Board approved a savings plan: 50,000 jobs are to be eliminated and four plants are to be shut down if no alternative use is found for them."
+    },
+    "de": {
+      "title": "VW-Aufsichtsrat beschließt Sparmaßnahmen - 50.000 Stellen weg",
+      "summary": "Einen Tag früher als geplant hat der VW-Aufsichtsrat einem Sparplan zugestimmt: 50.000 Jobs sollen wegfallen, und vier Werke stehen vor dem Aus, wenn keine alternative Verwendung für sie gefunden wird."
+    },
+    "hi": {
+      "title": "VW पर्यवेक्षी बोर्ड ने तपस्या उपायों को अपनाया - 50,000 नौकरियां चली गईं",
+      "summary": "योजना से एक दिन पहले, वीडब्ल्यू पर्यवेक्षी बोर्ड ने एक बचत योजना को मंजूरी दी: 50,000 नौकरियों को समाप्त किया जाना है और यदि उनके लिए कोई वैकल्पिक उपयोग नहीं पाया जाता है तो चार संयंत्रों को बंद कर दिया जाना है।"
+    },
+    "bn": {
+      "title": "ভিডব্লিউ সুপারভাইজরি বোর্ড কঠোরতা ব্যবস্থা গ্রহণ করেছে - ৫০, ০০০ চাকরি হারিয়েছে",
+      "summary": "পরিকল্পনার একদিন আগে, ভিডাব্লু সুপারভাইজারি বোর্ড একটি সঞ্চয় পরিকল্পনা অনুমোদন করেছে: 50,000 চাকরি নির্মূল করতে হবে এবং চারটি প্ল্যান্ট বন্ধ করতে হবে যদি তাদের জন্য কোনও বিকল্প ব্যবহার না পাওয়া যায় ।"
+    },
+    "fr": {
+      "title": "Le conseil de surveillance de VW adopte des mesures d'austérité - 50 000 postes supprimés",
+      "summary": "Un jour plus tôt que prévu, le conseil de surveillance de VW a approuvé un plan d'épargne : 50 000 emplois doivent être supprimés et quatre usines sont sur le point de disparaître si aucune autre utilisation n'est trouvée pour elles."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dbacc2beac3650d3b3f9002ff8d7db87b31081ea",
+  "slug": "das-wetter-in-bayern-meist-trocken-tagsuber-sommerlich-warm",
+  "category": "bayern",
+  "sourceName": "Die Nachrichten des Bayerischen Rundfunks",
+  "sourceUrl": "https://www.br.de/nachrichten/meldungen/index.html#n10",
+  "publishedAt": "2026-09-03T21:40:41.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "The weather in Bavaria: Mostly dry, warm during the day in summer",
+      "summary": "The weather in Bavaria: Mostly dry and mostly cloudy. Lowest 18 to 11 degrees. Partly sunny, partly cloudy during the day. Warm in summer at maximum values of 24 to 31 degrees. On Saturday, rain and individual thunderstorms, later sunny. Friendly on Sunday. ( BAYERN 2 news 03.09.2026 20:00)"
+    },
+    "de": {
+      "title": "Das Wetter in Bayern: Meist trocken, tagsüber sommerlich warm",
+      "summary": "Das Wetter in Bayern: Meist trocken und überwiegend stark bewölkt. Tiefstwerte 18 bis 11 Grad. Tagsüber teils sonnig, teils bewölkt. Bei Höchstwerten von 24 bis 31 Grad sommerlich warm. Am Samstag Regen und einzelne Gewitter, später sonnig. Am Sonntag freundlicher. ( BAYERN 2-Nachrichten 03.09.2026 20:00)"
+    },
+    "hi": {
+      "title": "बवेरिया में मौसम: गर्मियों में दिन के दौरान ज़्यादातर सूखा, गर्म",
+      "summary": "बवेरिया में मौसम: ज्यादातर सूखा और ज्यादातर बादल छाए हुए हैं। न्यूनतम 18 से 11 डिग्री। दिन में आंशिक रूप से धूप, आंशिक रूप से बादल छाए रहते हैं। गर्मियों में 24 से 31 डिग्री के अधिकतम मान पर गर्म करें। शनिवार को, बारिश और अलग - अलग आंधी - तूफान, बाद में धूप। रविवार को दोस्ताना। ( बायर्न 2 समाचार 03.09.2026 20:00)"
+    },
+    "bn": {
+      "title": "বাভারিয়ার আবহাওয়া: বেশিরভাগ শুষ্ক, গ্রীষ্মে দিনের বেলায় উষ্ণ",
+      "summary": "বাভারিয়ার আবহাওয়া: বেশিরভাগ শুষ্ক এবং বেশিরভাগ মেঘলা । সর্বনিম্ন 18 থেকে 11 ডিগ্রি । আংশিক রোদ, আংশিক মেঘলা দিনে । গ্রীষ্মকালে সর্বোচ্চ ২৪ থেকে ৩১ ডিগ্রি তাপমাত্রায় উষ্ণ । শনিবার, বৃষ্টি এবং পৃথক বজ্রঝড়, পরে রৌদ্রজ্জ্বল । রবিবার বন্ধুত্বপূর্ণ । ( বায়ার্ন 2 সংবাদ 03.09.2026 20:00)"
+    },
+    "fr": {
+      "title": "La météo en Bavière : généralement sèche, chaude en été pendant la journée",
+      "summary": "Météo en Bavière : Généralement sec et généralement nuageux. Valeurs minimales de 18 à 11 degrés. Partiellement ensoleillé pendant la journée, partiellement nuageux. Avec des températures maximales de 24 à 31 degrés, il fait chaud en été. Pluie le samedi et quelques orages, plus tard ensoleillé. Plus convivial le dimanche. ( BAYERN 2 Nachrichten 03/09/2026 20h00)"
+    }
+  }
+}

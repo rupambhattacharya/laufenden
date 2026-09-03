@@ -1,0 +1,31 @@
+{
+  "id": "7403b4f8f7d2682d6d5db85726c5cd52f065be3f",
+  "slug": "ig-nobelpreise-unterhosen-verbuddeln-fur-die-wissenschaft",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/wissen/forschung/ig-nobelpreise-zuerich-100.html",
+  "publishedAt": "2026-09-03T19:40:23.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Ig Nobel Prizes: Burying Underpants for Science",
+      "summary": "First laugh, then think: In order to receive an Ig Nobel Prize, a research topic must seem funny - but still have something serious behind it. This year, the prize will be awarded for the first time in Zurich. By David Beck."
+    },
+    "de": {
+      "title": "Ig-Nobelpreise: Unterhosen verbuddeln für die Wissenschaft",
+      "summary": "Erst lachen, dann nachdenken: Um einen Ig-Nobelpreis zu bekommen, muss ein Forschungsthema lustig wirken - aber trotzdem etwas Ernsthaftes dahinterstecken. Dieses Jahr wird der Preis zum ersten Mal in Zürich vergeben. Von David Beck."
+    },
+    "hi": {
+      "title": "Ig नोबेल पुरस्कार: विज्ञान के लिए दफनाने वाले अंडरपेंट",
+      "summary": "पहले हंसी, फिर सोचें: आईजी नोबेल पुरस्कार प्राप्त करने के लिए, एक शोध विषय मजेदार लगना चाहिए - लेकिन फिर भी इसके पीछे कुछ गंभीर है। इस साल, पुरस्कार पहली बार ज्यूरिख में प्रदान किया जाएगा। डेविड बेक द्वारा."
+    },
+    "bn": {
+      "title": "Ig নোবেল পুরস্কার: বিজ্ঞানের জন্য আন্ডারপ্যান্ট সমাহিত করা",
+      "summary": "প্রথমে হাসুন, তারপরে ভাবুন: আইজি নোবেল পুরস্কার পাওয়ার জন্য, একটি গবেষণার বিষয় অবশ্যই মজার মনে হতে হবে - তবে এর পিছনে এখনও গুরুতর কিছু রয়েছে । এই বছর, জুরিখে প্রথমবারের মতো পুরস্কার প্রদান করা হবে । ডেভিড বেক দ্বারা ।"
+    },
+    "fr": {
+      "title": "Prix Ig Nobel : enterrer des sous-vêtements pour la science",
+      "summary": "Riez d'abord, puis réfléchissez : pour obtenir un prix Ig Nobel, un sujet de recherche doit avoir l'air amusant - mais il y a quand même quelque chose de sérieux derrière. Cette année, le prix sera décerné pour la première fois à Zurich. Par David Beck."
+    }
+  }
+}

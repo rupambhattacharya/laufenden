@@ -1,0 +1,31 @@
+{
+  "id": "0dead5d13ab99bc1aae0d89b092a66032cee84e9",
+  "slug": "mutma-lich-sabotage-versuch-an-umspannwerk-in-dormagen",
+  "category": "nrw",
+  "sourceName": "WDR.de",
+  "sourceUrl": "https://www1.wdr.de/nrw/moeglicherweise-sabotage-versuch-an-umspannwerk-in-dormagen-100.html",
+  "publishedAt": "2026-09-03T21:14:14.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Suspected sabotage attempt at Dormagen substation",
+      "summary": "The police are operating at a substation in Dormagen-Gohr. Sensitive items were found there."
+    },
+    "de": {
+      "title": "Mutmaßlich Sabotage-Versuch an Umspannwerk in Dormagen",
+      "summary": "Die Polizei ist in Dormagen-Gohr bei einem Umspannwerk im Einsatz. Dort wurden sensible Gegenstände gefunden."
+    },
+    "hi": {
+      "title": "डॉर्मैगन सबस्टेशन में तोड़फोड़ की संदिग्ध कोशिश",
+      "summary": "पुलिस Dormagen - Gohr में एक सब - स्टेशन पर काम कर रही है। वहाँ संवेदनशील आइटम पाए गए।"
+    },
+    "bn": {
+      "title": "ডরমাজেন সাবস্টেশনে সন্দেহভাজন নাশকতার চেষ্টা",
+      "summary": "পুলিশ Dormagen-Gohr-এর একটি সাবস্টেশনে কাজ করছে । সেখানে সংবেদনশীল জিনিস পাওয়া গেছে ।"
+    },
+    "fr": {
+      "title": "Tentative présumée de sabotage de la sous-station de Dormagen",
+      "summary": "La police intervient à Dormagen-Gohr dans une sous-station. Des objets sensibles y ont été trouvés."
+    }
+  }
+}

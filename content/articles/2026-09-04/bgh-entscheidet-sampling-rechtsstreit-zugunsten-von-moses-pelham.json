@@ -1,0 +1,31 @@
+{
+  "id": "3946aeab6860ca2ef4ec87e13ebddd6f59771e7a",
+  "slug": "bgh-entscheidet-sampling-rechtsstreit-zugunsten-von-moses-pelham",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/bgh-sampling-kraftwerk-urteil-100.html",
+  "publishedAt": "2026-09-03T17:04:38.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "BGH adjudicates sampling litigation in favor of Moses Pelham",
+      "summary": "For 27 years, a legal dispute has been going on between the electric band Kraftwerk and the music producer Moses Pelham. Now the Federal Court of Justice has made a decisive ruling - with implications beyond the case. By Max Bauer."
+    },
+    "de": {
+      "title": "BGH entscheidet Sampling-Rechtsstreit zugunsten von Moses Pelham",
+      "summary": "Seit 27 Jahren wird ein Rechtsstreit zwischen der Elektroband Kraftwerk und dem Musikproduzenten Moses Pelham geführt. Nun hat der Bundesgerichtshof ein entscheidendes Urteil gefällt - mit Auswirkungen über den Fall hinaus. Von Max Bauer."
+    },
+    "hi": {
+      "title": "बीजीएच मूसा पेल्हम के पक्ष में नमूना मुकदमेबाजी का फैसला करता है",
+      "summary": "27 वर्षों से, इलेक्ट्रिक बैंड क्राफ्टवर्क और संगीत निर्माता मूसा पेलहम के बीच एक कानूनी विवाद चल रहा है। अब फेडरल कोर्ट ऑफ जस्टिस ने एक निर्णायक निर्णय लिया है - मामले से परे निहितार्थ के साथ। मैक्स बाउर द्वारा."
+    },
+    "bn": {
+      "title": "মোসেস পেলহামের পক্ষে বিজিএইচ নমুনা মামলা মোকদ্দমার রায় দিয়েছে",
+      "summary": "27 বছর ধরে, বৈদ্যুতিক ব্যান্ড ক্রাফটওয়ার্ক এবং সঙ্গীত প্রযোজক মোসেস পেলহামের মধ্যে একটি আইনি বিরোধ চলছে । এখন ফেডারেল কোর্ট অফ জাস্টিস একটি সিদ্ধান্তমূলক রায় দিয়েছে - মামলার বাইরে এর প্রভাব রয়েছে । ম্যাক্স বাউয়ার দ্বারা ।"
+    },
+    "fr": {
+      "title": "BGH décide du litige d'échantillonnage en faveur de Moses Pelham",
+      "summary": "Depuis 27 ans, un litige oppose Elektroband Kraftwerk au producteur de musique Moses Pelham. Maintenant, la Cour fédérale de justice a rendu un jugement décisif - avec des répercussions au-delà de l'affaire. Par Max Bauer."
+    }
+  }
+}
