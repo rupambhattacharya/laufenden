@@ -1,0 +1,31 @@
+{
+  "id": "817cfc517c7e6e12a96a758c7ad43a9ca36d7d82",
+  "slug": "wie-kann-die-kritische-infrastruktur-besser-geschutzt-werden",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/schutz-kritische-infrastruktur-100.html",
+  "publishedAt": "2026-09-04T16:59:41.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "How can critical infrastructure be better protected?",
+      "summary": "Recent events have shown how vulnerable critical infrastructure is in Germany. Power grids, airports and waterworks need to be better protected. How is this possible? By Theo Steinbach."
+    },
+    "de": {
+      "title": "Wie kann die kritische Infrastruktur besser geschützt werden?",
+      "summary": "Die jüngsten Ereignisse haben gezeigt, wie anfällig kritische Infrastruktur in Deutschland ist. Stromnetze, Flughäfen und Wasserwerke müssen besser geschützt werden. Wie ist das möglich? Von Theo Steinbach."
+    },
+    "hi": {
+      "title": "महत्वपूर्ण बुनियादी ढांचे को बेहतर तरीके से कैसे संरक्षित किया जा सकता है?",
+      "summary": "हाल की घटनाओं ने दिखाया है कि जर्मनी में महत्वपूर्ण बुनियादी ढांचा कितना कमजोर है। पावर ग्रिड, हवाई अड्डों और वाटरवर्क्स को बेहतर ढंग से संरक्षित करने की आवश्यकता है। यह कैसे संभव है? थियो स्टेनबैक द्वारा."
+    },
+    "bn": {
+      "title": "সমালোচনামূলক পরিকাঠামো কীভাবে আরও ভালভাবে সুরক্ষিত করা যায়?",
+      "summary": "সাম্প্রতিক ঘটনাগুলি দেখিয়েছে যে জার্মানিতে সমালোচনামূলক পরিকাঠামো কতটা দুর্বল । পাওয়ার গ্রিড, বিমানবন্দর এবং ওয়াটারওয়ার্কগুলি আরও ভালভাবে সুরক্ষিত করা দরকার । এটি কীভাবে সম্ভব? থিও স্টেইনবাখ ।"
+    },
+    "fr": {
+      "title": "Comment mieux protéger l'infrastructure critique ?",
+      "summary": "Les événements récents ont montré à quel point les infrastructures critiques en Allemagne sont vulnérables. Les réseaux électriques, les aéroports et les réseaux d'eau doivent être mieux protégés. Comment est-ce possible ? Par Theo Steinbach."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "93004cd4b939e951eb672066f867399c42fb0123",
+  "slug": "hacker-veroffentlichen-daten-nach-angriff-auf-berliner-landesnetz",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/regional/berlin/hackergruppe-berlin-daten-veroeffentlichung-100.html",
+  "publishedAt": "2026-09-04T18:46:40.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Hackers publish data after attack on Berlin regional network",
+      "summary": "After the hacker attack on the Berlin state administration, cybercriminals published a number of stolen data on the Internet for download. Previously, an ultimatum had expired."
+    },
+    "de": {
+      "title": "Hacker veröffentlichen Daten nach Angriff auf Berliner Landesnetz",
+      "summary": "Nach dem Hackerangriff auf die Berliner Landesverwaltung haben Cyberkriminelle etliche gestohlene Daten im Internet zum Herunterladen veröffentlicht. Zuvor war ein Ultimatum abgelaufen."
+    },
+    "hi": {
+      "title": "बर्लिन के क्षेत्रीय नेटवर्क पर हमले के बाद हैकर्स डेटा प्रकाशित करते हैं",
+      "summary": "बर्लिन राज्य प्रशासन पर हैकर हमले के बाद, साइबर अपराधियों ने डाउनलोड के लिए इंटरनेट पर कई चोरी किए गए डेटा प्रकाशित किए। इससे पहले, एक अल्टीमेटम की समय सीमा खत्म हो चुकी थी।"
+    },
+    "bn": {
+      "title": "বার্লিন আঞ্চলিক নেটওয়ার্কে হামলার পরে হ্যাকাররা ডেটা প্রকাশ করে",
+      "summary": "বার্লিন রাজ্য প্রশাসনের উপর হ্যাকার আক্রমণের পরে, সাইবার অপরাধীরা ডাউনলোডের জন্য ইন্টারনেটে চুরি করা বেশ কয়েকটি ডেটা প্রকাশ করেছিল । পূর্বে, একটি আলটিমেটামের মেয়াদ শেষ হয়ে গিয়েছিল ।"
+    },
+    "fr": {
+      "title": "Les pirates informatiques publient des données après l'attaque du réseau régional de Berlin",
+      "summary": "Après le piratage de l'administration de l'État de Berlin, les cybercriminels ont publié un certain nombre de données volées sur Internet à télécharger. Auparavant, un ultimatum avait expiré."
+    }
+  }
+}

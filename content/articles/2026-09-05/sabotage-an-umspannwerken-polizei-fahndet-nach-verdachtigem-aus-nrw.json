@@ -1,0 +1,31 @@
+{
+  "id": "d8a14cdcd4848f90e13c61ccc44441cd89277f91",
+  "slug": "sabotage-an-umspannwerken-polizei-fahndet-nach-verdachtigem-aus-nrw",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/sabotageversuche-dobrindt-reul-100.html",
+  "publishedAt": "2026-09-04T19:30:24.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Sabotage at substations - police are looking for suspects from NRW",
+      "summary": "After sabotaging substations in North Rhine-Westphalia and Brandenburg, the police are looking for a suspect. The man had written letters of confession. Whether he is also the perpetrator, however, is still open."
+    },
+    "de": {
+      "title": "Sabotage an Umspannwerken - Polizei fahndet nach Verdächtigem aus NRW",
+      "summary": "Nach der Sabotage an Umspannwerken in Nordrhein-Westfalen und Brandenburg fahndet die Polizei nach einem Verdächtigen. Der Mann hatte Bekennerschreiben verfasst. Ob er aber auch der Täter ist, ist noch offen."
+    },
+    "hi": {
+      "title": "सब - स्टेशनों पर तोड़फोड़ - पुलिस एनआरडब्ल्यू से संदिग्धों की तलाश कर रही है",
+      "summary": "नॉर्थ राइन - वेस्टफेलिया और ब्रैंडेनबर्ग में सबस्टेशन को तोड़फोड़ करने के बाद, पुलिस एक संदिग्ध की तलाश कर रही है। उस आदमी ने स्वीकारोक्ति के पत्र लिखे थे। क्या वह अपराधी भी है, हालांकि, अभी भी खुला है।"
+    },
+    "bn": {
+      "title": "সাবস্টেশনগুলিতে সাবটেজ - পুলিশ এনআরডব্লিউ থেকে সন্দেহভাজনদের সন্ধান করছে",
+      "summary": "নর্থ রাইন-ওয়েস্টফালিয়া এবং ব্র্যান্ডেনবার্গে নাশকতামূলক সাবস্টেশনগুলির পরে, পুলিশ সন্দেহভাজনকে খুঁজছে । লোকটি স্বীকারোক্তির চিঠি লিখেছিল । তবে তিনি অপরাধী কিনা তা এখনও খোলা আছে ।"
+    },
+    "fr": {
+      "title": "Sabotage des postes de transformation - la police recherche des suspects de Rhénanie-du-Nord-Westphalie",
+      "summary": "Après le sabotage des sous-stations en Rhénanie-du-Nord-Westphalie et dans le Brandebourg, la police recherche un suspect. L'homme avait écrit des lettres de revendication. Mais on ne sait toujours pas s'il est aussi le coupable."
+    }
+  }
+}

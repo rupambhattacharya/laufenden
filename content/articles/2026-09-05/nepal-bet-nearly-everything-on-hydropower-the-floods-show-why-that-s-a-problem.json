@@ -1,0 +1,31 @@
+{
+  "id": "cead2a876ecc0f290a60d41a417dcfc2535c23a0",
+  "slug": "nepal-bet-nearly-everything-on-hydropower-the-floods-show-why-that-s-a-problem",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-04T22:02:52.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+      "summary": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods."
+    },
+    "de": {
+      "title": "Nepal hat fast alles auf Wasserkraft gesetzt - die Überschwemmungen zeigen, warum das ein Problem ist",
+      "summary": "Mehr als 10% der nepalesischen Energieerzeugungskapazität wurden durch die Überschwemmungen der letzten Woche zerstört."
+    },
+    "hi": {
+      "title": "नेपाल ने लगभग सब कुछ जलविद्युत पर दांव लगाया - बाढ़ से पता चलता है कि यह एक समस्या क्यों है",
+      "summary": "नेपाल की ऊर्जा उत्पादन क्षमता का 10% से अधिक पिछले सप्ताह की बाढ़ से बाहर हो गया था।"
+    },
+    "bn": {
+      "title": "নেপাল জলবিদ্যুতের প্রায় সবকিছুই বাজি ধরে - বন্যায় দেখা যায় কেন এটি একটি সমস্যা",
+      "summary": "গত সপ্তাহের বন্যায় নেপালের বিদ্যুৎ উৎপাদন ক্ষমতার ১০ % এরও বেশি হ্রাস পেয়েছে ।"
+    },
+    "fr": {
+      "title": "Le Népal a presque tout parié sur l'hydroélectricité - les inondations montrent pourquoi c'est un problème",
+      "summary": "Plus de 10 % de la capacité de production d'énergie du Népal a été anéantie par les inondations de la semaine dernière."
+    }
+  }
+}

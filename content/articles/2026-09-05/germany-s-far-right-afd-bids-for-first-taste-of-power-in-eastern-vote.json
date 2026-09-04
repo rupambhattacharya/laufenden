@@ -1,0 +1,31 @@
+{
+  "id": "c1e6cc99f58d26320e4d1112fb1ae41db32f0b4b",
+  "slug": "germany-s-far-right-afd-bids-for-first-taste-of-power-in-eastern-vote",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-04T23:07:23.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two."
+    },
+    "de": {
+      "title": "Deutschlands rechtsextreme AfD bewirbt sich um den ersten Vorgeschmack auf die Macht bei der Ostwahl",
+      "summary": "Wenn sie in Sachsen-Anhalt die absolute Mehrheit gewinnt, wäre es das erste Mal seit dem Zweiten Weltkrieg, dass eine rechtsextreme Partei in Deutschland die Macht auf Landesebene innehat."
+    },
+    "hi": {
+      "title": "पूर्वी वोट में सत्ता के पहले स्वाद के लिए जर्मनी की दूर - दराज़ एएफडी बोली",
+      "summary": "यदि यह सैक्सोनी - एन्हाल्ट में एकमुश्त बहुमत हासिल करता है, तो यह दूसरे विश्व युद्ध के बाद पहली बार होगा जब जर्मनी में किसी दक्षिणपंथी पार्टी ने राज्य स्तरीय सत्ता संभाली है।"
+    },
+    "bn": {
+      "title": "পূর্ব ভোটে ক্ষমতার প্রথম স্বাদ পাওয়ার জন্য জার্মানির উগ্র-ডানপন্থী এএফডি বিড করেছে",
+      "summary": "স্যাক্সনি-আনহাল্টে যদি এটি সম্পূর্ণ সংখ্যাগরিষ্ঠতা অর্জন করে, তবে দ্বিতীয় বিশ্বযুদ্ধের পর জার্মানিতে উগ্র-ডানপন্থী দল প্রথমবারের মতো রাষ্ট্র-স্তরের ক্ষমতায় থাকবে ।"
+    },
+    "fr": {
+      "title": "L'AfD d'extrême droite allemande offre un avant-goût du pouvoir dans le vote de l'Est",
+      "summary": "S'il remporte une majorité absolue en Saxe-Anhalt, ce serait la première fois qu'un parti d'extrême droite détiendrait le pouvoir au niveau de l'État en Allemagne depuis la Seconde Guerre mondiale."
+    }
+  }
+}

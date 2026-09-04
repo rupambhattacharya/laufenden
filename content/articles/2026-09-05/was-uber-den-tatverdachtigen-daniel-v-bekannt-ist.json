@@ -1,0 +1,31 @@
+{
+  "id": "ccf40b4dac499391c24bcc60faff1ab5c770a6e0",
+  "slug": "was-uber-den-tatverdachtigen-daniel-v-bekannt-ist",
+  "category": "nrw",
+  "sourceName": "WDR.de",
+  "sourceUrl": "https://www1.wdr.de/nrw/strom-sabotage-wer-ist-daniel-v-100.html",
+  "publishedAt": "2026-09-04T22:58:48.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "What is known about the suspect Daniel V.",
+      "summary": "Who is responsible for the sabotage and attempted sabotage of substations? What we know about Daniel V. so far."
+    },
+    "de": {
+      "title": "Was über den Tatverdächtigen Daniel V. bekannt ist",
+      "summary": "Wer ist für die Sabotagen und versuchten Sabotagen an Umspannwerken verantwortlich? Was wir über Daniel V. bisher wissen."
+    },
+    "hi": {
+      "title": "संदिग्ध डैनियल V के बारे में क्या पता है।",
+      "summary": "सबस्टेशनों में तोड़फोड़ और तोड़फोड़ की कोशिश के लिए कौन ज़िम्मेदार है? अब तक हम डैनियल V. के बारे में क्या जानते हैं।"
+    },
+    "bn": {
+      "title": "সন্দেহভাজন ড্যানিয়েল ভি সম্পর্কে কী জানা যায় ।",
+      "summary": "সাবস্টেশনের নাশকতা ও নাশকতা চেষ্টার জন্য দায়ী কে? ড্যানিয়েল ভি সম্পর্কে আমরা এখন পর্যন্ত যা জানি ।"
+    },
+    "fr": {
+      "title": "Ce que l'on sait du suspect Daniel V.",
+      "summary": "Qui est responsable des sabotages et des tentatives de sabotages sur les sous-stations ? Ce que nous savons de Daniel V. jusqu'à présent."
+    }
+  }
+}

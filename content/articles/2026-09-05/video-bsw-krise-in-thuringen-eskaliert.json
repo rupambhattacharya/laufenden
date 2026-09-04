@@ -1,0 +1,31 @@
+{
+  "id": "3fb2ee6dab78911170779e11df3fff31a7e11fbb",
+  "slug": "video-bsw-krise-in-thuringen-eskaliert",
+  "category": "thueringen",
+  "sourceName": "Thüringen | Nachrichten und aktuelle Informationen ",
+  "sourceUrl": "https://www.mdr.de/video/mdr-videos/d/video-1642612.html",
+  "publishedAt": "2026-09-04T19:03:49.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Video: BSW crisis in Thuringia escalates",
+      "summary": "The party-internal dispute at the BSW is escalating: Apparently, other members want to declare their resignation from the group. We will be showing the press conference live."
+    },
+    "de": {
+      "title": "Video: BSW-Krise in Thüringen eskaliert",
+      "summary": "Der parteiinterne Streit beim BSW eskaliert: Offenbar wollen weitere Mitglieder ihren Austritt aus der Fraktion erklären. Wir zeigen die Pressekonferenz live."
+    },
+    "hi": {
+      "title": "वीडियो: थुरिंगिया में BSW संकट बढ़ा",
+      "summary": "बीएसडब्ल्यू में पार्टी - आंतरिक विवाद बढ़ रहा है: जाहिर है, अन्य सदस्य समूह से अपने इस्तीफे की घोषणा करना चाहते हैं। हम प्रेस कॉन्फ्रेंस को लाइव दिखाएंगे।"
+    },
+    "bn": {
+      "title": "ভিডিও: থুরিংগিয়ায় বিএসডব্লিউ সংকট বাড়ছে",
+      "summary": "বিএসডব্লিউতে পার্টি-মধ্যস্থ বিরোধ বাড়ছে: দৃশ্যত, অন্যান্য সদস্যরা গ্রুপ থেকে তাদের পদত্যাগ ঘোষণা করতে চান । আমরা সংবাদ সম্মেলনটি সরাসরি দেখাব ।"
+    },
+    "fr": {
+      "title": "Vidéo : La crise BSW en Thuringe s'aggrave",
+      "summary": "Le différend interne au parti au BSW s'intensifie : apparemment, d'autres membres veulent déclarer leur départ du groupe. Nous montrons la conférence de presse en direct."
+    }
+  }
+}

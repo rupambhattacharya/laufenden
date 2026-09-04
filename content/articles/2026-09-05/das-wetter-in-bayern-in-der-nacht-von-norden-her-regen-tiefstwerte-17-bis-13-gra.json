@@ -1,0 +1,31 @@
+{
+  "id": "c06754effe45e8a53c00f081200f1f8eeed5cc9f",
+  "slug": "das-wetter-in-bayern-in-der-nacht-von-norden-her-regen-tiefstwerte-17-bis-13-gra",
+  "category": "bayern",
+  "sourceName": "Die Nachrichten des Bayerischen Rundfunks",
+  "sourceUrl": "https://www.br.de/nachrichten/meldungen/index.html#n11",
+  "publishedAt": "2026-09-04T20:33:36.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "The weather in Bavaria: Rain from the north at night, lows of 17 to 13 degrees",
+      "summary": "The weather in Bavaria: At night, heavy rain from the north, which moves towards the middle of the Free State until morning. 17 to 13 degrees. On the day again friendly at 20 to 26 degrees. Sunny and dry on Sunday after local fog fields have been cleared. At the beginning of the week, once again maximum values of up to 30 degrees. ( BAYERN 2 NEWS 04.09.2026 20:00)"
+    },
+    "de": {
+      "title": "Das Wetter in Bayern: In der Nacht von Norden her Regen, Tiefstwerte 17 bis 13 Grad",
+      "summary": "Das Wetter in Bayern: In der Nacht von Norden her gewittriger Regen, der bis zum Morgen in Richtung Mitte des Freistaats zieht. 17 bis 13 Grad. Am Tag wieder freundlich bei 20 bis 26 Grad. Am Sonntag nach Auflösung örtlicher Nebelfelder sonnig und trocken. Zu Wochenbeginn noch einmal Höchstwerte bis 30 Grad. ( BAYERN 2-Nachrichten 04.09.2026 20:00)"
+    },
+    "hi": {
+      "title": "बवेरिया में मौसम: रात में उत्तर से बारिश, 17 से 13 डिग्री की गिरावट",
+      "summary": "बवेरिया में मौसम: रात में, उत्तर से भारी बारिश होती है, जो सुबह तक फ्री स्टेट के मध्य की ओर बढ़ती है। 17 से 13 डिग्री। दिन में फिर से 20 से 26 डिग्री पर अनुकूल। स्थानीय कोहरे के खेतों को साफ करने के बाद रविवार को धूप और सूखा। सप्ताह की शुरुआत में, एक बार फिर अधिकतम मान 30 डिग्री तक। ( बायर्न 2 न्यूज़ 04.09.2026 20:00)"
+    },
+    "bn": {
+      "title": "বাভারিয়ার আবহাওয়া: রাতে উত্তর থেকে বৃষ্টি, সর্বনিম্ন ১৭ থেকে ১৩ ডিগ্রি",
+      "summary": "বাভারিয়ার আবহাওয়া: রাতে, উত্তর থেকে ভারী বৃষ্টিপাত, যা সকাল পর্যন্ত ফ্রি স্টেটের মাঝখানে চলে যায় । 17 থেকে 13 ডিগ্রি । দিনে আবার 20 থেকে 26 ডিগ্রি বন্ধুত্বপূর্ণ । স্থানীয় কুয়াশার মাঠ পরিষ্কার করার পরে রবিবার রৌদ্রোজ্জ্বল এবং শুকনো । সপ্তাহের শুরুতে, আবার 30 ডিগ্রি পর্যন্ত সর্বোচ্চ মান । ( বায়ার্ন 2 নিউজ 04.09.2026 20:00)"
+    },
+    "fr": {
+      "title": "Météo en Bavière : Pluie la nuit en provenance du nord, températures minimales de 17 à 13 degrés",
+      "summary": "Le temps en Bavière : la nuit, pluie orageuse venant du nord, qui se déplace vers le centre de l'État libre jusqu'au matin. 17 à 13 degrés. Le jour, à nouveau amical entre 20 et 26 degrés. Le dimanche après la dissolution des champs de brouillard locaux, ensoleillé et sec. En début de semaine, à nouveau des valeurs maximales jusqu'à 30 degrés. ( BAVIÈRE 2 Nouvelles 04/09/2026 20h00)"
+    }
+  }
+}

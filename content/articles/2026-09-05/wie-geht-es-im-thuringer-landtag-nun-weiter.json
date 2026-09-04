@@ -1,0 +1,31 @@
+{
+  "id": "af93cf0b42324ca48f30ba1b3d2c0cb9921f7f2b",
+  "slug": "wie-geht-es-im-thuringer-landtag-nun-weiter",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/thueringen-wie-geht-es-weiter-100.html",
+  "publishedAt": "2026-09-04T16:46:03.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "What's next in the Thuringian state parliament?",
+      "summary": "The ongoing dispute between the Thuringian BSW and party founder Wagenknecht has escalated, and the majority of state parliamentarians are leaving the party. What options does the faction have now? And what does this mean for the governing coalition?"
+    },
+    "de": {
+      "title": "Wie geht es im Thüringer Landtag nun weiter?",
+      "summary": "Der Dauerstreit des Thüringer BSW mit Parteigründerin Wagenknecht ist eskaliert, die Mehrheit der Landtagsabgeordneten verlässt die Partei. Welche Optionen hat die Fraktion nun? Und was bedeutet das für die Regierungskoalition?"
+    },
+    "hi": {
+      "title": "थुरिंगियन राज्य संसद में आगे क्या है?",
+      "summary": "थुरिंगियन बीएसडब्ल्यू और पार्टी के संस्थापक वैगनकनेच के बीच चल रहा विवाद बढ़ गया है, और अधिकांश राज्य सांसद पार्टी छोड़ रहे हैं। गुट के पास अब क्या विकल्प हैं? और शासी गठबंधन के लिए इसका क्या मतलब है?"
+    },
+    "bn": {
+      "title": "থুরিংগিয়ান রাজ্য সংসদে এরপরে কী আছে?",
+      "summary": "থুরিংগিয়ান বিএসডব্লিউ এবং পার্টির প্রতিষ্ঠাতা ওয়াগেনকনেচটের মধ্যে চলমান বিরোধ বেড়েছে, এবং রাজ্যের বেশিরভাগ সংসদ সদস্য দল ছেড়ে চলে যাচ্ছেন । দলটির এখন কী বিকল্প আছে? এবং শাসক জোটের জন্য এর অর্থ কী?"
+    },
+    "fr": {
+      "title": "Que se passe-t-il au parlement régional de Thuringe ?",
+      "summary": "La querelle permanente entre le BSW de Thuringe et la fondatrice du parti, Wagenknecht, a dégénéré, la majorité des députés du Landtag quittant le parti. Quelles sont les options dont dispose le groupe ? Et qu'est-ce que cela signifie pour la coalition au pouvoir ?"
+    }
+  }
+}

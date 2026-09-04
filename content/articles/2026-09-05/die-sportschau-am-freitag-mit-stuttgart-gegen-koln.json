@@ -1,0 +1,31 @@
+{
+  "id": "3816f95f4a68b71ad55db385dfedac897aee42c1",
+  "slug": "die-sportschau-am-freitag-mit-stuttgart-gegen-koln",
+  "category": "baden-wuerttemberg",
+  "sourceName": "SWR Aktuell Baden-Württemberg",
+  "sourceUrl": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-mit-bayern-gegen-stuttgart,livestream-sportschau-am-freitag-164.html",
+  "publishedAt": "2026-09-04T21:42:02.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "The sports show on Friday with Stuttgart against Cologne",
+      "summary": "The second matchday of the new Bundesliga season will be opened by VfB Stuttgart against 1. FC Köln. The highlights in the sports show on Friday."
+    },
+    "de": {
+      "title": "Die Sportschau am Freitag mit Stuttgart gegen Köln",
+      "summary": "Der 2. Spieltag der neuen Bundesliga-Saison wird vom VfB Stuttgart gegen den 1. FC Köln eröffnet. Die Highlights in der Sportschau am Freitag."
+    },
+    "hi": {
+      "title": "कोलोन के खिलाफ स्टटगार्ट के साथ शुक्रवार को स्पोर्ट्स शो",
+      "summary": "नए Bundesliga सीज़न के दूसरे मैच का उद्घाटन VfB स्टटगार्ट 1. FC Köln के खिलाफ करेगा। शुक्रवार को स्पोर्ट्स शो की मुख्य बातें।"
+    },
+    "bn": {
+      "title": "কোলোনের বিরুদ্ধে স্টুটগার্টের সাথে শুক্রবারের স্পোর্টস শো",
+      "summary": "নতুন বুন্দেসলিগা মৌসুমের দ্বিতীয় ম্যাচটি ভিএফবি স্টুটগার্ট 1. এফসি কোলনের বিরুদ্ধে খুলবে । শুক্রবারের স্পোর্টস শোতে হাইলাইটগুলি ।"
+    },
+    "fr": {
+      "title": "Le spectacle sportif du vendredi avec Stuttgart contre Cologne",
+      "summary": "La 2ème journée de la nouvelle saison de Bundesliga sera ouverte par le VfB Stuttgart contre le 1er FC Cologne. Les temps forts de l'exposition sportive du vendredi."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "37aee0ae6c1fe7d91e4806bca726d5e0eccceb24",
+  "slug": "unfalle-und-staus-starkregen-sorgt-fur-probleme-auf-autobahnen-in-sh",
+  "category": "schleswig-holstein",
+  "sourceName": "Nachrichten aus Schleswig-Holstein",
+  "sourceUrl": "https://www.ndr.de/nachrichten/schleswig-holstein/starkregen-bremst-schleswig-holsteins-autobahnen-aus,starkregen-148.html",
+  "publishedAt": "2026-09-04T20:04:45.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Accidents and congestion: Heavy rain causes problems on motorways in SH",
+      "summary": "The police recorded a noticeable number of accidents - such as on the A215. Flooding and aquaplaning threatened on the A1 and A21."
+    },
+    "de": {
+      "title": "Unfälle und Staus: Starkregen sorgt für Probleme auf Autobahnen in SH",
+      "summary": "Die Polizei registrierte auffällig viele Unfälle - wie etwa auf der A215. Auf der A1 und auf der A21 drohten Überflutungen und Aquaplaning."
+    },
+    "hi": {
+      "title": "दुर्घटनाएं और भीड़: भारी बारिश के कारण एसएच में मोटरवे पर समस्याएं होती हैं",
+      "summary": "पुलिस ने दुर्घटनाओं की एक उल्लेखनीय संख्या दर्ज की - जैसे कि A215 पर। A1 और A21 पर बाढ़ और जलग्रहण का खतरा है।"
+    },
+    "bn": {
+      "title": "দুর্ঘটনা এবং যানজট: ভারী বৃষ্টিতে SH এর মোটরওয়েতে সমস্যা দেখা দেয়",
+      "summary": "পুলিশ উল্লেখযোগ্য সংখ্যক দুর্ঘটনা রেকর্ড করেছে - যেমন A215-এ । বন্যা এবং অ্যাকোয়াপ্ল্যানিং A1 এবং A21 এর জন্য হুমকিস্বরূপ ।"
+    },
+    "fr": {
+      "title": "Accidents et embouteillages : de fortes pluies causent des problèmes sur les autoroutes de SH",
+      "summary": "La police a enregistré un nombre remarquable d'accidents - comme sur l'A215. Les inondations et l'aquaplaning menaçaient sur l'A1 et l'A21."
+    }
+  }
+}

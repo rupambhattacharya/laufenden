@@ -1,0 +1,31 @@
+{
+  "id": "3f16b36dd9221dd523989b59161c4dd0fe72b5b6",
+  "slug": "russische-drohne-trifft-geheimdienstzentrale-in-kiew",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-sbu-100.html",
+  "publishedAt": "2026-09-04T19:34:14.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Russian drone meets intelligence headquarters in Kiev",
+      "summary": "The Ukrainian secret service SBU repeatedly receives spectacular actions in Russia. Now he himself became the target. A Russian drone hit the headquarters in Kiev. There are said to have been injuries."
+    },
+    "de": {
+      "title": "Russische Drohne trifft Geheimdienstzentrale in Kiew",
+      "summary": "Dem ukrainischen Geheimdienst SBU gelangen immer wieder spektakuläre Aktionen in Russland. Nun wurde er selbst zum Ziel. Eine russische Drohne traf das Hauptquartier in Kiew. Es soll Verletzte gegeben haben."
+    },
+    "hi": {
+      "title": "कीव में रूसी ड्रोन ने खुफिया मुख्यालय से मुलाकात की",
+      "summary": "यूक्रेनी गुप्त सेवा SBU को रूस में बार - बार शानदार कार्रवाइयाँ मिलती हैं। अब वह खुद निशाना बन गया। एक रूसी ड्रोन कीव में मुख्यालय से टकराया। बताया जा रहा है कि उन्हें चोटें आई हैं।"
+    },
+    "bn": {
+      "title": "রাশিয়ান ড্রোন কিয়েভে গোয়েন্দা সদর দফতরের সাথে দেখা করে",
+      "summary": "ইউক্রেনের সিক্রেট সার্ভিস এসবিইউ বারবার রাশিয়ায় দর্শনীয় পদক্ষেপ গ্রহণ করে । এখন তিনি নিজেই টার্গেটে পরিণত হয়েছেন । একটি রাশিয়ান ড্রোন কিয়েভের সদর দফতরে আঘাত করে । আহত হয়েছে বলে জানা গেছে ।"
+    },
+    "fr": {
+      "title": "Le drone russe rencontre le siège des services secrets à Kiev",
+      "summary": "Les services secrets ukrainiens (SBU) réalisent régulièrement des actions spectaculaires en Russie. Maintenant, il est devenu lui-même une cible. Un drone russe a frappé le siège à Kiev. Il y aurait eu des blessés."
+    }
+  }
+}
