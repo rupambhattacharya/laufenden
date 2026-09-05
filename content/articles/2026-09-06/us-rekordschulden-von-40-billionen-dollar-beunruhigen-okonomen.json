@@ -1,0 +1,31 @@
+{
+  "id": "11a82c79bcadab1ecb956f43087b125f0018496b",
+  "slug": "us-rekordschulden-von-40-billionen-dollar-beunruhigen-okonomen",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-haushalt-100.html",
+  "publishedAt": "2026-09-05T19:14:33.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "US record debt of $40 trillion worries economists",
+      "summary": "US government debt now stands at more than $40 trillion. More and more money from the budget thus flows into interest payments - and less remains for investments in the country's future. By Anne Schneider."
+    },
+    "de": {
+      "title": "US-Rekordschulden von 40 Billionen Dollar beunruhigen Ökonomen",
+      "summary": "Die US-Staatsschulden liegen inzwischen bei mehr als 40 Billionen Dollar. Immer mehr Geld aus dem Haushalt fließt so in Zinszahlungen - und weniger bleibt übrig für Investitionen in die Zukunft des Landes. Von Anne Schneider."
+    },
+    "hi": {
+      "title": "$ 40 ट्रिलियन का अमेरिकी रिकॉर्ड ऋण अर्थशास्त्रियों को चिंतित करता है",
+      "summary": "अमेरिकी सरकार का ऋण अब $ 40 ट्रिलियन से अधिक है। इस प्रकार बजट से अधिक से अधिक पैसा ब्याज भुगतान में बहता है - और देश के भविष्य में निवेश के लिए कम रहता है। ऐनी श्नाइडर द्वारा."
+    },
+    "bn": {
+      "title": "মার্কিন রেকর্ড ঋণ $ 40 ট্রিলিয়ন অর্থনীতিবিদদের উদ্বেগ",
+      "summary": "মার্কিন সরকারের ঋণ এখন ৪০ ট্রিলিয়ন ডলারের বেশি । এইভাবে বাজেট থেকে আরও বেশি অর্থ সুদের পেমেন্টে প্রবাহিত হয় - এবং দেশের ভবিষ্যতে বিনিয়োগের জন্য কম থাকে । অ্যান স্নাইডার ।"
+    },
+    "fr": {
+      "title": "Une dette record américaine de 40 000 milliards de dollars inquiète les économistes",
+      "summary": "La dette publique américaine s'élève maintenant à plus de 40 000 milliards de dollars. De plus en plus d'argent du budget est ainsi investi dans les paiements d'intérêts - et il en reste moins pour investir dans l'avenir du pays. Par Anne Schneider."
+    }
+  }
+}

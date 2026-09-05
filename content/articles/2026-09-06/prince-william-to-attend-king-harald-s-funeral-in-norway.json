@@ -1,0 +1,31 @@
+{
+  "id": "c960b9206260574a9b46d73714057dc62df73e06",
+  "slug": "prince-william-to-attend-king-harald-s-funeral-in-norway",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-05T21:00:02.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Prince William to attend King Harald's funeral in Norway",
+      "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week."
+    },
+    "de": {
+      "title": "Prinz William nimmt an der Beerdigung von König Harald in Norwegen teil",
+      "summary": "Der Prinz von Wales wird den König nächste Woche bei der Beerdigung von Harald V. in Oslo vertreten."
+    },
+    "hi": {
+      "title": "नॉर्वे में किंग हेराल्ड के अंतिम संस्कार में शामिल होंगे प्रिंस विलियम",
+      "summary": "प्रिंस ऑफ वेल्स अगले सप्ताह ओस्लो में हेराल्ड V के अंतिम संस्कार में राजा का प्रतिनिधित्व करेंगे।"
+    },
+    "bn": {
+      "title": "প্রিন্স উইলিয়াম নরওয়েতে কিং হ্যারাল্ডের অন্ত্যেষ্টিক্রিয়ায় যোগ দেবেন",
+      "summary": "ওয়েলসের যুবরাজ পরের সপ্তাহে অসলোতে হ্যারাল্ড ভি এর অন্ত্যেষ্টিক্রিয়ায় রাজার প্রতিনিধিত্ব করবেন ।"
+    },
+    "fr": {
+      "title": "Le prince William assistera aux funérailles du roi Harald en Norvège",
+      "summary": "Le prince de Galles représentera le roi aux funérailles de Harald V à Oslo la semaine prochaine."
+    }
+  }
+}

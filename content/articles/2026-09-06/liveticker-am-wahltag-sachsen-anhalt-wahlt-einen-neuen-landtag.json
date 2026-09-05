@@ -1,0 +1,31 @@
+{
+  "id": "a65e7e4b740b7824f3d65045812818c0f703d384",
+  "slug": "liveticker-am-wahltag-sachsen-anhalt-wahlt-einen-neuen-landtag",
+  "category": "sachsen-anhalt",
+  "sourceName": "Sachsen-Anhalt | Aktuelle Nachrichten, News und Videos",
+  "sourceUrl": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/ticker-news-122,wahl-560.html",
+  "publishedAt": "2026-09-05T23:26:45.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Live ticker on election day – Saxony-Anhalt elects a new state parliament",
+      "summary": "Today, Saxony-Anhalt is electing a new state parliament. In the live ticker, we report on the election day, forecasts, results and reactions."
+    },
+    "de": {
+      "title": "Liveticker am Wahltag – Sachsen-Anhalt wählt einen neuen Landtag",
+      "summary": "Heute wählt Sachsen-Anhalt einen neuen Landtag. Im Liveticker berichten wir über den Wahltag, Prognosen, Ergebnisse und Reaktionen."
+    },
+    "hi": {
+      "title": "चुनाव के दिन लाइव टिकर – सैक्सोनी – एनहाल्ट ने एक नई राज्य संसद का चुनाव किया",
+      "summary": "आज, सैक्सोनी - एन्हाल्ट एक नई राज्य संसद का चुनाव कर रहे हैं। लाइव टिकर में, हम चुनाव के दिन, पूर्वानुमान, परिणाम और प्रतिक्रियाओं की रिपोर्ट करते हैं।"
+    },
+    "bn": {
+      "title": "নির্বাচনের দিন লাইভ টিকার – স্যাক্সনি-আনহাল্ট একটি নতুন রাজ্য সংসদ নির্বাচন করেছে",
+      "summary": "আজ, স্যাক্সনি-আনহাল্ট একটি নতুন রাজ্য সংসদ নির্বাচন করছে । লাইভ টিকারে, আমরা নির্বাচনের দিন, পূর্বাভাস, ফলাফল এবং প্রতিক্রিয়া সম্পর্কে রিপোর্ট করি ।"
+    },
+    "fr": {
+      "title": "Liveticker le jour du scrutin – La Saxe-Anhalt élit un nouveau Landtag",
+      "summary": "Aujourd'hui, la Saxe-Anhalt élit un nouveau Landtag. Dans le Liveticker, nous rendons compte du jour de l'élection, des prévisions, des résultats et des réactions."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "0c9b9be35f739fdbbb14b9f0acade5b21145afc3",
+  "slug": "handball-bundesliga-tsv-hannover-burgdorf-besiegt-den-hc-hamburg",
+  "category": "hamburg",
+  "sourceName": "Nachrichten aus Hamburg",
+  "sourceUrl": "https://www.ndr.de/sport/handball/nord-krimi-am-samstagabend-recken-bezwingen-hc-hamburg,nordduell-290.html",
+  "publishedAt": "2026-09-05T19:06:18.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Handball Bundesliga: TSV Hannover-Burgdorf defeats HC Hamburg",
+      "summary": "TSV Hannover-Burgdorf and the Hanseaten are engaged in a high-intensity duel. Lower Saxony has the better end for itself, the Hamburgers remain without a win."
+    },
+    "de": {
+      "title": "Handball-Bundesliga: TSV Hannover-Burgdorf besiegt den HC Hamburg",
+      "summary": "Die TSV Hannover-Burgdorf und die Hanseaten liefern sich ein hochintensives Duell. Das bessere Ende haben die Niedersachsen für sich, die Hamburger bleiben sieglos."
+    },
+    "hi": {
+      "title": "हैंडबॉल बुंडेसलिगा: टीएसवी हनोवर - बर्गाडोर्फ ने एचसी हैम्बर्ग को हराया",
+      "summary": "TSV Hannover - Burdorf और Hanseaten एक उच्च तीव्रता वाले द्वंद्वयुद्ध में लगे हुए हैं। लोअर सैक्सनी का खुद के लिए बेहतर अंत है, हैम्बर्गर जीत के बिना रहते हैं।"
+    },
+    "bn": {
+      "title": "হ্যান্ডবল বুন্দেসলিগা: টিএসভি হ্যানোভার-বুর্গডর্ফ এইচসি হামবুর্গকে পরাজিত করেছে",
+      "summary": "TSV Hannover-Burgdorf এবং Hanseaten একটি উচ্চ-তীব্রতা দ্বন্দ্ব জড়িত । লোয়ার স্যাক্সনি নিজের জন্য আরও ভাল শেষ হয়েছে, হ্যামবার্গাররা কোনও জয় ছাড়াই রয়ে গেছে ।"
+    },
+    "fr": {
+      "title": "Handball Bundesliga : le TSV Hannover-Burgdorf bat le HC Hambourg",
+      "summary": "Le TSV Hannover-Burgdorf et les Hanseaten se livrent un duel de haute intensité. La Basse-Saxe a la meilleure fin pour elle, les hamburgers restent sans victoire."
+    }
+  }
+}

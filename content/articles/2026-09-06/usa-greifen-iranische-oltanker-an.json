@@ -1,0 +1,31 @@
+{
+  "id": "bf4352f5f1b3f41ccd735358fd09bc5b50842ee3",
+  "slug": "usa-greifen-iranische-oltanker-an",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-tanker-100.html",
+  "publishedAt": "2026-09-05T15:17:36.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "US Attacks Iranian Oil Tanker",
+      "summary": "Off the coast of Iran, the US military has disabled three Iranian oil tankers. It speaks of a reaction to attacks by the Revolutionary Guards: they are said to have fired missiles at naval ships beforehand."
+    },
+    "de": {
+      "title": "USA greifen iranische Öltanker an",
+      "summary": "Vor der Küste Irans hat das US-Militär drei iranische Öltanker außer Gefecht gesetzt. Es spricht von einer Reaktion auf Attacken der Revolutionsgarde: Diese soll zuvor Raketen auf Marineschiffe abgefeuert haben."
+    },
+    "hi": {
+      "title": "अमेरिका ने ईरानी तेल टैंकर पर हमला किया",
+      "summary": "ईरान के तट से दूर, अमेरिकी सेना ने तीन ईरानी तेल टैंकरों को अक्षम कर दिया है। यह रिवोल्यूशनरी गार्ड्स द्वारा हमलों की प्रतिक्रिया की बात करता है: कहा जाता है कि उन्होंने पहले ही नौसेना के जहाजों पर मिसाइलें दागी थीं।"
+    },
+    "bn": {
+      "title": "ইরানি তেল ট্যাংকারে মার্কিন হামলা",
+      "summary": "ইরান উপকূলে, মার্কিন সামরিক বাহিনী তিনটি ইরানী তেল ট্যাঙ্কার নিষ্ক্রিয় করেছে । এটি বিপ্লবী গার্ডদের আক্রমণের প্রতিক্রিয়া সম্পর্কে কথা বলে: তারা আগেই নৌ জাহাজে ক্ষেপণাস্ত্র নিক্ষেপ করেছে বলে বলা হয় ।"
+    },
+    "fr": {
+      "title": "Les États-Unis attaquent les pétroliers iraniens",
+      "summary": "Au large des côtes iraniennes, l'armée américaine a immobilisé trois pétroliers iraniens. Il parle d'une réaction aux attaques des gardiens de la révolution : ceux-ci auraient déjà tiré des missiles sur des navires de la marine."
+    }
+  }
+}

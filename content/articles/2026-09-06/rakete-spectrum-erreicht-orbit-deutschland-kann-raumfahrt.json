@@ -1,0 +1,31 @@
+{
+  "id": "ecc0e2a372d2d68195aea54510def11f95e98cfb",
+  "slug": "rakete-spectrum-erreicht-orbit-deutschland-kann-raumfahrt",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/wissen/isar-aerospace-rakete-102.html",
+  "publishedAt": "2026-09-05T22:20:33.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Rocket Spectrum reaches orbit - \"Germany can space travel\"",
+      "summary": "Milestone in German space history: The Spectrum launcher reached orbit during a test flight from the Norwegian spaceport Andøya. The rocket company speaks of a European premiere."
+    },
+    "de": {
+      "title": "Rakete Spectrum erreicht Orbit - \"Deutschland kann Raumfahrt\"",
+      "summary": "Meilenstein in der deutschen Raumfahrtgeschichte: Die Trägerrakete Spectrum hat bei einem Testflug vom norwegischen Weltraumbahnhof Andøya aus den Orbit erreicht. Das Raketen-Unternehmen spricht von einer europäischen Premiere."
+    },
+    "hi": {
+      "title": "रॉकेट स्पेक्ट्रम कक्षा में पहुँच गया - \"जर्मनी अंतरिक्ष यात्रा कर सकता है\"",
+      "summary": "जर्मन अंतरिक्ष इतिहास में मील का पत्थर: नॉर्वेजियन स्पेसपोर्ट एंडोया से एक परीक्षण उड़ान के दौरान स्पेक्ट्रम लॉन्चर कक्षा में पहुंच गया। रॉकेट कंपनी एक यूरोपीय प्रीमियर की बात करती है।"
+    },
+    "bn": {
+      "title": "রকেট স্পেকট্রাম কক্ষপথে পৌঁছেছে - \"জার্মানি মহাকাশ ভ্রমণ করতে পারে\"",
+      "summary": "জার্মান মহাকাশ ইতিহাসের মাইলফলক: নরওয়েজিয়ান স্পেসপোর্ট আন্দোইয়া থেকে পরীক্ষামূলক উড্ডয়নের সময় স্পেকট্রাম লঞ্চার কক্ষপথে পৌঁছেছে । রকেট কোম্পানি একটি ইউরোপীয় প্রিমিয়ারের কথা বলে ।"
+    },
+    "fr": {
+      "title": "La fusée Spectrum atteint l'orbite - « L'Allemagne peut voyager dans l'espace »",
+      "summary": "Jalon de l'histoire spatiale allemande : le lanceur Spectrum a atteint l'orbite lors d'un vol d'essai depuis le port spatial norvégien d'Andøya. La société de fusées parle d'une première européenne."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "3917b66eaf9743fffd9cead63d939cb9465161c3",
+  "slug": "offentliche-fahndung-der-polizei-sabotage-verdachtiger-weiter-fluchtig",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/gesellschaft/fahndung-sabotage-stromnetz-102.html",
+  "publishedAt": "2026-09-05T17:52:19.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Public investigation by the police: Suspect of sabotage remains on the run",
+      "summary": "A 48-year-old has confessed in two letters to the attempted acts of sabotage against the electricity grid. In it, he mentions his name, but he has not yet been caught. Now the police are counting on a public manhunt."
+    },
+    "de": {
+      "title": "Öffentliche Fahndung der Polizei: Sabotage-Verdächtiger weiter flüchtig",
+      "summary": "Ein 48-Jähriger hat sich in zwei Schreiben zu den versuchten Sabotageakten gegen das Stromnetz bekannt. Darin nennt er seinen Namen, er wurde aber noch nicht gefasst. Nun setzt die Polizei auf eine öffentliche Fahndung."
+    },
+    "hi": {
+      "title": "पुलिस द्वारा सार्वजनिक जांच: तोड़फोड़ का संदेह फरार है",
+      "summary": "एक 48 वर्षीय व्यक्ति ने बिजली ग्रिड के खिलाफ तोड़फोड़ के प्रयास के लिए दो पत्रों में स्वीकार किया है। इसमें, वह अपने नाम का उल्लेख करता है, लेकिन वह अभी तक पकड़ा नहीं गया है। अब पुलिस एक सार्वजनिक अभियान पर भरोसा कर रही है।"
+    },
+    "bn": {
+      "title": "পুলিশের প্রকাশ্য তদন্ত: নাশকতার সন্দেহভাজন পলাতক রয়েছে",
+      "summary": "বিদ্যুৎ গ্রিডের বিরুদ্ধে নাশকতার চেষ্টা করার জন্য 48 বছর বয়সী এক ব্যক্তি দুটি চিঠিতে স্বীকার করেছেন । এতে, তিনি তার নাম উল্লেখ করেছেন, কিন্তু এখনও তাকে ধরা হয়নি । এখন পুলিশ গণহত্যার উপর নির্ভর করছে ।"
+    },
+    "fr": {
+      "title": "Recherche publique de la police : le suspect de sabotage toujours en fuite",
+      "summary": "Un homme de 48 ans s'est engagé dans deux lettres sur les tentatives de sabotage du réseau électrique. Il y mentionne son nom, mais il n'a pas encore été arrêté. Maintenant, la police mise sur une recherche publique."
+    }
+  }
+}

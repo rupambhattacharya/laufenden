@@ -1,0 +1,31 @@
+{
+  "id": "8289b530fa4ba597b08a04581365c8ee8b665905",
+  "slug": "wie-mit-datensatzen-entscheidungen-im-alltag-leichter-werden-sollen",
+  "category": "saarland",
+  "sourceName": "Regionalnachrichten aus dem Saarland",
+  "sourceUrl": "https://www.tagesschau.de/inland/regional/saarland/sr-wie-mit-datensaetzen-entscheidungen-im-alltag-leichter-werden-sollen-100.html",
+  "publishedAt": "2026-09-05T18:36:00.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "How data sets should make decisions easier in everyday life",
+      "summary": "What do satellite images reveal about our cities and everyday life there? And how can the data help make better decisions, such as which playground to visit as a family because it is well shaded? This is what the \"Sounds\" research project at Saarland University is all about."
+    },
+    "de": {
+      "title": "Wie mit Datensätzen Entscheidungen im Alltag leichter werden sollen",
+      "summary": "Was verraten Satellitenbilder über unsere Städte und das alltägliche Leben dort? Und wie können die Daten dabei helfen, bessere Entscheidungen zu treffen, zum Beispiel bei der Frage, welchen Spielplatz man als Familie besucht, weil der etwa gut beschattet ist? Darum geht es beim Forschungsprojekt „Sounds“ an der Saar-Uni."
+    },
+    "hi": {
+      "title": "डेटा सेट को रोज़मर्रा की ज़िंदगी में फ़ैसलों को आसान कैसे बनाना चाहिए",
+      "summary": "उपग्रह छवियां हमारे शहरों और वहां के रोजमर्रा के जीवन के बारे में क्या बताती हैं? और डेटा बेहतर निर्णय लेने में कैसे मदद कर सकता है, जैसे कि एक परिवार के रूप में किस खेल के मैदान पर जाना है क्योंकि यह अच्छी तरह से छायांकित है? सारलैंड विश्वविद्यालय में \"साउंड्स\" अनुसंधान परियोजना यही है।"
+    },
+    "bn": {
+      "title": "কীভাবে ডেটা সেটগুলি দৈনন্দিন জীবনে সিদ্ধান্তগুলি সহজ করে তুলবে",
+      "summary": "উপগ্রহ চিত্রগুলি আমাদের শহর এবং সেখানে দৈনন্দিন জীবন সম্পর্কে কী প্রকাশ করে? এবং ডেটা কীভাবে আরও ভাল সিদ্ধান্ত নিতে সহায়তা করতে পারে, যেমন পরিবার হিসাবে কোন খেলার মাঠটি দেখতে হবে কারণ এটি ভালভাবে ছায়াবৃত? এটাই সারল্যান্ড বিশ্ববিদ্যালয়ের \"সাউন্ডস\" গবেষণা প্রকল্প ।"
+    },
+    "fr": {
+      "title": "Comment les enregistrements de données peuvent faciliter les décisions au quotidien",
+      "summary": "Que révèlent les images satellites sur nos villes et la vie quotidienne là-bas ? Et comment les données peuvent-elles aider à prendre de meilleures décisions, par exemple lorsqu'il s'agit de savoir quel terrain de jeu visiter en famille parce qu'il est bien ombragé ? C'est l'objet du projet de recherche « Sounds » à l'Université de la Sarre."
+    }
+  }
+}

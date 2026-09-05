@@ -1,0 +1,31 @@
+{
+  "id": "5b32bac27a728418e113affcc36648c8bc3139b5",
+  "slug": "welche-gefahren-drohen-durch-die-veroffentlichung-gestohlener-daten",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/faq-hackerangriff-berlin-folgen-100.html",
+  "publishedAt": "2026-09-05T16:50:32.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "What are the dangers of publishing stolen data?",
+      "summary": "A criminal group attacks the Berlin administration and publishes large amounts of data on the dark web. What information is it about? What are the dangers of publishing them? Answers to the most important questions."
+    },
+    "de": {
+      "title": "Welche Gefahren drohen durch die Veröffentlichung gestohlener Daten?",
+      "summary": "Eine kriminelle Gruppe greift die Berliner Verwaltung an und veröffentlicht große Mengen von Daten im Darknet. Um welche Informationen geht es? Welche Gefahren birgt deren Veröffentlichung? Antworten auf die wichtigsten Fragen."
+    },
+    "hi": {
+      "title": "चोरी किए गए डेटा को प्रकाशित करने के क्या खतरे हैं?",
+      "summary": "एक आपराधिक समूह बर्लिन प्रशासन पर हमला करता है और डार्क वेब पर बड़ी मात्रा में डेटा प्रकाशित करता है। यह किस जानकारी के बारे में है? उन्हें प्रकाशित करने के क्या खतरे हैं? सबसे महत्वपूर्ण सवालों के जवाब।"
+    },
+    "bn": {
+      "title": "চুরি যাওয়া ডেটা প্রকাশের বিপদগুলি কী কী?",
+      "summary": "একটি অপরাধী গোষ্ঠী বার্লিন প্রশাসনকে আক্রমণ করে এবং ডার্ক ওয়েবে প্রচুর পরিমাণে ডেটা প্রকাশ করে । এটি কোন তথ্য সম্পর্কে? সেগুলি প্রকাশ করার বিপদগুলি কী কী? সবচেয়ে গুরুত্বপূর্ণ প্রশ্নের উত্তর ।"
+    },
+    "fr": {
+      "title": "Quels sont les risques liés à la publication de données volées ?",
+      "summary": "Un groupe criminel attaque l'administration berlinoise et publie de grandes quantités de données sur le Darknet. De quelles informations s'agit-il ? Quels sont les dangers de leur publication ? Réponses aux questions les plus importantes."
+    }
+  }
+}
