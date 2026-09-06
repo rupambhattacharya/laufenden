@@ -1,0 +1,31 @@
+{
+  "id": "3a8fc1cd2c55146b478928b6de6a060d863fb69b",
+  "slug": "mindestens-funf-tote-nach-unfall-mit-amazon-frachtflugzeug-in-miami",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/amerika/flugzeugunglueck-miami-100.html",
+  "publishedAt": "2026-09-06T22:39:26.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "At least five dead after accident with Amazon cargo plane in Miami",
+      "summary": "In Miami, an Amazon cargo plane shot over the runway and collided with several vehicles. According to the authorities, at least five people were killed. Air traffic is severely restricted."
+    },
+    "de": {
+      "title": "Mindestens fünf Tote nach Unfall mit Amazon-Frachtflugzeug in Miami",
+      "summary": "In Miami ist ein Amazon-Frachtflugzeug über die Landebahn hinausgeschossen und mit mehreren Fahrzeugen zusammengeprallt. Laut den Behörden kamen mindestens fünf Menschen ums Leben. Der Flugverkehr ist erheblich eingeschränkt."
+    },
+    "hi": {
+      "title": "मियामी में अमेज़ॅन कार्गो विमान के साथ दुर्घटना के बाद कम से कम पांच लोगों की मौत हो गई",
+      "summary": "मियामी में, एक अमेज़ॅन कार्गो विमान ने रनवे पर गोली मार दी और कई वाहनों से टकरा गया। अधिकारियों के अनुसार, कम से कम पांच लोग मारे गए थे। हवाई यातायात गंभीर रूप से प्रतिबंधित है।"
+    },
+    "bn": {
+      "title": "মিয়ামিতে অ্যামাজন কার্গো বিমানে দুর্ঘটনায় অন্তত পাঁচজন নিহত",
+      "summary": "মিয়ামিতে, একটি অ্যামাজন কার্গো বিমান রানওয়েতে গুলি করে এবং বেশ কয়েকটি গাড়ির সাথে সংঘর্ষ হয় । কর্তৃপক্ষের মতে, কমপক্ষে পাঁচজন নিহত হয়েছেন । এয়ার ট্রাফিক কঠোরভাবে সীমাবদ্ধ ।"
+    },
+    "fr": {
+      "title": "Au moins cinq morts dans un accident d'avion-cargo Amazon à Miami",
+      "summary": "À Miami, un avion cargo Amazon a survolé la piste et s'est heurté à plusieurs véhicules. Selon les autorités, au moins cinq personnes sont mortes. Le trafic aérien est considérablement restreint."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "6c23631b86d2ff79d70aaa3dc1611be2c0531b0a",
+  "slug": "reaktionen-zur-wahl-in-sachsen-anhalt",
+  "category": "schleswig-holstein",
+  "sourceName": "Nachrichten aus Schleswig-Holstein",
+  "sourceUrl": "https://www.ndr.de/nachrichten/schleswig-holstein/wahl-in-sachsen-anhalt-so-reagieren-die-parteien-in-sh,wahl-582.html",
+  "publishedAt": "2026-09-06T20:49:03.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Reactions to the election in Saxony-Anhalt",
+      "summary": "The AfD clearly won the state election. While the AfD speaks of a \"historic victory\" in SH, representatives of other parties reacted gloomily."
+    },
+    "de": {
+      "title": "Reaktionen zur Wahl in Sachsen-Anhalt",
+      "summary": "Die AfD hat die Landtagswahl deutlich gewonnen. Während die AfD in SH von einem \"historischer Sieg\" spricht, reagierten Vertreter anderer Parteien bedrückt."
+    },
+    "hi": {
+      "title": "सैक्सोनी - एन्हाल्ट में चुनाव पर प्रतिक्रियाएं",
+      "summary": "एएफडी ने स्पष्ट रूप से राज्य चुनाव जीता। जबकि एएफडी एसएच में \"ऐतिहासिक जीत\" की बात करता है, अन्य दलों के प्रतिनिधियों ने निराशाजनक प्रतिक्रिया व्यक्त की।"
+    },
+    "bn": {
+      "title": "স্যাক্সনি-এনহাল্টে নির্বাচনের প্রতিক্রিয়া",
+      "summary": "এএফডি স্পষ্টভাবে রাজ্য নির্বাচনে জিতেছে । যদিও এএফডি এসএইচ-তে একটি \"ঐতিহাসিক বিজয়ের\" কথা বলে, অন্যান্য পক্ষের প্রতিনিধিরা হতাশার সাথে প্রতিক্রিয়া জানায় ।"
+    },
+    "fr": {
+      "title": "Réactions aux élections en Saxe-Anhalt",
+      "summary": "L'AfD a clairement remporté les élections législatives. Alors que l'AfD à SH parle d'une « victoire historique », les représentants d'autres partis ont réagi avec tristesse."
+    }
+  }
+}

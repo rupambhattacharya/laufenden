@@ -1,0 +1,31 @@
+{
+  "id": "070df4d45fabccd7e1b7a1874f1629254051e3e3",
+  "slug": "analyse-zur-wahl-in-sachsen-anhalt-ein-land-zwei-lager",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-sachsen-anhalt-100.html",
+  "publishedAt": "2026-09-06T21:53:59.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Analysis of the election in Saxony-Anhalt: One country - two camps",
+      "summary": "The AfD benefits from the dissatisfaction of the people, but it also convinces many more in terms of content than the other parties, as surveys show. For most voters in Saxony-Anhalt, the key question was: for or against the AfD? By H. Schwesinger."
+    },
+    "de": {
+      "title": "Analyse zur Wahl in Sachsen-Anhalt: Ein Land - zwei Lager",
+      "summary": "Die AfD profitiert von der Unzufriedenheit der Menschen, aber sie überzeugt viele auch inhaltlich mehr als die anderen Parteien, wie Umfragen zeigen. Für die meisten Wähler in Sachsen-Anhalt war die Kernfrage: für oder gegen die AfD? Von H. Schwesinger."
+    },
+    "hi": {
+      "title": "सैक्सोनी - एन्हाल्ट में चुनाव का विश्लेषण: एक देश - दो शिविर",
+      "summary": "एएफडी लोगों के असंतोष से लाभान्वित होता है, लेकिन यह अन्य पक्षों की तुलना में सामग्री के मामले में भी बहुत अधिक आश्वस्त करता है, जैसा कि सर्वेक्षणों से पता चलता है। सैक्सोनी - एन्हाल्ट के अधिकांश मतदाताओं के लिए, मुख्य सवाल था: एएफडी के लिए या उसके खिलाफ? एच. श्वेसिंगर द्वारा।"
+    },
+    "bn": {
+      "title": "স্যাক্সনি-আনহাল্টে নির্বাচনের বিশ্লেষণ: একটি দেশ - দুটি শিবির",
+      "summary": "এএফডি জনগণের অসন্তুষ্টি থেকে উপকৃত হয়, তবে এটি অন্যান্য পক্ষের তুলনায় সামগ্রীর দিক থেকেও অনেক বেশি বিশ্বাস করে, যেমন জরিপ দেখায় । স্যাক্সনি-আনহাল্টের বেশিরভাগ ভোটারের জন্য, মূল প্রশ্নটি ছিল: এএফডি-র পক্ষে বা বিপক্ষে? H. Schwesinger দ্বারা ।"
+    },
+    "fr": {
+      "title": "Analyse des élections en Saxe-Anhalt : un pays - deux camps",
+      "summary": "L'AfD profite de l'insatisfaction des gens, mais elle convainc également beaucoup plus que les autres partis en termes de contenu, comme le montrent les sondages. Pour la plupart des électeurs de Saxe-Anhalt, la question centrale était : pour ou contre l'AfD ? Par H. Schwesinger."
+    }
+  }
+}

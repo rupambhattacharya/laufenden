@@ -1,0 +1,31 @@
+{
+  "id": "f8d02c649af6e14064b4973034ef4b97a132b462",
+  "slug": "schulze-verpasst-direktmandat-in-magdeburg",
+  "category": "baden-wuerttemberg",
+  "sourceName": "SWR Aktuell Baden-Württemberg",
+  "sourceUrl": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
+  "publishedAt": "2026-09-06T23:15:01.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "++ Schulze misses direct mandate in Magdeburg ++",
+      "summary": "CDU Prime Minister Schulze lost in the constituency of Magdeburg III against the AfD candidate Mertens. AfD top candidate Siegmund rejects the BSW's proposal of a bipartisan..."
+    },
+    "de": {
+      "title": "++ Schulze verpasst Direktmandat in Magdeburg ++",
+      "summary": "CDU-Ministerpräsident Schulze hat im Wahlkreis Magdeburg III gegen den AfD-Kandidaten Mertens verloren. AfD-Spitzenkandidat Siegmund lehnt den Vorschlag des BSW eines überparteili…"
+    },
+    "hi": {
+      "title": "++ शुल्ज़ मैग्डेबर्ग ++ में प्रत्यक्ष जनादेश से चूक गए",
+      "summary": "सीडीयू के प्रधान मंत्री शुल्ज़ एएफडी उम्मीदवार मर्टेंस के खिलाफ मैग्डेबर्ग III के निर्वाचन क्षेत्र में हार गए। एएफडी के शीर्ष उम्मीदवार सिगमंड ने बीएसडब्ल्यू के द्विदलीय प्रस्ताव को खारिज कर दिया..."
+    },
+    "bn": {
+      "title": "++ Schulze Magdeburg + + এ সরাসরি ম্যান্ডেট মিস করে",
+      "summary": "সিডিইউর প্রধানমন্ত্রী শুলজ এএফডি প্রার্থী মার্টেনসের বিপক্ষে তৃতীয় ম্যাগডবার্গ আসনে হেরে গেছেন । এএফডি শীর্ষ প্রার্থী সিগমুন্ড বিএসডব্লিউ এর দ্বিপক্ষীয় প্রস্তাব প্রত্যাখ্যান করেছেন..."
+    },
+    "fr": {
+      "title": "++ Schulze manque un mandat direct à Magdebourg ++",
+      "summary": "Le Premier ministre CDU Schulze a perdu dans la circonscription électorale de Magdebourg III contre le candidat AfD Mertens. Le Spitzenkandidat de l'AfD Siegmund rejette la proposition du BSW d'un parti bipartite..."
+    }
+  }
+}

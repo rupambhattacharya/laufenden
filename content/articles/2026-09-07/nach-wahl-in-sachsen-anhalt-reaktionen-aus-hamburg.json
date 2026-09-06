@@ -1,0 +1,31 @@
+{
+  "id": "0c581d21dde11c611c7f0827b8a1342a14c807eb",
+  "slug": "nach-wahl-in-sachsen-anhalt-reaktionen-aus-hamburg",
+  "category": "hamburg",
+  "sourceName": "Nachrichten aus Hamburg",
+  "sourceUrl": "https://www.ndr.de/nachrichten/hamburg/nach-wahl-in-sachsen-anhalt-reaktionen-aus-hamburg,hamburg-reaktionen-sachsenanhalt-100.html",
+  "publishedAt": "2026-09-06T20:13:24.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "By choice in Saxony-Anhalt: reactions from Hamburg",
+      "summary": "The AfD has become the clearly strongest party in Magdeburg. While the Hamburg AfD congratulates a \"brilliant electoral victory\", the other parties speak of a \"bitter day\"."
+    },
+    "de": {
+      "title": "Nach Wahl in Sachsen-Anhalt: Reaktionen aus Hamburg ",
+      "summary": "Die AfD ist in Magdeburg deutlich stärkste Partei geworden. Während die Hamburger AfD zu einem \"fulminanten Wahlsieg\" gratuliert, sprechen die anderen Parteien von einem \"bitteren Tag\"."
+    },
+    "hi": {
+      "title": "सैक्सोनी - एन्हाल्ट में पसंद के अनुसार: हैम्बर्ग से प्रतिक्रियाएं",
+      "summary": "एएफडी मैग्डेबर्ग में स्पष्ट रूप से सबसे मजबूत पार्टी बन गई है। जबकि हैम्बर्ग एएफडी एक \"शानदार चुनावी जीत\" को बधाई देता है, अन्य पार्टियां \"कड़वे दिन\" की बात करती हैं।"
+    },
+    "bn": {
+      "title": "স্যাক্সনি-এনহাল্টে পছন্দ অনুসারে: হামবুর্গের প্রতিক্রিয়া",
+      "summary": "এএফডি ম্যাগডেবার্গের সবচেয়ে শক্তিশালী দল হয়ে উঠেছে । হামবুর্গ এএফডি একটি \"উজ্জ্বল নির্বাচনী বিজয়\" কে অভিনন্দন জানালেও অন্যান্য দলগুলি একটি \"তিক্ত দিনের\" কথা বলে ।"
+    },
+    "fr": {
+      "title": "Élection en Saxe-Anhalt : réactions de Hambourg",
+      "summary": "L'AfD est clairement devenu le parti le plus fort à Magdebourg. Alors que l'AfD de Hambourg félicite pour une « victoire électorale éclatante », les autres partis parlent d'une « journée amère »."
+    }
+  }
+}

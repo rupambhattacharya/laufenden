@@ -1,0 +1,31 @@
+{
+  "id": "9cc08451670abd93eb292c15900e3d2c3dcb5491",
+  "slug": "germany-s-far-right-afd-set-for-big-win-in-eastern-state-just-short-of-majority",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-06T23:02:45.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%."
+    },
+    "de": {
+      "title": "Deutschlands rechtsextreme AfD steht vor einem großen Sieg im östlichen Bundesland, knapp vor der Mehrheit",
+      "summary": "Die AfD hat ein \"historisches Ergebnis\" gefeiert und wird voraussichtlich 44% der Stimmen gewinnen, weit vor den Konservativen mit 17%."
+    },
+    "hi": {
+      "title": "जर्मनी का धुर दक्षिणपंथी एएफडी पूर्वी राज्य में बड़ी जीत के लिए तैयार है, जो बहुमत से कम है",
+      "summary": "जर्मनी की एएफडी ने एक \"ऐतिहासिक परिणाम\" की सराहना की है और अनुमान लगाया गया है कि वह 44% वोट जीतेगी, जो 17% पर रूढ़िवादियों से बहुत आगे है।"
+    },
+    "bn": {
+      "title": "পূর্ব রাজ্যে বড় জয়ের জন্য জার্মানির ডানদিকের এএফডি সেট, সংখ্যাগরিষ্ঠতার খুব কম",
+      "summary": "জার্মানির এএফডি একটি \"ঐতিহাসিক ফলাফল\" হিসাবে প্রশংসা করেছে এবং 17% রক্ষণশীলদের চেয়ে অনেক এগিয়ে 44% ভোট জিতবে বলে আশা করা হচ্ছে ।"
+    },
+    "fr": {
+      "title": "L'AfD d'extrême droite allemande s'apprête à remporter une grande victoire dans l'État de l'Est, juste à côté de la majorité",
+      "summary": "L'AfD allemande a salué un « résultat historique » et devrait remporter 44% des voix, loin devant les conservateurs avec 17%."
+    }
+  }
+}

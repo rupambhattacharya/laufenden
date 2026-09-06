@@ -1,0 +1,31 @@
+{
+  "id": "9dad26ae03c68faa3eb79e88719584b1ef8d1775",
+  "slug": "kommentar-zur-wahl-in-sachsen-anhalt-ratlos-mit-ansage",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/kommentar/landtagswahl-sachsen-anhalt-afd-104.html",
+  "publishedAt": "2026-09-06T21:52:36.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Commentary on the election in Saxony-Anhalt: helpless with announcement",
+      "summary": "The AfD won the election in Saxony-Anhalt. This is no surprise. But neither the election winners nor the other parties have a plan for what they will do with the result, says Gabor Halasz."
+    },
+    "de": {
+      "title": "Kommentar zur Wahl in Sachsen-Anhalt: Ratlos mit Ansage",
+      "summary": "Die AfD hat die Wahl in Sachsen-Anhalt gewonnen. Das ist keine Überraschung. Doch weder Wahlsieger noch die anderen Parteien haben einen Plan, was sie mit dem Ergebnis machen, meint Gabor Halasz."
+    },
+    "hi": {
+      "title": "सैक्सोनी - एन्हाल्ट में चुनाव पर टिप्पणी: घोषणा के साथ असहाय",
+      "summary": "एएफडी ने सैक्सोनी - एन्हाल्ट में चुनाव जीता। यह कोई आश्चर्य की बात नहीं है। लेकिन न तो चुनाव विजेताओं और न ही अन्य दलों के पास इस बारे में कोई योजना है कि वे परिणाम के साथ क्या करेंगे, गैबर हलाज़ कहते हैं।"
+    },
+    "bn": {
+      "title": "স্যাক্সনি-আনহাল্টের নির্বাচন সম্পর্কে মন্তব্য: ঘোষণার সাথে অসহায়",
+      "summary": "এএফডি স্যাক্সনি-আনহাল্টে নির্বাচনে জয়লাভ করে । এতে অবাক হওয়ার কিছু নেই । তবে নির্বাচনের বিজয়ীরা বা অন্যান্য দলগুলির কেউই ফলাফল নিয়ে তারা কী করবে সে সম্পর্কে কোনও পরিকল্পনা নেই, গাবর হালাজ বলেছেন ।"
+    },
+    "fr": {
+      "title": "Commentaire sur l'élection en Saxe-Anhalt : Perplexe avec annonce",
+      "summary": "L'AfD a remporté les élections en Saxe-Anhalt. Ce n'est pas une surprise. Mais ni les vainqueurs des élections ni les autres partis n'ont de plan sur ce qu'ils feront du résultat, estime Gabor Halasz."
+    }
+  }
+}

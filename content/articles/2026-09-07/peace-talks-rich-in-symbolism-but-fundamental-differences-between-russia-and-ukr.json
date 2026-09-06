@@ -1,0 +1,31 @@
+{
+  "id": "ed434a5a322cc2fed5bd546afe57df7d9aee533d",
+  "slug": "peace-talks-rich-in-symbolism-but-fundamental-differences-between-russia-and-ukr",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-06T20:52:12.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale."
+    },
+    "de": {
+      "title": "Friedensgespräche sind reich an Symbolik, aber grundlegende Unterschiede zwischen Russland und der Ukraine bleiben bestehen",
+      "summary": "Trotz Gesprächen zwischen US-Gesandten und sowohl Putin als auch Selenskyj wird in Kiew erwartet, dass die Kämpfe weitergehen werden, schreibt James Landale."
+    },
+    "hi": {
+      "title": "शांति वार्ता प्रतीकात्मकता से भरपूर है लेकिन रूस और यूक्रेन के बीच मौलिक अंतर अभी भी बना हुआ है",
+      "summary": "जेम्स लैंडेल लिखते हैं, अमेरिकी राजदूतों और पुतिन और ज़ेलेंस्की दोनों के बीच बातचीत के बावजूद, कीव में उम्मीद है कि लड़ाई जारी रहेगी।"
+    },
+    "bn": {
+      "title": "শান্তি আলোচনা প্রতীকবাদে সমৃদ্ধ কিন্তু রাশিয়া ও ইউক্রেনের মধ্যে মৌলিক পার্থক্য রয়ে গেছে",
+      "summary": "মার্কিন দূত এবং পুতিন এবং জেলেনস্কি উভয়ের মধ্যে আলোচনা সত্ত্বেও, কিয়েভে লড়াই অব্যাহত থাকবে বলে আশা করা হচ্ছে, জেমস ল্যান্ডালে লিখেছেন ।"
+    },
+    "fr": {
+      "title": "Les pourparlers de paix sont riches en symbolisme, mais les différences fondamentales entre la Russie et l'Ukraine demeurent",
+      "summary": "Malgré les pourparlers entre les envoyés américains et Poutine et Zelensky, on s'attend à ce que les combats se poursuivent à Kiev, écrit James Landale."
+    }
+  }
+}

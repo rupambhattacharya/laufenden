@@ -1,0 +1,31 @@
+{
+  "id": "08aa714583e642624504cb5d1ffcf88d5a629d1e",
+  "slug": "liveticker-zur-sachsen-anhalt-wahl-frei-sieht-keine-gefahr-von-uberlaufern-zur-a",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
+  "publishedAt": "2026-09-06T23:03:12.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "++ Live ticker for the Saxony-Anhalt election: Frei sees no danger of defections to the AfD ++",
+      "summary": "CDU Prime Minister Schulze lost in the constituency of Magdeburg III against the AfD candidate Mertens. AfD top candidate Siegmund rejects the BSW's proposal for a non-partisan prime minister."
+    },
+    "de": {
+      "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Frei sieht keine Gefahr von Überläufern zur AfD ++",
+      "summary": "CDU-Ministerpräsident Schulze hat im Wahlkreis Magdeburg III gegen den AfD-Kandidaten Mertens verloren. AfD-Spitzenkandidat Siegmund lehnt den Vorschlag des BSW eines überparteilichen Ministerpräsidenten ab."
+    },
+    "hi": {
+      "title": "++ सैक्सोनी - एनहाल्ट चुनाव के लिए लाइव टिकर: FREI को AFD ++ में खामियों का कोई खतरा नहीं दिखता",
+      "summary": "सीडीयू के प्रधान मंत्री शुल्ज़ एएफडी उम्मीदवार मर्टेंस के खिलाफ मैग्डेबर्ग III के निर्वाचन क्षेत्र में हार गए। एएफडी के शीर्ष उम्मीदवार सिगमंड ने गैर - पक्षपातपूर्ण प्रधान मंत्री के लिए बीएसडब्ल्यू के प्रस्ताव को खारिज कर दिया।"
+    },
+    "bn": {
+      "title": "++ স্যাক্সনি-আনহাল্ট নির্বাচনের জন্য লাইভ টিকার: ফ্রেই এএফডি ++ -এ ত্রুটির কোনও বিপদ দেখেন না",
+      "summary": "সিডিইউর প্রধানমন্ত্রী শুলজ এএফডি প্রার্থী মার্টেনসের বিপক্ষে তৃতীয় ম্যাগডবার্গ আসনে হেরে গেছেন । এএফডির শীর্ষ প্রার্থী সিগমুন্ড বিএসডব্লিউর পক্ষহীন প্রধানমন্ত্রীর প্রস্তাব প্রত্যাখ্যান করেছেন ।"
+    },
+    "fr": {
+      "title": "++ Liveticker sur l'élection de Saxe-Anhalt : Frei ne voit aucun danger de transfuges à l'AfD ++",
+      "summary": "Le Premier ministre CDU Schulze a perdu dans la circonscription électorale de Magdebourg III contre le candidat AfD Mertens. Le Spitzenkandidat de l'AfD, Siegmund, rejette la proposition du BSW d'un Premier ministre bipartite."
+    }
+  }
+}

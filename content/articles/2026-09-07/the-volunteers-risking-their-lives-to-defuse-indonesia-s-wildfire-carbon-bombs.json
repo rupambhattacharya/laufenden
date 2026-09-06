@@ -1,0 +1,31 @@
+{
+  "id": "b545645a74c9f9ff60bb75ac3cb2180128a8e337",
+  "slug": "the-volunteers-risking-their-lives-to-defuse-indonesia-s-wildfire-carbon-bombs",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-06T23:13:29.000Z",
+  "originalLanguage": "en",
+  "translations": {
+    "en": {
+      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+      "summary": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia."
+    },
+    "de": {
+      "title": "Die Freiwilligen riskieren ihr Leben, um Indonesiens Waldbrand „Kohlenstoffbomben“ zu entschärfen",
+      "summary": "Torfbrände in Borneo setzen uralte Kohlenstoffspeicher frei - und senden einen giftigen Smog durch Südostasien."
+    },
+    "hi": {
+      "title": "इंडोनेशिया के जंगल की आग 'कार्बन बम' को निष्क्रिय करने के लिए स्वयंसेवक अपनी जान जोखिम में डाल रहे हैं",
+      "summary": "बोर्नियो में पीट की आग कार्बन के प्राचीन भंडार जारी कर रही है - और पूरे दक्षिण पूर्व एशिया में एक जहरीला धुंध भेज रही है।"
+    },
+    "bn": {
+      "title": "স্বেচ্ছাসেবীরা ইন্দোনেশিয়ার দাবানল 'কার্বন বোমা' নির্মূল করার জন্য তাদের জীবনের ঝুঁকি নিয়েছিল",
+      "summary": "বোর্নিওতে পিটের আগুন কার্বনের প্রাচীন দোকানগুলি প্রকাশ করছে - এবং দক্ষিণ-পূর্ব এশিয়া জুড়ে একটি বিষাক্ত ধোঁয়া প্রেরণ করছে ।"
+    },
+    "fr": {
+      "title": "Les volontaires risquent leur vie pour désamorcer les « bombes au carbone » des incendies de forêt en Indonésie",
+      "summary": "Les feux de tourbe à Bornéo libèrent d'anciennes réserves de carbone - et envoient un smog toxique à travers l'Asie du Sud-Est."
+    }
+  }
+}
