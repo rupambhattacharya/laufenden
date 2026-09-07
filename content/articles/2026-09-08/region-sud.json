@@ -1,0 +1,15 @@
+{
+  "id": "6b346e7cf6de0e69ca0acdb764882db885b39dc0",
+  "slug": "region-sud",
+  "category": "thueringen",
+  "sourceName": "Thüringen | Nachrichten und aktuelle Informationen ",
+  "sourceUrl": "https://www.mdr.de/nachrichten/thueringen/sued-thueringen",
+  "publishedAt": "2026-09-07T18:21:12.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "de": {
+      "title": "Region Süd",
+      "summary": "Täglich aktuell: Nachrichten und Informationen aus Südthüringen. Dazu Fotos, Audios und Videos aus der Region."
+    }
+  }
+}
