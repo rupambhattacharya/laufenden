@@ -136,6 +136,49 @@ describe('runPipeline', () => {
     errorSpy.mockRestore();
   });
 
+  it('enriches a bare item from its article page and persists media fields end to end', async () => {
+    const bareRss = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Bare Wire</title>
+    <item>
+      <title>Bare Headline</title>
+      <link>https://example.com/bare-1</link>
+      <guid>https://example.com/bare-1</guid>
+      <pubDate>Fri, 21 Aug 2026 08:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>`;
+    const articlePage = `<html><head>
+      <meta property="og:image" content="https://img.example.com/bare.jpg"/>
+      <meta property="og:description" content="Teaser von der Artikelseite."/>
+    </head><body></body></html>`;
+    vi.stubGlobal(
+      'fetch',
+      vi.fn(async (url: string) => {
+        if (url.includes('mymemory')) {
+          return {
+            ok: true,
+            status: 200,
+            json: async () => ({ responseData: { translatedText: 'Übersetzt' }, responseStatus: 200 }),
+          } as Response;
+        }
+        if (url === 'https://example.com/bare-1') {
+          return { ok: true, status: 200, text: async () => articlePage } as Response;
+        }
+        return { ok: true, status: 200, text: async () => bareRss } as Response;
+      })
+    );
+
+    await runPipeline({ contentDir: dir, now: new Date('2026-08-21T10:00:00Z') });
+
+    const files = await readdir(path.join(dir, 'articles', '2026-08-21'));
+    const article = JSON.parse(await readFile(path.join(dir, 'articles', '2026-08-21', files[0]), 'utf-8'));
+    expect(article.imageUrl).toBe('https://img.example.com/bare.jpg');
+    expect(article.translations.en.summary).toBe('Teaser von der Artikelseite.');
+    expect(article.translations.de.summary).toBe('Übersetzt');
+  });
+
   it('logs a run summary covering fetch counts, per-region selection, and per-language translations', async () => {
     const logSpy = vi.spyOn(console, 'log').mockImplementation(() => {});
 

@@ -108,6 +108,109 @@ describe('summary HTML stripping', () => {
   });
 });
 
+function rssWithItem(itemXml: string): string {
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Test Wire</title>
+    <item>
+      <title>Sample Headline</title>
+      <link>https://example.com/a</link>
+      <guid>https://example.com/a</guid>
+      ${itemXml}
+    </item>
+  </channel>
+</rss>`;
+}
+
+async function parseSingle(itemXml: string, language: 'en' | 'de' = 'de') {
+  const items = await fetchFeed(
+    { region: 'bayern', language, url: 'https://example.com/rss.xml' },
+    async () => rssWithItem(itemXml)
+  );
+  return items[0];
+}
+
+describe('media, body, and author extraction', () => {
+  it('takes the image from an image enclosure but ignores audio enclosures', async () => {
+    const withImage = await parseSingle(
+      '<description>Text.</description><enclosure url="https://img.example.com/a.jpg" length="1" type="image/jpeg"/>'
+    );
+    expect(withImage.imageUrl).toBe('https://img.example.com/a.jpg');
+
+    const withAudio = await parseSingle(
+      '<description>Text.</description><enclosure url="https://cdn.example.com/a.mp3" length="1" type="audio/mpeg"/>'
+    );
+    expect(withAudio.imageUrl).toBeUndefined();
+  });
+
+  it('takes the image from a media:thumbnail (BBC shape)', async () => {
+    const item = await parseSingle(
+      '<description>Text.</description><media:thumbnail width="240" height="135" url="https://ichef.example.com/240/pic.jpg"/>',
+      'en'
+    );
+    expect(item.imageUrl).toBe('https://ichef.example.com/240/pic.jpg');
+  });
+
+  it('takes the image from the first <img> inside content:encoded (tagesschau shape)', async () => {
+    const item = await parseSingle(
+      `<description>Die Meldung.</description>
+       <content:encoded><![CDATA[<p> <a href="https://example.com/a"><img src="https://images.example.com/16x9.jpg?width=1920" alt="x" /></a> <br/> <br/>Die Meldung.[<a href="https://example.com/a">mehr</a>]</p>]]></content:encoded>`
+    );
+    expect(item.imageUrl).toBe('https://images.example.com/16x9.jpg?width=1920');
+    // content:encoded merely repeats the description, so no body is stored.
+    expect(item.body).toBeUndefined();
+    expect(item.summary).toBe('Die Meldung.');
+  });
+
+  it('derives a sentence-capped teaser and keeps the full text as body for long descriptions (BR shape)', async () => {
+    const sentences = Array.from({ length: 10 }, (_, i) => `Satz Nummer ${i + 1} enthaelt etwas laengeren Beispieltext fuer die Meldung.`);
+    const item = await parseSingle(
+      `<description>${sentences.join(' ')} ( BR24 Radio-Nachrichten 24.08.2026 18:15)</description>`
+    );
+    expect(item.summary.length).toBeLessThanOrEqual(320);
+    expect(item.summary.endsWith('.')).toBe(true);
+    expect(item.body).toBeDefined();
+    expect(item.body).toContain('Satz Nummer 10');
+    // The trailing BR source stamp is an artifact, not article text.
+    expect(item.body).not.toContain('BR24 Radio-Nachrichten');
+    expect(item.summary).not.toContain('BR24 Radio-Nachrichten');
+  });
+
+  it('falls back to the Atom <summary> so summary-only feeds keep their teasers (butenunbinnen shape)', async () => {
+    const atom = `<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>buten un binnen</title>
+  <entry>
+    <title>Bremer Meldung</title>
+    <link href="https://example.com/hb" />
+    <id>https://example.com/hb</id>
+    <updated>2026-08-21T09:00:00Z</updated>
+    <summary>Die Polizei teilt Einzelheiten mit.</summary>
+  </entry>
+</feed>`;
+    const items = await fetchFeed({ region: 'bremen', language: 'de', url: 'https://example.com/atom.xml' }, async () => atom);
+    expect(items[0].summary).toBe('Die Polizei teilt Einzelheiten mit.');
+  });
+
+  it('keeps a dc:creator byline but drops one that just repeats the source', async () => {
+    const withByline = await parseSingle('<description>Text.</description><dc:creator>Maria Muster</dc:creator>');
+    expect(withByline.author).toBe('Maria Muster');
+
+    const selfNamed = await parseSingle('<description>Text.</description><dc:creator>Test Wire</dc:creator>');
+    expect(selfNamed.author).toBeUndefined();
+  });
+
+  it('extracts a tagesschau-style trailing byline from German descriptions only', async () => {
+    const description = '<description>Die Lage bleibt offen. Von H. Schwesinger.</description>';
+    const german = await parseSingle(description, 'de');
+    expect(german.author).toBe('H. Schwesinger');
+
+    const english = await parseSingle(description, 'en');
+    expect(english.author).toBeUndefined();
+  });
+});
+
 describe('fetchAllFeeds', () => {
   it('merges items from multiple feed configs', async () => {
     const items = await fetchAllFeeds(

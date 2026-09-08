@@ -1,5 +1,13 @@
 import { describe, it, expect, vi } from 'vitest';
-import { translateText, translateFields, truncateToByteLimit, backoffDelayMs } from '../src/translate';
+import {
+  translateText,
+  translateFields,
+  translateLongText,
+  truncateToByteLimit,
+  splitIntoChunks,
+  backoffDelayMs,
+  MAX_BODY_TRANSLATION_BYTES,
+} from '../src/translate';
 
 function mockResponse(body: unknown, ok = true): Response {
   return { ok, status: ok ? 200 : 500, json: async () => body } as Response;
@@ -164,5 +172,90 @@ describe('translateFields', () => {
       maxRetries: 0,
     });
     expect(result.de).toBeUndefined();
+  });
+
+  it('translates the body when present and keeps paragraph breaks', async () => {
+    const fetchFn = vi
+      .fn()
+      .mockResolvedValue(mockResponse({ responseData: { translatedText: 'Übersetzt' }, responseStatus: 200 }));
+    const result = await translateFields(
+      { title: 'Hello', summary: 'World', body: 'First paragraph.\n\nSecond paragraph.' },
+      'en',
+      ['en', 'de'],
+      { fetchFn }
+    );
+    // The source language keeps its body verbatim.
+    expect(result.en?.body).toBe('First paragraph.\n\nSecond paragraph.');
+    expect(result.de?.body).toBe('Übersetzt\n\nÜbersetzt');
+  });
+
+  it('keeps title and summary for a language whose body translation fails', async () => {
+    const fetchFn = vi.fn(async (url: URL | RequestInfo) => {
+      const query = new URL(String(url)).searchParams.get('q') ?? '';
+      if (query.includes('paragraph')) return mockResponse({}, false);
+      return mockResponse({ responseData: { translatedText: 'Übersetzt' }, responseStatus: 200 });
+    });
+    const result = await translateFields(
+      { title: 'Hello', summary: 'World', body: 'A paragraph that will not translate.' },
+      'en',
+      ['de'],
+      { fetchFn, maxRetries: 0 }
+    );
+    expect(result.de).toEqual({ title: 'Übersetzt', summary: 'Übersetzt' });
+  });
+});
+
+describe('splitIntoChunks', () => {
+  it('returns short text as a single chunk', () => {
+    expect(splitIntoChunks('One sentence.')).toEqual(['One sentence.']);
+  });
+
+  it('packs whole sentences into chunks under the byte limit', () => {
+    const chunks = splitIntoChunks('Alpha one. Beta two. Gamma three.', 22);
+    expect(chunks).toEqual(['Alpha one. Beta two.', 'Gamma three.']);
+  });
+
+  it('hard-splits a single sentence that exceeds the limit at a word boundary', () => {
+    const chunks = splitIntoChunks('word '.repeat(20).trim(), 24);
+    expect(chunks.length).toBeGreaterThan(1);
+    for (const chunk of chunks) {
+      expect(new TextEncoder().encode(chunk).length).toBeLessThanOrEqual(24);
+    }
+    expect(chunks.join(' ')).toBe('word '.repeat(20).trim());
+  });
+});
+
+describe('translateLongText', () => {
+  const okFetch = () =>
+    vi.fn().mockResolvedValue(mockResponse({ responseData: { translatedText: 'Chunk' }, responseStatus: 200 }));
+
+  it('translates each chunk and rejoins paragraphs', async () => {
+    const fetchFn = okFetch();
+    const longSentence = (label: string) => `${label} ${'wort '.repeat(120)}ende.`;
+    const body = `${longSentence('Erster Absatz.')}\n\n${longSentence('Zweiter Absatz.')}`;
+    const result = await translateLongText(body, 'de', 'en', { fetchFn });
+    expect(result).toMatch(/^Chunk( Chunk)*\n\nChunk( Chunk)*$/);
+    // Each paragraph is ~650 bytes, so it must have been split into multiple requests.
+    expect(fetchFn.mock.calls.length).toBeGreaterThan(2);
+  });
+
+  it('returns null when any chunk fails, rather than stitching half a body', async () => {
+    const fetchFn = vi
+      .fn()
+      .mockResolvedValueOnce(mockResponse({ responseData: { translatedText: 'Chunk' }, responseStatus: 200 }))
+      .mockResolvedValueOnce(mockResponse({}, false));
+    const body = `${'aaa '.repeat(150)}. ${'bbb '.repeat(150)}.`;
+    const result = await translateLongText(body, 'de', 'en', { fetchFn, maxRetries: 0 });
+    expect(result).toBeNull();
+  });
+
+  it('stops requesting once the body budget is spent, ending on a sentence boundary', async () => {
+    const fetchFn = okFetch();
+    const sentence = `${'wort '.repeat(80)}ende. `; // ~405 bytes, one chunk each
+    const body = sentence.repeat(12).trim(); // ~4.9kB, far over the budget
+    const result = await translateLongText(body, 'de', 'en', { fetchFn });
+    expect(result).toBeTruthy();
+    const maxRequests = Math.ceil(MAX_BODY_TRANSLATION_BYTES / 400) + 1;
+    expect(fetchFn.mock.calls.length).toBeLessThanOrEqual(maxRequests);
   });
 });

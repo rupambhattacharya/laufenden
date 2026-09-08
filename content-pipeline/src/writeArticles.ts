@@ -56,6 +56,10 @@ export async function writeArticle(
     sourceUrl: item.link,
     publishedAt: item.publishedAt,
     originalLanguage,
+    // Spread so absent media fields stay out of the JSON entirely, matching
+    // the articles written before these fields existed.
+    ...(item.imageUrl ? { imageUrl: item.imageUrl } : {}),
+    ...(item.author ? { author: item.author } : {}),
     translations,
   };
 

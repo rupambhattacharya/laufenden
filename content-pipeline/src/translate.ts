@@ -1,5 +1,6 @@
 import { regex } from 'shorol';
 import { backoffDelayMs, sleep } from './retryBackoff';
+import { SENTENCE_BREAK } from './text';
 
 export { backoffDelayMs };
 
@@ -96,13 +97,94 @@ export async function translateText(
   return null;
 }
 
+/**
+ * Split `text` into pieces that each fit MyMemory's query cap, preferring
+ * sentence boundaries and falling back to word boundaries for a single
+ * over-long sentence.
+ */
+export function splitIntoChunks(text: string, maxBytes: number = MAX_QUERY_BYTES): string[] {
+  const encoder = new TextEncoder();
+  const byteLength = (value: string) => encoder.encode(value).length;
+  const chunks: string[] = [];
+  let current = '';
+  const flush = () => {
+    if (current) {
+      chunks.push(current);
+      current = '';
+    }
+  };
+  for (const rawSentence of text.split(SENTENCE_BREAK)) {
+    let sentence = rawSentence;
+    while (byteLength(sentence) > maxBytes) {
+      flush();
+      const head = truncateToByteLimit(sentence, maxBytes);
+      if (!head) break;
+      chunks.push(head);
+      sentence = sentence.slice(head.length).trimStart();
+    }
+    if (!sentence) continue;
+    const candidate = current ? `${current} ${sentence}` : sentence;
+    if (byteLength(candidate) > maxBytes) {
+      flush();
+      current = sentence;
+    } else {
+      current = candidate;
+    }
+  }
+  flush();
+  return chunks;
+}
+
+/**
+ * Cap on the source bytes of one body translation (per language). A body is
+ * nice-to-have; letting one long bulletin burn the day's MyMemory quota would
+ * starve the articles behind it. The cut lands on a sentence boundary because
+ * chunks are built from whole sentences.
+ */
+export const MAX_BODY_TRANSLATION_BYTES = 2_250;
+
+export async function translateLongText(
+  text: string,
+  sourceLang: string,
+  targetLang: string,
+  options: TranslateOptions = {}
+): Promise<string | null> {
+  const encoder = new TextEncoder();
+  const translatedParagraphs: string[] = [];
+  let budget = MAX_BODY_TRANSLATION_BYTES;
+  for (const paragraph of text.split(/\n+/)) {
+    if (!paragraph.trim() || budget <= 0) continue;
+    const translatedChunks: string[] = [];
+    for (const chunk of splitIntoChunks(paragraph)) {
+      const size = encoder.encode(chunk).length;
+      if (size > budget) {
+        budget = 0;
+        break;
+      }
+      const translated = await translateText(chunk, sourceLang, targetLang, options);
+      // All or nothing: a body missing its middle reads like a bug.
+      if (translated === null) return null;
+      budget -= size;
+      translatedChunks.push(translated);
+    }
+    if (translatedChunks.length > 0) translatedParagraphs.push(translatedChunks.join(' '));
+  }
+  return translatedParagraphs.join('\n\n') || null;
+}
+
+export interface TranslatableFields {
+  title: string;
+  summary: string;
+  body?: string;
+}
+
 export async function translateFields(
-  fields: { title: string; summary: string },
+  fields: TranslatableFields,
   sourceLang: string,
   targetLangs: readonly string[],
   options: TranslateOptions = {}
-): Promise<Partial<Record<string, { title: string; summary: string }>>> {
-  const result: Partial<Record<string, { title: string; summary: string }>> = {};
+): Promise<Partial<Record<string, TranslatableFields>>> {
+  const result: Partial<Record<string, TranslatableFields>> = {};
   for (const lang of targetLangs) {
     if (lang === sourceLang) {
       result[lang] = fields;
@@ -112,9 +194,15 @@ export async function translateFields(
       translateText(fields.title, sourceLang, lang, options),
       translateText(fields.summary, sourceLang, lang, options),
     ]);
-    if (title !== null && summary !== null) {
-      result[lang] = { title, summary };
+    if (title === null || summary === null) continue;
+    const entry: TranslatableFields = { title, summary };
+    if (fields.body) {
+      // A failed body downgrades this language to teaser-only instead of
+      // dropping the whole translation.
+      const body = await translateLongText(fields.body, sourceLang, lang, options);
+      if (body !== null) entry.body = body;
     }
+    result[lang] = entry;
   }
   return result;
 }

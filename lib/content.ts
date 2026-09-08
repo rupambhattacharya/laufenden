@@ -7,6 +7,8 @@ const DEFAULT_ARTICLES_DIR = path.join(process.cwd(), 'content', 'articles');
 export interface DisplayFields {
   title: string;
   summary: string;
+  /** Present only when this language's translation carries a full body. */
+  body?: string;
   isFallback: boolean;
 }
 
@@ -84,11 +86,11 @@ export async function getArticleBySlug(
 export function getDisplayFields(article: Article, lang: LanguageCode): DisplayFields {
   const translated = article.translations[lang];
   if (translated) {
-    return { title: translated.title, summary: translated.summary, isFallback: false };
+    return { title: translated.title, summary: translated.summary, body: translated.body, isFallback: false };
   }
   const original = article.translations[article.originalLanguage];
   if (original) {
-    return { title: original.title, summary: original.summary, isFallback: true };
+    return { title: original.title, summary: original.summary, body: original.body, isFallback: true };
   }
   return { title: article.slug, summary: '', isFallback: true };
 }

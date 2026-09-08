@@ -1,9 +1,10 @@
 import { readFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
+import { enrichItem } from './enrich';
 import { fetchAllFeeds } from './fetchFeeds';
 import { berlinDateString, selectArticles } from './selectArticles';
-import { translateFields } from './translate';
+import { translateFields, type TranslatableFields } from './translate';
 import { writeArticle, writeManifest } from './writeArticles';
 import { LANGUAGES } from '../../shared/languages';
 import { REGION_PRIORITY } from '../../shared/regions';
@@ -88,16 +89,16 @@ export async function runPipeline({
   const translationsOk: Record<string, number> = Object.fromEntries(LANGUAGES.map((lang) => [lang, 0]));
 
   for (const item of selected) {
-    const translations = await translateFields(
-      { title: item.title, summary: item.summary },
-      item.language,
-      LANGUAGES,
-      { email, delayFn }
-    );
+    // Feed entries are teaser-level; the article page behind the link fills
+    // gaps (image, empty teaser, author) for feeds that ship bare items.
+    const enriched = await enrichItem(item);
+    const fields: TranslatableFields = { title: enriched.title, summary: enriched.summary };
+    if (enriched.body) fields.body = enriched.body;
+    const translations = await translateFields(fields, enriched.language, LANGUAGES, { email, delayFn });
     for (const lang of LANGUAGES) {
       if (translations[lang]) translationsOk[lang] += 1;
     }
-    await writeArticle(item, translations, item.language, contentDir, dateStr, existingSlugs);
+    await writeArticle(enriched, translations, enriched.language, contentDir, dateStr, existingSlugs);
   }
 
   await writeManifest(updatedManifest, contentDir);
