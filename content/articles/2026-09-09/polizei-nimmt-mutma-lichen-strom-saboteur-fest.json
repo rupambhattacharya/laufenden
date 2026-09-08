@@ -1,0 +1,32 @@
+{
+  "id": "4ff64f13cb631b54de79d2e4f94574d4cece551e",
+  "slug": "polizei-nimmt-mutma-lichen-strom-saboteur-fest",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/festnahme-strom-saboteur-100.html",
+  "publishedAt": "2026-09-08T16:58:03.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/8ce6cf5e-c36b-4dc2-903c-cc883fb599e8/AAABoIDz2pM/AAABnSSvrFg/16x9-big/spurensicherung-weisweiler-kraftwerk-100.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Police arrest suspected electricity saboteur",
+      "summary": "The police have caught the alleged electricity saboteur near a power plant near Aachen. The 48-year-old is said to have carried out attacks on the electricity grid nationwide. The federal government speaks of \"climate extremism\"."
+    },
+    "de": {
+      "title": "Polizei nimmt mutmaßlichen Strom-Saboteur fest",
+      "summary": "Die Polizei hat in der Nähe eines Kraftwerks bei Aachen den mutmaßlichen Strom-Saboteur gefasst. Der 48-Jährige soll bundesweit Anschläge auf das Stromnetz verübt haben. Die Bundesregierung spricht von \"Klimaextremismus\"."
+    },
+    "hi": {
+      "title": "पुलिस ने संदिग्ध बिजली तोड़फोड़ करने वाले को गिरफ्तार किया",
+      "summary": "पुलिस ने आचेन के पास एक बिजली संयंत्र के पास कथित बिजली तोड़फोड़ करने वाले को पकड़ा है। कहा जाता है कि 48 वर्षीय ने देश भर में बिजली ग्रिड पर हमले किए थे। संघीय सरकार \"जलवायु अतिवाद\" की बात करती है।"
+    },
+    "bn": {
+      "title": "পুলিশ সন্দেহভাজন বিদ্যুৎ নাশককে গ্রেপ্তার করেছে",
+      "summary": "আচেনের কাছে একটি পাওয়ার প্ল্যান্টের কাছে পুলিশ অভিযুক্ত বিদ্যুৎ নাশককে আটক করেছে । 48 বছর বয়সী এই ব্যক্তি দেশব্যাপী বিদ্যুৎ গ্রিডে হামলা চালিয়েছেন বলে জানা গেছে । ফেডারেল সরকার \"জলবায়ু চরমপন্থা\" সম্পর্কে কথা বলে ।"
+    },
+    "fr": {
+      "title": "La police arrête un présumé saboteur d'électricité",
+      "summary": "La police a arrêté le présumé saboteur d'électricité près d'une centrale électrique près d'Aix-la-Chapelle. L'homme de 48 ans aurait perpétré des attaques contre le réseau électrique dans tout le pays. Le gouvernement fédéral parle d '« extrémisme climatique »."
+    }
+  }
+}

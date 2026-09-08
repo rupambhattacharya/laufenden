@@ -1,0 +1,32 @@
+{
+  "id": "a988f069c6eb43551a6e05c77432cfde9c9fa20a",
+  "slug": "gro-britannien-sanktioniert-handel-mit-siedlungen-im-westjordanland",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/grossbritannien-siedler-westjordanland-100.html",
+  "publishedAt": "2026-09-08T16:53:32.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/124f98c7-b4b3-4c73-9a91-42dfda6f6ac4/AAABoIFKW5A/AAABnSSvrFg/16x9-big/miliband-118.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Britain sanctions trade with settlements in the West Bank",
+      "summary": "Britain wants to impose a trade ban on goods from illegal Israeli settlements in the West Bank. Israel responds with countermeasures: The British consulate in Jerusalem is to be closed."
+    },
+    "de": {
+      "title": "Großbritannien sanktioniert Handel mit Siedlungen im Westjordanland",
+      "summary": "Großbritannien will ein Handelsverbot für Waren aus völkerrechtswidrigen israelischen Siedlungen im Westjordanland verhängen. Israel reagiert mit Gegenmaßnahmen: Das britische Konsulat in Jerusalem soll geschlossen werden."
+    },
+    "hi": {
+      "title": "ब्रिटेन ने वेस्ट बैंक में बस्तियों के साथ व्यापार पर प्रतिबंध लगाया",
+      "summary": "ब्रिटेन वेस्ट बैंक में अवैध इजरायली बस्तियों से वस्तुओं पर व्यापार प्रतिबंध लगाना चाहता है। इज़राइल जवाबी कार्रवाई के साथ जवाब देता है: यरूशलेम में ब्रिटिश वाणिज्य दूतावास को बंद कर दिया जाना है।"
+    },
+    "bn": {
+      "title": "ব্রিটেন পশ্চিম তীরে বসতি স্থাপনের সাথে বাণিজ্য নিষিদ্ধ করেছে",
+      "summary": "ব্রিটেন পশ্চিম তীরে অবৈধ ইস্রায়েলি বসতি থেকে আসা পণ্যের উপর বাণিজ্য নিষেধাজ্ঞা আরোপ করতে চায় । ইস্রায়েল পাল্টা ব্যবস্থা নিয়ে প্রতিক্রিয়া জানায়: জেরুজালেমে ব্রিটিশ কনস্যুলেট বন্ধ করতে হবে ।"
+    },
+    "fr": {
+      "title": "La Grande-Bretagne sanctionne le commerce des colonies de Cisjordanie",
+      "summary": "La Grande-Bretagne veut interdire le commerce de marchandises provenant de colonies israéliennes illégales en Cisjordanie. Israël réagit par des contre-mesures : le consulat britannique à Jérusalem doit être fermé."
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "6cf58ba8c3cce4a7a85c58296b83f0adb649b166",
+  "slug": "reparatur-an-oberleitung-zwischen-emden-und-leer-dauert-an",
+  "category": "niedersachsen",
+  "sourceName": "Nachrichten aus Niedersachsen",
+  "sourceUrl": "https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/ausfaelle-bahnstrecke-zwischen-emden-und-leer-beeintraechtigt,aktuelloldenburg-4274.html",
+  "publishedAt": "2026-09-08T19:44:13.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.ndr.de/image/08965379-d33f-47e8-9267-ddd9b1853fac/AAABmMGGRIM/AAABnSSvrFg/16x9-big/bahn2680.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Repair on overhead line between Emden and Leer is ongoing",
+      "summary": "This causes delays on the intercity trains of about 15 minutes. Regional transport is back on schedule."
+    },
+    "de": {
+      "title": "Reparatur an Oberleitung zwischen Emden und Leer dauert an",
+      "summary": "Dadurch kommt es zu Verspätungen bei den Intercity-Zügen von etwa 15 Minuten. Der Regionalverkehr fährt wieder planmäßig."
+    },
+    "hi": {
+      "title": "एम्डेन और लीयर के बीच ओवरहेड लाइन पर मरम्मत जारी है",
+      "summary": "इससे इंटरसिटी ट्रेनों में लगभग 15 मिनट की देरी होती है। क्षेत्रीय परिवहन समय पर वापस आ गया है।"
+    },
+    "bn": {
+      "title": "এমডেন এবং লিয়ারের মধ্যে ওভারহেড লাইনের মেরামত চলছে",
+      "summary": "এর ফলে আন্তঃনগর ট্রেনে প্রায় 15 মিনিট দেরি হয় । আঞ্চলিক পরিবহন সময়সূচীতে ফিরে এসেছে ।"
+    },
+    "fr": {
+      "title": "La réparation de la ligne aérienne de contact entre Emden et Leer est en cours",
+      "summary": "Cela entraîne des retards d'environ 15 minutes dans les trains interurbains. Le trafic régional fonctionne à nouveau comme prévu."
+    }
+  }
+}

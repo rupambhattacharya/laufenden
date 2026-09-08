@@ -1,0 +1,32 @@
+{
+  "id": "e0d18b3edb6db955160b8617febebef23943e07e",
+  "slug": "bus-streik-unter-anderem-in-kiel-lubeck-und-flensburg-geht-heute-weiter",
+  "category": "schleswig-holstein",
+  "sourceName": "Nachrichten aus Schleswig-Holstein",
+  "sourceUrl": "https://www.ndr.de/nachrichten/schleswig-holstein/bus-streik-unter-anderem-in-kiel-luebeck-und-flensburg,busstreik-100.html",
+  "publishedAt": "2026-09-08T22:01:00.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.ndr.de/image/f1f6fdb7-19a5-4018-9fd4-472fc5be1f83/AAABoIBvy3E/AAABnSSvrFg/16x9-big/streik-434.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Bus strike continues today in Kiel, Lübeck and Flensburg, among others",
+      "summary": "The municipal bus companies in Schleswig-Holstein - also in Neumünster and in the district of Plön (VKP) - are affected by today's warning strike."
+    },
+    "de": {
+      "title": "Bus-Streik unter anderem in Kiel, Lübeck und Flensburg geht heute weiter",
+      "summary": "Betroffen von dem heutigen Warnstreik sind die kommunalen Busunternehmen in Schleswig-Holstein - auch in Neumünster und im Kreis Plön (VKP)."
+    },
+    "hi": {
+      "title": "कील, लुबेक और फ्लेंसबर्ग सहित अन्य शहरों में आज भी बसों की हड़ताल जारी है",
+      "summary": "श्लेस्विग - होल्स्टीन में नगरपालिका बस कंपनियां - न्यूमुंस्टर और प्लॉन (वीकेपी) जिले में भी - आज की चेतावनी हड़ताल से प्रभावित हैं।"
+    },
+    "bn": {
+      "title": "কিয়েল, লুবেক এবং ফ্লেন্সবার্গে বাস ধর্মঘট আজ অব্যাহত রয়েছে",
+      "summary": "শ্লেসভিগ-হোলস্টাইনের মিউনিসিপাল বাস কোম্পানিগুলি - এছাড়াও নিউমুনস্টার এবং প্লোন ডিস্ট্রিক্টে (VKP) - আজকের সতর্কতা ধর্মঘটের দ্বারা প্রভাবিত হয় ।"
+    },
+    "fr": {
+      "title": "La grève des bus, entre autres à Kiel, Lübeck et Flensburg, se poursuit aujourd'hui",
+      "summary": "Les entreprises de bus municipales du Schleswig-Holstein sont touchées par la grève d'avertissement d'aujourd' hui - également à Neumünster et dans le district de Plön (VKP)."
+    }
+  }
+}

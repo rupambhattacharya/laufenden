@@ -1,0 +1,32 @@
+{
+  "id": "12a0192dfedf1eca9ddcd4062eccbde86cbca631",
+  "slug": "uk-announces-sanctions-on-west-bank-settlements-prompting-furious-israeli-respon",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-08T19:11:39.000Z",
+  "originalLanguage": "en",
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd1/live/8d1d81e0-aba9-11f1-b109-879e35c24276.jpg",
+  "translations": {
+    "en": {
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem."
+    },
+    "de": {
+      "title": "Großbritannien kündigt Sanktionen gegen Siedlungen im Westjordanland an, die eine wütende israelische Reaktion auslösen",
+      "summary": "Der britische Außenminister beschuldigt die Siedler, die \"ethnische Säuberung\" der Palästinenser durchzuführen, da Israel darauf mit der Schließung des britischen Konsulats in Ost-Jerusalem reagiert."
+    },
+    "hi": {
+      "title": "ब्रिटेन ने वेस्ट बैंक की बस्तियों पर प्रतिबंधों की घोषणा की, जिससे इजरायली प्रतिक्रिया भड़क उठी",
+      "summary": "ब्रिटेन के विदेश सचिव ने निवासियों पर फिलिस्तीनियों की \"जातीय सफाई\" करने का आरोप लगाया, क्योंकि इज़राइल पूर्वी यरूशलेम में ब्रिटेन के वाणिज्य दूतावास को बंद करके जवाब देता है।"
+    },
+    "bn": {
+      "title": "ইউকে পশ্চিম তীরের বসতিগুলির উপর নিষেধাজ্ঞা ঘোষণা করেছে যার ফলে ইস্রায়েলি প্রতিক্রিয়া দেখা দিয়েছে",
+      "summary": "ব্রিটেনের পররাষ্ট্র সচিব বসতি স্থাপনকারীদের ফিলিস্তিনিদের \"জাতিগত নির্মূল\" করার জন্য অভিযুক্ত করেছেন, কারণ ইস্রায়েল পূর্ব জেরুজালেমে যুক্তরাজ্যের কনস্যুলেট বন্ধ করে প্রতিক্রিয়া জানিয়েছে ।"
+    },
+    "fr": {
+      "title": "Le Royaume-Uni annonce des sanctions sur les colonies de Cisjordanie provoquant une réponse israélienne furieuse",
+      "summary": "Le ministre britannique des Affaires étrangères accuse les colons de procéder au « nettoyage ethnique » des Palestiniens, alors qu'Israël répond en fermant le consulat britannique à Jérusalem-Est."
+    }
+  }
+}

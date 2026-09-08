@@ -1,0 +1,32 @@
+{
+  "id": "c6bcbcfc2af0fe86fb4c06bab6cbc9e94b52e4ac",
+  "slug": "neuer-pisa-schock-was-an-schulen-im-norden-schieflauft",
+  "category": "hamburg",
+  "sourceName": "Nachrichten aus Hamburg",
+  "sourceUrl": "https://www.ndr.de/nachrichten/info/25-jahre-nach-dem-pisa-schock-was-der-norden-daraus-gelernt-hat,pisastudie-102.html",
+  "publishedAt": "2026-09-08T20:32:32.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.ndr.de/image/820e68b8-a87a-4d64-8f17-7992fde73b63/AAABoIAZREM/AAABnSSvrFg/16x9-big/klassenzimmer-166.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "New Pisa Shock: What's Wrong with Schools in the North",
+      "summary": "The new Pisa study brings bad news: Never before have 15-year-olds performed so badly in Germany. How can better teaching be achieved?"
+    },
+    "de": {
+      "title": "Neuer PISA-Schock: Was an Schulen im Norden schiefläuft",
+      "summary": "Die neue PISA-Studie bringt schlechte Nachrichten: Nie zuvor schnitten 15-Jährige in Deutschland so schlecht ab. Wie gelingt besserer Unterricht?"
+    },
+    "hi": {
+      "title": "नया पीसा शॉक: उत्तर में स्कूलों के साथ क्या गलत है",
+      "summary": "नया पीआईएसए अध्ययन बुरी खबर लाता है: जर्मनी में पहले कभी भी 15 साल के बच्चों ने इतना बुरा प्रदर्शन नहीं किया है। बेहतर शिक्षण कैसे प्राप्त किया जा सकता है?"
+    },
+    "bn": {
+      "title": "নতুন পিসা শক: উত্তরের স্কুলগুলিতে কী ভুল",
+      "summary": "নতুন পিসা স্টাডি খারাপ খবর নিয়ে আসে: এর আগে কখনও ১৫ বছর বয়সী জার্মানিতে এত খারাপ পারফরম্যান্স করেনি । কীভাবে আরও ভাল শিক্ষা অর্জন করা যায়?"
+    },
+    "fr": {
+      "title": "Nouveau choc PISA : ce qui ne va pas dans les écoles du Nord",
+      "summary": "La nouvelle étude PISA apporte de mauvaises nouvelles : les jeunes de 15 ans n'ont jamais été aussi mauvais en Allemagne. Comment réussir un meilleur enseignement ?"
+    }
+  }
+}
