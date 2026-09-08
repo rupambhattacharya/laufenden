@@ -23,10 +23,32 @@ export function ArticleCard({
 
   return (
     <article className="flex flex-col gap-2">
+      {article.imageUrl && (
+        // Redundant with the title link, so it stays out of the a11y tree.
+        <Link href={href} tabIndex={-1} aria-hidden="true">
+          <img
+            src={article.imageUrl}
+            alt=""
+            loading="lazy"
+            // Broadcaster CDNs are hotlinked; withholding the referer keeps
+            // their hotlink checks from blanking the image.
+            referrerPolicy="no-referrer"
+            className="aspect-video w-full object-cover"
+          />
+        </Link>
+      )}
       <Link href={href} className={`${titleClass} text-black hover:underline`}>
         {fields.title}
       </Link>
-      <p className="font-deck text-sm italic text-neutral-600">{fields.summary}</p>
+      {fields.summary && (
+        <p
+          className={`font-deck text-sm italic text-neutral-600 ${
+            variant === 'lead' ? 'line-clamp-4' : 'line-clamp-3'
+          }`}
+        >
+          {fields.summary}
+        </p>
+      )}
       {fields.isFallback && <p className="text-xs text-neutral-500">{dict.translationUnavailable}</p>}
       <p className="text-xs uppercase tracking-wide text-neutral-500">
         {dict.source}: {article.sourceName}

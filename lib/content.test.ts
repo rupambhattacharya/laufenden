@@ -154,4 +154,18 @@ describe('getDisplayFields', () => {
     });
     expect(getDisplayFields(article, 'fr')).toEqual({ title: 'Deutscher Titel', summary: 'Deutsche Zusammenfassung.', isFallback: true });
   });
+
+  it('carries the body of the requested language, and of the original on fallback', () => {
+    const article = makeArticle({
+      originalLanguage: 'de',
+      translations: {
+        de: { title: 'Titel', summary: 'Teaser.', body: 'Voller deutscher Text.' },
+        // A language whose body translation failed publishes teaser-only.
+        en: { title: 'Title', summary: 'Teaser.' },
+      },
+    });
+    expect(getDisplayFields(article, 'de').body).toBe('Voller deutscher Text.');
+    expect(getDisplayFields(article, 'en').body).toBeUndefined();
+    expect(getDisplayFields(article, 'fr').body).toBe('Voller deutscher Text.');
+  });
 });

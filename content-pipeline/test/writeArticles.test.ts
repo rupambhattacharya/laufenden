@@ -76,6 +76,31 @@ describe('writeArticle', () => {
     expect(first.slug).not.toBe(second.slug);
     expect(second.slug).toBe(`${first.slug}-2`);
   });
+
+  it('persists imageUrl and author when the item has them', async () => {
+    const article = await writeArticle(
+      { ...sampleItem, imageUrl: 'https://img.example.com/a.jpg', author: 'H. Schwesinger' },
+      { de: { title: 'T', summary: 'S', body: 'Voller Text.' } },
+      'de',
+      dir,
+      '2026-08-21'
+    );
+    const parsed = JSON.parse(
+      await readFile(path.join(dir, 'articles', '2026-08-21', `${article.slug}.json`), 'utf-8')
+    );
+    expect(parsed.imageUrl).toBe('https://img.example.com/a.jpg');
+    expect(parsed.author).toBe('H. Schwesinger');
+    expect(parsed.translations.de.body).toBe('Voller Text.');
+  });
+
+  it('leaves the media keys out of the JSON entirely when the item has none', async () => {
+    const article = await writeArticle(sampleItem, {}, 'de', dir, '2026-08-21');
+    const parsed = JSON.parse(
+      await readFile(path.join(dir, 'articles', '2026-08-21', `${article.slug}.json`), 'utf-8')
+    );
+    expect('imageUrl' in parsed).toBe(false);
+    expect('author' in parsed).toBe(false);
+  });
 });
 
 describe('writeManifest', () => {

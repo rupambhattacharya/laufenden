@@ -18,6 +18,13 @@ export interface FeedItem {
   language: LanguageCode;
   title: string;
   summary: string;
+  /**
+   * Full text in the original language, only when the feed provides more than
+   * the teaser (BR ships whole bulletins as the description; most feeds don't).
+   */
+  body?: string;
+  imageUrl?: string;
+  author?: string;
   link: string;
   sourceName: string;
   publishedAt: string;
@@ -26,6 +33,8 @@ export interface FeedItem {
 export interface TranslatedFields {
   title: string;
   summary: string;
+  /** Optional per language: a failed body translation downgrades to teaser-only. */
+  body?: string;
 }
 
 export interface Article {
@@ -36,6 +45,9 @@ export interface Article {
   sourceUrl: string;
   publishedAt: string;
   originalLanguage: LanguageCode;
+  /** Absent on articles published before the pipeline captured media fields. */
+  imageUrl?: string;
+  author?: string;
   translations: Partial<Record<LanguageCode, TranslatedFields>>;
 }
 
