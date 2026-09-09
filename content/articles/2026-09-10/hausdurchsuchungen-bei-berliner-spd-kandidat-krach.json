@@ -1,0 +1,32 @@
+{
+  "id": "f58c7637a378d9238c4f9cd6baa1e32f1cd9d304",
+  "slug": "hausdurchsuchungen-bei-berliner-spd-kandidat-krach",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-staatsanwaltschaft-ermittelt-gegen-krach-100.html",
+  "publishedAt": "2026-09-09T22:00:05.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/f68c6481-3f9d-4695-b676-49b8d1f95b84/AAABoIgzDHw/AAABnSSvrFg/16x9-big/rbb-krach-rbb-100.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "House searches at Berlin SPD candidate Krach",
+      "summary": "The public prosecutor's office in Hanover is investigating Berlin's top SPD candidate Krach. The police searched three objects. According to a media report, it is about the suspicion of bribery. Krach rejects the accusations."
+    },
+    "de": {
+      "title": "Hausdurchsuchungen bei Berliner SPD-Kandidat Krach",
+      "summary": "Die Staatsanwaltschaft Hannover ermittelt gegen den Berliner SPD-Spitzenkandidaten Krach. Die Polizei durchsuchte drei Objekte. Einem Medienbericht zufolge geht es um den Verdacht auf Bestechlichkeit. Krach weist die Vorwürfe zurück."
+    },
+    "hi": {
+      "title": "बर्लिन एसपीडी उम्मीदवार क्राच के घर की तलाशी",
+      "summary": "हनोवर में सरकारी वकील का कार्यालय बर्लिन के शीर्ष एसपीडी उम्मीदवार क्राच की जांच कर रहा है। पुलिस ने तीन वस्तुओं की तलाशी ली। एक मीडिया रिपोर्ट के अनुसार, यह रिश्वतखोरी के संदेह के बारे में है। क्राच आरोपों को खारिज करता है।"
+    },
+    "bn": {
+      "title": "বার্লিন এসপিডি প্রার্থী ক্রাচের বাড়িতে তল্লাশি",
+      "summary": "হ্যানোভারের পাবলিক প্রসিকিউটর অফিস বার্লিনের শীর্ষ এসপিডি প্রার্থী ক্র্যাচকে তদন্ত করছে । পুলিশ তিনটি জিনিস তল্লাশি করে । একটি মিডিয়া রিপোর্ট অনুসারে, এটি ঘুষের সন্দেহ সম্পর্কে । ক্রাচ অভিযোগগুলি প্রত্যাখ্যান করে ।"
+    },
+    "fr": {
+      "title": "Perquisitions chez le candidat SPD berlinois Krach",
+      "summary": "Le parquet de Hanovre enquête sur Krach, le candidat principal du SPD à Berlin. La police a fouillé trois objets. Selon un article de presse, il s'agit de soupçons de corruption. Krach rejette les accusations."
+    }
+  }
+}

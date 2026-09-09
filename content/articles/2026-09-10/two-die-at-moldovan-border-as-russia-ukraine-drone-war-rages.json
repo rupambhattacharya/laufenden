@@ -1,0 +1,32 @@
+{
+  "id": "2d5da115b41673c5280eab00c90696f71b99e1f1",
+  "slug": "two-die-at-moldovan-border-as-russia-ukraine-drone-war-rages",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-09T20:28:04.000Z",
+  "originalLanguage": "en",
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd22/live/97c3c920-ac39-11f1-b483-f5be285e6b7e.jpg",
+  "translations": {
+    "en": {
+      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "summary": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes."
+    },
+    "de": {
+      "title": "Zwei sterben an der moldauischen Grenze, während der russisch-ukrainische Drohnenkrieg tobt",
+      "summary": "Fünf Todesfälle werden in der Ukraine und vier in Russland gemeldet, da beide Seiten neue Drohnenangriffe starten."
+    },
+    "hi": {
+      "title": "रूस - यूक्रेन ड्रोन युद्ध के दौरान मोल्दोवन सीमा पर दो की मौत",
+      "summary": "यूक्रेन में पांच और रूस में चार लोगों की मौत की सूचना है क्योंकि दोनों पक्षों ने नए ड्रोन हमले शुरू किए हैं।"
+    },
+    "bn": {
+      "title": "রাশিয়া-ইউক্রেন ড্রোন যুদ্ধে মোল্দোভান সীমান্তে দু 'জনের মৃত্যু",
+      "summary": "ইউক্রেনে পাঁচজন এবং রাশিয়ায় চারজন নিহত হওয়ার খবর পাওয়া গেছে কারণ উভয় পক্ষই নতুন ড্রোন হামলা শুরু করেছে ।"
+    },
+    "fr": {
+      "title": "Deux meurent à la frontière moldave alors que la guerre de drones russo-ukrainienne fait rage",
+      "summary": "Cinq décès sont signalés en Ukraine et quatre en Russie alors que les deux parties lancent de nouvelles frappes de drones."
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "a27e46a82e70e156ea600f1c9d26dca752c7bb88",
+  "slug": "miese-stimmung-trotz-besserer-zahlen-warum-eigentlich",
+  "category": "baden-wuerttemberg",
+  "sourceName": "SWR Aktuell Baden-Württemberg",
+  "sourceUrl": "https://www.swr.de/plusminus/miese-stimmung-trotz-besserer-zahlen-warum-eigentlich-100.html",
+  "publishedAt": "2026-09-09T22:01:00.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://www.swr.de/plusminus/1788934916784%2Cmiese-stimmung-trotz-besserer-zahlen-warum-eigentlich-plusminus-podcast-100~_v-16x9@2dL_-6c42aff4e68b43c7868c3240d3ebfa29867457da.jpg",
+  "translations": {
+    "en": {
+      "title": "Bad mood despite better figures: Why actually?",
+      "summary": "Feeling and data don't go well together at the moment. Why our sense of crisis becomes a risk and how we can combat the crisis in our heads."
+    },
+    "de": {
+      "title": "Miese Stimmung trotz besserer Zahlen: Warum eigentlich?",
+      "summary": "Gefühl und Daten passen derzeit nicht gut zusammen. Warum unser Krisengefühl zum Risiko wird und wie wir die Krise im Kopf bekämpfen können."
+    },
+    "hi": {
+      "title": "बेहतर आंकड़ों के बावजूद बुरा मूड: वास्तव में क्यों?",
+      "summary": "इस समय भावना और डेटा एक साथ ठीक नहीं चल रहे हैं। हमारी संकट की भावना एक जोखिम क्यों बन जाती है और हम अपने सिर में संकट का मुकाबला कैसे कर सकते हैं।"
+    },
+    "bn": {
+      "title": "আরও ভাল পরিসংখ্যান থাকা সত্ত্বেও খারাপ মেজাজ: আসলে কেন?",
+      "summary": "অনুভূতি এবং ডেটা এই মুহূর্তে একসাথে ভাল যাচ্ছে না । কেন আমাদের সঙ্কটের অনুভূতি ঝুঁকি হয়ে ওঠে এবং কীভাবে আমরা আমাদের মাথায় এই সঙ্কট মোকাবেলা করতে পারি ।"
+    },
+    "fr": {
+      "title": "Mauvaise humeur malgré de meilleurs chiffres : pourquoi ?",
+      "summary": "Le sentiment et les données ne vont pas bien ensemble actuellement. Pourquoi notre sentiment de crise devient un risque et comment nous pouvons lutter contre la crise dans notre esprit."
+    }
+  }
+}

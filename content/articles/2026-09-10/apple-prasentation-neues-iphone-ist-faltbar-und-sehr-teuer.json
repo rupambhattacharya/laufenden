@@ -1,0 +1,33 @@
+{
+  "id": "e2fd7a0599419456fe3df7d177d4375e82a8f8d6",
+  "slug": "apple-prasentation-neues-iphone-ist-faltbar-und-sehr-teuer",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/technologie/apple-iphone-faltbar-100.html",
+  "publishedAt": "2026-09-09T19:58:46.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/b0f86952-4e20-4ecd-a954-beac05f812b1/AAABoIeZ3Nk/AAABnSSvrFg/16x9-big/iphone-duo-100.jpg?width=1920",
+  "author": "G. Biesinger",
+  "translations": {
+    "en": {
+      "title": "Apple presentation: New iPhone is foldable and very expensive",
+      "summary": "At its big promotional event, Apple unveiled the first foldable iPhone. Although folding phones are considered a niche segment and the competition has been offering them for some time, Apple has high expectations for the expensive device. By G. Biesinger."
+    },
+    "de": {
+      "title": "Apple-Präsentation: Neues iPhone ist faltbar und sehr teuer",
+      "summary": "Bei seinem großen Werbe-Event hat Apple das erste faltbare iPhone präsentiert. Obwohl Falthandys als Nischensegment gelten und die Konkurrenz sie schon länger anbietet, setzt Apple große Erwartungen in das teure Gerät. Von G. Biesinger."
+    },
+    "hi": {
+      "title": "ऐप्पल प्रेज़ेंटेशन: नया iPhone फ़ोल्ड करने योग्य और बहुत महंगा है",
+      "summary": "अपने बड़े प्रमोशनल इवेंट में, ऐप्पल ने पहला फोल्डेबल आईफोन पेश किया। हालांकि फोल्डिंग फोन को एक आला सेगमेंट माना जाता है और प्रतियोगिता कुछ समय से उन्हें पेश कर रही है, लेकिन ऐप्पल को महंगे डिवाइस के लिए उच्च उम्मीदें हैं। जी. बिज़िंगर द्वारा।"
+    },
+    "bn": {
+      "title": "অ্যাপল উপস্থাপনা: নতুন আইফোন ভাঁজযোগ্য এবং খুব ব্যয়বহুল",
+      "summary": "তার বড় প্রচারমূলক ইভেন্টে, অ্যাপল প্রথম ফোল্ডেবল আইফোন উন্মোচন করেছে । যদিও ভাঁজ করা ফোনগুলি একটি কুলুঙ্গি সেগমেন্ট হিসাবে বিবেচিত হয় এবং প্রতিযোগিতাটি কিছু সময়ের জন্য তাদের অফার করে আসছে, তবে ব্যয়বহুল ডিভাইসের জন্য অ্যাপলের উচ্চ প্রত্যাশা রয়েছে । G. Biesinger দ্বারা ।"
+    },
+    "fr": {
+      "title": "Présentation Apple : le nouvel iPhone est pliable et très cher",
+      "summary": "Lors de son grand événement publicitaire, Apple a présenté le premier iPhone pliable. Bien que les téléphones pliables soient considérés comme un segment de niche et que la concurrence les propose depuis longtemps, Apple place de grandes attentes dans cet appareil coûteux. Par G. Biesinger."
+    }
+  }
+}

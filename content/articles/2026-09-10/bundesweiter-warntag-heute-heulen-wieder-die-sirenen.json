@@ -1,0 +1,32 @@
+{
+  "id": "92e2355a03e8bb3530113b6471aa69fb0934f266",
+  "slug": "bundesweiter-warntag-heute-heulen-wieder-die-sirenen",
+  "category": "mecklenburg-vorpommern",
+  "sourceName": "Nachrichten aus Mecklenburg-Vorpommern",
+  "sourceUrl": "https://www.ndr.de/nachrichten/info/bundesweiter-warntag-heute-heulen-wieder-die-sirenen,bundesweiter-warntag-126.html",
+  "publishedAt": "2026-09-09T22:00:02.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.ndr.de/image/7878ea7c-8439-4787-ae32-20e436f4a626/AAABoIZRGQc/AAABnSSvrFg/16x9-big/sirene-172.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Nationwide Warning Day: Today the sirens are crying again",
+      "summary": "In many cities and towns in northern Germany, emergency warning systems will be tested from 11 a.m. onwards. Smartphones are also an important part of the reporting chain."
+    },
+    "de": {
+      "title": "Bundesweiter Warntag: Heute heulen wieder die Sirenen",
+      "summary": "In vielen Städten und Gemeinden in Norddeutschland werden ab 11 Uhr die Warnsysteme für den Ernstfall getestet. Ein wichtiger Teil der Meldekette sind auch Smartphones."
+    },
+    "hi": {
+      "title": "राष्ट्रव्यापी चेतावनी दिवस: आज सायरन फिर से रो रहे हैं",
+      "summary": "उत्तरी जर्मनी के कई शहरों और कस्बों में, सुबह 11 बजे से आपातकालीन चेतावनी प्रणालियों का परीक्षण किया जाएगा। स्मार्टफोन भी रिपोर्टिंग चेन का एक महत्वपूर्ण हिस्सा हैं।"
+    },
+    "bn": {
+      "title": "দেশব্যাপী সতর্কতা দিবস: আজ সাইরেনগুলি আবার কাঁদছে",
+      "summary": "উত্তর জার্মানির অনেক শহর ও শহরে সকাল ১১টা থেকে জরুরি সতর্কতা ব্যবস্থা পরীক্ষা করা হবে । স্মার্টফোনগুলিও রিপোর্টিং চেইনের একটি গুরুত্বপূর্ণ অংশ ।"
+    },
+    "fr": {
+      "title": "Journée nationale d'avertissement : les sirènes hurlent à nouveau aujourd'hui",
+      "summary": "Dans de nombreuses villes et communes du nord de l'Allemagne, les systèmes d'alerte en cas d'urgence sont testés à partir de 11 heures. Les smartphones constituent également une partie importante de la chaîne de signalement."
+    }
+  }
+}

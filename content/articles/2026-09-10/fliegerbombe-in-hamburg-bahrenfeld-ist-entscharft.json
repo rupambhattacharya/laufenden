@@ -1,0 +1,32 @@
+{
+  "id": "64dc61a1489634e0ab3cfa84dc546ff6045be355",
+  "slug": "fliegerbombe-in-hamburg-bahrenfeld-ist-entscharft",
+  "category": "hamburg",
+  "sourceName": "Nachrichten aus Hamburg",
+  "sourceUrl": "https://www.ndr.de/nachrichten/hamburg/fliegerbombe-in-hamburg-bahrenfeld-ist-entschaerft,blindgaenger-142.html",
+  "publishedAt": "2026-09-09T21:09:25.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.ndr.de/image/12a9ac10-7285-44be-b448-22f2d552db5e/AAABoIcpwB0/AAABnSSvrFg/16x9-big/entschaerfung-126.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Aircraft bomb in Hamburg-Bahrenfeld is defused",
+      "summary": "2,500 people had had to leave their apartments - the all-clear only came late in the evening. It is still unclear when train traffic will return to normal."
+    },
+    "de": {
+      "title": "Fliegerbombe in Hamburg-Bahrenfeld ist entschärft",
+      "summary": "2.500 Menschen hatten ihre Wohnungen verlassen müssen - erst am späten Abend kam die Entwarnung. Wann der Zugverkehr wieder normal läuft, ist noch unklar."
+    },
+    "hi": {
+      "title": "हैम्बर्ग - बहरेनफेल्ड में विमान बम को निष्क्रिय कर दिया गया है",
+      "summary": "2,500 लोगों को अपने अपार्टमेंट छोड़ना पड़ा था - सभी स्पष्ट केवल शाम को देर से आए थे। यह अभी भी स्पष्ट नहीं है कि ट्रेन यातायात कब सामान्य होगा।"
+    },
+    "bn": {
+      "title": "হামবুর্গ-বাহরেনফেল্ডে বিমান বোমা নিষ্ক্রিয় করা হয়েছে",
+      "summary": "আড়াই হাজার মানুষকে তাদের অ্যাপার্টমেন্ট ছেড়ে চলে যেতে হয়েছিল - সমস্ত স্পষ্ট কেবল সন্ধ্যায় দেরিতে এসেছিল । ট্রেনের ট্র্যাফিক কখন স্বাভাবিক অবস্থায় ফিরে আসবে তা এখনও স্পষ্ট নয় ।"
+    },
+    "fr": {
+      "title": "La bombe aérienne à Hambourg-Bahrenfeld est désamorcée",
+      "summary": "2 500 personnes avaient dû quitter leur domicile - ce n'est que tard dans la soirée que l'alarme a été levée. On ne sait pas encore quand la circulation des trains reprendra son cours normal."
+    }
+  }
+}

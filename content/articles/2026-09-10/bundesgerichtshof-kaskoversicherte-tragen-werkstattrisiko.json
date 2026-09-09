@@ -1,0 +1,33 @@
+{
+  "id": "92045b472d5c48f3e117f795aadd83e3990d6a67",
+  "slug": "bundesgerichtshof-kaskoversicherte-tragen-werkstattrisiko",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/wirtschaft/unternehmen/bgh-urteil-autoversicherungen-100.html",
+  "publishedAt": "2026-09-09T16:56:39.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/3618a7d6-6b85-4b62-a8d5-1be5ea5770f0/AAABm-aeRDM/AAABnSSvrFg/16x9-big/bgh-200.jpg?width=1920",
+  "author": "Antonetta Stephany",
+  "translations": {
+    "en": {
+      "title": "Federal Court of Justice: Comprehensive insured persons bear \"workshop risk\"",
+      "summary": "If a car repair shop charges more than necessary for a repair, the comprehensive insurance does not have to pay for it. The risk is borne by the insured party, the Federal Court of Justice ruled. By Antonetta Stephany."
+    },
+    "de": {
+      "title": "Bundesgerichtshof: Kaskoversicherte tragen \"Werkstattrisiko\"",
+      "summary": "Rechnet eine Autowerkstatt für eine Reparatur mehr ab als nötig, muss die Kaskoversicherung nicht dafür zahlen. Das Risiko trägt der Versicherte, entschied der Bundesgerichtshof. Von Antonetta Stephany."
+    },
+    "hi": {
+      "title": "फेडरल कोर्ट ऑफ जस्टिस: व्यापक बीमित व्यक्ति \"कार्यशाला जोखिम\" सहन करते हैं",
+      "summary": "यदि कार मरम्मत की दुकान मरम्मत के लिए आवश्यक से अधिक शुल्क लेती है, तो व्यापक बीमा को इसके लिए भुगतान नहीं करना पड़ता है। जोखिम बीमाकृत पक्ष द्वारा वहन किया जाता है, फेडरल कोर्ट ऑफ जस्टिस ने फैसला सुनाया। एंटोनेटा स्टेफ़नी द्वारा।"
+    },
+    "bn": {
+      "title": "ফেডারেল কোর্ট অফ জাস্টিস: ব্যাপক বীমাকৃত ব্যক্তিরা \"কর্মশালার ঝুঁকি\" বহন করে",
+      "summary": "যদি কোনও গাড়ি মেরামতের দোকান মেরামতের জন্য প্রয়োজনের চেয়ে বেশি চার্জ করে, তবে ব্যাপক বীমাটি এর জন্য অর্থ প্রদান করতে হবে না । ঝুঁকিটি বীমাকৃত পক্ষ বহন করে, ফেডারেল কোর্ট অফ জাস্টিস রায় দেয় । অ্যান্টোনেটা স্টেফানির ।"
+    },
+    "fr": {
+      "title": "Cour fédérale de justice : les assurés casco supportent le « risque atelier »",
+      "summary": "Si un garagiste facture plus que nécessaire pour une réparation, l'assurance casco n'a pas à payer pour cela. Le risque est à la charge de l'assuré, a statué la Cour fédérale de justice. Par Antonetta Stephany."
+    }
+  }
+}

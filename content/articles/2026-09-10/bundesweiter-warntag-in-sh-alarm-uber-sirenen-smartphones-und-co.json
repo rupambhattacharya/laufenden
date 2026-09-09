@@ -1,0 +1,32 @@
+{
+  "id": "868ceec03dd1974679cfaa98aad5ddc6aa1b9d25",
+  "slug": "bundesweiter-warntag-in-sh-alarm-uber-sirenen-smartphones-und-co",
+  "category": "schleswig-holstein",
+  "sourceName": "Nachrichten aus Schleswig-Holstein",
+  "sourceUrl": "https://www.ndr.de/nachrichten/schleswig-holstein/bundesweiter-warntag-in-sh-alarm-ueber-sirenen-smartphones-und-co,warntag-204.html",
+  "publishedAt": "2026-09-09T22:01:00.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.ndr.de/image/17f1f8ab-c1e1-4181-a7c9-5020757a31ff/AAABoHagk08/AAABnSSvrFg/16x9-big/warntag-202.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Nationwide warning day in SH: alarm via sirens, smartphones, etc.",
+      "summary": "How resilient are our warning systems in an emergency? This is what the federal, state and local governments want to find out today."
+    },
+    "de": {
+      "title": "Bundesweiter Warntag in SH: Alarm über Sirenen, Smartphones und Co.",
+      "summary": "Wie belastbar sind unsere Warnsysteme im Ernstfall? Das wollen Bund, Länder und Kommunen heute herausfinden."
+    },
+    "hi": {
+      "title": "SH में राष्ट्रव्यापी चेतावनी दिवस: सायरन, स्मार्टफोन आदि के माध्यम से अलार्म।",
+      "summary": "आपातकाल में हमारी चेतावनी प्रणाली कितनी लचीली होती है? संघीय, राज्य और स्थानीय सरकारें आज यही जानना चाहती हैं।"
+    },
+    "bn": {
+      "title": "এসএইচ-এ দেশব্যাপী সতর্কতা দিবস: সাইরেন, স্মার্টফোন ইত্যাদির মাধ্যমে বিপদাশঙ্কা ।",
+      "summary": "জরুরি অবস্থায় আমাদের সতর্কীকরণ ব্যবস্থা কতটা স্থিতিস্থাপক? ফেডারেল, রাজ্য এবং স্থানীয় সরকারগুলি আজ এটি জানতে চায় ।"
+    },
+    "fr": {
+      "title": "Journée nationale d'alerte à SH : alarme via sirènes, smartphones et autres",
+      "summary": "Quelle est la résistance de nos systèmes d'alerte en cas d'urgence ? C'est ce que le gouvernement fédéral, les Länder et les municipalités veulent découvrir aujourd'hui."
+    }
+  }
+}

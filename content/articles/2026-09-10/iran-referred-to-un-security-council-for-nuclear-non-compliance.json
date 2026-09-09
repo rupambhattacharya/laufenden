@@ -1,0 +1,32 @@
+{
+  "id": "7596541178ea5c563580d9cd87999a8327a43b0f",
+  "slug": "iran-referred-to-un-security-council-for-nuclear-non-compliance",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-09T20:22:51.000Z",
+  "originalLanguage": "en",
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88f3/live/c77b2e90-ac86-11f1-b1d1-571ed4d7ff2c.jpg",
+  "translations": {
+    "en": {
+      "title": "Iran referred to UN Security Council for nuclear non-compliance",
+      "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections."
+    },
+    "de": {
+      "title": "Iran verwies den UN-Sicherheitsrat wegen nuklearer Nichteinhaltung",
+      "summary": "Teheran verurteilt die Resolution und beschuldigt die US-amerikanischen und israelischen Angriffe auf seine Atomanlagen, die Inspektionen gestört zu haben."
+    },
+    "hi": {
+      "title": "ईरान ने परमाणु गैर - अनुपालन के लिए संयुक्त राष्ट्र सुरक्षा परिषद को संदर्भित किया",
+      "summary": "तेहरान ने इस प्रस्ताव की निंदा की है, जिसमें अमेरिकी और इजरायली हमलों को इसकी परमाणु सुविधाओं पर निरीक्षणों को बाधित करने के लिए दोषी ठहराया गया है।"
+    },
+    "bn": {
+      "title": "ইরান পারমাণবিক অ-সম্মতির জন্য জাতিসংঘের নিরাপত্তা পরিষদে রেফার করেছে",
+      "summary": "তেহরান এই প্রস্তাবের নিন্দা জানিয়েছে, পরিদর্শন ব্যাহত করার জন্য তার পারমাণবিক সুবিধাগুলিতে মার্কিন যুক্তরাষ্ট্র এবং ইস্রায়েলি হামলার জন্য দোষারোপ করেছে ।"
+    },
+    "fr": {
+      "title": "L'Iran a saisi le Conseil de sécurité de l'ONU pour non-conformité nucléaire",
+      "summary": "Téhéran condamne la résolution, accusant les frappes américaines et israéliennes sur ses installations nucléaires de perturber les inspections."
+    }
+  }
+}

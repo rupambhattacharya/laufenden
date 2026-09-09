@@ -1,0 +1,32 @@
+{
+  "id": "0cedebdb3d19172b1c79b085b70244142c4b9105",
+  "slug": "rekord-etat-jeder-funfte-euro-fur-die-verteidigung",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/verteidigung-ausgaben-bundestag-100.html",
+  "publishedAt": "2026-09-09T18:30:48.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/64d7f638-b37c-4043-b5d2-2b929709e620/AAABoIdv1Ys/AAABnSSvrFg/16x9-big/panzer-228.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Record-breaking budget: one in five euros for defence",
+      "summary": "More money than ever is available for the Bundeswehr in 2027. But with the record-breaking budget come the questions: Is the money used correctly? And what remains for other tasks of the state? By Christina Nagel and Philipp Jahn."
+    },
+    "de": {
+      "title": "Rekord-Etat: Jeder fünfte Euro für die Verteidigung",
+      "summary": "So viel Geld wie noch nie steht 2027 für die Bundeswehr bereit. Doch mit dem Rekord-Etat kommen die Fragen: Wird das Geld richtig eingesetzt? Und was bleibt für andere Aufgaben des Staates? Von Christina Nagel und Philipp Jahn."
+    },
+    "hi": {
+      "title": "रिकॉर्ड तोड़ने वाला बजट: रक्षा के लिए हर पांच यूरो में से एक",
+      "summary": "2027 में Bundeswehr के लिए पहले से कहीं ज़्यादा पैसा उपलब्ध है। लेकिन रिकॉर्ड तोड़ने वाले बजट के साथ सवाल आते हैं: क्या पैसे का सही इस्तेमाल किया गया है? और राज्य के अन्य कार्यों के लिए क्या बचा है? क्रिस्टीना नागेल और फिलिप जान द्वारा।"
+    },
+    "bn": {
+      "title": "রেকর্ড-ব্রেকিং বাজেট: প্রতিরক্ষার জন্য প্রতি পাঁচ ইউরোর মধ্যে একটি",
+      "summary": "2027 সালে Bundeswehr-এর জন্য আগের চেয়ে বেশি অর্থ পাওয়া যাচ্ছে । কিন্তু রেকর্ড ব্রেকিং বাজেটের সাথে প্রশ্ন আসে: টাকা কি সঠিকভাবে ব্যবহার করা হয়? এবং রাজ্যের অন্যান্য কাজের জন্য কি অবশিষ্ট আছে? ক্রিস্টিনা নাগেল এবং ফিলিপ জাহান ।"
+    },
+    "fr": {
+      "title": "Budget record : un euro sur cinq pour la défense",
+      "summary": "Il n'y a jamais eu autant d'argent disponible pour la Bundeswehr en 2027. Mais avec le budget record viennent les questions : l'argent est-il utilisé correctement ? Et que reste-t-il pour les autres tâches de l'État ? Par Christina Nagel et Philipp Jahn."
+    }
+  }
+}

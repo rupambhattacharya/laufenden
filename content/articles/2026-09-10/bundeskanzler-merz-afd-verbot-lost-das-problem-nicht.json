@@ -1,0 +1,32 @@
+{
+  "id": "939d0b2a5a6e59121683c6ce6f8deba3667267db",
+  "slug": "bundeskanzler-merz-afd-verbot-lost-das-problem-nicht",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/merz-afd-verbot-102.html",
+  "publishedAt": "2026-09-09T19:38:18.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/463f127b-482e-4a1b-91d8-517f590e4f8c/AAABoIetoNM/AAABnSSvrFg/16x9-big/afd-verbot-124.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Chancellor Merz: AfD ban does not solve the problem",
+      "summary": "Politicians in Saxony-Anhalt are increasingly preoccupied with dealing with the AfD after the election - including the question of a ban procedure. The Chancellor remains skeptical and sees another way."
+    },
+    "de": {
+      "title": "Bundeskanzler Merz: AfD-Verbot löst das Problem nicht",
+      "summary": "Der Umgang mit der AfD beschäftigt die Politik nach der Wahl in Sachsen-Anhalt verstärkt - auch die Frage nach einem Verbotsverfahren. Der Kanzler bleibt skeptisch und sieht einen anderen Weg."
+    },
+    "hi": {
+      "title": "चांसलर मर्ज़: एएफडी प्रतिबंध समस्या का समाधान नहीं करता है",
+      "summary": "सैक्सोनी - एन्हाल्ट में राजनेता चुनाव के बाद एएफडी से निपटने में तेजी से व्यस्त हैं - जिसमें प्रतिबंध प्रक्रिया का सवाल भी शामिल है। कुलाधिपति संशय में रहते हैं और एक और तरीका देखते हैं।"
+    },
+    "bn": {
+      "title": "চ্যান্সেলর মার্জ: এএফডি নিষেধাজ্ঞা সমস্যার সমাধান করে না",
+      "summary": "স্যাক্সনি-এনহাল্টের রাজনীতিবিদরা নির্বাচনের পরে এএফডির সাথে ডিল করার বিষয়ে ক্রমবর্ধমানভাবে উদ্বিগ্ন - নিষেধাজ্ঞার পদ্ধতির প্রশ্ন সহ । চ্যান্সেলর এখনও সন্দেহজনক এবং অন্য উপায় দেখেন ।"
+    },
+    "fr": {
+      "title": "Chancelier Merz : l'interdiction de l'AfD ne résout pas le problème",
+      "summary": "Les relations avec l'AfD préoccupent de plus en plus la politique après les élections en Saxe-Anhalt - y compris la question d'une procédure d'interdiction. Le chancelier reste sceptique et voit une autre voie."
+    }
+  }
+}

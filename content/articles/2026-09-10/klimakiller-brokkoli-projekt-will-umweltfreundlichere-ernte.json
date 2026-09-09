@@ -1,0 +1,32 @@
+{
+  "id": "624ee18f063550290df2f3e01270983d5dad4627",
+  "slug": "klimakiller-brokkoli-projekt-will-umweltfreundlichere-ernte",
+  "category": "niedersachsen",
+  "sourceName": "Nachrichten aus Niedersachsen",
+  "sourceUrl": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/klimakiller-brokkoli-projekt-will-umweltfreundlichere-ernte,hallonds-10058.html",
+  "publishedAt": "2026-09-09T19:50:01.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.ndr.de/image/926ccc85-c50f-4397-b861-b319ec458612/AAABoIb4Utw/AAABnSSvrFg/16x9-big/screenshot-224846.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Climate killer broccoli: project wants more environmentally friendly harvest",
+      "summary": "Only a small part of the vegetables ends up on our plates, the rest usually rots - releasing dangerous amounts of nitrous oxide in the process."
+    },
+    "de": {
+      "title": "Klimakiller Brokkoli: Projekt will umweltfreundlichere Ernte",
+      "summary": "Nur ein kleiner Teil des Gemüses landet auf unseren Tellern, der Rest verrottet meist - und setzt dabei gefährliche Mengen Lachgas frei."
+    },
+    "hi": {
+      "title": "क्लाइमेट किलर ब्रोकोली: प्रोजेक्ट पर्यावरण के अनुकूल फसल चाहता है",
+      "summary": "सब्जियों का केवल एक छोटा सा हिस्सा हमारी प्लेटों पर समाप्त होता है, बाकी आमतौर पर सड़ जाते हैं - इस प्रक्रिया में नाइट्रस ऑक्साइड की खतरनाक मात्रा जारी करते हैं।"
+    },
+    "bn": {
+      "title": "জলবায়ু হত্যাকারী ব্রোকলি: প্রকল্প আরও পরিবেশবান্ধব ফসল চায়",
+      "summary": "শাকসবজির কেবলমাত্র একটি ছোট অংশ আমাদের প্লেটে শেষ হয়, বাকিগুলি সাধারণত শিকড় - প্রক্রিয়াটিতে বিপজ্জনক পরিমাণে নাইট্রাস অক্সাইড নির্গত করে ।"
+    },
+    "fr": {
+      "title": "Brocoli tueur de climat : le projet veut une récolte plus respectueuse de l'environnement",
+      "summary": "Seule une petite partie des légumes finit dans nos assiettes, le reste pourrit généralement - et libère ainsi des quantités dangereuses d'oxyde nitreux."
+    }
+  }
+}
