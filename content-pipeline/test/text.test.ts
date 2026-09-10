@@ -6,6 +6,7 @@ import {
   extractByline,
   htmlToText,
   isRedundantAuthor,
+  stripTrailingByline,
 } from '../src/text';
 
 describe('decodeEntities', () => {
@@ -91,6 +92,20 @@ describe('extractByline', () => {
     // A summary that IS one sentence starting with "Von" has no preceding
     // sentence end, so it cannot match either.
     expect(extractByline('Von Anfang an dabei.')).toBeUndefined();
+  });
+});
+
+describe('stripTrailingByline', () => {
+  it('removes the trailing credit but keeps the sentence it followed', () => {
+    expect(stripTrailingByline('Für die meisten war die Kernfrage klar. Von H. Schwesinger.')).toBe(
+      'Für die meisten war die Kernfrage klar.'
+    );
+    expect(stripTrailingByline('Ein Rückblick. Von Kerstin Palzer, MDR.')).toBe('Ein Rückblick.');
+  });
+
+  it('leaves text without a trailing credit untouched', () => {
+    expect(stripTrailingByline('Das Gesetz gilt. Von Montag an.')).toBe('Das Gesetz gilt. Von Montag an.');
+    expect(stripTrailingByline('Kritik kam von der Leyen.')).toBe('Kritik kam von der Leyen.');
   });
 });
 

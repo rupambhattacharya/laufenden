@@ -47,17 +47,60 @@ const STATE_REGIONS: Region[] = REGION_PRIORITY.filter((r) => r !== 'global' && 
  * `20260821` -> 20260821 % 16. Consecutive days within a month shift the offset
  * by one, which is deterministic and spreads across all 16 states.
  */
-export function stateRotationOffset(dateStr: string, stateCount: number = STATE_REGIONS.length): number {
-  if (stateCount <= 0) return 0;
+function rotationOffset(dateStr: string, count: number): number {
+  if (count <= 0) return 0;
   const numeric = Number(dateStr.replace(/-/g, ''));
   if (!Number.isFinite(numeric)) return 0;
-  return ((Math.trunc(numeric) % stateCount) + stateCount) % stateCount;
+  return ((Math.trunc(numeric) % count) + count) % count;
+}
+
+export function stateRotationOffset(dateStr: string, stateCount: number = STATE_REGIONS.length): number {
+  return rotationOffset(dateStr, stateCount);
 }
 
 /** STATE_REGIONS cycled so that today's rotation offset comes first. */
 function rotatedStateRegions(dateStr: string): Region[] {
   const offset = stateRotationOffset(dateStr);
   return STATE_REGIONS.map((_, i) => STATE_REGIONS[(i + offset) % STATE_REGIONS.length]);
+}
+
+/**
+ * Reorder one region's candidates so its feeds take turns instead of the
+ * freshest-stamped feed taking every slot.
+ *
+ * A region can be served by several feeds, and a region typically wins one
+ * slot per day. BR stamps all ten of its Bayern bulletins with the same
+ * bulletin time, so under pure recency ordering BR won that slot every single
+ * day and the co-configured feed that carries images never published at all.
+ * Sources therefore round-robin, with the starting source rotated by Berlin
+ * date for the same reason the states themselves are rotated. Within a source
+ * the recency order is preserved, and a single-source region is untouched.
+ */
+function interleaveSources(items: FeedItem[], dateStr: string): FeedItem[] {
+  const bySource = new Map<string, FeedItem[]>();
+  for (const item of items) {
+    const list = bySource.get(item.sourceName);
+    if (list) list.push(item);
+    else bySource.set(item.sourceName, [item]);
+  }
+  if (bySource.size <= 1) return items;
+
+  const sources = Array.from(bySource.keys()).sort();
+  const offset = rotationOffset(dateStr, sources.length);
+  const rotated = sources.map((_, i) => sources[(i + offset) % sources.length]);
+
+  const interleaved: FeedItem[] = [];
+  let progress = true;
+  while (progress) {
+    progress = false;
+    for (const source of rotated) {
+      const next = bySource.get(source)!.shift();
+      if (!next) continue;
+      interleaved.push(next);
+      progress = true;
+    }
+  }
+  return interleaved;
 }
 
 /**
@@ -107,8 +150,9 @@ export function selectArticles(
     if (!byRegion.has(item.region)) byRegion.set(item.region, []);
     byRegion.get(item.region)!.push(item);
   }
-  for (const list of byRegion.values()) {
+  for (const [region, list] of byRegion) {
     list.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
+    byRegion.set(region, interleaveSources(list, today));
   }
 
   // Whole-day tier quotas, scaled if the caller passes a non-default cap.
