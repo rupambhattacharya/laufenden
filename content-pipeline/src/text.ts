@@ -91,7 +91,11 @@ export function deriveTeaser(text: string, maxChars: number = TEASER_MAX_CHARS):
 // token must start uppercase so sentences like "Von Montag an gilt …" or
 // "von der Leyen" never read as bylines, and a trailing ", MDR"-style station
 // suffix is tolerated but not captured.
-const TRAILING_BYLINE = /[.!?"»]\s*Von (\p{Lu}[\p{L}'.-]*(?: \p{Lu}[\p{L}'.-]*){0,3})(?:,[^.]{0,40})?\.?\s*$/u;
+const BYLINE_TAIL = String.raw`\s*Von (\p{Lu}[\p{L}'.-]*(?: \p{Lu}[\p{L}'.-]*){0,3})(?:,[^.]{0,40})?\.?\s*$`;
+const TRAILING_BYLINE = new RegExp(`[.!?"»]${BYLINE_TAIL}`, 'u');
+// Same shape, but keeping the preceding sentence's terminator as group 1 so it
+// survives the removal.
+const TRAILING_BYLINE_TAIL = new RegExp(`([.!?"»])${BYLINE_TAIL}`, 'u');
 
 export function extractByline(text: string): string | undefined {
   const name = TRAILING_BYLINE.exec(text)?.[1]?.trim();
@@ -100,6 +104,14 @@ export function extractByline(text: string): string | undefined {
   // token is an initial ("H."), whose dot belongs to the name.
   const lastToken = name.slice(name.lastIndexOf(' ') + 1);
   return /^\p{Lu}\.$/u.test(lastToken) ? name : name.replace(/\.$/, '');
+}
+
+/**
+ * Drop the trailing credit once it is displayed as the article's byline, so a
+ * teaser does not end by repeating the name shown right above it.
+ */
+export function stripTrailingByline(text: string): string {
+  return text.replace(TRAILING_BYLINE_TAIL, '$1').trim();
 }
 
 const NON_ALNUM = /[^a-z0-9]+/g;

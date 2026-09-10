@@ -209,6 +209,23 @@ describe('media, body, and author extraction', () => {
     const english = await parseSingle(description, 'en');
     expect(english.author).toBeUndefined();
   });
+
+  it('drops the credit from the teaser once it is captured as the author', async () => {
+    const german = await parseSingle('<description>Die Lage bleibt offen. Von H. Schwesinger.</description>', 'de');
+    expect(german.summary).toBe('Die Lage bleibt offen.');
+
+    // With no author captured, the text is left exactly as the feed sent it.
+    const english = await parseSingle('<description>Die Lage bleibt offen. Von H. Schwesinger.</description>', 'en');
+    expect(english.summary).toBe('Die Lage bleibt offen. Von H. Schwesinger.');
+  });
+
+  it('keeps the teaser intact when the author came from a feed field, not the text', async () => {
+    const item = await parseSingle(
+      '<description>Die Lage bleibt offen. Von H. Schwesinger.</description><dc:creator>Maria Muster</dc:creator>'
+    );
+    expect(item.author).toBe('Maria Muster');
+    expect(item.summary).toBe('Die Lage bleibt offen. Von H. Schwesinger.');
+  });
 });
 
 describe('item identity for shared-page fragment links (BR shape)', () => {

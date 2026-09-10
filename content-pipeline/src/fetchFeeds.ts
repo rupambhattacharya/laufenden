@@ -1,6 +1,13 @@
 import Parser from 'rss-parser';
 import { computeId } from './id';
-import { cleanArtifacts, deriveTeaser, extractByline, htmlToText, isRedundantAuthor } from './text';
+import {
+  cleanArtifacts,
+  deriveTeaser,
+  extractByline,
+  htmlToText,
+  isRedundantAuthor,
+  stripTrailingByline,
+} from './text';
 import type { FeedConfig, FeedItem } from '../../shared/types';
 
 export type FetchFn = (url: string) => Promise<string>;
@@ -126,7 +133,7 @@ export async function fetchFeed(config: FeedConfig, fetchFn: FetchFn = defaultFe
     // Atom feeds with a bare <summary> (butenunbinnen) populate neither
     // contentSnippet nor content, so item.summary has to be in the chain or
     // those teasers come out empty.
-    const snippet = cleanArtifacts(stripHtml(item.contentSnippet ?? item.content ?? item.summary ?? ''));
+    const rawSnippet = cleanArtifacts(stripHtml(item.contentSnippet ?? item.content ?? item.summary ?? ''));
     const encodedHtml = typeof raw['content:encoded'] === 'string' ? (raw['content:encoded'] as string) : '';
     // The longest text the feed offers. Only stored as a body when it
     // meaningfully extends the teaser: BR ships whole bulletins as the
@@ -134,13 +141,21 @@ export async function fetchFeed(config: FeedConfig, fetchFn: FetchFn = defaultFe
     // repeats the description around an image.
     const encodedText = cleanArtifacts(htmlToText(encodedHtml));
     const contentText = cleanArtifacts(htmlToText(item.content ?? ''));
-    const fullText = encodedText.length >= contentText.length ? encodedText : contentText;
+    const rawFullText = encodedText.length >= contentText.length ? encodedText : contentText;
+
+    const bylineName = config.language === 'de' ? extractByline(rawSnippet) : undefined;
+    const feedAuthor = extractAuthor(item) ?? bylineName;
+    const author = feedAuthor && !isRedundantAuthor(feedAuthor, sourceName, link) ? feedAuthor : undefined;
+
+    // A byline read out of the text is about to be displayed above the teaser,
+    // so leaving it in place would print the name twice.
+    const dropByline = author !== undefined && author === bylineName;
+    const snippet = dropByline ? stripTrailingByline(rawSnippet) : rawSnippet;
+    const fullText = dropByline ? stripTrailingByline(rawFullText) : rawFullText;
 
     const summary = deriveTeaser(snippet || fullText);
     const body = fullText.length > summary.length + BODY_MIN_EXTRA_CHARS ? fullText : undefined;
 
-    const feedAuthor = extractAuthor(item) ?? (config.language === 'de' ? extractByline(snippet) : undefined);
-    const author = feedAuthor && !isRedundantAuthor(feedAuthor, sourceName, link) ? feedAuthor : undefined;
     const imageUrl = extractImageUrl(raw, encodedHtml);
 
     return {
