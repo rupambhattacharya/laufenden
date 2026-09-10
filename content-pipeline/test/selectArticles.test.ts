@@ -465,4 +465,35 @@ describe('selectArticles', () => {
       }
     });
   });
+
+  describe('multiple feeds in one region', () => {
+    /** BR stamps every bulletin with the same time, so it always ties for newest. */
+    const twoSourceBayern = (): FeedItem[] => [
+      { ...item('br', 'bayern', '2026-08-21T09:00:00.000Z'), sourceName: 'BR24' },
+      { ...item('ts', 'bayern', '2026-08-21T05:00:00.000Z'), sourceName: 'tagesschau' },
+    ];
+
+    it('lets the sources take turns across days instead of the freshest-stamped one always winning', () => {
+      const firstPickOn = (date: string) => {
+        const now = new Date(`${date}T10:00:00Z`);
+        const { selected } = selectArticles(twoSourceBayern(), emptyManifest(now), now);
+        return selected[0].sourceName;
+      };
+      // 20260816 % 2 === 0 starts at the alphabetically first source, 20260821 % 2 === 1 at the other.
+      expect(firstPickOn('2026-08-16')).toBe('BR24');
+      expect(firstPickOn('2026-08-21')).toBe('tagesschau');
+    });
+
+    it('still publishes every candidate, just in interleaved order', () => {
+      const now = new Date('2026-08-21T10:00:00Z');
+      const { selected } = selectArticles(twoSourceBayern(), emptyManifest(now), now);
+      expect(selected.map((i) => i.id).sort()).toEqual(['br', 'ts']);
+    });
+
+    it('leaves a single-source region in strict recency order', () => {
+      const now = new Date('2026-08-21T10:00:00Z');
+      const { selected } = selectArticles(items('b', 'bayern', 3), emptyManifest(now), now);
+      expect(selected.map((i) => i.id)).toEqual(['b0', 'b1', 'b2']);
+    });
+  });
 });
