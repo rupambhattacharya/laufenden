@@ -211,6 +211,59 @@ describe('media, body, and author extraction', () => {
   });
 });
 
+describe('item identity for shared-page fragment links (BR shape)', () => {
+  const config = { region: 'bayern', language: 'de', url: 'https://example.com/rss.xml' } as const;
+
+  const feedWith = (items: string) => `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>BR24</title>
+    ${items}
+  </channel>
+</rss>`;
+
+  const bulletin = (anchor: string, title: string, guid = '') => `<item>
+      <title>${title}</title>
+      <link>https://www.br.de/nachrichten/meldungen/index.html${anchor}</link>
+      ${guid ? `<guid>${guid}</guid>` : ''}
+      <description>Text der Meldung.</description>
+    </item>`;
+
+  async function idOf(itemXml: string): Promise<string> {
+    const items = await fetchFeed(config, async () => feedWith(itemXml));
+    return items[0].id;
+  }
+
+  it('keeps the same id when a bulletin shifts position within the day', async () => {
+    const atN1 = await idOf(bulletin('#n1', 'Alarmtag testet Systeme'));
+    const atN3 = await idOf(bulletin('#n3', 'Alarmtag testet Systeme'));
+    expect(atN1).toBe(atN3);
+  });
+
+  it('gives a new bulletin a new id even at a position used on an earlier day', async () => {
+    const monday = await idOf(bulletin('#n1', 'Meldung von Montag'));
+    const tuesday = await idOf(bulletin('#n1', 'Meldung von Dienstag'));
+    expect(monday).not.toBe(tuesday);
+  });
+
+  it('leaves items with a real guid or a fragment-free link untouched', async () => {
+    // A real guid wins regardless of the link shape.
+    const guidA = await idOf(bulletin('#n1', 'Titel A', 'stable-guid'));
+    const guidB = await idOf(bulletin('#n2', 'Titel B', 'stable-guid'));
+    expect(guidA).toBe(guidB);
+
+    // Fragment-free links keep identifying the item on their own.
+    const plain = (title: string) => `<item>
+      <title>${title}</title>
+      <link>https://example.com/artikel-eins.html</link>
+      <description>Text.</description>
+    </item>`;
+    const titleA = await idOf(plain('Titel A'));
+    const titleB = await idOf(plain('Titel B'));
+    expect(titleA).toBe(titleB);
+  });
+});
+
 describe('fetchAllFeeds', () => {
   it('merges items from multiple feed configs', async () => {
     const items = await fetchAllFeeds(

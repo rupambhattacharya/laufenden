@@ -2,6 +2,7 @@
   { "region": "global", "language": "en", "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
   { "region": "germany", "language": "de", "url": "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml" },
   { "region": "bayern", "language": "de", "url": "https://www.br.de/nachrichten/meldungen/nachrichten-bayerischer-rundfunk100~newsRss.xml" },
+  { "region": "bayern", "language": "de", "url": "https://www.tagesschau.de/inland/regional/bayern/index~rss2.xml" },
   { "region": "nrw", "language": "de", "url": "https://www1.wdr.de/uebersicht-100.feed" },
   { "region": "berlin", "language": "de", "url": "https://www.rbb24.de/index.xml/feed=rss.xml" },
   { "region": "brandenburg", "language": "de", "url": "https://www.rbb24.de/index.xml/feed=rss.xml" },
