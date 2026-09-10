@@ -110,7 +110,18 @@ export async function fetchFeed(config: FeedConfig, fetchFn: FetchFn = defaultFe
     const raw = item as Record<string, unknown>;
     const link = item.link ?? '';
     const guid = (raw.guid as string | undefined) ?? (raw.id as string | undefined) ?? link;
-    const identity = guid || link || item.title || '';
+    let identity = guid || link || item.title || '';
+    // BR's Meldungen items carry no guid and all link to one page with
+    // positional #nN fragments. sha1(link) therefore collides with whatever
+    // bulletin held that position on an earlier day, so selection dropped
+    // every newer BR item as "already published" (bayern only got through
+    // when the feed grew past its historical max length). The position also
+    // shifts within a day as newer bulletins push older ones down. When the
+    // only identity on offer is a fragment link, identify by page + title:
+    // stable across position shifts, distinct across days.
+    if (identity === link && link.includes('#')) {
+      identity = `${link.split('#')[0]}|${item.title ?? ''}`;
+    }
 
     // Atom feeds with a bare <summary> (butenunbinnen) populate neither
     // contentSnippet nor content, so item.summary has to be in the chain or
