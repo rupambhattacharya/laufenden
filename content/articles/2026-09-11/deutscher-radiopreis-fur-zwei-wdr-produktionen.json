@@ -1,0 +1,33 @@
+{
+  "id": "2480ffafde270b41eae7c917c36769c96cad4a46",
+  "slug": "deutscher-radiopreis-fur-zwei-wdr-produktionen",
+  "category": "nrw",
+  "sourceName": "WDR.de",
+  "sourceUrl": "https://www1.wdr.de/wdr-deutscher-radiopreis-100.html",
+  "publishedAt": "2026-09-10T22:10:30.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://www1.wdr.de/kultur/verleihung-radiopreis-informationsformat-100~_v-gseagaleriexl.jpg",
+  "author": "Felix Wessel, Arndt Lorenz",
+  "translations": {
+    "en": {
+      "title": "German Radio Award for two WDR productions",
+      "summary": "The German Radio Award 2026 in the categories \"Best Information Format\" and \"Best Morning Show\" goes to WDR 2 and \"1LIVE\"."
+    },
+    "de": {
+      "title": "Deutscher Radiopreis für zwei WDR-Produktionen",
+      "summary": "Der Deutsche Radiopreis 2026 in den Kategorien \"Bestes Informationsformat\" und \"Beste Morgensendung\" geht an WDR 2 und \"1LIVE\"."
+    },
+    "hi": {
+      "title": "दो WDR प्रस्तुतियों के लिए जर्मन रेडियो पुरस्कार",
+      "summary": "\"सर्वश्रेष्ठ सूचना प्रारूप\" और \"सर्वश्रेष्ठ मॉर्निंग शो\" श्रेणियों में जर्मन रेडियो पुरस्कार 2026 WDR 2 और \"1LIVE\" में जाता है।"
+    },
+    "bn": {
+      "title": "দুটি WDR প্রযোজনার জন্য জার্মান রেডিও পুরস্কার",
+      "summary": "\"বেস্ট ইনফরমেশন ফর্ম্যাট\" এবং \"বেস্ট মর্নিং শো\" বিভাগগুলিতে জার্মান রেডিও অ্যাওয়ার্ড 2026 WDR 2 এবং \"1LIVE\" -এ যায় ।"
+    },
+    "fr": {
+      "title": "Prix radio allemand pour deux productions WDR",
+      "summary": "Le Prix allemand de la radio 2026 dans les catégories « Meilleur format d'information » et « Meilleure émission du matin » revient à WDR 2 et « 1LIVE »."
+    }
+  }
+}

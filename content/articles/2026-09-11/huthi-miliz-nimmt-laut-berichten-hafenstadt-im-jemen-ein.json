@@ -1,0 +1,32 @@
+{
+  "id": "0f7b22924706fb0a0d0d952dbd0b315a95777716",
+  "slug": "huthi-miliz-nimmt-laut-berichten-hafenstadt-im-jemen-ein",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/asien/huthi-jemen-114.html",
+  "publishedAt": "2026-09-10T19:23:15.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/d58b5b2f-4ba0-4a53-89c0-0b048ba45627/AAABoIzGNjs/AAABnSSvrFg/16x9-big/jemen-huthi-134.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Houthi militia reportedly takes port city in Yemen",
+      "summary": "The Houthis have launched an offensive on the coastal area in Yemen. According to media reports, the Iranian-backed militia now captured the port city of Mocha - controlling access to a strategically important strait."
+    },
+    "de": {
+      "title": "Huthi-Miliz nimmt laut Berichten Hafenstadt im Jemen ein",
+      "summary": "Die Huthi haben im Jemen eine Offensive auf das Küstengebiet gestartet. Medienberichten zufolge nahm die vom Iran unterstützte Miliz nun die Hafenstadt Mokka ein - und kontrolliert damit einen Zugang zu einer strategisch wichtigen Meerenge."
+    },
+    "hi": {
+      "title": "हौथी मिलिशिया ने यमन के बंदरगाह शहर पर कब्जा कर लिया है",
+      "summary": "हौथिस ने यमन में तटीय क्षेत्र पर एक आक्रमण शुरू किया है। मीडिया रिपोर्टों के अनुसार, ईरानी समर्थित मिलिशिया ने अब बंदरगाह शहर मोचा पर कब्जा कर लिया है - जो रणनीतिक रूप से महत्वपूर्ण जलडमरूमध्य तक पहुंच को नियंत्रित करता है।"
+    },
+    "bn": {
+      "title": "হুথি মিলিশিয়া ইয়েমেনের বন্দর নগরী দখল করেছে বলে জানা গেছে",
+      "summary": "হুতিরা ইয়েমেনের উপকূলীয় এলাকায় আক্রমণ শুরু করেছে । মিডিয়া রিপোর্ট অনুসারে, ইরান-সমর্থিত মিলিশিয়া এখন বন্দর শহর মোচা দখল করেছে - কৌশলগতভাবে গুরুত্বপূর্ণ প্রণালীতে অ্যাক্সেস নিয়ন্ত্রণ করে ।"
+    },
+    "fr": {
+      "title": "Selon les rapports, la milice houthie occupe une ville portuaire au Yémen",
+      "summary": "Les Houthis ont lancé une offensive sur la zone côtière au Yémen. Selon les médias, la milice soutenue par l'Iran a maintenant pris possession de la ville portuaire de Mokka - et contrôle ainsi l'accès à un détroit stratégiquement important."
+    }
+  }
+}

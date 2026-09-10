@@ -1,0 +1,32 @@
+{
+  "id": "4d3f5701a6391e5b6b3283188a199f4a8144767e",
+  "slug": "yemen-s-houthis-reportedly-seize-strategic-red-sea-port-of-mokha",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-10T18:15:47.000Z",
+  "originalLanguage": "en",
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af67/live/bf0ec050-ad2b-11f1-bc1f-3f186ca4140c.jpg",
+  "translations": {
+    "en": {
+      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+      "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route."
+    },
+    "de": {
+      "title": "Jemens Houthis besetzen Berichten zufolge den strategischen Hafen Mokha am Roten Meer",
+      "summary": "Mokhas Gefangennahme würde die vom Iran unterstützte Gruppe näher an die Kontrolle der Bab al-Mandab-Straße bringen, einer wichtigen Schifffahrtsroute."
+    },
+    "hi": {
+      "title": "यमन के हौथियों ने कथित तौर पर मोखा के रणनीतिक लाल सागर बंदरगाह को जब्त कर लिया",
+      "summary": "मोखा का कब्जा ईरान समर्थित समूह को बाब अल - मंडब जलमार्ग को नियंत्रित करने के करीब लाएगा, जो एक महत्वपूर्ण शिपिंग मार्ग है।"
+    },
+    "bn": {
+      "title": "ইয়েমেনের হুথিরা মোখার কৌশলগত লোহিত সাগর বন্দর দখল করেছে বলে জানা গেছে",
+      "summary": "মোখার ক্যাপচার ইরান-সমর্থিত গ্রুপকে বাব আল-মান্দাব স্ট্রেইট জলপথ নিয়ন্ত্রণের কাছাকাছি নিয়ে আসবে, এটি একটি গুরুত্বপূর্ণ শিপিং রুট ।"
+    },
+    "fr": {
+      "title": "Les Houthis du Yémen s'empareraient du port stratégique de Mokha sur la mer Rouge",
+      "summary": "La capture de Mokha rapprocherait le groupe soutenu par l'Iran du contrôle de la voie navigable du détroit de Bab al-Mandab, une route maritime clé."
+    }
+  }
+}

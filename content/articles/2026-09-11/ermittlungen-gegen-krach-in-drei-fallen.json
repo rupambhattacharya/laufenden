@@ -1,0 +1,32 @@
+{
+  "id": "07523b5c5bef678400a8daffb1ee0ff47dd05dcd",
+  "slug": "ermittlungen-gegen-krach-in-drei-fallen",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/regional/berlin/rbb-staatsanwaltschaft-ermittelt-in-drei-faellen-gegen-spd-spitzenkandidat-krach-102.html",
+  "publishedAt": "2026-09-10T22:03:41.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/980e74db-cddc-46f0-a933-8c5ce7aa591c/AAABoI0mJUM/AAABnSSvrFg/16x9-big/rbb-steffen-krach-618333196-100.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Investigations against noise in three cases",
+      "summary": "The public prosecutor's office in Hanover is investigating three cases against Berlin's top SPD candidate Krach. It is about betrayal of trade secrets and the initial suspicion of taking advantage. Krach rejects the accusations."
+    },
+    "de": {
+      "title": "Ermittlungen gegen Krach in drei Fällen",
+      "summary": "Die Staatsanwaltschaft Hannover ermittelt in drei Fällen gegen den Berliner SPD-Spitzenkandidaten Krach. Es geht um Verrat von Geschäftsgeheimnissen und den Anfangsverdacht auf Vorteilsnahme. Krach weist die Vorwürfe zurück."
+    },
+    "hi": {
+      "title": "तीन मामलों में शोर के खिलाफ जांच",
+      "summary": "हनोवर में लोक अभियोजक कार्यालय बर्लिन के शीर्ष एसपीडी उम्मीदवार क्राच के खिलाफ तीन मामलों की जांच कर रहा है। यह व्यापार रहस्यों के साथ विश्वासघात और लाभ लेने के प्रारंभिक संदेह के बारे में है। क्राच आरोपों को खारिज करता है।"
+    },
+    "bn": {
+      "title": "তিনটি ক্ষেত্রে গোলমালের বিরুদ্ধে তদন্ত",
+      "summary": "হ্যানোভারের পাবলিক প্রসিকিউটর অফিস বার্লিনের শীর্ষ এসপিডি প্রার্থী ক্র্যাচের বিরুদ্ধে তিনটি মামলা তদন্ত করছে । এটি বাণিজ্য গোপনীয়তার বিশ্বাসঘাতকতা এবং সুবিধা গ্রহণের প্রাথমিক সন্দেহ সম্পর্কে । ক্রাচ অভিযোগগুলি প্রত্যাখ্যান করে ।"
+    },
+    "fr": {
+      "title": "Enquêtes contre Krach dans trois cas",
+      "summary": "Le parquet de Hanovre enquête dans trois cas contre Krach, le candidat du SPD à Berlin. Il s'agit de la trahison des secrets d'affaires et de la suspicion initiale de profits. Krach rejette les accusations."
+    }
+  }
+}

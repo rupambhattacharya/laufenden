@@ -1,0 +1,32 @@
+{
+  "id": "7e6d1cf95064a5ef21f6242ccd45ba8d0833150d",
+  "slug": "bundesanwaltschaft-ubernimmt-ermittlungen-zu-strom-sabotage",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/strom-sabotage-bundesanwaltschaft-100.html",
+  "publishedAt": "2026-09-10T17:43:51.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/37b88f66-558c-4341-8474-30800c6eea7c/AAABoHsmtyk/AAABnSSvrFg/16x9-big/berlin-umspannwerk-100.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Federal Prosecutor's Office takes over investigations into electricity sabotage",
+      "summary": "Following the attacks on substations in several federal states, the Federal Prosecutor's Office has taken over the investigation. The suspect is accused of unconstitutional sabotage."
+    },
+    "de": {
+      "title": "Bundesanwaltschaft übernimmt Ermittlungen zu Strom-Sabotage",
+      "summary": "Nach den Attacken auf Umspannwerke in mehreren Bundesländern hat die Bundesanwaltschaft die Ermittlungen übernommen. Dem Tatverdächtigen wird verfassungsfeindliche Sabotage vorgeworfen."
+    },
+    "hi": {
+      "title": "संघीय अभियोजक कार्यालय ने बिजली की तोड़फोड़ की जांच संभाली",
+      "summary": "कई संघीय राज्यों में सबस्टेशन पर हमलों के बाद, संघीय अभियोजक कार्यालय ने जांच को अपने हाथ में ले लिया है। संदिग्ध पर असंवैधानिक तोड़फोड़ का आरोप है।"
+    },
+    "bn": {
+      "title": "ফেডারেল প্রসিকিউটর অফিস বিদ্যুৎ নাশকতার তদন্ত গ্রহণ করে",
+      "summary": "বেশ কয়েকটি ফেডারেল রাজ্যে সাবস্টেশনগুলিতে হামলার পরে, ফেডারেল প্রসিকিউটর অফিস তদন্ত গ্রহণ করেছে । সন্দেহভাজনকে অসাংবিধানিক নাশকতার অভিযোগে অভিযুক্ত করা হয়েছে ।"
+    },
+    "fr": {
+      "title": "Le Ministère public de la Confédération mène une enquête sur le sabotage électrique",
+      "summary": "Après les attaques contre des sous-stations électriques dans plusieurs Länder, le Ministère public de la Confédération a repris l'enquête. Le suspect est accusé de sabotage anticonstitutionnel."
+    }
+  }
+}

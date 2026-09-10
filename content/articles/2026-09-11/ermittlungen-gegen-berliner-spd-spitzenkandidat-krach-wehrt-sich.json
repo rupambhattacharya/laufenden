@@ -1,0 +1,32 @@
+{
+  "id": "d1b902ab4202c7fb34d966c0d7295df9d92549bd",
+  "slug": "ermittlungen-gegen-berliner-spd-spitzenkandidat-krach-wehrt-sich",
+  "category": "niedersachsen",
+  "sourceName": "Nachrichten aus Niedersachsen",
+  "sourceUrl": "https://www.ndr.de/nachrichten/niedersachsen/hannover_weser-leinegebiet/ermittlungen-gegen-berliner-spd-spitzenkandidat-krach-wehrt-sich,krach-110.html",
+  "publishedAt": "2026-09-10T22:01:39.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.ndr.de/image/d847ebf2-ebdd-4d69-9c6a-6fbd870f6e73/AAABoIxeaRA/AAABnSSvrFg/16x9-big/krach108.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Investigations against Berlin's top SPD candidate - Krach defends himself",
+      "summary": "There is an initial suspicion of assumption of advantage, the Hanover Public Prosecutor's Office has now announced. The regional president on leave once again rejected all accusations."
+    },
+    "de": {
+      "title": "Ermittlungen gegen Berliner SPD-Spitzenkandidat - Krach wehrt sich",
+      "summary": "Es bestehe der Anfangsverdacht auf Vorteilsannahme, teilte die Staatsanwaltschaft Hannover jetzt mit. Der beurlaubte Regionspräsident wies erneut alle Vorwürfe zurück."
+    },
+    "hi": {
+      "title": "बर्लिन के शीर्ष एसपीडी उम्मीदवार के खिलाफ जांच - क्राच ने खुद का बचाव किया",
+      "summary": "लाभ की धारणा का प्रारंभिक संदेह है, हनोवर लोक अभियोजक कार्यालय ने अब घोषणा की है। छुट्टी पर गए क्षेत्रीय राष्ट्रपति ने एक बार फिर सभी आरोपों को खारिज कर दिया।"
+    },
+    "bn": {
+      "title": "বার্লিনের শীর্ষ এসপিডি প্রার্থীর বিরুদ্ধে তদন্ত - ক্র্যাচ নিজেকে রক্ষা করেছেন",
+      "summary": "সুবিধার অনুমানের প্রাথমিক সন্দেহ রয়েছে, হ্যানোভার পাবলিক প্রসিকিউটর অফিস এখন ঘোষণা করেছে । রিজিওনাল প্রেসিডেন্ট ছুটিতে থাকা অবস্থায় আবারও সব অভিযোগ অস্বীকার করেছেন ।"
+    },
+    "fr": {
+      "title": "Enquête contre le principal candidat du SPD à Berlin - Krach résiste",
+      "summary": "Il y a un soupçon initial d'acceptation d'un avantage, a déclaré le parquet de Hanovre. Le président de la région en congé a de nouveau rejeté toutes les allégations."
+    }
+  }
+}

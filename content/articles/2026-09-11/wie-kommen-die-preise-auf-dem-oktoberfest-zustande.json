@@ -1,0 +1,32 @@
+{
+  "id": "9ec476acdcc7394e57be3db214fe6f8dfb0332c4",
+  "slug": "wie-kommen-die-preise-auf-dem-oktoberfest-zustande",
+  "category": "bayern",
+  "sourceName": "Regionalnachrichten aus Bayern",
+  "sourceUrl": "https://www.tagesschau.de/inland/regional/bayern/br-wie-kommen-die-preise-auf-dem-oktoberfest-zustande-102.html",
+  "publishedAt": "2026-09-10T09:53:53.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/e3c66a1d-2faa-422e-949c-89085b62fddd/AAABoItyZpY/AAABnSSvrFg/16x9-big/br-die-getraenkepreise-werden-von-den-wiesn-wirten-nach-betriebswirtschaftlichen-vorgaben-kalkuliert-und-festgelegt-100.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "How do the prizes come about at Oktoberfest?",
+      "summary": "On average, 15.61 euros for the mass of beer and 11.13 euros for the liter of water: the visit to the Wiesn will not be a cheap pleasure again this year. An overview of the prices and how they come about according to the hosts."
+    },
+    "de": {
+      "title": "Wie kommen die Preise auf dem Oktoberfest zustande?",
+      "summary": "Im Schnitt 15,61 Euro für die Maß Bier und 11,13 Euro für den Liter Wasser: Der Wiesn-Besuch wird auch dieses Jahr wieder kein günstiges Vergnügen. Ein Überblick über die Preise und wie sie laut den Wirten zustande kommen."
+    },
+    "hi": {
+      "title": "Oktoberfest में इनाम कैसे मिलते हैं?",
+      "summary": "औसतन, बीयर के द्रव्यमान के लिए 15.61 यूरो और पानी के लीटर के लिए 11.13 यूरो: विज़्न की यात्रा इस साल फिर से सस्ती खुशी नहीं होगी। मेज़बानों के अनुसार किराए और उनके बारे में जानकारी।"
+    },
+    "bn": {
+      "title": "অক্টোবরফেস্টে পুরস্কারগুলি কীভাবে আসে?",
+      "summary": "গড়ে, বিয়ারের ভরের জন্য 15.61 ইউরো এবং জলের লিটার জন্য 11.13 ইউরো: এই বছর উইসনে যাওয়া আবার সস্তা আনন্দ হবে না । দামের একটি সংক্ষিপ্ত বিবরণ এবং হোস্ট অনুযায়ী সেগুলি কীভাবে আসে ।"
+    },
+    "fr": {
+      "title": "Comment les prix sont-ils établis à l'Oktoberfest ?",
+      "summary": "En moyenne 15,61 euros pour la mesure de la bière et 11,13 euros pour le litre d'eau : la visite de Wiesn ne sera pas non plus un plaisir bon marché cette année. Un aperçu des prix et de la manière dont ils sont générés selon les hôtes."
+    }
+  }
+}

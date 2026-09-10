@@ -1,0 +1,32 @@
+{
+  "id": "64c2696b2953ca4acbd8e9962f8b521b2a69084c",
+  "slug": "more-than-20-children-killed-in-dr-congo-school-fire",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-10T19:16:24.000Z",
+  "originalLanguage": "en",
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e261/live/77db64c0-ad28-11f1-bc1f-3f186ca4140c.jpg",
+  "translations": {
+    "en": {
+      "title": "More than 20 children killed in DR Congo school fire",
+      "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu."
+    },
+    "de": {
+      "title": "Mehr als 20 Kinder bei Schulbrand in der DR Kongo getötet",
+      "summary": "Beamte sagen, dass es einen Ansturm gab, als sie vor einem Feuer flohen, das zwei Schulen in der von Rebellen gehaltenen Stadt Bukavu im Osten verschlang."
+    },
+    "hi": {
+      "title": "डीआर कांगो स्कूल में आग लगने से 20 से अधिक बच्चों की मौत",
+      "summary": "अधिकारियों का कहना है कि पूर्वी विद्रोहियों के कब्जे वाले बुकावू शहर में दो स्कूलों में लगी आग से भागने के दौरान भगदड़ मच गई।"
+    },
+    "bn": {
+      "title": "ডিআর কঙ্গোর স্কুলে অগ্নিকাণ্ডে ২০ জনেরও বেশি শিশু নিহত",
+      "summary": "কর্মকর্তারা বলছেন যে পূর্বাঞ্চলীয় বিদ্রোহী-নিয়ন্ত্রিত শহর বুকাভুতে দুটি স্কুলে আগুন লাগার সময় তারা একটি পদদলিত হয়েছিল ।"
+    },
+    "fr": {
+      "title": "Plus de 20 enfants tués dans l'incendie d'une école en RD Congo",
+      "summary": "Les responsables disent qu'il y a eu une bousculade alors qu'ils fuyaient un incendie qui a englouti deux écoles dans la ville de Bukavu, dans l'est du pays, tenue par les rebelles."
+    }
+  }
+}

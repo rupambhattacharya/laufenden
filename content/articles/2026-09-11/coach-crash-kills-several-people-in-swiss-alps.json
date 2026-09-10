@@ -1,0 +1,32 @@
+{
+  "id": "0fb4bbc2f13b6cb1817bf971a3cb2b65c0c1c873",
+  "slug": "coach-crash-kills-several-people-in-swiss-alps",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-10T20:44:51.000Z",
+  "originalLanguage": "en",
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d79c/live/94f7da60-ad56-11f1-8128-99eda56e535a.png",
+  "translations": {
+    "en": {
+      "title": "Coach crash kills several people in Swiss Alps",
+      "summary": "A coach carrying 48 Dutch passengers overturns, leaving several people dead."
+    },
+    "de": {
+      "title": "Busunfall tötet mehrere Menschen in den Schweizer Alpen",
+      "summary": "Ein Bus mit 48 niederländischen Passagieren kippt um und tötet mehrere Menschen."
+    },
+    "hi": {
+      "title": "स्विस आल्प्स में कोच दुर्घटना में कई लोगों की मौत",
+      "summary": "48 डच यात्रियों को ले जा रहा एक कोच पलट गया, जिससे कई लोगों की मौत हो गई।"
+    },
+    "bn": {
+      "title": "সুইস আল্পসে কোচ দুর্ঘটনায় বেশ কয়েকজন নিহত",
+      "summary": "৪৮ জন ডাচ যাত্রী বহনকারী একজন কোচ উল্টে যায় এবং বেশ কয়েকজন মারা যায় ।"
+    },
+    "fr": {
+      "title": "Un accident d'autocar tue plusieurs personnes dans les Alpes suisses",
+      "summary": "Un autocar transportant 48 passagers néerlandais se renverse, faisant plusieurs morts."
+    }
+  }
+}

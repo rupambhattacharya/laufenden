@@ -1,0 +1,33 @@
+{
+  "id": "b413178488dd85db02aa24d4aa0396c9608a861e",
+  "slug": "usa-oberstes-gericht-lehnt-wahlkreisanderung-in-missouri-ab",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/amerika/usa-wahlkreise-missouri-oberstes-gericht-100.html",
+  "publishedAt": "2026-09-10T17:18:47.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/b030cb89-3b88-4c44-b06b-68680d05c83f/AAABoIwkvc0/AAABnSSvrFg/16x9-big/oberster-gerichtshof-washington-104.jpg?width=1920",
+  "author": "S. Jackisch",
+  "translations": {
+    "en": {
+      "title": "USA: Supreme Court Rejects Missouri Constituency Change",
+      "summary": "Less than two months before the midterms, US President Trump suffered a setback: the Supreme Court rejected the re-cutting of the constituencies in Missouri. The change could lead to chaos."
+    },
+    "de": {
+      "title": "USA: Oberstes Gericht lehnt Wahlkreisänderung in Missouri ab",
+      "summary": "Weniger als zwei Monate vor den Midterms muss US-Präsident Trump einen Rückschlag hinnehmen: Der Supreme Court lehnte den Neuzuschnitt der Wahlkreise in Missouri ab. Die Änderung könnte zu Chaos führen."
+    },
+    "hi": {
+      "title": "संयुक्त राज्य अमेरिका: सुप्रीम कोर्ट ने मिसौरी निर्वाचन क्षेत्र परिवर्तन को खारिज कर दिया",
+      "summary": "मध्यकाल से दो महीने से भी कम समय पहले, अमेरिकी राष्ट्रपति ट्रम्प को एक झटका लगा: सुप्रीम कोर्ट ने मिसौरी में निर्वाचन क्षेत्रों को फिर से काटने से इनकार कर दिया। यह बदलाव अराजकता का कारण बन सकता है।"
+    },
+    "bn": {
+      "title": "মার্কিন যুক্তরাষ্ট্র: সুপ্রিম কোর্ট মিসৌরি নির্বাচনী এলাকার পরিবর্তন প্রত্যাখ্যান করেছে",
+      "summary": "মধ্যবর্তী সময়ের দুই মাসেরও কম আগে, মার্কিন প্রেসিডেন্ট ট্রাম্প একটি ধাক্কা খেয়েছিলেন: সুপ্রিম কোর্ট মিসৌরিতে নির্বাচনী এলাকাগুলি পুনরায় কাটানোর বিষয়টি প্রত্যাখ্যান করেছে । এই পরিবর্তন বিশৃঙ্খলার কারণ হতে পারে ।"
+    },
+    "fr": {
+      "title": "États-Unis : la Cour suprême rejette le changement de circonscription au Missouri",
+      "summary": "Moins de deux mois avant les Midterms, le président américain Trump doit faire face à un revers : la Cour suprême a rejeté le remaniement des circonscriptions du Missouri. Le changement pourrait mener au chaos."
+    }
+  }
+}

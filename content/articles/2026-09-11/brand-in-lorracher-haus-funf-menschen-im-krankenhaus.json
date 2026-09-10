@@ -1,0 +1,32 @@
+{
+  "id": "577158862385a1647a1baee4ba6b615499f8a34d",
+  "slug": "brand-in-lorracher-haus-funf-menschen-im-krankenhaus",
+  "category": "baden-wuerttemberg",
+  "sourceName": "SWR Aktuell Baden-Württemberg",
+  "sourceUrl": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/mehrfamilienhaus-brand-verletzte-100.html",
+  "publishedAt": "2026-09-10T23:14:44.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/1789073767982%2Cfeuerwehr-brand-104~_v-16x9@2dXL_-77ed5d09bafd4e3cf6a5a0264e5e16ea35f14925.jpg",
+  "translations": {
+    "en": {
+      "title": "Fire in Lörracher house - five people in hospital",
+      "summary": "The fire brigade rescued ten people from an apartment building in Lörrach on Thursday evening. Property damage is estimated at a high six-figure amount."
+    },
+    "de": {
+      "title": "Brand in Lörracher Haus - fünf Menschen im Krankenhaus",
+      "summary": "Die Feuerwehr rettete am Donnerstagabend zehn Personen aus einem Mehrfamilienhaus in Lörrach. Der Sachschaden wird auf einen hohen sechsstelligen Betrag geschätzt."
+    },
+    "hi": {
+      "title": "लोरेचर घर में आग - अस्पताल में पांच लोग",
+      "summary": "फायर ब्रिगेड ने गुरुवार शाम को लोराच में एक अपार्टमेंट की इमारत से दस लोगों को बचाया। संपत्ति के नुकसान का अनुमान छह अंकों की एक उच्च राशि से लगाया जाता है।"
+    },
+    "bn": {
+      "title": "Lörracher বাড়িতে আগুন - হাসপাতালে পাঁচজন",
+      "summary": "বৃহস্পতিবার সন্ধ্যায় লর্যাচের একটি অ্যাপার্টমেন্ট ভবন থেকে দশজনকে উদ্ধার করে ফায়ার ব্রিগেড । সম্পত্তির ক্ষতির পরিমাণ ছয়-অঙ্কের বেশি বলে অনুমান করা হয় ।"
+    },
+    "fr": {
+      "title": "Incendie dans la maison de Lörrach - cinq personnes hospitalisées",
+      "summary": "Jeudi soir, les pompiers ont sauvé dix personnes d'un immeuble à Lörrach. Les dommages matériels sont estimés à un montant élevé à six chiffres."
+    }
+  }
+}

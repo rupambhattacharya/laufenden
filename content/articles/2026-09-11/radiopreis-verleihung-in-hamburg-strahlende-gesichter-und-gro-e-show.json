@@ -1,0 +1,32 @@
+{
+  "id": "39dfec68e10cdf83e10aea44ad76c1b7c9d203c8",
+  "slug": "radiopreis-verleihung-in-hamburg-strahlende-gesichter-und-gro-e-show",
+  "category": "hamburg",
+  "sourceName": "Nachrichten aus Hamburg",
+  "sourceUrl": "https://www.deutscher-radiopreis.de/",
+  "publishedAt": "2026-09-10T19:58:52.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.ndr.de/image/ec1168e8-6f7e-48d2-a3e2-c19ce2b364a3/AAABoI0pPPU/AAABnSSvrFg/16x9-big/radiopreis-26-112.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Radio Award Ceremony in Hamburg: Radiant Faces and Big Show",
+      "summary": "Awards were presented in ten categories. The award for \"Best Entertainment\" went to Andreas Altenburg from NDR 2."
+    },
+    "de": {
+      "title": "Radiopreis-Verleihung in Hamburg: Strahlende Gesichter und große Show",
+      "summary": "In zehn Kategorien wurden Auszeichnungen vergeben. Der Preis für das \"Beste Entertainment\" ging an Andreas Altenburg von NDR 2."
+    },
+    "hi": {
+      "title": "हैम्बर्ग में रेडियो पुरस्कार समारोह: उज्ज्वल चेहरे और बिग शो",
+      "summary": "पुरस्कार दस श्रेणियों में प्रदान किए गए। \"बेस्ट एंटरटेनमेंट\" का पुरस्कार एनडीआर 2 से एंड्रियास एल्टेनबर्ग को मिला।"
+    },
+    "bn": {
+      "title": "হামবুর্গে রেডিও অ্যাওয়ার্ড অনুষ্ঠান: রেডিয়েন্ট ফেসেস অ্যান্ড বিগ শো",
+      "summary": "দশটি ক্যাটাগরিতে পুরস্কার প্রদান করা হয় । \"সেরা বিনোদন\" পুরস্কারটি এনডিআর 2 থেকে আন্দ্রিয়াস অ্যালটেনবার্গে গিয়েছিল ।"
+    },
+    "fr": {
+      "title": "Remise du prix de la radio à Hambourg : visages rayonnants et grand spectacle",
+      "summary": "Des prix ont été décernés dans dix catégories. Le prix du « Meilleur divertissement » a été décerné à Andreas Altenburg de NDR 2."
+    }
+  }
+}
