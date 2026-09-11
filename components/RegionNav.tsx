@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { STATE_REGIONS } from '../shared/regions';
 import type { LanguageCode } from '../shared/types';
 import { getDictionary } from '../lib/dictionary';
+import { RegionMenu } from './RegionMenu';
 
 export function RegionNav({ lang }: { lang: LanguageCode }) {
   const dict = getDictionary(lang);
@@ -14,16 +15,13 @@ export function RegionNav({ lang }: { lang: LanguageCode }) {
       <Link href={`/${lang}/germany`} className="hover:text-black">
         {dict['region.germany']}
       </Link>
-      <details className="relative">
-        <summary className="cursor-pointer list-none hover:text-black">{dict['nav.regionsMenu']}</summary>
-        <div className="absolute left-0 top-full z-10 grid w-64 grid-cols-1 gap-1 border border-black bg-white p-3 normal-case tracking-normal text-black">
-          {STATE_REGIONS.map((region) => (
-            <Link key={region} href={`/${lang}/${region}`} className="hover:underline">
-              {dict[`region.${region}`]}
-            </Link>
-          ))}
-        </div>
-      </details>
+      <RegionMenu
+        label={dict['nav.regionsMenu']}
+        items={STATE_REGIONS.map((region) => ({
+          href: `/${lang}/${region}`,
+          label: dict[`region.${region}`],
+        }))}
+      />
     </nav>
   );
 }
