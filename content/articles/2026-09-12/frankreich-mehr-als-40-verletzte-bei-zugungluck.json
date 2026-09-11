@@ -1,0 +1,32 @@
+{
+  "id": "f9d2b43c03ac243b05aa7c18d6b58e3046b12211",
+  "slug": "frankreich-mehr-als-40-verletzte-bei-zugungluck",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html",
+  "publishedAt": "2026-09-11T21:31:05.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/04b775e7-3eb6-4544-92d6-1ec730ee1787/AAABoJJhmhc/AAABnSSvrFg/16x9-big/frankreich-polizei-126.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "France: More than 40 injured in train accident",
+      "summary": "Part of a train in northern France derailed after a collision. According to preliminary information, more than 40 people were injured, including one woman seriously. There were around 180 passengers on board the means of transport."
+    },
+    "de": {
+      "title": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
+      "summary": "Ein Teil eines Zugs in Nordfrankreich ist nach einer Kollision entgleist. Mehr als 40 Menschen wurden nach vorläufigen Angaben verletzt, darunter eine Frau schwer. An Bord des Verkehrsmittels waren rund 180 Passagiere."
+    },
+    "hi": {
+      "title": "फ्रांस: ट्रेन दुर्घटना में 40 से अधिक घायल",
+      "summary": "उत्तरी फ्रांस में एक ट्रेन का एक हिस्सा टक्कर के बाद पटरी से उतर गया। प्रारंभिक जानकारी के अनुसार, 40 से अधिक लोग घायल हुए, जिनमें एक महिला गंभीर रूप से घायल थी। परिवहन के साधनों पर लगभग 180 यात्री सवार थे।"
+    },
+    "bn": {
+      "title": "ফ্রান্স: ট্রেন দুর্ঘটনায় ৪০ জনেরও বেশি আহত",
+      "summary": "সংঘর্ষের পর উত্তর ফ্রান্সের একটি ট্রেনের অংশ লাইনচ্যুত হয় । প্রাথমিক তথ্য অনুসারে, একজন মহিলা সহ ৪০ জনেরও বেশি আহত হয়েছেন । পরিবহনের মাধ্যম হিসেবে প্রায় ১৮০ জন যাত্রী ছিলেন ।"
+    },
+    "fr": {
+      "title": "France : plus de 40 blessés dans un accident de train",
+      "summary": "Une partie d'un train dans le nord de la France a déraillé après une collision. Selon des données préliminaires, plus de 40 personnes ont été blessées, dont une femme gravement. Environ 180 passagers se trouvaient à bord du moyen de transport."
+    }
+  }
+}

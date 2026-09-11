@@ -1,0 +1,32 @@
+{
+  "id": "cea49d9186d93726e4cad7fb76b4f50657a08495",
+  "slug": "deutscher-radiopreis-2026-die-hohepunkte",
+  "category": "niedersachsen",
+  "sourceName": "Nachrichten aus Niedersachsen",
+  "sourceUrl": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjM4OTEzM19nYW56ZVNlbmR1bmc",
+  "publishedAt": "2026-09-11T22:03:07.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.ndr.de/image/3fe07595-0990-499e-861c-4dcb1b70e80a/AAABoJDU1jM/AAABnSSvrFg/16x9-big/sendungsbild-1794872.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "German Radio Award 2026: The Highlights",
+      "summary": "A gala for the radio: The most important award of the radio industry in Germany has been presented in Hamburg."
+    },
+    "de": {
+      "title": "Deutscher Radiopreis 2026: Die Höhepunkte",
+      "summary": "Eine Gala für das Radio: In Hamburg ist die wichtigste Auszeichnung der Radiobranche in Deutschland verliehen worden."
+    },
+    "hi": {
+      "title": "जर्मन रेडियो अवार्ड 2026: हाइलाइट्स",
+      "summary": "रेडियो के लिए एक उत्सव: जर्मनी में रेडियो उद्योग का सबसे महत्वपूर्ण पुरस्कार हैम्बर्ग में प्रस्तुत किया गया है।"
+    },
+    "bn": {
+      "title": "জার্মান রেডিও পুরস্কার ২০২৬: হাইলাইটস",
+      "summary": "রেডিওর জন্য একটি অনুষ্ঠান: জার্মানির রেডিও শিল্পের সবচেয়ে গুরুত্বপূর্ণ পুরস্কার হামবুর্গে উপস্থাপন করা হয়েছে ।"
+    },
+    "fr": {
+      "title": "Prix de la radio allemande 2026 : les temps forts",
+      "summary": "Un gala pour la radio : à Hambourg, le prix le plus important de l'industrie de la radio en Allemagne a été décerné."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "c8e356842d79376e834c78e846cdb3a88b3fdd45",
+  "slug": "huthi-vormarsch-bedroht-schifffahrt-im-roten-meer",
+  "category": "germany",
+  "sourceName": "Die Nachrichten des Bayerischen Rundfunks",
+  "sourceUrl": "https://www.br.de/nachrichten/meldungen/index.html#n2",
+  "publishedAt": "2026-09-11T22:39:17.000Z",
+  "originalLanguage": "de",
+  "translations": {
+    "en": {
+      "title": "Houthi advance threatens shipping in the Red Sea",
+      "summary": "Houthis occupy several islands off the west coast of Yemen: the militia has thus taken de facto control of the southern entrance to the Red Sea. A representative of the Iran-backed organization stated that freedom of navigation and international trade remained safe."
+    },
+    "de": {
+      "title": "Huthi-Vormarsch bedroht Schifffahrt im Roten Meer",
+      "summary": "Huthis besetzen mehrere Inseln vor der Westküste Jemens: Damit hat die Miliz die faktische Kontrolle über die südliche Einfahrt ins Rote Meer übernommen. Ein Vertreter der vom Iran unterstützen Organisation erklärte, dass die Freiheit der Schifffahrt und der internationale Handel weiter sicher seien."
+    },
+    "hi": {
+      "title": "हौथी एडवांस ने लाल सागर में शिपिंग की धमकी दी",
+      "summary": "यमन के पश्चिमी तट से कई द्वीपों पर हौथिस का कब्जा है: इस प्रकार मिलिशिया ने लाल सागर के दक्षिणी प्रवेश द्वार का वास्तविक नियंत्रण ले लिया है। ईरान समर्थित संगठन के एक प्रतिनिधि ने कहा कि नेविगेशन और अंतर्राष्ट्रीय व्यापार की स्वतंत्रता सुरक्षित रही।"
+    },
+    "bn": {
+      "title": "হাউথির অগ্রিম লাল সাগরে শিপিংয়ের হুমকি দেয়",
+      "summary": "ইয়েমেনের পশ্চিম উপকূলে হুথিরা বেশ কয়েকটি দ্বীপ দখল করেছে: এইভাবে মিলিশিয়া লোহিত সাগরের দক্ষিণ প্রবেশপথের কার্যত নিয়ন্ত্রণ নিয়েছে । ইরান-সমর্থিত সংস্থার একজন প্রতিনিধি বলেছেন যে ন্যাভিগেশন এবং আন্তর্জাতিক বাণিজ্যের স্বাধীনতা নিরাপদ রয়েছে ।"
+    },
+    "fr": {
+      "title": "L'avancée des Houthis menace la navigation en mer Rouge",
+      "summary": "Les Houthis occupent plusieurs îles au large de la côte ouest du Yémen : la milice a ainsi pris le contrôle de facto de l'entrée sud de la mer Rouge. Un représentant de l'organisation soutenue par l'Iran a déclaré que la liberté de navigation et le commerce international étaient toujours sûrs."
+    }
+  }
+}

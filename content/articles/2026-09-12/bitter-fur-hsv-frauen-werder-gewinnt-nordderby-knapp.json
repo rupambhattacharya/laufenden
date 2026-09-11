@@ -1,0 +1,32 @@
+{
+  "id": "fd6633adf685274b0b27599f5887295f752dcbe5",
+  "slug": "bitter-fur-hsv-frauen-werder-gewinnt-nordderby-knapp",
+  "category": "hamburg",
+  "sourceName": "Nachrichten aus Hamburg",
+  "sourceUrl": "https://www.ndr.de/sport/fussball/Bundesliga-Frauen-HSV-Werder-Bremen-Nordderby,hsv-frauen-werder-bremen-100.html",
+  "publishedAt": "2026-09-11T21:30:12.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.ndr.de/image/cbb81917-4900-4e71-91ed-1259a9789845/AAABoJGf6T4/AAABnSSvrFg/16x9-big/nordderby-210.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Bitter for HSV women - Werder wins Nordderby by a narrow margin",
+      "summary": "The teams gave themselves nothing in the Weser Stadium. A standard situation for the hosts finally decided the game."
+    },
+    "de": {
+      "title": "Bitter für HSV-Frauen - Werder gewinnt Nordderby knapp",
+      "summary": "Die Teams schenkten sich im Weserstadion nichts. Eine Standardsituation für die Gastgeberinnen entschied schließlich das Spiel."
+    },
+    "hi": {
+      "title": "एचएसवी महिलाओं के लिए कड़वा - वेर्डर ने नॉर्डरबी को संकीर्ण अंतर से जीता",
+      "summary": "टीमों ने वेसर स्टेडियम में खुद को कुछ नहीं दिया। मेजबानों के लिए एक मानक स्थिति ने आखिरकार खेल का फैसला किया।"
+    },
+    "bn": {
+      "title": "HSV মহিলাদের জন্য বিরক্তিকর - ওয়ার্ডার একটি সংকীর্ণ মার্জিনে Nordderby জিতেছেন",
+      "summary": "দলগুলি ওয়েসার স্টেডিয়ামে নিজেদের কিছুই দেয়নি । আয়োজকদের জন্য একটি আদর্শ পরিস্থিতি অবশেষে খেলাটি সিদ্ধান্ত নিয়েছে ।"
+    },
+    "fr": {
+      "title": "Amère pour les femmes HSV - le Werder remporte le Nordderby de justesse",
+      "summary": "Les équipes ne se sont rien donné au Weserstadion. Une situation standard pour les hôtesses a finalement décidé du match."
+    }
+  }
+}

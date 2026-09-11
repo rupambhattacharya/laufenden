@@ -1,0 +1,32 @@
+{
+  "id": "e064e706ba899f890ab23140ac44ea70dbae4063",
+  "slug": "alles-fur-den-hof-landwirte-leiden-haufiger-an-depressionen",
+  "category": "bayern",
+  "sourceName": "Regionalnachrichten aus Bayern",
+  "sourceUrl": "https://www.tagesschau.de/inland/regional/bayern/br-alles-fuer-den-hof-landwirte-leiden-haeufiger-an-depressionen-104.html",
+  "publishedAt": "2026-09-11T12:27:21.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/62d724c1-e485-4a22-b1bb-59f74bcfeb76/AAABoJBwdFY/AAABnSSvrFg/16x9-big/br-achim-und-anne-buehler-lieben-ihren-beruf-100.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Everything for the farm: Farmers are more likely to suffer from depression",
+      "summary": "In Bavaria, on average, a farmer commits suicide every week. This is significantly more than in the rest of the population. The causes of depression in farmers are complex, there are no studies on this. Why are so many in the industry affected?"
+    },
+    "de": {
+      "title": "Alles für den Hof: Landwirte leiden häufiger an Depressionen",
+      "summary": "In Bayern begeht im Schnitt jede Woche ein Landwirt Suizid. Das ist deutlich mehr als in der übrigen Bevölkerung. Die Ursachen für Depressionen bei Bauern sind vielschichtig, Studien dazu gibt es nicht. Warum sind so viele in der Branche betroffen?"
+    },
+    "hi": {
+      "title": "खेत के लिए सब कुछ: किसानों के अवसाद से पीड़ित होने की अधिक संभावना है",
+      "summary": "बवेरिया में, औसतन, हर हफ्ते एक किसान आत्महत्या करता है। यह बाकी आबादी की तुलना में काफी अधिक है। किसानों में अवसाद के कारण जटिल हैं, इस पर कोई अध्ययन नहीं किया गया है। उद्योग में इतने सारे लोग क्यों प्रभावित हैं?"
+    },
+    "bn": {
+      "title": "খামারের জন্য সবকিছু: কৃষকদের বিষণ্নতায় ভোগার সম্ভাবনা বেশি",
+      "summary": "বাভারিয়ায় গড়ে প্রতি সপ্তাহে একজন কৃষক আত্মহত্যা করেন । এটি বাকি জনসংখ্যার তুলনায় উল্লেখযোগ্যভাবে বেশি । কৃষকদের মধ্যে বিষণ্নতার কারণগুলি জটিল, এ সম্পর্কে কোনও গবেষণা নেই । শিল্পে এত লোক কেন প্রভাবিত হয়?"
+    },
+    "fr": {
+      "title": "Tout pour la ferme : les agriculteurs souffrent plus souvent de dépression",
+      "summary": "En Bavière, un agriculteur se suicide en moyenne chaque semaine. C'est nettement plus que dans le reste de la population. Les causes de la dépression chez les agriculteurs sont multiples, il n'y a pas d'études à ce sujet. Pourquoi tant de personnes sont-elles concernées dans l'industrie ?"
+    }
+  }
+}

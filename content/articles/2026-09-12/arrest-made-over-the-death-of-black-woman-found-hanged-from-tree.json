@@ -1,0 +1,32 @@
+{
+  "id": "eec07107e9d13fa1ae746a3a9453e24b4fd77322",
+  "slug": "arrest-made-over-the-death-of-black-woman-found-hanged-from-tree",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-11T22:57:42.000Z",
+  "originalLanguage": "en",
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ba/live/4cbe86d0-ae1f-11f1-ac3c-d9de82cf7bb1.jpg",
+  "translations": {
+    "en": {
+      "title": "Arrest made over the death of black woman found hanged from tree",
+      "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August."
+    },
+    "de": {
+      "title": "Verhaftung wegen des Todes einer schwarzen Frau, die an einem Baum gehängt aufgefunden wurde",
+      "summary": "Die Leiche von Tasia Fortune wurde im August auf dem Grundstück eines verlassenen Hauses in Mississippi gefunden."
+    },
+    "hi": {
+      "title": "पेड़ से लटकी मिली काली महिला की मौत के मामले में गिरफ्तारी",
+      "summary": "तस्शिया फॉर्च्यून का शव अगस्त में मिसिसिपी में एक परित्यक्त घर में मिला था।"
+    },
+    "bn": {
+      "title": "গাছ থেকে ফাঁসিতে ঝোলানো কৃষ্ণাঙ্গ নারীর মৃত্যুর ঘটনায় গ্রেফতারি",
+      "summary": "তাসিয়া ফরচুনের মৃতদেহ গত আগস্টে মিসিসিপির একটি পরিত্যক্ত বাড়িতে পাওয়া যায় ।"
+    },
+    "fr": {
+      "title": "Arrestation suite à la mort d'une femme noire retrouvée pendue à un arbre",
+      "summary": "Le corps de Tasia Fortune a été retrouvé dans le lot d'une maison abandonnée dans le Mississippi en août."
+    }
+  }
+}

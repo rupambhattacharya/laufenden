@@ -1,0 +1,32 @@
+{
+  "id": "eb2924af9f8f5b73442dcf481fb8f2749a0176b9",
+  "slug": "passenger-train-derails-in-france-leaving-at-least-44-injured",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-11T21:25:32.000Z",
+  "originalLanguage": "en",
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e072/live/267036e0-ae24-11f1-9042-891b220b1e31.jpg",
+  "translations": {
+    "en": {
+      "title": "Passenger train derails in France leaving at least 44 injured",
+      "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy."
+    },
+    "de": {
+      "title": "Personenzug entgleist in Frankreich und hinterlässt mindestens 44 Verletzte",
+      "summary": "Der französische Verkehrsminister sagt, dass 180 Passagiere an Bord des Zuges waren, der die Route Rouen-Caen in der Normandie bedient."
+    },
+    "hi": {
+      "title": "फ्रांस में यात्री ट्रेन पटरी से उतर गई जिससे कम से कम 44 लोग घायल हो गए",
+      "summary": "फ्रांस के परिवहन मंत्री ने कहा कि नॉर्मंडी में रूएन - केन मार्ग का संचालन करने वाली ट्रेन में 180 यात्री सवार थे।"
+    },
+    "bn": {
+      "title": "ফ্রান্সে যাত্রীবাহী ট্রেন লাইনচ্যুত হয়ে কমপক্ষে ৪৪ জন আহত",
+      "summary": "ফ্রান্সের পরিবহন মন্ত্রী বলেছেন যে নরম্যান্ডির রুয়েন-কেন রুটে চলাচলকারী ট্রেনে ১৮০ জন যাত্রী ছিলেন ।"
+    },
+    "fr": {
+      "title": "Le train de voyageurs déraille en France, faisant au moins 44 blessés",
+      "summary": "Le ministre français des Transports indique que 180 passagers se trouvaient à bord du train assurant la liaison Rouen-Caen en Normandie."
+    }
+  }
+}
