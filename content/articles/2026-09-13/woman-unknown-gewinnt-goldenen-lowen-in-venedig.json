@@ -1,0 +1,32 @@
+{
+  "id": "a557507316bd4bd1de72784012c78b6099a02127",
+  "slug": "woman-unknown-gewinnt-goldenen-lowen-in-venedig",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/kultur/filmfestival-venedig-preise-100.html",
+  "publishedAt": "2026-09-12T20:36:15.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/31436684-e028-4a99-b757-fb7ee2e8e2fa/AAABoJcWdLc/AAABnSSvrFg/16x9-big/may-el-toukhy-regie-100.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "\"Woman Unknown\" wins Golden Lion in Venice",
+      "summary": "An award at the Venice Film Festival is one of the most important honours for filmmakers. This year, the Golden Lion for the best film went to \"Women Unknow\" by May el-Toukhy. There was also a price for a Gaza documentary."
+    },
+    "de": {
+      "title": "\"Woman Unknown\" gewinnt Goldenen Löwen in Venedig",
+      "summary": "Eine Auszeichnung bei den Filmfestspielen in Venedig zählt für Filmschaffende zu den wichtigsten Ehrungen. In diesem Jahr ging der Goldene Löwe für den besten Film an \"Women Unknow\" von May el-Toukhy. Einen Preis gab es auch für eine Gaza-Doku."
+    },
+    "hi": {
+      "title": "वेनिस में \"अनजान महिला\" ने जीता गोल्डन लायन",
+      "summary": "वेनिस फिल्म फेस्टिवल में एक पुरस्कार फिल्म निर्माताओं के लिए सबसे महत्वपूर्ण सम्मानों में से एक है। इस साल, सर्वश्रेष्ठ फिल्म के लिए गोल्डन लायन मई अल - तौखी द्वारा \"महिला अनजान\" के लिए गया। गाज़ा की एक डॉक्यूमेंट्री का भी किराया था।"
+    },
+    "bn": {
+      "title": "ভেনিসে \"নারী অজানা\" গোল্ডেন লায়ন জিতেছে",
+      "summary": "ভেনিস ফিল্ম ফেস্টিভ্যালে একটি পুরস্কার চলচ্চিত্র নির্মাতাদের জন্য অন্যতম গুরুত্বপূর্ণ সম্মান । এই বছর, সেরা চলচ্চিত্রের জন্য গোল্ডেন লায়ন মে এল-তুখির \"উইমেন আননোন\" -এ গিয়েছিল । গাজার একটি তথ্যচিত্রের দামও ছিল ।"
+    },
+    "fr": {
+      "title": "« Woman Unknown » remporte le Lion d'Or à Venise",
+      "summary": "Une distinction au Festival du film de Venise est l'un des honneurs les plus importants pour les cinéastes. Cette année, le Lion d'or du meilleur film a été décerné à « Women Unknow » de May el-Toukhy. Il y avait aussi un prix pour un documentaire sur Gaza."
+    }
+  }
+}

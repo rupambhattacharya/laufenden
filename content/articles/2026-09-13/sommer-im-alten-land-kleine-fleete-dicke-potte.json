@@ -1,0 +1,32 @@
+{
+  "id": "c22e14dceec1c8ce3e5668a7454f7586a0311cbb",
+  "slug": "sommer-im-alten-land-kleine-fleete-dicke-potte",
+  "category": "niedersachsen",
+  "sourceName": "Nachrichten aus Niedersachsen",
+  "sourceUrl": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjM3OTE1OF9nYW56ZVNlbmR1bmc",
+  "publishedAt": "2026-09-12T22:01:08.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.ndr.de/image/155e4a4e-820f-4291-aa6b-53e8038d5606/AAABoJEKZQ8/AAABnSSvrFg/16x9-big/screenshot-225954.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Summer in the Old Country - Little Fleets, Big Pots",
+      "summary": "The Alte Land an der Elbe is a region with character and over 1,000 years of history. Britta von Lucke goes on a journey of discovery."
+    },
+    "de": {
+      "title": "Sommer im Alten Land - Kleine Fleete, dicke Pötte",
+      "summary": "Das Alte Land an der Elbe ist eine Region mit Charakter und über 1.000-jähriger Geschichte. Britta von Lucke geht auf Entdeckungsreise."
+    },
+    "hi": {
+      "title": "पुराने देश में गर्मी - छोटे बेड़े, बड़े बर्तन",
+      "summary": "अल्टे लैंड एन डेर एल्बे चरित्र और 1,000 से अधिक वर्षों के इतिहास वाला क्षेत्र है। ब्रिट्टा वॉन लुक खोज की यात्रा पर जाती है।"
+    },
+    "bn": {
+      "title": "ওল্ড কান্ট্রি গ্রীষ্ম - লিটল ফ্লিটস, বিগ পটস",
+      "summary": "আল্টে ল্যান্ড অ্যান ডের এলবে এমন একটি অঞ্চল যার চরিত্র এবং ১, ০০০ বছরেরও বেশি ইতিহাসের ইতিহাস রয়েছে । Britta von Lucke আবিষ্কারের যাত্রায় চলেছে ।"
+    },
+    "fr": {
+      "title": "L'été dans le vieux pays - Petite tuile, gros pots",
+      "summary": "L'Ancien Pays de l'Elbe est une région de caractère avec plus de 1000 ans d'histoire. Britta von Lucke part à la découverte."
+    }
+  }
+}

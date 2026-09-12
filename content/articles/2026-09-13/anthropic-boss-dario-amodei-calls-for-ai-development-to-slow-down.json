@@ -1,0 +1,32 @@
+{
+  "id": "bd30a8cbcd8c76ea8e53e62699565cccc6471a13",
+  "slug": "anthropic-boss-dario-amodei-calls-for-ai-development-to-slow-down",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-12T21:16:47.000Z",
+  "originalLanguage": "en",
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
+  "translations": {
+    "en": {
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide."
+    },
+    "de": {
+      "title": "Anthropic-Chef Dario Amodei fordert eine Verlangsamung der KI-Entwicklung",
+      "summary": "Der Aufruf kommt inmitten wachsender Bedenken, dass KI-Modelle weltweit ernsthaften Schaden anrichten können."
+    },
+    "hi": {
+      "title": "एंथ्रोपिक बॉस डारियो अमोदेई ने AI विकास को धीमा करने का आह्वान किया",
+      "summary": "यह कॉल बढ़ती चिंताओं के बीच आई है कि AI मॉडल दुनिया भर में गंभीर नुकसान पहुंचाने में सक्षम हो सकते हैं।"
+    },
+    "bn": {
+      "title": "নৃতাত্ত্বিক বস ডারিও আমোদেই এআই উন্নয়নকে ধীর করার আহ্বান জানিয়েছেন",
+      "summary": "ক্রমবর্ধমান উদ্বেগের মধ্যে এই কলটি আসে যে এআই মডেলগুলি বিশ্বব্যাপী গুরুতর ক্ষতি করতে সক্ষম হতে পারে ।"
+    },
+    "fr": {
+      "title": "Le patron anthropique Dario Amodei appelle au ralentissement du développement de l'IA",
+      "summary": "Cet appel intervient alors que l'on craint de plus en plus que les modèles d'IA ne soient en mesure d'infliger de graves dommages dans le monde entier."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d5f711cfed7525a5fb7c7209148a364f873c2e63",
+  "slug": "us-prasident-trump-in-irland-golf-proteste-und-ein-heikles-thema",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html",
+  "publishedAt": "2026-09-12T17:55:57.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/dfad6621-0420-409f-89a2-ef5809c01562/AAABoJbDAFU/AAABnSSvrFg/16x9-big/trump-golfplatz-100.jpg?width=1920",
+  "author": "Mareike Aden",
+  "translations": {
+    "en": {
+      "title": "US President Trump in Ireland: golf, protests and a sensitive issue",
+      "summary": "US President Trump visits Ireland - and a golf tournament in his own golf resort. A small village is turned upside down, many demonstrate against the visit - and then suddenly the unity of Ireland becomes an issue."
+    },
+    "de": {
+      "title": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
+      "summary": "US-Präsident Trump besucht Irland - und ein Golfturnier in seinem eigenem Golfressort. Ein kleines Dorf steht Kopf, viele demonstrieren gegen den Besuch - und dann wird plötzlich die Einheit Irlands zum Thema."
+    },
+    "hi": {
+      "title": "आयरलैंड में अमेरिकी राष्ट्रपति ट्रम्प: गोल्फ, विरोध और एक संवेदनशील मुद्दा",
+      "summary": "अमेरिकी राष्ट्रपति ट्रम्प आयरलैंड का दौरा करते हैं - और अपने गोल्फ रिसॉर्ट में एक गोल्फ टूर्नामेंट करते हैं। एक छोटा सा गाँव उल्टा हो जाता है, कई लोग यात्रा के खिलाफ प्रदर्शन करते हैं - और फिर अचानक आयरलैंड की एकता एक मुद्दा बन जाती है।"
+    },
+    "bn": {
+      "title": "আয়ারল্যান্ডে মার্কিন প্রেসিডেন্ট ট্রাম্প: গল্ফ, প্রতিবাদ এবং একটি সংবেদনশীল বিষয়",
+      "summary": "মার্কিন প্রেসিডেন্ট ট্রাম্প আয়ারল্যান্ড সফর করেছেন - এবং তার নিজস্ব গল্ফ রিসর্টে একটি গল্ফ টুর্নামেন্ট । একটি ছোট গ্রাম উল্টে যায়, অনেকে এই সফরের বিরুদ্ধে প্রতিবাদ করে - এবং হঠাৎ আয়ারল্যান্ডের ঐক্য একটি সমস্যা হয়ে দাঁড়ায় ।"
+    },
+    "fr": {
+      "title": "Le président américain Trump en Irlande : le Golfe, les manifestations et un sujet sensible",
+      "summary": "Le président américain Trump visite l'Irlande - et un tournoi de golf dans sa propre station de golf. Un petit village est à l'envers, beaucoup manifestent contre la visite - et soudain, l'unité de l'Irlande devient le sujet."
+    }
+  }
+}

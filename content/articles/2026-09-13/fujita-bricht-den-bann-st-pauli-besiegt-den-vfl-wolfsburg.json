@@ -1,0 +1,32 @@
+{
+  "id": "93b29a7f44ade3d8f8a46891810562fca9e6085d",
+  "slug": "fujita-bricht-den-bann-st-pauli-besiegt-den-vfl-wolfsburg",
+  "category": "hamburg",
+  "sourceName": "Nachrichten aus Hamburg",
+  "sourceUrl": "https://www.ndr.de/sport/fussball/Zweite-Bundesliga-FC-St-Pauli-VfL-Wolfsburg,nordduell-298.html",
+  "publishedAt": "2026-09-12T21:27:46.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.ndr.de/image/7bef8498-087d-4825-8262-2de18eef54b6/AAABoJdNeZE/AAABnSSvrFg/16x9-big/fc-st-pauli-vfl-wolfsburg-112.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Fujita breaks the spell: St. Pauli defeats VfL Wolfsburg",
+      "summary": "The Kiezkickers celebrated their first competitive win since the end of February. Wolfsburg was the favorite, but lost overall."
+    },
+    "de": {
+      "title": "Fujita bricht den Bann: St. Pauli besiegt den VfL Wolfsburg",
+      "summary": "Die Kiezkicker feierten den ersten Pflichtspielsieg seit Ende Februar. Wolfsburg war der Favorit, verlor aber insgesamt verdient."
+    },
+    "hi": {
+      "title": "फ़ुज़िता ने जादू तोड़ा: सेंट पाउली ने वीएफएल वोल्फ्सबर्ग को हराया",
+      "summary": "कीज़किकर्स ने फरवरी के अंत के बाद से अपनी पहली प्रतिस्पर्धी जीत का जश्न मनाया। वोल्फ्सबर्ग पसंदीदा था, लेकिन कुल मिलाकर हार गया।"
+    },
+    "bn": {
+      "title": "ফুজিটা স্পেলটি ভেঙে দেয়: সেন্ট পাওলি ভিএফএল ওল্ফসবার্গকে পরাজিত করে",
+      "summary": "ফেব্রুয়ারির শেষের পর থেকে কিজকিকাররা তাদের প্রথম প্রতিযোগিতামূলক জয় উদযাপন করেছে । উলফসবার্গ প্রিয় ছিল, কিন্তু সামগ্রিকভাবে হারিয়ে গেছে ।"
+    },
+    "fr": {
+      "title": "Fujita brise le charme : St. Pauli bat le VfL Wolfsburg",
+      "summary": "Les Kiezkickers ont fêté leur première victoire officielle depuis fin février. Wolfsburg était le favori, mais il a perdu dans l'ensemble."
+    }
+  }
+}

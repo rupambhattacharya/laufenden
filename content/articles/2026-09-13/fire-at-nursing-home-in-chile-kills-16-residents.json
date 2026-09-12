@@ -1,0 +1,32 @@
+{
+  "id": "e5841255e8a96670eb3ca69013348c189db77a5e",
+  "slug": "fire-at-nursing-home-in-chile-kills-16-residents",
+  "category": "global",
+  "sourceName": "BBC News",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-12T19:36:50.000Z",
+  "originalLanguage": "en",
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a76/live/dfbc28f0-aeda-11f1-91ea-91f4a2a08fa4.jpg",
+  "translations": {
+    "en": {
+      "title": "Fire at nursing home in Chile kills 16 residents",
+      "summary": "Ten people were evacuated from the home in Araucanía region in central Chile."
+    },
+    "de": {
+      "title": "Feuer im Pflegeheim in Chile tötet 16 Bewohner",
+      "summary": "Zehn Menschen wurden aus dem Haus in der Region Araucanía in Zentralchile evakuiert."
+    },
+    "hi": {
+      "title": "चिली के नर्सिंग होम में आग लगने से 16 लोगों की मौत",
+      "summary": "मध्य चिली के अराउकानिया क्षेत्र में दस लोगों को घर से निकाला गया।"
+    },
+    "bn": {
+      "title": "চিলির নার্সিং হোমে অগ্নিকাণ্ডে ১৬ জন নিহত",
+      "summary": "মধ্য চিলির আরাউকানিয়া অঞ্চলের বাড়ি থেকে দশ জনকে সরিয়ে নেওয়া হয়েছে ।"
+    },
+    "fr": {
+      "title": "Un incendie dans une maison de retraite au Chili tue 16 résidents",
+      "summary": "Dix personnes ont été évacuées de leur domicile dans la région d'Araucanía, dans le centre du Chili."
+    }
+  }
+}

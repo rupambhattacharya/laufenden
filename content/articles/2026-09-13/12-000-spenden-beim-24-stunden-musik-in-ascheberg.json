@@ -1,0 +1,33 @@
+{
+  "id": "7b7182faf78eccfc17fdc817b06b066085ccc80c",
+  "slug": "12-000-spenden-beim-24-stunden-musik-in-ascheberg",
+  "category": "nrw",
+  "sourceName": "WDR.de",
+  "sourceUrl": "https://www1.wdr.de/nrw/muensterland/kreis-coesfeld/konzert-weihnachtswunder-spenden-ascheberg-100.html",
+  "publishedAt": "2026-09-12T20:48:26.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://www1.wdr.de/nrw/muensterland/kreis-coesfeld/konzert-weihnachtswunder-spenden-ascheberg-108~_v-gseagaleriexl.jpg",
+  "author": "Markus Holtrichter, Joana Galetzka",
+  "translations": {
+    "en": {
+      "title": "€12,000 donations for 24 hours of music in Ascheberg",
+      "summary": "24 hours of music, live, non-stop - for the WDR 2 Christmas miracle. The Lambertuskirche in Ascheberg was the stage for the concert."
+    },
+    "de": {
+      "title": "12.000 € Spenden beim 24 Stunden Musik in Ascheberg",
+      "summary": "24 Stunden lang Musik, live, nonstop - für das WDR 2 Weihnachtswunder. Die Lambertuskirche in Ascheberg war Bühne für das Konzert."
+    },
+    "hi": {
+      "title": "Ascheberg में 24 घंटे के संगीत के लिए € 12,000 दान",
+      "summary": "WDR 2 क्रिसमस चमत्कार के लिए 24 घंटे संगीत, लाइव, नॉन - स्टॉप। Ascheberg में Lambertuskirche संगीत कार्यक्रम का मंच था।"
+    },
+    "bn": {
+      "title": "আসচেবার্গে ২৪ ঘন্টার সঙ্গীতের জন্য € ১২, ০০০ অনুদান",
+      "summary": "24 ঘন্টা সঙ্গীত, লাইভ, নন-স্টপ - WDR 2 ক্রিসমাস অলৌকিকতার জন্য । অ্যাশেবার্গের ল্যাম্বার্টাসকার্চ ছিল কনসার্টের মঞ্চ ।"
+    },
+    "fr": {
+      "title": "12 000 € de dons aux 24 heures de musique à Ascheberg",
+      "summary": "De la musique pendant 24 heures, en direct, sans escale - pour le miracle de Noël WDR 2. L'église Lambertuskirche à Ascheberg a été la scène du concert."
+    }
+  }
+}

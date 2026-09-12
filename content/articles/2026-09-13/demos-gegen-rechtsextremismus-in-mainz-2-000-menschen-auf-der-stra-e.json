@@ -1,0 +1,32 @@
+{
+  "id": "fb1ad21884bdd33dce82a667dbee0e55eb9da36b",
+  "slug": "demos-gegen-rechtsextremismus-in-mainz-2-000-menschen-auf-der-stra-e",
+  "category": "rheinland-pfalz",
+  "sourceName": "SWR Aktuell Rheinland-Pfalz",
+  "sourceUrl": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/demo-fuer-demokratie-mainz-100.html",
+  "publishedAt": "2026-09-12T19:35:39.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://www.swr.de/swraktuell/rheinland-pfalz/1789226831006%2Cafd-protest-demo-mainz-gegen-rechtsextremismus-fuer-demokratie-100~_v-16x9@2dXL_-77ed5d09bafd4e3cf6a5a0264e5e16ea35f14925.png",
+  "translations": {
+    "en": {
+      "title": "Demos against right-wing extremism in Mainz - 2,000 people on the street",
+      "summary": "Almost a week after the election victory of the AfD in Saxony-Anhalt, more than 2,000 people took to the streets in Mainz against right-wing extremism."
+    },
+    "de": {
+      "title": "Demos gegen Rechtsextremismus in Mainz - 2.000 Menschen auf der Straße",
+      "summary": "Knapp eine Woche nach dem Wahlsieg der AfD in Sachsen-Anhalt sind in Mainz mehr als 2.000 Menschen gegen Rechtsextremismus auf die Straße gegangen."
+    },
+    "hi": {
+      "title": "मेनज़ में दक्षिणपंथी चरमपंथ के खिलाफ प्रदर्शन - सड़क पर 2,000 लोग",
+      "summary": "सैक्सोनी - एन्हाल्ट में एएफडी की चुनावी जीत के लगभग एक सप्ताह बाद, मेंज में दक्षिणपंथी चरमपंथ के खिलाफ 2,000 से अधिक लोग सड़कों पर उतरे।"
+    },
+    "bn": {
+      "title": "মেইনজে ডানপন্থী চরমপন্থার বিরুদ্ধে ডেমো - রাস্তায় ২, ০০০ মানুষ",
+      "summary": "স্যাক্সনি-আনহাল্টে এএফডির নির্বাচনের বিজয়ের প্রায় এক সপ্তাহ পরে, ২, ০০০ এরও বেশি লোক ডানপন্থী চরমপন্থার বিরুদ্ধে মেইঞ্জের রাস্তায় নেমেছিল ।"
+    },
+    "fr": {
+      "title": "Manifestations contre l'extrémisme de droite à Mayence - 2 000 personnes dans la rue",
+      "summary": "Moins d'une semaine après la victoire électorale de l'AfD en Saxe-Anhalt, plus de 2 000 personnes sont descendues dans la rue à Mayence contre l'extrême droite."
+    }
+  }
+}

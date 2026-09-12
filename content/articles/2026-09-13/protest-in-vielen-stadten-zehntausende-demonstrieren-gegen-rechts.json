@@ -1,0 +1,32 @@
+{
+  "id": "e2aebad3081b6e52e4c056e8c30e6edab650e7cc",
+  "slug": "protest-in-vielen-stadten-zehntausende-demonstrieren-gegen-rechts",
+  "category": "germany",
+  "sourceName": "tagesschau.de - Die Nachrichten der ARD",
+  "sourceUrl": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
+  "publishedAt": "2026-09-12T17:38:32.000Z",
+  "originalLanguage": "de",
+  "imageUrl": "https://images.tagesschau.de/image/52d587af-7a2b-4617-98df-fd7aa045f253/AAABoJYJKx0/AAABnSSvrFg/16x9-big/demo-gegen-rechts-berlin-100.jpg?width=1920",
+  "translations": {
+    "en": {
+      "title": "Protest in many cities: tens of thousands demonstrate against the right",
+      "summary": "Tens of thousands of people have taken to the streets in Germany against right-wing extremism and for democracy. Demos were held in more than 35 cities. One demand: the examination of an AfD ban procedure."
+    },
+    "de": {
+      "title": "Protest in vielen Städten: Zehntausende demonstrieren gegen rechts",
+      "summary": "Zehntausende Menschen sind in Deutschland gegen Rechtsextremismus und für Demokratie auf die Straße gegangen. Demos gab es in mehr als 35 Städten. Eine Forderung: Die Prüfung eines AfD-Verbotsverfahrens."
+    },
+    "hi": {
+      "title": "कई शहरों में विरोध प्रदर्शन: दसियों हज़ारों ने अधिकार के खिलाफ प्रदर्शन किया",
+      "summary": "जर्मनी में दक्षिणपंथी चरमपंथ और लोकतंत्र के खिलाफ हजारों लोग सड़कों पर उतर आए हैं। 35 से अधिक शहरों में डेमो आयोजित किए गए। एक मांग: एएफडी प्रतिबंध प्रक्रिया की जांच।"
+    },
+    "bn": {
+      "title": "অনেক শহরে বিক্ষোভ: ডানদিকের বিরুদ্ধে হাজার হাজার বিক্ষোভ",
+      "summary": "ডানপন্থী চরমপন্থা এবং গণতন্ত্রের বিরুদ্ধে জার্মানিতে হাজার হাজার মানুষ রাস্তায় নেমেছে । ৩৫টিরও বেশি শহরে ডেমো অনুষ্ঠিত হয়েছিল । একটি দাবি: একটি এএফডি নিষেধাজ্ঞা পদ্ধতি পরীক্ষা করা ।"
+    },
+    "fr": {
+      "title": "Manifestation dans de nombreuses villes : des dizaines de milliers de personnes manifestent contre la droite",
+      "summary": "Des dizaines de milliers de personnes sont descendues dans la rue en Allemagne contre l'extrême droite et pour la démocratie. Des démonstrations ont eu lieu dans plus de 35 villes. Une exigence : l'examen d'une procédure d'interdiction de l'AfD."
+    }
+  }
+}
